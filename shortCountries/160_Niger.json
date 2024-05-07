@@ -1,0 +1,340 @@
+{
+  "id": 160,
+  "name": "Niger",
+  "short_name": "NER",
+  "phone_code": "227",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "states": [
+    {
+      "id": 71,
+      "name": "Agadez Region",
+      "state_code": "1",
+      "cities": [
+        {
+          "id": 76675,
+          "name": "Agadez"
+        },
+        {
+          "id": 76677,
+          "name": "Alaghsas"
+        },
+        {
+          "id": 76678,
+          "name": "Arlit"
+        },
+        {
+          "id": 76681,
+          "name": "Bilma"
+        },
+        {
+          "id": 76690,
+          "name": "Département de Bilma"
+        },
+        {
+          "id": 76711,
+          "name": "Département de Tchirozérine"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Diffa Region",
+      "state_code": "2",
+      "cities": [
+        {
+          "id": 76694,
+          "name": "Département de Diffa"
+        },
+        {
+          "id": 76705,
+          "name": "Département de Maïné-Soroa"
+        },
+        {
+          "id": 76706,
+          "name": "Département de Nguigmi"
+        },
+        {
+          "id": 76686,
+          "name": "Diffa"
+        },
+        {
+          "id": 76729,
+          "name": "Maïné Soroa"
+        },
+        {
+          "id": 76731,
+          "name": "Nguigmi"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Dosso Region",
+      "state_code": "3",
+      "cities": [
+        {
+          "id": 76683,
+          "name": "Boboye Department"
+        },
+        {
+          "id": 76695,
+          "name": "Département de Dogondoutchi"
+        },
+        {
+          "id": 76696,
+          "name": "Département de Dosso"
+        },
+        {
+          "id": 76698,
+          "name": "Département de Gaya"
+        },
+        {
+          "id": 76702,
+          "name": "Département de Loga"
+        },
+        {
+          "id": 76687,
+          "name": "Dogondoutchi"
+        },
+        {
+          "id": 76688,
+          "name": "Dosso"
+        },
+        {
+          "id": 76716,
+          "name": "Gaya"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Maradi Region",
+      "state_code": "4",
+      "cities": [
+        {
+          "id": 76676,
+          "name": "Aguié"
+        },
+        {
+          "id": 76685,
+          "name": "Dakoro"
+        },
+        {
+          "id": 76714,
+          "name": "Département d’Aguié"
+        },
+        {
+          "id": 76693,
+          "name": "Département de Dakoro"
+        },
+        {
+          "id": 76704,
+          "name": "Département de Mayahi"
+        },
+        {
+          "id": 76712,
+          "name": "Département de Tessaoua"
+        },
+        {
+          "id": 76718,
+          "name": "Guidan Roumdji Department"
+        },
+        {
+          "id": 76724,
+          "name": "Madarounfa"
+        },
+        {
+          "id": 76726,
+          "name": "Maradi"
+        },
+        {
+          "id": 76728,
+          "name": "Mayahi"
+        },
+        {
+          "id": 76738,
+          "name": "Tessaoua"
+        },
+        {
+          "id": 76739,
+          "name": "Tibiri"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Tahoua Region",
+      "state_code": "5",
+      "cities": [
+        {
+          "id": 76674,
+          "name": "Abalak"
+        },
+        {
+          "id": 76682,
+          "name": "Birni N Konni"
+        },
+        {
+          "id": 76684,
+          "name": "Bouza"
+        },
+        {
+          "id": 76689,
+          "name": "Département d' Illéla"
+        },
+        {
+          "id": 76691,
+          "name": "Département de Birni Nkonni"
+        },
+        {
+          "id": 76692,
+          "name": "Département de Bouza"
+        },
+        {
+          "id": 76701,
+          "name": "Département de Keïta"
+        },
+        {
+          "id": 76703,
+          "name": "Département de Madaoua"
+        },
+        {
+          "id": 76709,
+          "name": "Département de Tahoua"
+        },
+        {
+          "id": 76710,
+          "name": "Département de Tchin-Tabaraden"
+        },
+        {
+          "id": 76719,
+          "name": "Illéla"
+        },
+        {
+          "id": 76720,
+          "name": "Keïta"
+        },
+        {
+          "id": 76723,
+          "name": "Madaoua"
+        },
+        {
+          "id": 76734,
+          "name": "Tahoua"
+        },
+        {
+          "id": 76736,
+          "name": "Tchintabaraden"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Tillabéri Region",
+      "state_code": "6",
+      "cities": [
+        {
+          "id": 76679,
+          "name": "Ayorou"
+        },
+        {
+          "id": 76680,
+          "name": "Balleyara"
+        },
+        {
+          "id": 76697,
+          "name": "Département de Filingué"
+        },
+        {
+          "id": 76707,
+          "name": "Département de Ouallam"
+        },
+        {
+          "id": 76708,
+          "name": "Département de Say"
+        },
+        {
+          "id": 76715,
+          "name": "Filingué"
+        },
+        {
+          "id": 76721,
+          "name": "Kollo"
+        },
+        {
+          "id": 76722,
+          "name": "Kollo Department"
+        },
+        {
+          "id": 76732,
+          "name": "Ouallam"
+        },
+        {
+          "id": 76733,
+          "name": "Say"
+        },
+        {
+          "id": 76742,
+          "name": "Téra"
+        },
+        {
+          "id": 76737,
+          "name": "Tera Department"
+        },
+        {
+          "id": 76741,
+          "name": "Tillabéri"
+        },
+        {
+          "id": 76740,
+          "name": "Tillaberi Department"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Zinder Region",
+      "state_code": "7",
+      "cities": [
+        {
+          "id": 76699,
+          "name": "Département de Gouré"
+        },
+        {
+          "id": 76700,
+          "name": "Département de Kantché"
+        },
+        {
+          "id": 76713,
+          "name": "Département de Tânout"
+        },
+        {
+          "id": 76717,
+          "name": "Gouré"
+        },
+        {
+          "id": 76725,
+          "name": "Magaria"
+        },
+        {
+          "id": 76727,
+          "name": "Matamey"
+        },
+        {
+          "id": 76730,
+          "name": "Mirriah"
+        },
+        {
+          "id": 76735,
+          "name": "Tanout"
+        },
+        {
+          "id": 76743,
+          "name": "Zinder"
+        }
+      ]
+    }
+  ]
+}

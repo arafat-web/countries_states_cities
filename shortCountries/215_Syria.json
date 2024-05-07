@@ -1,0 +1,677 @@
+{
+  "id": 215,
+  "name": "Syria",
+  "short_name": "SYR",
+  "phone_code": "963",
+  "currency": "SYP",
+  "currency_name": "Syrian pound",
+  "currency_symbol": "LS",
+  "states": [
+    {
+      "id": 2941,
+      "name": "Al-Hasakah",
+      "state_code": "HA",
+      "cities": [
+        {
+          "id": 104940,
+          "name": "Ad Darbāsīyah"
+        },
+        {
+          "id": 104957,
+          "name": "Al Ḩasakah"
+        },
+        {
+          "id": 104950,
+          "name": "Al Mālikīyah"
+        },
+        {
+          "id": 104955,
+          "name": "Al Qāmishlī"
+        },
+        {
+          "id": 104960,
+          "name": "Al-Malikiyah District"
+        },
+        {
+          "id": 104967,
+          "name": "Amude"
+        }
+      ]
+    },
+    {
+      "id": 2944,
+      "name": "Al-Raqqah",
+      "state_code": "RA",
+      "cities": [
+        {
+          "id": 104964,
+          "name": "Al-Thawrah District"
+        },
+        {
+          "id": 104969,
+          "name": "Ar Raqqah"
+        },
+        {
+          "id": 104971,
+          "name": "Ar-Raqqah District"
+        },
+        {
+          "id": 104981,
+          "name": "Ath Thawrah"
+        },
+        {
+          "id": 105055,
+          "name": "Tall Abyaḑ"
+        },
+        {
+          "id": 105062,
+          "name": "Tell Abyad District"
+        }
+      ]
+    },
+    {
+      "id": 2946,
+      "name": "Aleppo",
+      "state_code": "HL",
+      "cities": [
+        {
+          "id": 105079,
+          "name": "‘Afrīn"
+        },
+        {
+          "id": 105080,
+          "name": "‘Ayn al ‘Arab"
+        },
+        {
+          "id": 104943,
+          "name": "Afrin District"
+        },
+        {
+          "id": 104944,
+          "name": "Al Atārib"
+        },
+        {
+          "id": 104945,
+          "name": "Al Bāb"
+        },
+        {
+          "id": 104958,
+          "name": "Al-Bab District"
+        },
+        {
+          "id": 104966,
+          "name": "Aleppo"
+        },
+        {
+          "id": 104974,
+          "name": "As Safīrah"
+        },
+        {
+          "id": 104983,
+          "name": "Azaz District"
+        },
+        {
+          "id": 104992,
+          "name": "Dayr Ḩāfir"
+        },
+        {
+          "id": 105006,
+          "name": "I‘zāz"
+        },
+        {
+          "id": 105010,
+          "name": "Jarābulus"
+        },
+        {
+          "id": 105019,
+          "name": "Kafr Şaghīr"
+        },
+        {
+          "id": 105022,
+          "name": "Khanāşir"
+        },
+        {
+          "id": 105027,
+          "name": "Manbij"
+        },
+        {
+          "id": 105028,
+          "name": "Manbij District"
+        },
+        {
+          "id": 105034,
+          "name": "Mount Simeon District"
+        },
+        {
+          "id": 105038,
+          "name": "Nubl"
+        },
+        {
+          "id": 105072,
+          "name": "Şūrān"
+        },
+        {
+          "id": 105064,
+          "name": "Tādif"
+        },
+        {
+          "id": 105056,
+          "name": "Tall Rif‘at"
+        }
+      ]
+    },
+    {
+      "id": 2936,
+      "name": "As-Suwayda",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 104977,
+          "name": "As-Suwayda"
+        },
+        {
+          "id": 104978,
+          "name": "As-Suwayda District"
+        },
+        {
+          "id": 105069,
+          "name": "Şalākhid"
+        },
+        {
+          "id": 105068,
+          "name": "Şalkhad"
+        },
+        {
+          "id": 105043,
+          "name": "Salkhad District"
+        },
+        {
+          "id": 105049,
+          "name": "Shahbā"
+        },
+        {
+          "id": 105048,
+          "name": "Shahba District"
+        }
+      ]
+    },
+    {
+      "id": 2939,
+      "name": "Damascus",
+      "state_code": "DI",
+      "cities": [
+        {
+          "id": 104988,
+          "name": "Damascus"
+        }
+      ]
+    },
+    {
+      "id": 2945,
+      "name": "Daraa",
+      "state_code": "DR",
+      "cities": [
+        {
+          "id": 104956,
+          "name": "Al Ḩarāk"
+        },
+        {
+          "id": 104949,
+          "name": "Al Muzayrīb"
+        },
+        {
+          "id": 104963,
+          "name": "Al-Sanamayn District"
+        },
+        {
+          "id": 104984,
+          "name": "Aş Şanamayn"
+        },
+        {
+          "id": 104979,
+          "name": "Ash Shaykh Miskīn"
+        },
+        {
+          "id": 104986,
+          "name": "Buşrá ash Shām"
+        },
+        {
+          "id": 104990,
+          "name": "Dar‘ā"
+        },
+        {
+          "id": 104996,
+          "name": "Ghabāghib"
+        },
+        {
+          "id": 105003,
+          "name": "Inkhil"
+        },
+        {
+          "id": 105004,
+          "name": "Izra District"
+        },
+        {
+          "id": 105005,
+          "name": "Izra‘"
+        },
+        {
+          "id": 105014,
+          "name": "Jāsim"
+        },
+        {
+          "id": 105037,
+          "name": "Nawá"
+        },
+        {
+          "id": 105073,
+          "name": "Ţafas"
+        },
+        {
+          "id": 105061,
+          "name": "Tasīl"
+        }
+      ]
+    },
+    {
+      "id": 2937,
+      "name": "Deir ez-Zor",
+      "state_code": "DY",
+      "cities": [
+        {
+          "id": 104948,
+          "name": "Al Mayādīn"
+        },
+        {
+          "id": 105066,
+          "name": "Ālbū Kamāl"
+        },
+        {
+          "id": 104993,
+          "name": "Deir ez-Zor"
+        },
+        {
+          "id": 104997,
+          "name": "Hajīn"
+        },
+        {
+          "id": 105051,
+          "name": "Subaykhān"
+        }
+      ]
+    },
+    {
+      "id": 2934,
+      "name": "Hama",
+      "state_code": "HM",
+      "cities": [
+        {
+          "id": 104962,
+          "name": "Al-Salamiyah District"
+        },
+        {
+          "id": 104975,
+          "name": "As Salamīyah"
+        },
+        {
+          "id": 104976,
+          "name": "As Suqaylibīyah"
+        },
+        {
+          "id": 105075,
+          "name": "Ḩalfāyā"
+        },
+        {
+          "id": 104998,
+          "name": "Hama District"
+        },
+        {
+          "id": 105076,
+          "name": "Ḩamāh"
+        },
+        {
+          "id": 105018,
+          "name": "Kafr Zaytā"
+        },
+        {
+          "id": 105030,
+          "name": "Maşyāf"
+        },
+        {
+          "id": 105029,
+          "name": "Masyaf District"
+        },
+        {
+          "id": 105036,
+          "name": "Mūrak"
+        },
+        {
+          "id": 105050,
+          "name": "Souran"
+        },
+        {
+          "id": 105057,
+          "name": "Tall Salḩab"
+        },
+        {
+          "id": 105074,
+          "name": "Ţayyibat al Imām"
+        },
+        {
+          "id": 105063,
+          "name": "Tremseh"
+        }
+      ]
+    },
+    {
+      "id": 2942,
+      "name": "Homs",
+      "state_code": "HI",
+      "cities": [
+        {
+          "id": 104946,
+          "name": "Al Ghanţū"
+        },
+        {
+          "id": 104951,
+          "name": "Al Qaryatayn"
+        },
+        {
+          "id": 104953,
+          "name": "Al Quşayr"
+        },
+        {
+          "id": 104961,
+          "name": "Al-Rastan District"
+        },
+        {
+          "id": 104970,
+          "name": "Ar Rastan"
+        },
+        {
+          "id": 105000,
+          "name": "Hisya"
+        },
+        {
+          "id": 105001,
+          "name": "Homs"
+        },
+        {
+          "id": 105016,
+          "name": "Kafr Lāhā"
+        },
+        {
+          "id": 105035,
+          "name": "Mukharram al Fawqānī"
+        },
+        {
+          "id": 105067,
+          "name": "Şadad"
+        },
+        {
+          "id": 105052,
+          "name": "Tadmur"
+        },
+        {
+          "id": 105053,
+          "name": "Tadmur District"
+        },
+        {
+          "id": 105058,
+          "name": "Tallbīsah"
+        },
+        {
+          "id": 105059,
+          "name": "Tallkalakh"
+        }
+      ]
+    },
+    {
+      "id": 2940,
+      "name": "Idlib",
+      "state_code": "ID",
+      "cities": [
+        {
+          "id": 104942,
+          "name": "Ad Dānā"
+        },
+        {
+          "id": 104973,
+          "name": "Arīḩā"
+        },
+        {
+          "id": 104972,
+          "name": "Armanāz"
+        },
+        {
+          "id": 104985,
+          "name": "Binnish"
+        },
+        {
+          "id": 104989,
+          "name": "Darkūsh"
+        },
+        {
+          "id": 104999,
+          "name": "Harem District"
+        },
+        {
+          "id": 105078,
+          "name": "Ḩārim"
+        },
+        {
+          "id": 105002,
+          "name": "Idlib"
+        },
+        {
+          "id": 105012,
+          "name": "Jisr al-Shughur District"
+        },
+        {
+          "id": 105013,
+          "name": "Jisr ash Shughūr"
+        },
+        {
+          "id": 105017,
+          "name": "Kafr Takhārīm"
+        },
+        {
+          "id": 105020,
+          "name": "Kafranbel"
+        },
+        {
+          "id": 105023,
+          "name": "Khān Shaykhūn"
+        },
+        {
+          "id": 105031,
+          "name": "Ma‘arratmişrīn"
+        },
+        {
+          "id": 105026,
+          "name": "Maarrat al-Nu'man District"
+        },
+        {
+          "id": 105044,
+          "name": "Salqīn"
+        },
+        {
+          "id": 105046,
+          "name": "Sarāqib"
+        },
+        {
+          "id": 105045,
+          "name": "Sarmīn"
+        },
+        {
+          "id": 105054,
+          "name": "Taftanāz"
+        }
+      ]
+    },
+    {
+      "id": 2938,
+      "name": "Latakia",
+      "state_code": "LA",
+      "cities": [
+        {
+          "id": 104959,
+          "name": "Al-Haffah District"
+        },
+        {
+          "id": 105007,
+          "name": "Jablah"
+        },
+        {
+          "id": 105008,
+          "name": "Jableh District"
+        },
+        {
+          "id": 105021,
+          "name": "Kassab"
+        },
+        {
+          "id": 105024,
+          "name": "Latakia"
+        },
+        {
+          "id": 105025,
+          "name": "Latakia District"
+        },
+        {
+          "id": 105039,
+          "name": "Qardaha District"
+        },
+        {
+          "id": 105071,
+          "name": "Şlinfah"
+        }
+      ]
+    },
+    {
+      "id": 2943,
+      "name": "Quneitra",
+      "state_code": "QU",
+      "cities": [
+        {
+          "id": 104952,
+          "name": "Al Qunayţirah"
+        }
+      ]
+    },
+    {
+      "id": 2935,
+      "name": "Rif Dimashq",
+      "state_code": "RD",
+      "cities": [
+        {
+          "id": 105081,
+          "name": "‘Irbīn"
+        },
+        {
+          "id": 104947,
+          "name": "Al Kiswah"
+        },
+        {
+          "id": 104954,
+          "name": "Al Quţayfah"
+        },
+        {
+          "id": 104965,
+          "name": "Al-Zabadani District"
+        },
+        {
+          "id": 104968,
+          "name": "An Nabk"
+        },
+        {
+          "id": 104980,
+          "name": "At Tall"
+        },
+        {
+          "id": 104982,
+          "name": "Az Zabadānī"
+        },
+        {
+          "id": 104995,
+          "name": "Dārayyā"
+        },
+        {
+          "id": 104991,
+          "name": "Dayr al ‘Aşāfīr"
+        },
+        {
+          "id": 104994,
+          "name": "Douma"
+        },
+        {
+          "id": 105077,
+          "name": "Ḩarastā"
+        },
+        {
+          "id": 105009,
+          "name": "Jaramānā"
+        },
+        {
+          "id": 105011,
+          "name": "Jayrūd"
+        },
+        {
+          "id": 105032,
+          "name": "Ma‘lūlā"
+        },
+        {
+          "id": 105033,
+          "name": "Medaya"
+        },
+        {
+          "id": 105041,
+          "name": "Qārah"
+        },
+        {
+          "id": 105040,
+          "name": "Qaţanā"
+        },
+        {
+          "id": 105070,
+          "name": "Şaydnāyā"
+        },
+        {
+          "id": 105065,
+          "name": "Yabrūd"
+        }
+      ]
+    },
+    {
+      "id": 2947,
+      "name": "Tartus",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 104941,
+          "name": "Ad Duraykīsh"
+        },
+        {
+          "id": 104987,
+          "name": "Bāniyās"
+        },
+        {
+          "id": 105015,
+          "name": "Kaff al-Jaa"
+        },
+        {
+          "id": 105042,
+          "name": "Safita District"
+        },
+        {
+          "id": 105047,
+          "name": "Satita"
+        },
+        {
+          "id": 105060,
+          "name": "Tartouss"
+        }
+      ]
+    }
+  ]
+}

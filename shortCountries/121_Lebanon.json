@@ -1,0 +1,171 @@
+{
+  "id": 121,
+  "name": "Lebanon",
+  "short_name": "LBN",
+  "phone_code": "961",
+  "currency": "LBP",
+  "currency_name": "Lebanese pound",
+  "currency_symbol": "£",
+  "states": [
+    {
+      "id": 2285,
+      "name": "Akkar",
+      "state_code": "AK",
+      "cities": [
+        {
+          "id": 65939,
+          "name": "Caza de Aakkar"
+        }
+      ]
+    },
+    {
+      "id": 2283,
+      "name": "Baalbek-Hermel",
+      "state_code": "BH",
+      "cities": [
+        {
+          "id": 65933,
+          "name": "Baalbek"
+        },
+        {
+          "id": 65941,
+          "name": "Caza de Baalbek"
+        }
+      ]
+    },
+    {
+      "id": 2286,
+      "name": "Beirut",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 65936,
+          "name": "Beirut"
+        },
+        {
+          "id": 65951,
+          "name": "Ra’s Bayrūt"
+        }
+      ]
+    },
+    {
+      "id": 2287,
+      "name": "Beqaa",
+      "state_code": "BI",
+      "cities": [
+        {
+          "id": 65930,
+          "name": "Aanjar"
+        },
+        {
+          "id": 65955,
+          "name": "Zahlé"
+        }
+      ]
+    },
+    {
+      "id": 2282,
+      "name": "Mount Lebanon",
+      "state_code": "JL",
+      "cities": [
+        {
+          "id": 65932,
+          "name": "Baabda"
+        },
+        {
+          "id": 65937,
+          "name": "Bhamdoun"
+        },
+        {
+          "id": 65938,
+          "name": "Bhamdoûn el Mhatta"
+        },
+        {
+          "id": 65940,
+          "name": "Caza de Baabda"
+        },
+        {
+          "id": 65947,
+          "name": "Jbaïl"
+        },
+        {
+          "id": 65948,
+          "name": "Jounieh"
+        }
+      ]
+    },
+    {
+      "id": 2288,
+      "name": "Nabatieh",
+      "state_code": "NA",
+      "cities": [
+        {
+          "id": 65931,
+          "name": "Ain Ebel"
+        },
+        {
+          "id": 65942,
+          "name": "Caza de Bent Jbaïl"
+        },
+        {
+          "id": 65943,
+          "name": "Caza de Nabatîyé"
+        },
+        {
+          "id": 65946,
+          "name": "Habboûch"
+        },
+        {
+          "id": 65949,
+          "name": "Marjayoûn"
+        },
+        {
+          "id": 65950,
+          "name": "Nabatîyé et Tahta"
+        }
+      ]
+    },
+    {
+      "id": 2284,
+      "name": "North",
+      "state_code": "AS",
+      "cities": [
+        {
+          "id": 65934,
+          "name": "Batroûn"
+        },
+        {
+          "id": 65935,
+          "name": "Bcharré"
+        },
+        {
+          "id": 65953,
+          "name": "Tripoli"
+        }
+      ]
+    },
+    {
+      "id": 2281,
+      "name": "South",
+      "state_code": "JA",
+      "cities": [
+        {
+          "id": 65944,
+          "name": "En Nâqoûra"
+        },
+        {
+          "id": 65945,
+          "name": "Ghazieh"
+        },
+        {
+          "id": 65952,
+          "name": "Sidon"
+        },
+        {
+          "id": 65954,
+          "name": "Tyre"
+        }
+      ]
+    }
+  ]
+}

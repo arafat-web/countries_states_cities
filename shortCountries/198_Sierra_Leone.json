@@ -1,0 +1,399 @@
+{
+  "id": 198,
+  "name": "Sierra Leone",
+  "short_name": "SLE",
+  "phone_code": "232",
+  "currency": "SLL",
+  "currency_name": "Sierra Leonean leone",
+  "currency_symbol": "Le",
+  "states": [
+    {
+      "id": 914,
+      "name": "Eastern Province",
+      "state_code": "E",
+      "cities": [
+        {
+          "id": 104606,
+          "name": "Barma"
+        },
+        {
+          "id": 104609,
+          "name": "Blama"
+        },
+        {
+          "id": 104612,
+          "name": "Boajibu"
+        },
+        {
+          "id": 104617,
+          "name": "Buedu"
+        },
+        {
+          "id": 104620,
+          "name": "Bunumbu"
+        },
+        {
+          "id": 104621,
+          "name": "Daru"
+        },
+        {
+          "id": 104627,
+          "name": "Giehun"
+        },
+        {
+          "id": 104628,
+          "name": "Gorahun"
+        },
+        {
+          "id": 104629,
+          "name": "Hangha"
+        },
+        {
+          "id": 104631,
+          "name": "Jojoima"
+        },
+        {
+          "id": 104633,
+          "name": "Kailahun"
+        },
+        {
+          "id": 104634,
+          "name": "Kailahun District"
+        },
+        {
+          "id": 104638,
+          "name": "Kayima"
+        },
+        {
+          "id": 104639,
+          "name": "Kenema"
+        },
+        {
+          "id": 104640,
+          "name": "Kenema District"
+        },
+        {
+          "id": 104642,
+          "name": "Koidu"
+        },
+        {
+          "id": 104645,
+          "name": "Kono District"
+        },
+        {
+          "id": 104647,
+          "name": "Koyima"
+        },
+        {
+          "id": 104658,
+          "name": "Manowa"
+        },
+        {
+          "id": 104662,
+          "name": "Mobai"
+        },
+        {
+          "id": 104664,
+          "name": "Motema"
+        },
+        {
+          "id": 104668,
+          "name": "Panguma"
+        },
+        {
+          "id": 104669,
+          "name": "Pendembu"
+        },
+        {
+          "id": 104677,
+          "name": "Segbwema"
+        },
+        {
+          "id": 104680,
+          "name": "Simbakoro"
+        },
+        {
+          "id": 104682,
+          "name": "Tefeya"
+        },
+        {
+          "id": 104684,
+          "name": "Tombodu"
+        },
+        {
+          "id": 104685,
+          "name": "Tombu"
+        },
+        {
+          "id": 104689,
+          "name": "Wima"
+        },
+        {
+          "id": 104690,
+          "name": "Yengema"
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "name": "Northern Province",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 104603,
+          "name": "Alikalia"
+        },
+        {
+          "id": 104607,
+          "name": "Bindi"
+        },
+        {
+          "id": 104608,
+          "name": "Binkolo"
+        },
+        {
+          "id": 104613,
+          "name": "Bombali District"
+        },
+        {
+          "id": 104618,
+          "name": "Bumbuna"
+        },
+        {
+          "id": 104625,
+          "name": "Gberia Fotombu"
+        },
+        {
+          "id": 104632,
+          "name": "Kabala"
+        },
+        {
+          "id": 104635,
+          "name": "Kamakwie"
+        },
+        {
+          "id": 104636,
+          "name": "Kambia"
+        },
+        {
+          "id": 104637,
+          "name": "Kassiri"
+        },
+        {
+          "id": 104643,
+          "name": "Koinadugu District"
+        },
+        {
+          "id": 104644,
+          "name": "Konakridee"
+        },
+        {
+          "id": 104648,
+          "name": "Kukuna"
+        },
+        {
+          "id": 104650,
+          "name": "Loma"
+        },
+        {
+          "id": 104651,
+          "name": "Lunsar"
+        },
+        {
+          "id": 104652,
+          "name": "Magburaka"
+        },
+        {
+          "id": 104653,
+          "name": "Makali"
+        },
+        {
+          "id": 104654,
+          "name": "Makeni"
+        },
+        {
+          "id": 104655,
+          "name": "Mambolo"
+        },
+        {
+          "id": 104657,
+          "name": "Mange"
+        },
+        {
+          "id": 104659,
+          "name": "Masaka"
+        },
+        {
+          "id": 104660,
+          "name": "Masingbi"
+        },
+        {
+          "id": 104661,
+          "name": "Masoyila"
+        },
+        {
+          "id": 104670,
+          "name": "Pepel"
+        },
+        {
+          "id": 104674,
+          "name": "Rokupr"
+        },
+        {
+          "id": 104676,
+          "name": "Sawkta"
+        },
+        {
+          "id": 104678,
+          "name": "Seidu"
+        },
+        {
+          "id": 104683,
+          "name": "Tintafor"
+        },
+        {
+          "id": 104687,
+          "name": "Tonkolili District"
+        },
+        {
+          "id": 104691,
+          "name": "Yonibana"
+        }
+      ]
+    },
+    {
+      "id": 912,
+      "name": "Southern Province",
+      "state_code": "S",
+      "cities": [
+        {
+          "id": 104604,
+          "name": "Baiima"
+        },
+        {
+          "id": 104605,
+          "name": "Baoma"
+        },
+        {
+          "id": 104610,
+          "name": "Bo"
+        },
+        {
+          "id": 104611,
+          "name": "Bo District"
+        },
+        {
+          "id": 104614,
+          "name": "Bomi"
+        },
+        {
+          "id": 104615,
+          "name": "Bonthe"
+        },
+        {
+          "id": 104616,
+          "name": "Bonthe District"
+        },
+        {
+          "id": 104619,
+          "name": "Bumpe"
+        },
+        {
+          "id": 104622,
+          "name": "Foindu"
+        },
+        {
+          "id": 104624,
+          "name": "Gandorhun"
+        },
+        {
+          "id": 104626,
+          "name": "Gbewebu"
+        },
+        {
+          "id": 104646,
+          "name": "Koribundu"
+        },
+        {
+          "id": 104649,
+          "name": "Largo"
+        },
+        {
+          "id": 104656,
+          "name": "Mamboma"
+        },
+        {
+          "id": 104663,
+          "name": "Mogbwemo"
+        },
+        {
+          "id": 104665,
+          "name": "Moyamba"
+        },
+        {
+          "id": 104666,
+          "name": "Moyamba District"
+        },
+        {
+          "id": 104667,
+          "name": "Palima"
+        },
+        {
+          "id": 104671,
+          "name": "Potoru"
+        },
+        {
+          "id": 104672,
+          "name": "Pujehun"
+        },
+        {
+          "id": 104673,
+          "name": "Pujehun District"
+        },
+        {
+          "id": 104675,
+          "name": "Rotifunk"
+        },
+        {
+          "id": 104679,
+          "name": "Serabu"
+        },
+        {
+          "id": 104681,
+          "name": "Sumbuya"
+        },
+        {
+          "id": 104686,
+          "name": "Tongole"
+        },
+        {
+          "id": 104692,
+          "name": "Zimmi"
+        }
+      ]
+    },
+    {
+      "id": 913,
+      "name": "Western Area",
+      "state_code": "W",
+      "cities": [
+        {
+          "id": 104623,
+          "name": "Freetown"
+        },
+        {
+          "id": 104630,
+          "name": "Hastings"
+        },
+        {
+          "id": 104641,
+          "name": "Kent"
+        },
+        {
+          "id": 104688,
+          "name": "Waterloo"
+        }
+      ]
+    }
+  ]
+}

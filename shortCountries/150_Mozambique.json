@@ -1,0 +1,240 @@
+{
+  "id": 150,
+  "name": "Mozambique",
+  "short_name": "MOZ",
+  "phone_code": "258",
+  "currency": "MZN",
+  "currency_name": "Mozambican metical",
+  "currency_symbol": "MT",
+  "states": [
+    {
+      "id": 3327,
+      "name": "Cabo Delgado Province",
+      "state_code": "P",
+      "cities": [
+        {
+          "id": 76595,
+          "name": "Chiure"
+        },
+        {
+          "id": 76614,
+          "name": "Mocímboa"
+        },
+        {
+          "id": 76615,
+          "name": "Montepuez"
+        },
+        {
+          "id": 76621,
+          "name": "Pemba"
+        }
+      ]
+    },
+    {
+      "id": 3329,
+      "name": "Gaza Province",
+      "state_code": "G",
+      "cities": [
+        {
+          "id": 76592,
+          "name": "Chibuto"
+        },
+        {
+          "id": 76596,
+          "name": "Chokwé"
+        },
+        {
+          "id": 76604,
+          "name": "Macia"
+        },
+        {
+          "id": 76625,
+          "name": "Xai-Xai"
+        }
+      ]
+    },
+    {
+      "id": 3330,
+      "name": "Inhambane Province",
+      "state_code": "I",
+      "cities": [
+        {
+          "id": 76601,
+          "name": "Inhambane"
+        },
+        {
+          "id": 76612,
+          "name": "Maxixe"
+        }
+      ]
+    },
+    {
+      "id": 3337,
+      "name": "Manica Province",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 76593,
+          "name": "Chimoio"
+        }
+      ]
+    },
+    {
+      "id": 3335,
+      "name": "Maputo",
+      "state_code": "MPM",
+      "cities": [
+        {
+          "id": 76602,
+          "name": "KaTembe"
+        },
+        {
+          "id": 76608,
+          "name": "Maputo"
+        }
+      ]
+    },
+    {
+      "id": 3332,
+      "name": "Maputo Province",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 76591,
+          "name": "Boane District"
+        },
+        {
+          "id": 76597,
+          "name": "Concelho de Matola"
+        },
+        {
+          "id": 76605,
+          "name": "Magude District"
+        },
+        {
+          "id": 76607,
+          "name": "Manhica"
+        },
+        {
+          "id": 76609,
+          "name": "Marracuene District"
+        },
+        {
+          "id": 76610,
+          "name": "Matola"
+        },
+        {
+          "id": 76611,
+          "name": "Matutiune District"
+        },
+        {
+          "id": 76613,
+          "name": "Moamba District"
+        },
+        {
+          "id": 76618,
+          "name": "Namaacha District"
+        },
+        {
+          "id": 76623,
+          "name": "Ressano Garcia"
+        }
+      ]
+    },
+    {
+      "id": 3336,
+      "name": "Nampula Province",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 76589,
+          "name": "António Enes"
+        },
+        {
+          "id": 76600,
+          "name": "Ilha de Moçambique"
+        },
+        {
+          "id": 76616,
+          "name": "Mutuáli"
+        },
+        {
+          "id": 76617,
+          "name": "Nacala"
+        },
+        {
+          "id": 76619,
+          "name": "Nampula"
+        }
+      ]
+    },
+    {
+      "id": 3333,
+      "name": "Niassa Province",
+      "state_code": "A",
+      "cities": [
+        {
+          "id": 76598,
+          "name": "Cuamba"
+        },
+        {
+          "id": 76603,
+          "name": "Lichinga"
+        },
+        {
+          "id": 76606,
+          "name": "Mandimba"
+        }
+      ]
+    },
+    {
+      "id": 3331,
+      "name": "Sofala Province",
+      "state_code": "S",
+      "cities": [
+        {
+          "id": 76590,
+          "name": "Beira"
+        },
+        {
+          "id": 76599,
+          "name": "Dondo"
+        },
+        {
+          "id": 76620,
+          "name": "Nhamatanda District"
+        }
+      ]
+    },
+    {
+      "id": 3334,
+      "name": "Tete Province",
+      "state_code": "T",
+      "cities": [
+        {
+          "id": 76624,
+          "name": "Tete"
+        }
+      ]
+    },
+    {
+      "id": 3328,
+      "name": "Zambezia Province",
+      "state_code": "Q",
+      "cities": [
+        {
+          "id": 76588,
+          "name": "Alto Molócuè"
+        },
+        {
+          "id": 76594,
+          "name": "Chinde"
+        },
+        {
+          "id": 76622,
+          "name": "Quelimane"
+        }
+      ]
+    }
+  ]
+}

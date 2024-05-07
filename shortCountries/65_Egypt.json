@@ -1,0 +1,828 @@
+{
+  "id": 65,
+  "name": "Egypt",
+  "short_name": "EGY",
+  "phone_code": "20",
+  "currency": "EGP",
+  "currency_name": "Egyptian pound",
+  "currency_symbol": "ج.م",
+  "states": [
+    {
+      "id": 3235,
+      "name": "Alexandria",
+      "state_code": "ALX",
+      "cities": [
+        {
+          "id": 149594,
+          "name": "Abu Qir"
+        },
+        {
+          "id": 149595,
+          "name": "Agami"
+        },
+        {
+          "id": 31787,
+          "name": "Alexandria"
+        },
+        {
+          "id": 149596,
+          "name": "Ar-Raml"
+        },
+        {
+          "id": 149597,
+          "name": "Borg El Arab"
+        },
+        {
+          "id": 149598,
+          "name": "Montaza"
+        },
+        {
+          "id": 149599,
+          "name": "New Borg El Arab"
+        },
+        {
+          "id": 149600,
+          "name": "Sidi Bishr"
+        }
+      ]
+    },
+    {
+      "id": 3225,
+      "name": "Aswan",
+      "state_code": "ASN",
+      "cities": [
+        {
+          "id": 31756,
+          "name": "Abu Simbel"
+        },
+        {
+          "id": 31791,
+          "name": "Aswan"
+        },
+        {
+          "id": 31819,
+          "name": "Idfū"
+        },
+        {
+          "id": 31829,
+          "name": "Kawm Umbū"
+        }
+      ]
+    },
+    {
+      "id": 3236,
+      "name": "Asyut",
+      "state_code": "AST",
+      "cities": [
+        {
+          "id": 31755,
+          "name": "Abnūb"
+        },
+        {
+          "id": 31758,
+          "name": "Abū Tīj"
+        },
+        {
+          "id": 31764,
+          "name": "Al Badārī"
+        },
+        {
+          "id": 31781,
+          "name": "Al Qūşīyah"
+        },
+        {
+          "id": 31792,
+          "name": "Asyūţ"
+        },
+        {
+          "id": 31807,
+          "name": "Dayrūţ"
+        },
+        {
+          "id": 31836,
+          "name": "Manfalūţ"
+        }
+      ]
+    },
+    {
+      "id": 3241,
+      "name": "Beheira",
+      "state_code": "BH",
+      "cities": [
+        {
+          "id": 31759,
+          "name": "Abū al Maţāmīr"
+        },
+        {
+          "id": 31760,
+          "name": "Ad Dilinjāt"
+        },
+        {
+          "id": 31804,
+          "name": "Damanhūr"
+        },
+        {
+          "id": 31879,
+          "name": "Ḩawsh ‘Īsá"
+        },
+        {
+          "id": 31820,
+          "name": "Idkū"
+        },
+        {
+          "id": 31826,
+          "name": "Kafr ad Dawwār"
+        },
+        {
+          "id": 31830,
+          "name": "Kawm Ḩamādah"
+        },
+        {
+          "id": 31857,
+          "name": "Rosetta"
+        }
+      ]
+    },
+    {
+      "id": 3230,
+      "name": "Beni Suef",
+      "state_code": "BNS",
+      "cities": [
+        {
+          "id": 31768,
+          "name": "Al Fashn"
+        },
+        {
+          "id": 31798,
+          "name": "Banī Suwayf"
+        },
+        {
+          "id": 31801,
+          "name": "Būsh"
+        },
+        {
+          "id": 31869,
+          "name": "Sumusţā as Sulţānī"
+        }
+      ]
+    },
+    {
+      "id": 3223,
+      "name": "Cairo",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 149582,
+          "name": "Badr"
+        },
+        {
+          "id": 149583,
+          "name": "Bulaq"
+        },
+        {
+          "id": 31802,
+          "name": "Cairo"
+        },
+        {
+          "id": 149584,
+          "name": "El Mataria"
+        },
+        {
+          "id": 149585,
+          "name": "Fustat"
+        },
+        {
+          "id": 149586,
+          "name": "Hadayek El Kobba"
+        },
+        {
+          "id": 149587,
+          "name": "Heliopolis"
+        },
+        {
+          "id": 149588,
+          "name": "Helwan"
+        },
+        {
+          "id": 149589,
+          "name": "Maadi"
+        },
+        {
+          "id": 149590,
+          "name": "Musturud"
+        },
+        {
+          "id": 149591,
+          "name": "New Administrative Capital of Egypt"
+        },
+        {
+          "id": 149592,
+          "name": "Shubra"
+        },
+        {
+          "id": 149593,
+          "name": "Tura"
+        }
+      ]
+    },
+    {
+      "id": 3245,
+      "name": "Dakahlia",
+      "state_code": "DK",
+      "cities": [
+        {
+          "id": 31880,
+          "name": "‘Izbat al Burj"
+        },
+        {
+          "id": 31762,
+          "name": "Ajā"
+        },
+        {
+          "id": 31770,
+          "name": "Al Jammālīyah"
+        },
+        {
+          "id": 31775,
+          "name": "Al Manşūrah"
+        },
+        {
+          "id": 31774,
+          "name": "Al Manzalah"
+        },
+        {
+          "id": 31776,
+          "name": "Al Maţarīyah"
+        },
+        {
+          "id": 31800,
+          "name": "Bilqās"
+        },
+        {
+          "id": 31808,
+          "name": "Dikirnis"
+        },
+        {
+          "id": 31844,
+          "name": "Minyat an Naşr"
+        },
+        {
+          "id": 31865,
+          "name": "Shirbīn"
+        },
+        {
+          "id": 31876,
+          "name": "Ţalkhā"
+        }
+      ]
+    },
+    {
+      "id": 3224,
+      "name": "Damietta",
+      "state_code": "DT",
+      "cities": [
+        {
+          "id": 31794,
+          "name": "Az Zarqā"
+        },
+        {
+          "id": 31805,
+          "name": "Damietta"
+        },
+        {
+          "id": 31815,
+          "name": "Fāraskūr"
+        }
+      ]
+    },
+    {
+      "id": 3238,
+      "name": "Faiyum",
+      "state_code": "FYM",
+      "cities": [
+        {
+          "id": 31769,
+          "name": "Al Fayyūm"
+        },
+        {
+          "id": 31782,
+          "name": "Al Wāsiţah"
+        },
+        {
+          "id": 31818,
+          "name": "Ibshawāy"
+        },
+        {
+          "id": 31823,
+          "name": "Iţsā"
+        },
+        {
+          "id": 31877,
+          "name": "Ţāmiyah"
+        }
+      ]
+    },
+    {
+      "id": 3234,
+      "name": "Gharbia",
+      "state_code": "GH",
+      "cities": [
+        {
+          "id": 31777,
+          "name": "Al Maḩallah al Kubrá"
+        },
+        {
+          "id": 31799,
+          "name": "Basyūn"
+        },
+        {
+          "id": 31828,
+          "name": "Kafr az Zayyāt"
+        },
+        {
+          "id": 31855,
+          "name": "Quţūr"
+        },
+        {
+          "id": 31860,
+          "name": "Samannūd"
+        },
+        {
+          "id": 31872,
+          "name": "Tanda"
+        },
+        {
+          "id": 31874,
+          "name": "Zefta"
+        }
+      ]
+    },
+    {
+      "id": 3239,
+      "name": "Giza",
+      "state_code": "GZ",
+      "cities": [
+        {
+          "id": 31786,
+          "name": "Al ‘Ayyāţ"
+        },
+        {
+          "id": 31766,
+          "name": "Al Bawīţī"
+        },
+        {
+          "id": 31783,
+          "name": "Al Ḩawāmidīyah"
+        },
+        {
+          "id": 31795,
+          "name": "Aş Şaff"
+        },
+        {
+          "id": 31793,
+          "name": "Awsīm"
+        },
+        {
+          "id": 31816,
+          "name": "Giza"
+        },
+        {
+          "id": 31833,
+          "name": "Madīnat Sittah Uktūbar"
+        }
+      ]
+    },
+    {
+      "id": 3244,
+      "name": "Ismailia",
+      "state_code": "IS",
+      "cities": [
+        {
+          "id": 31821,
+          "name": "Ismailia"
+        }
+      ]
+    },
+    {
+      "id": 3222,
+      "name": "Kafr el-Sheikh",
+      "state_code": "KFS",
+      "cities": [
+        {
+          "id": 31784,
+          "name": "Al Ḩāmūl"
+        },
+        {
+          "id": 31810,
+          "name": "Disūq"
+        },
+        {
+          "id": 31814,
+          "name": "Fuwwah"
+        },
+        {
+          "id": 31827,
+          "name": "Kafr ash Shaykh"
+        },
+        {
+          "id": 31837,
+          "name": "Markaz Disūq"
+        },
+        {
+          "id": 31845,
+          "name": "Munshāt ‘Alī Āghā"
+        },
+        {
+          "id": 31870,
+          "name": "Sīdī Sālim"
+        }
+      ]
+    },
+    {
+      "id": 3242,
+      "name": "Luxor",
+      "state_code": "LX",
+      "cities": [
+        {
+          "id": 31832,
+          "name": "Luxor"
+        },
+        {
+          "id": 31840,
+          "name": "Markaz al Uqşur"
+        }
+      ]
+    },
+    {
+      "id": 3231,
+      "name": "Matrouh",
+      "state_code": "MT",
+      "cities": [
+        {
+          "id": 31785,
+          "name": "Al ‘Alamayn"
+        },
+        {
+          "id": 31843,
+          "name": "Mersa Matruh"
+        },
+        {
+          "id": 31866,
+          "name": "Siwa Oasis"
+        }
+      ]
+    },
+    {
+      "id": 3243,
+      "name": "Minya",
+      "state_code": "MN",
+      "cities": [
+        {
+          "id": 31757,
+          "name": "Abū Qurqāş"
+        },
+        {
+          "id": 31778,
+          "name": "Al Minyā"
+        },
+        {
+          "id": 31797,
+          "name": "Banī Mazār"
+        },
+        {
+          "id": 31806,
+          "name": "Dayr Mawās"
+        },
+        {
+          "id": 31835,
+          "name": "Mallawī"
+        },
+        {
+          "id": 31842,
+          "name": "Maţāy"
+        },
+        {
+          "id": 31861,
+          "name": "Samālūţ"
+        }
+      ]
+    },
+    {
+      "id": 3228,
+      "name": "Monufia",
+      "state_code": "MNF",
+      "cities": [
+        {
+          "id": 31767,
+          "name": "Al Bājūr"
+        },
+        {
+          "id": 31789,
+          "name": "Ash Shuhadā’"
+        },
+        {
+          "id": 31790,
+          "name": "Ashmūn"
+        },
+        {
+          "id": 31846,
+          "name": "Munūf"
+        },
+        {
+          "id": 31854,
+          "name": "Quwaysinā"
+        },
+        {
+          "id": 31863,
+          "name": "Shibīn al Kawm"
+        },
+        {
+          "id": 31871,
+          "name": "Talā"
+        }
+      ]
+    },
+    {
+      "id": 3246,
+      "name": "New Valley",
+      "state_code": "WAD",
+      "cities": [
+        {
+          "id": 31772,
+          "name": "Al Khārijah"
+        },
+        {
+          "id": 31852,
+          "name": "Qaşr al Farāfirah"
+        }
+      ]
+    },
+    {
+      "id": 3227,
+      "name": "North Sinai",
+      "state_code": "SIN",
+      "cities": [
+        {
+          "id": 31788,
+          "name": "Arish"
+        }
+      ]
+    },
+    {
+      "id": 3229,
+      "name": "Port Said",
+      "state_code": "PTS",
+      "cities": [
+        {
+          "id": 31850,
+          "name": "Port Said"
+        }
+      ]
+    },
+    {
+      "id": 3232,
+      "name": "Qalyubia",
+      "state_code": "KB",
+      "cities": [
+        {
+          "id": 31771,
+          "name": "Al Khānkah"
+        },
+        {
+          "id": 31779,
+          "name": "Al Qanāţir al Khayrīyah"
+        },
+        {
+          "id": 31796,
+          "name": "Banhā"
+        },
+        {
+          "id": 31851,
+          "name": "Qalyūb"
+        },
+        {
+          "id": 31864,
+          "name": "Shibīn al Qanāṭir"
+        },
+        {
+          "id": 31873,
+          "name": "Toukh"
+        }
+      ]
+    },
+    {
+      "id": 3247,
+      "name": "Qena",
+      "state_code": "KN",
+      "cities": [
+        {
+          "id": 31809,
+          "name": "Dishnā"
+        },
+        {
+          "id": 31813,
+          "name": "Farshūţ"
+        },
+        {
+          "id": 31822,
+          "name": "Isnā"
+        },
+        {
+          "id": 31831,
+          "name": "Kousa"
+        },
+        {
+          "id": 31847,
+          "name": "Naja' Ḥammādī"
+        },
+        {
+          "id": 31853,
+          "name": "Qinā"
+        }
+      ]
+    },
+    {
+      "id": 3240,
+      "name": "Red Sea",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 31780,
+          "name": "Al Quşayr"
+        },
+        {
+          "id": 31811,
+          "name": "El Gouna"
+        },
+        {
+          "id": 31817,
+          "name": "Hurghada"
+        },
+        {
+          "id": 31834,
+          "name": "Makadi Bay"
+        },
+        {
+          "id": 31841,
+          "name": "Marsa Alam"
+        },
+        {
+          "id": 31856,
+          "name": "Ras Gharib"
+        },
+        {
+          "id": 31858,
+          "name": "Safaga"
+        }
+      ]
+    },
+    {
+      "id": 5067,
+      "name": "Sharqia",
+      "state_code": "SHR",
+      "cities": [
+        {
+          "id": 149220,
+          "name": "10th of Ramadan"
+        },
+        {
+          "id": 149228,
+          "name": "Al Qurein"
+        },
+        {
+          "id": 149223,
+          "name": "Awlad Saqr"
+        },
+        {
+          "id": 149224,
+          "name": "Bilbeis"
+        },
+        {
+          "id": 149225,
+          "name": "Diyarb Negm"
+        },
+        {
+          "id": 149226,
+          "name": "El Husseiniya"
+        },
+        {
+          "id": 149229,
+          "name": "Faqous"
+        },
+        {
+          "id": 149230,
+          "name": "Hihya"
+        },
+        {
+          "id": 149231,
+          "name": "Kafr Saqr"
+        },
+        {
+          "id": 149221,
+          "name": "Markaz Abū Ḩammād"
+        },
+        {
+          "id": 149232,
+          "name": "Mashtoul El Souk"
+        },
+        {
+          "id": 149233,
+          "name": "Minya El Qamh"
+        },
+        {
+          "id": 149234,
+          "name": "New Salhia"
+        },
+        {
+          "id": 149235,
+          "name": "Zagazig"
+        }
+      ]
+    },
+    {
+      "id": 3226,
+      "name": "Sohag",
+      "state_code": "SHG",
+      "cities": [
+        {
+          "id": 31763,
+          "name": "Akhmīm"
+        },
+        {
+          "id": 31765,
+          "name": "Al Balyanā"
+        },
+        {
+          "id": 31773,
+          "name": "Al Manshāh"
+        },
+        {
+          "id": 31824,
+          "name": "Jirjā"
+        },
+        {
+          "id": 31825,
+          "name": "Juhaynah"
+        },
+        {
+          "id": 31838,
+          "name": "Markaz Jirjā"
+        },
+        {
+          "id": 31839,
+          "name": "Markaz Sūhāj"
+        },
+        {
+          "id": 31867,
+          "name": "Sohag"
+        },
+        {
+          "id": 31875,
+          "name": "Ţahţā"
+        }
+      ]
+    },
+    {
+      "id": 3237,
+      "name": "South Sinai",
+      "state_code": "JS",
+      "cities": [
+        {
+          "id": 31803,
+          "name": "Dahab"
+        },
+        {
+          "id": 31812,
+          "name": "El-Tor"
+        },
+        {
+          "id": 31849,
+          "name": "Nuwaybi‘a"
+        },
+        {
+          "id": 31859,
+          "name": "Saint Catherine"
+        },
+        {
+          "id": 31862,
+          "name": "Sharm el-Sheikh"
+        }
+      ]
+    },
+    {
+      "id": 3233,
+      "name": "Suez",
+      "state_code": "SUZ",
+      "cities": [
+        {
+          "id": 31761,
+          "name": "Ain Sukhna"
+        },
+        {
+          "id": 31868,
+          "name": "Suez"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": 202,
+  "name": "Solomon Islands",
+  "short_name": "SLB",
+  "phone_code": "677",
+  "currency": "SBD",
+  "currency_name": "Solomon Islands dollar",
+  "currency_symbol": "Si$",
+  "states": [
+    {
+      "id": 4784,
+      "name": "Central Province",
+      "state_code": "CE",
+      "cities": [
+        {
+          "id": 102905,
+          "name": "Tulagi"
+        }
+      ]
+    },
+    {
+      "id": 4781,
+      "name": "Choiseul Province",
+      "state_code": "CH",
+      "cities": []
+    },
+    {
+      "id": 4785,
+      "name": "Guadalcanal Province",
+      "state_code": "GU",
+      "cities": [
+        {
+          "id": 102902,
+          "name": "Honiara"
+        }
+      ]
+    },
+    {
+      "id": 4778,
+      "name": "Honiara",
+      "state_code": "CT",
+      "cities": []
+    },
+    {
+      "id": 4780,
+      "name": "Isabel Province",
+      "state_code": "IS",
+      "cities": [
+        {
+          "id": 102900,
+          "name": "Buala"
+        }
+      ]
+    },
+    {
+      "id": 4782,
+      "name": "Makira-Ulawa Province",
+      "state_code": "MK",
+      "cities": [
+        {
+          "id": 102903,
+          "name": "Kirakira"
+        }
+      ]
+    },
+    {
+      "id": 4783,
+      "name": "Malaita Province",
+      "state_code": "ML",
+      "cities": [
+        {
+          "id": 102899,
+          "name": "Auki"
+        }
+      ]
+    },
+    {
+      "id": 4787,
+      "name": "Rennell and Bellona Province",
+      "state_code": "RB",
+      "cities": []
+    },
+    {
+      "id": 4779,
+      "name": "Temotu Province",
+      "state_code": "TE",
+      "cities": [
+        {
+          "id": 102904,
+          "name": "Lata"
+        }
+      ]
+    },
+    {
+      "id": 4786,
+      "name": "Western Province",
+      "state_code": "WE",
+      "cities": [
+        {
+          "id": 102901,
+          "name": "Gizo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "id": 29,
+  "name": "Botswana",
+  "short_name": "BWA",
+  "phone_code": "267",
+  "currency": "BWP",
+  "currency_name": "Botswana pula",
+  "currency_symbol": "P",
+  "states": [
+    {
+      "id": 3067,
+      "name": "Central District",
+      "state_code": "CE",
+      "cities": [
+        {
+          "id": 15738,
+          "name": "Gobojango"
+        },
+        {
+          "id": 15739,
+          "name": "Gweta"
+        },
+        {
+          "id": 15742,
+          "name": "Kalamare"
+        },
+        {
+          "id": 15750,
+          "name": "Letlhakane"
+        },
+        {
+          "id": 15752,
+          "name": "Letsheng"
+        },
+        {
+          "id": 15753,
+          "name": "Maapi"
+        },
+        {
+          "id": 15754,
+          "name": "Machaneng"
+        },
+        {
+          "id": 15755,
+          "name": "Mahalapye"
+        },
+        {
+          "id": 15757,
+          "name": "Makobeng"
+        },
+        {
+          "id": 15758,
+          "name": "Makwata"
+        },
+        {
+          "id": 15761,
+          "name": "Mathakola"
+        },
+        {
+          "id": 15762,
+          "name": "Mathambgwane"
+        },
+        {
+          "id": 15763,
+          "name": "Mathathane"
+        },
+        {
+          "id": 15765,
+          "name": "Maunatlala"
+        },
+        {
+          "id": 15770,
+          "name": "Mogapi"
+        },
+        {
+          "id": 15772,
+          "name": "Moijabana"
+        },
+        {
+          "id": 15774,
+          "name": "Mookane"
+        },
+        {
+          "id": 15775,
+          "name": "Mopipi"
+        },
+        {
+          "id": 15776,
+          "name": "Mosetse"
+        },
+        {
+          "id": 15778,
+          "name": "Nata"
+        },
+        {
+          "id": 15781,
+          "name": "Orapa"
+        },
+        {
+          "id": 15783,
+          "name": "Palapye"
+        },
+        {
+          "id": 15786,
+          "name": "Pilikwe"
+        },
+        {
+          "id": 15787,
+          "name": "Rakops"
+        },
+        {
+          "id": 15788,
+          "name": "Ramokgonami"
+        },
+        {
+          "id": 15790,
+          "name": "Ratholo"
+        },
+        {
+          "id": 15792,
+          "name": "Sefophe"
+        },
+        {
+          "id": 15795,
+          "name": "Serowe"
+        },
+        {
+          "id": 15797,
+          "name": "Sua"
+        },
+        {
+          "id": 15798,
+          "name": "Tamasane"
+        },
+        {
+          "id": 15800,
+          "name": "Tobane"
+        },
+        {
+          "id": 15801,
+          "name": "Tonota"
+        }
+      ]
+    },
+    {
+      "id": 3061,
+      "name": "Ghanzi District",
+      "state_code": "GH",
+      "cities": [
+        {
+          "id": 15731,
+          "name": "Dekar"
+        },
+        {
+          "id": 15737,
+          "name": "Ghanzi"
+        }
+      ]
+    },
+    {
+      "id": 3066,
+      "name": "Kgalagadi District",
+      "state_code": "KG",
+      "cities": [
+        {
+          "id": 15740,
+          "name": "Hukuntsi"
+        },
+        {
+          "id": 15743,
+          "name": "Kang"
+        },
+        {
+          "id": 15748,
+          "name": "Lehututu"
+        },
+        {
+          "id": 15759,
+          "name": "Manyana"
+        },
+        {
+          "id": 15802,
+          "name": "Tshabong"
+        },
+        {
+          "id": 15803,
+          "name": "Werda"
+        }
+      ]
+    },
+    {
+      "id": 3062,
+      "name": "Kgatleng District",
+      "state_code": "KL",
+      "cities": [
+        {
+          "id": 15729,
+          "name": "Bokaa"
+        },
+        {
+          "id": 15767,
+          "name": "Mmathubudukwane"
+        },
+        {
+          "id": 15769,
+          "name": "Mochudi"
+        },
+        {
+          "id": 15785,
+          "name": "Pilane"
+        }
+      ]
+    },
+    {
+      "id": 3069,
+      "name": "Kweneng District",
+      "state_code": "KW",
+      "cities": [
+        {
+          "id": 15730,
+          "name": "Botlhapatlou"
+        },
+        {
+          "id": 15733,
+          "name": "Dutlwe"
+        },
+        {
+          "id": 15734,
+          "name": "Gabane"
+        },
+        {
+          "id": 15736,
+          "name": "Gaphatshwe"
+        },
+        {
+          "id": 15746,
+          "name": "Khudumelapye"
+        },
+        {
+          "id": 15749,
+          "name": "Lenchwe Le Tau"
+        },
+        {
+          "id": 15751,
+          "name": "Letlhakeng"
+        },
+        {
+          "id": 15766,
+          "name": "Metsemotlhaba"
+        },
+        {
+          "id": 15768,
+          "name": "Mmopone"
+        },
+        {
+          "id": 15771,
+          "name": "Mogoditshane"
+        },
+        {
+          "id": 15773,
+          "name": "Molepolole"
+        },
+        {
+          "id": 15779,
+          "name": "Nkoyaphiri"
+        },
+        {
+          "id": 15799,
+          "name": "Thamaga"
+        }
+      ]
+    },
+    {
+      "id": 3060,
+      "name": "Ngamiland",
+      "state_code": "NG",
+      "cities": []
+    },
+    {
+      "id": 3068,
+      "name": "North-East District",
+      "state_code": "NE",
+      "cities": [
+        {
+          "id": 15732,
+          "name": "Dukwe"
+        },
+        {
+          "id": 15756,
+          "name": "Makaleng"
+        },
+        {
+          "id": 15760,
+          "name": "Masunga"
+        },
+        {
+          "id": 15791,
+          "name": "Sebina"
+        }
+      ]
+    },
+    {
+      "id": 3065,
+      "name": "North-West District",
+      "state_code": "NW",
+      "cities": [
+        {
+          "id": 15764,
+          "name": "Maun"
+        },
+        {
+          "id": 15780,
+          "name": "Nokaneng"
+        },
+        {
+          "id": 15784,
+          "name": "Pandamatenga"
+        },
+        {
+          "id": 15793,
+          "name": "Sehithwa"
+        },
+        {
+          "id": 15796,
+          "name": "Shakawe"
+        }
+      ]
+    },
+    {
+      "id": 3064,
+      "name": "South-East District",
+      "state_code": "SE",
+      "cities": [
+        {
+          "id": 15735,
+          "name": "Gaborone"
+        },
+        {
+          "id": 15741,
+          "name": "Janeng"
+        },
+        {
+          "id": 15747,
+          "name": "Kopong"
+        },
+        {
+          "id": 15782,
+          "name": "Otse"
+        },
+        {
+          "id": 15789,
+          "name": "Ramotswa"
+        }
+      ]
+    },
+    {
+      "id": 3063,
+      "name": "Southern District",
+      "state_code": "SO",
+      "cities": [
+        {
+          "id": 15744,
+          "name": "Kanye"
+        },
+        {
+          "id": 15745,
+          "name": "Khakhea"
+        },
+        {
+          "id": 15777,
+          "name": "Mosopa"
+        },
+        {
+          "id": 15794,
+          "name": "Sekoma"
+        }
+      ]
+    }
+  ]
+}

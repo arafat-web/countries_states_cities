@@ -1,0 +1,423 @@
+{
+  "id": 111,
+  "name": "Jordan",
+  "short_name": "JOR",
+  "phone_code": "962",
+  "currency": "JOD",
+  "currency_name": "Jordanian dinar",
+  "currency_symbol": "ا.د",
+  "states": [
+    {
+      "id": 963,
+      "name": "Ajloun",
+      "state_code": "AJ",
+      "cities": [
+        {
+          "id": 63206,
+          "name": "‘Ajlūn"
+        },
+        {
+          "id": 63207,
+          "name": "‘Anjarah"
+        },
+        {
+          "id": 63208,
+          "name": "‘Ayn Jannah"
+        },
+        {
+          "id": 63202,
+          "name": "Ḩalāwah"
+        },
+        {
+          "id": 63199,
+          "name": "Şakhrah"
+        }
+      ]
+    },
+    {
+      "id": 965,
+      "name": "Amman",
+      "state_code": "AM",
+      "cities": [
+        {
+          "id": 63133,
+          "name": "Al Jīzah"
+        },
+        {
+          "id": 63132,
+          "name": "Al Jubayhah"
+        },
+        {
+          "id": 63141,
+          "name": "Amman"
+        },
+        {
+          "id": 63203,
+          "name": "Ḩayy al Bunayyāt"
+        },
+        {
+          "id": 63204,
+          "name": "Ḩayy al Quwaysimah"
+        },
+        {
+          "id": 63162,
+          "name": "Jāwā"
+        },
+        {
+          "id": 63185,
+          "name": "Saḩāb"
+        },
+        {
+          "id": 63192,
+          "name": "Umm as Summāq"
+        },
+        {
+          "id": 63194,
+          "name": "Wādī as Sīr"
+        }
+      ]
+    },
+    {
+      "id": 959,
+      "name": "Aqaba",
+      "state_code": "AQ",
+      "cities": [
+        {
+          "id": 63142,
+          "name": "Aqaba"
+        },
+        {
+          "id": 63188,
+          "name": "Tala Bay"
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "name": "Balqa",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 63134,
+          "name": "Al Karāmah"
+        },
+        {
+          "id": 63145,
+          "name": "As Salţ"
+        },
+        {
+          "id": 63195,
+          "name": "Yarqā"
+        }
+      ]
+    },
+    {
+      "id": 960,
+      "name": "Irbid",
+      "state_code": "IR",
+      "cities": [
+        {
+          "id": 63144,
+          "name": "Ar Ramthā"
+        },
+        {
+          "id": 63146,
+          "name": "Ash Shajarah"
+        },
+        {
+          "id": 63151,
+          "name": "Aţ Ţayyibah"
+        },
+        {
+          "id": 63152,
+          "name": "Aţ Ţurrah"
+        },
+        {
+          "id": 63148,
+          "name": "Aydūn"
+        },
+        {
+          "id": 63155,
+          "name": "Bayt Īdis"
+        },
+        {
+          "id": 63154,
+          "name": "Bayt Yāfā"
+        },
+        {
+          "id": 63158,
+          "name": "Dayr Yūsuf"
+        },
+        {
+          "id": 63201,
+          "name": "Ḩakamā"
+        },
+        {
+          "id": 63205,
+          "name": "Ḩātim"
+        },
+        {
+          "id": 63159,
+          "name": "Irbid"
+        },
+        {
+          "id": 63161,
+          "name": "Judita"
+        },
+        {
+          "id": 63163,
+          "name": "Kafr Abīl"
+        },
+        {
+          "id": 63164,
+          "name": "Kafr Asad"
+        },
+        {
+          "id": 63165,
+          "name": "Kafr Sawm"
+        },
+        {
+          "id": 63167,
+          "name": "Kharjā"
+        },
+        {
+          "id": 63168,
+          "name": "Kitim"
+        },
+        {
+          "id": 63169,
+          "name": "Kurayyimah"
+        },
+        {
+          "id": 63172,
+          "name": "Malkā"
+        },
+        {
+          "id": 63176,
+          "name": "Qumaym"
+        },
+        {
+          "id": 63184,
+          "name": "Saḩam al Kaffārāt"
+        },
+        {
+          "id": 63186,
+          "name": "Sāl"
+        },
+        {
+          "id": 63200,
+          "name": "Şammā"
+        },
+        {
+          "id": 63189,
+          "name": "Tibnah"
+        },
+        {
+          "id": 63190,
+          "name": "Umm Qays"
+        },
+        {
+          "id": 63193,
+          "name": "Waqqāş"
+        },
+        {
+          "id": 63197,
+          "name": "Zaḩar"
+        }
+      ]
+    },
+    {
+      "id": 966,
+      "name": "Jerash",
+      "state_code": "JA",
+      "cities": [
+        {
+          "id": 63136,
+          "name": "Al Kittah"
+        },
+        {
+          "id": 63153,
+          "name": "Balīlā"
+        },
+        {
+          "id": 63156,
+          "name": "Burmā"
+        },
+        {
+          "id": 63160,
+          "name": "Jarash"
+        },
+        {
+          "id": 63175,
+          "name": "Qafqafā"
+        },
+        {
+          "id": 63178,
+          "name": "Raymūn"
+        },
+        {
+          "id": 63183,
+          "name": "Sakib"
+        },
+        {
+          "id": 63187,
+          "name": "Sūf"
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "name": "Karak",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 63209,
+          "name": "‘Ayy"
+        },
+        {
+          "id": 63210,
+          "name": "‘Izrā"
+        },
+        {
+          "id": 63129,
+          "name": "Adir"
+        },
+        {
+          "id": 63135,
+          "name": "Al Khinzīrah"
+        },
+        {
+          "id": 63137,
+          "name": "Al Mazār al Janūbī"
+        },
+        {
+          "id": 63138,
+          "name": "Al Qaşr"
+        },
+        {
+          "id": 63143,
+          "name": "Ar Rabbah"
+        },
+        {
+          "id": 63166,
+          "name": "Karak City"
+        },
+        {
+          "id": 63182,
+          "name": "Safi"
+        }
+      ]
+    },
+    {
+      "id": 964,
+      "name": "Ma'an",
+      "state_code": "MN",
+      "cities": [
+        {
+          "id": 63131,
+          "name": "Al Jafr"
+        },
+        {
+          "id": 63139,
+          "name": "Al Quwayrah"
+        },
+        {
+          "id": 63147,
+          "name": "Ash Shawbak"
+        },
+        {
+          "id": 63150,
+          "name": "Aţ Ţayyibah"
+        },
+        {
+          "id": 63170,
+          "name": "Ma'an"
+        },
+        {
+          "id": 63174,
+          "name": "Petra"
+        },
+        {
+          "id": 63177,
+          "name": "Qīr Moāv"
+        }
+      ]
+    },
+    {
+      "id": 958,
+      "name": "Madaba",
+      "state_code": "MD",
+      "cities": [
+        {
+          "id": 63173,
+          "name": "Mādabā"
+        }
+      ]
+    },
+    {
+      "id": 962,
+      "name": "Mafraq",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 63140,
+          "name": "Al Ḩamrā’"
+        },
+        {
+          "id": 63171,
+          "name": "Mafraq"
+        },
+        {
+          "id": 63179,
+          "name": "Rehab"
+        },
+        {
+          "id": 63180,
+          "name": "Rukban"
+        },
+        {
+          "id": 63198,
+          "name": "Şabḩā"
+        },
+        {
+          "id": 63191,
+          "name": "Umm al Qiţţayn"
+        }
+      ]
+    },
+    {
+      "id": 957,
+      "name": "Tafilah",
+      "state_code": "AT",
+      "cities": [
+        {
+          "id": 63149,
+          "name": "Aţ Ţafīlah"
+        },
+        {
+          "id": 63157,
+          "name": "Buşayrā"
+        }
+      ]
+    },
+    {
+      "id": 967,
+      "name": "Zarqa",
+      "state_code": "AZ",
+      "cities": [
+        {
+          "id": 63130,
+          "name": "Al Azraq ash Shamālī"
+        },
+        {
+          "id": 63181,
+          "name": "Russeifa"
+        },
+        {
+          "id": 63196,
+          "name": "Zarqa"
+        }
+      ]
+    }
+  ]
+}

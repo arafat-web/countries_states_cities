@@ -1,0 +1,100 @@
+{
+  "id": 6,
+  "name": "Andorra",
+  "short_name": "AND",
+  "phone_code": "376",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 488,
+      "name": "Andorra la Vella",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Andorra la Vella"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Canillo",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 3,
+          "name": "Canillo"
+        },
+        {
+          "id": 4,
+          "name": "El Tarter"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Encamp",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 5,
+          "name": "Encamp"
+        },
+        {
+          "id": 7,
+          "name": "Pas de la Casa"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Escaldes-Engordany",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 10,
+          "name": "les Escaldes"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "La Massana",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 2,
+          "name": "Arinsal"
+        },
+        {
+          "id": 9,
+          "name": "la Massana"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Ordino",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 6,
+          "name": "Ordino"
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Sant Julià de Lòria",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 8,
+          "name": "Sant Julià de Lòria"
+        }
+      ]
+    }
+  ]
+}

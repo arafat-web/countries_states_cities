@@ -1,0 +1,300 @@
+{
+  "id": 152,
+  "name": "Namibia",
+  "short_name": "NAM",
+  "phone_code": "264",
+  "currency": "NAD",
+  "currency_name": "Namibian dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 43,
+      "name": "Erongo Region",
+      "state_code": "ER",
+      "cities": [
+        {
+          "id": 76626,
+          "name": "Arandis"
+        },
+        {
+          "id": 76633,
+          "name": "Hentiesbaai"
+        },
+        {
+          "id": 76636,
+          "name": "Karibib"
+        },
+        {
+          "id": 76648,
+          "name": "Omaruru"
+        },
+        {
+          "id": 76659,
+          "name": "Otjimbingwe"
+        },
+        {
+          "id": 76666,
+          "name": "Swakopmund"
+        },
+        {
+          "id": 76667,
+          "name": "Swakopmund Constituency"
+        },
+        {
+          "id": 76670,
+          "name": "Usakos"
+        },
+        {
+          "id": 76671,
+          "name": "Walvis Bay"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Hardap Region",
+      "state_code": "HA",
+      "cities": [
+        {
+          "id": 76627,
+          "name": "Aranos"
+        },
+        {
+          "id": 76634,
+          "name": "Hoachanas"
+        },
+        {
+          "id": 76643,
+          "name": "Maltahöhe"
+        },
+        {
+          "id": 76644,
+          "name": "Mariental"
+        },
+        {
+          "id": 76663,
+          "name": "Rehoboth"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Karas Region",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 76629,
+          "name": "Bethanie"
+        },
+        {
+          "id": 76635,
+          "name": "Karasburg"
+        },
+        {
+          "id": 76639,
+          "name": "Keetmanshoop"
+        },
+        {
+          "id": 76642,
+          "name": "Lüderitz"
+        },
+        {
+          "id": 76655,
+          "name": "Oranjemund"
+        },
+        {
+          "id": 76668,
+          "name": "Tses"
+        },
+        {
+          "id": 76672,
+          "name": "Warmbad"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kavango East Region",
+      "state_code": "KE",
+      "cities": [
+        {
+          "id": 76664,
+          "name": "Rundu"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kavango West Region",
+      "state_code": "KW",
+      "cities": []
+    },
+    {
+      "id": 44,
+      "name": "Khomas Region",
+      "state_code": "KH",
+      "cities": [
+        {
+          "id": 76638,
+          "name": "Katutura"
+        },
+        {
+          "id": 76673,
+          "name": "Windhoek"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Kunene Region",
+      "state_code": "KU",
+      "cities": [
+        {
+          "id": 76630,
+          "name": "Epupa Constituency"
+        },
+        {
+          "id": 76640,
+          "name": "Khorixas"
+        },
+        {
+          "id": 76641,
+          "name": "Khorixas Constituency"
+        },
+        {
+          "id": 76653,
+          "name": "Opuwo"
+        },
+        {
+          "id": 76654,
+          "name": "Opuwo Constituency"
+        },
+        {
+          "id": 76662,
+          "name": "Outjo"
+        },
+        {
+          "id": 76665,
+          "name": "Sesfontein Constituency"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Ohangwena Region",
+      "state_code": "OW",
+      "cities": [
+        {
+          "id": 76657,
+          "name": "Oshikango"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Omaheke Region",
+      "state_code": "OH",
+      "cities": [
+        {
+          "id": 76631,
+          "name": "Gobabis"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Omusati Region",
+      "state_code": "OS",
+      "cities": [
+        {
+          "id": 76646,
+          "name": "Okahao"
+        },
+        {
+          "id": 76651,
+          "name": "Ongandjera"
+        },
+        {
+          "id": 76661,
+          "name": "Outapi"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Oshana Region",
+      "state_code": "ON",
+      "cities": [
+        {
+          "id": 76650,
+          "name": "Ondangwa"
+        },
+        {
+          "id": 76652,
+          "name": "Ongwediva"
+        },
+        {
+          "id": 76656,
+          "name": "Oshakati"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Oshikoto Region",
+      "state_code": "OT",
+      "cities": [
+        {
+          "id": 76649,
+          "name": "Omuthiya"
+        },
+        {
+          "id": 76669,
+          "name": "Tsumeb"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Otjozondjupa Region",
+      "state_code": "OD",
+      "cities": [
+        {
+          "id": 76632,
+          "name": "Grootfontein"
+        },
+        {
+          "id": 76645,
+          "name": "Okahandja"
+        },
+        {
+          "id": 76647,
+          "name": "Okakarara"
+        },
+        {
+          "id": 76658,
+          "name": "Otavi"
+        },
+        {
+          "id": 76660,
+          "name": "Otjiwarongo"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Zambezi Region",
+      "state_code": "CA",
+      "cities": [
+        {
+          "id": 76628,
+          "name": "Bagani"
+        },
+        {
+          "id": 76637,
+          "name": "Katima Mulilo"
+        }
+      ]
+    }
+  ]
+}

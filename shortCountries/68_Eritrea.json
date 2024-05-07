@@ -1,0 +1,97 @@
+{
+  "id": 68,
+  "name": "Eritrea",
+  "short_name": "ERI",
+  "phone_code": "291",
+  "currency": "ERN",
+  "currency_name": "Eritrean nakfa",
+  "currency_symbol": "Nfk",
+  "states": [
+    {
+      "id": 3425,
+      "name": "Anseba Region",
+      "state_code": "AN",
+      "cities": [
+        {
+          "id": 31888,
+          "name": "Keren"
+        }
+      ]
+    },
+    {
+      "id": 3427,
+      "name": "Debub Region",
+      "state_code": "DU",
+      "cities": [
+        {
+          "id": 31881,
+          "name": "Adi Keyh"
+        },
+        {
+          "id": 31886,
+          "name": "Dek’emhāre"
+        },
+        {
+          "id": 31890,
+          "name": "Mendefera"
+        }
+      ]
+    },
+    {
+      "id": 3428,
+      "name": "Gash-Barka Region",
+      "state_code": "GB",
+      "cities": [
+        {
+          "id": 31882,
+          "name": "Ak’ordat"
+        },
+        {
+          "id": 31885,
+          "name": "Barentu"
+        },
+        {
+          "id": 31891,
+          "name": "Teseney"
+        }
+      ]
+    },
+    {
+      "id": 3426,
+      "name": "Maekel Region",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 31883,
+          "name": "Asmara"
+        }
+      ]
+    },
+    {
+      "id": 3424,
+      "name": "Northern Red Sea Region",
+      "state_code": "SK",
+      "cities": [
+        {
+          "id": 31889,
+          "name": "Massawa"
+        }
+      ]
+    },
+    {
+      "id": 3429,
+      "name": "Southern Red Sea Region",
+      "state_code": "DK",
+      "cities": [
+        {
+          "id": 31884,
+          "name": "Assab"
+        },
+        {
+          "id": 31887,
+          "name": "Edd"
+        }
+      ]
+    }
+  ]
+}

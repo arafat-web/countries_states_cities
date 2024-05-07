@@ -1,0 +1,764 @@
+{
+  "id": 235,
+  "name": "Uruguay",
+  "short_name": "URY",
+  "phone_code": "598",
+  "currency": "UYU",
+  "currency_name": "Uruguayan peso",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3205,
+      "name": "Artigas",
+      "state_code": "AR",
+      "cities": [
+        {
+          "id": 129777,
+          "name": "Artigas"
+        },
+        {
+          "id": 129779,
+          "name": "Baltasar Brum"
+        },
+        {
+          "id": 129782,
+          "name": "Bella Unión"
+        },
+        {
+          "id": 129820,
+          "name": "Las Piedras"
+        },
+        {
+          "id": 129881,
+          "name": "Tomás Gomensoro"
+        }
+      ]
+    },
+    {
+      "id": 3213,
+      "name": "Canelones",
+      "state_code": "CA",
+      "cities": [
+        {
+          "id": 129774,
+          "name": "Aguas Corrientes"
+        },
+        {
+          "id": 129778,
+          "name": "Atlántida"
+        },
+        {
+          "id": 129780,
+          "name": "Barra de Carrasco"
+        },
+        {
+          "id": 129781,
+          "name": "Barros Blancos"
+        },
+        {
+          "id": 129785,
+          "name": "Canelones"
+        },
+        {
+          "id": 129794,
+          "name": "Colonia Nicolich"
+        },
+        {
+          "id": 129802,
+          "name": "Empalme Olmos"
+        },
+        {
+          "id": 129809,
+          "name": "Joaquín Suárez"
+        },
+        {
+          "id": 129814,
+          "name": "Juanicó"
+        },
+        {
+          "id": 129815,
+          "name": "La Floresta"
+        },
+        {
+          "id": 129818,
+          "name": "La Paz"
+        },
+        {
+          "id": 129819,
+          "name": "Las Piedras"
+        },
+        {
+          "id": 129821,
+          "name": "Las Toscas"
+        },
+        {
+          "id": 129824,
+          "name": "Los Cerrillos"
+        },
+        {
+          "id": 129829,
+          "name": "Migues"
+        },
+        {
+          "id": 129832,
+          "name": "Montes"
+        },
+        {
+          "id": 129841,
+          "name": "Pando"
+        },
+        {
+          "id": 129842,
+          "name": "Paso de Carrasco"
+        },
+        {
+          "id": 129847,
+          "name": "Progreso"
+        },
+        {
+          "id": 129858,
+          "name": "San Antonio"
+        },
+        {
+          "id": 129859,
+          "name": "San Bautista"
+        },
+        {
+          "id": 129862,
+          "name": "San Jacinto"
+        },
+        {
+          "id": 129865,
+          "name": "San Ramón"
+        },
+        {
+          "id": 129869,
+          "name": "Santa Lucía"
+        },
+        {
+          "id": 129870,
+          "name": "Santa Rosa"
+        },
+        {
+          "id": 129874,
+          "name": "Sauce"
+        },
+        {
+          "id": 129875,
+          "name": "Soca"
+        },
+        {
+          "id": 129878,
+          "name": "Tala"
+        },
+        {
+          "id": 129880,
+          "name": "Toledo"
+        }
+      ]
+    },
+    {
+      "id": 3211,
+      "name": "Cerro Largo",
+      "state_code": "CL",
+      "cities": [
+        {
+          "id": 129773,
+          "name": "Aceguá"
+        },
+        {
+          "id": 129808,
+          "name": "Isidoro Noblía"
+        },
+        {
+          "id": 129827,
+          "name": "Melo"
+        },
+        {
+          "id": 129856,
+          "name": "Río Branco"
+        },
+        {
+          "id": 129885,
+          "name": "Tupambaé"
+        }
+      ]
+    },
+    {
+      "id": 3208,
+      "name": "Colonia",
+      "state_code": "CO",
+      "cities": [
+        {
+          "id": 129789,
+          "name": "Carmelo"
+        },
+        {
+          "id": 129795,
+          "name": "Colonia del Sacramento"
+        },
+        {
+          "id": 129804,
+          "name": "Florencio Sánchez"
+        },
+        {
+          "id": 129813,
+          "name": "Juan L. Lacaze"
+        },
+        {
+          "id": 129834,
+          "name": "Nueva Helvecia"
+        },
+        {
+          "id": 129835,
+          "name": "Nueva Palmira"
+        },
+        {
+          "id": 129837,
+          "name": "Ombúes de Lavalle"
+        },
+        {
+          "id": 129855,
+          "name": "Rosario"
+        },
+        {
+          "id": 129879,
+          "name": "Tarariras"
+        }
+      ]
+    },
+    {
+      "id": 3209,
+      "name": "Durazno",
+      "state_code": "DU",
+      "cities": [
+        {
+          "id": 129784,
+          "name": "Blanquillo"
+        },
+        {
+          "id": 129788,
+          "name": "Carlos Reyles"
+        },
+        {
+          "id": 129800,
+          "name": "Durazno"
+        },
+        {
+          "id": 129817,
+          "name": "La Paloma"
+        },
+        {
+          "id": 129866,
+          "name": "Santa Bernardina"
+        },
+        {
+          "id": 129873,
+          "name": "Sarandí del Yi"
+        },
+        {
+          "id": 129892,
+          "name": "Villa del Carmen"
+        }
+      ]
+    },
+    {
+      "id": 3203,
+      "name": "Flores",
+      "state_code": "FS",
+      "cities": [
+        {
+          "id": 129884,
+          "name": "Trinidad"
+        }
+      ]
+    },
+    {
+      "id": 3217,
+      "name": "Florida",
+      "state_code": "FD",
+      "cities": [
+        {
+          "id": 129771,
+          "name": "25 de Agosto"
+        },
+        {
+          "id": 129772,
+          "name": "25 de Mayo"
+        },
+        {
+          "id": 129776,
+          "name": "Alejandro Gallinal"
+        },
+        {
+          "id": 129786,
+          "name": "Cardal"
+        },
+        {
+          "id": 129791,
+          "name": "Casupá"
+        },
+        {
+          "id": 129805,
+          "name": "Florida"
+        },
+        {
+          "id": 129872,
+          "name": "Sarandí Grande"
+        }
+      ]
+    },
+    {
+      "id": 3215,
+      "name": "Lavalleja",
+      "state_code": "LA",
+      "cities": [
+        {
+          "id": 129810,
+          "name": "José Batlle y Ordóñez"
+        },
+        {
+          "id": 129812,
+          "name": "José Pedro Varela"
+        },
+        {
+          "id": 129826,
+          "name": "Mariscala"
+        },
+        {
+          "id": 129830,
+          "name": "Minas"
+        },
+        {
+          "id": 129876,
+          "name": "Solís de Mataojo"
+        }
+      ]
+    },
+    {
+      "id": 3206,
+      "name": "Maldonado",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 129775,
+          "name": "Aiguá"
+        },
+        {
+          "id": 129825,
+          "name": "Maldonado"
+        },
+        {
+          "id": 129840,
+          "name": "Pan de Azúcar"
+        },
+        {
+          "id": 129846,
+          "name": "Piriápolis"
+        },
+        {
+          "id": 129848,
+          "name": "Punta del Este"
+        },
+        {
+          "id": 129860,
+          "name": "San Carlos"
+        }
+      ]
+    },
+    {
+      "id": 3218,
+      "name": "Montevideo",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 149276,
+          "name": "Bella Vista"
+        },
+        {
+          "id": 149277,
+          "name": "Belvedere"
+        },
+        {
+          "id": 149278,
+          "name": "Buceo"
+        },
+        {
+          "id": 149279,
+          "name": "Capurro (Montevideo)"
+        },
+        {
+          "id": 149280,
+          "name": "Carrasco"
+        },
+        {
+          "id": 149281,
+          "name": "Casabó"
+        },
+        {
+          "id": 149282,
+          "name": "Centro"
+        },
+        {
+          "id": 149283,
+          "name": "Cerrito Montevideo"
+        },
+        {
+          "id": 149284,
+          "name": "Colón Centro y Noroeste"
+        },
+        {
+          "id": 149285,
+          "name": "Colón Sudeste"
+        },
+        {
+          "id": 149286,
+          "name": "Conciliación"
+        },
+        {
+          "id": 149287,
+          "name": "Cordón"
+        },
+        {
+          "id": 149288,
+          "name": "Flor de Maroñas"
+        },
+        {
+          "id": 149289,
+          "name": "Ituzaingó"
+        },
+        {
+          "id": 149290,
+          "name": "La Unión"
+        },
+        {
+          "id": 149291,
+          "name": "Malvín"
+        },
+        {
+          "id": 149292,
+          "name": "Manga"
+        },
+        {
+          "id": 149293,
+          "name": "Maroñas"
+        },
+        {
+          "id": 129833,
+          "name": "Montevideo"
+        },
+        {
+          "id": 149294,
+          "name": "Nuevo París"
+        },
+        {
+          "id": 129838,
+          "name": "Pajas Blancas"
+        },
+        {
+          "id": 149295,
+          "name": "Paso del Molino"
+        },
+        {
+          "id": 149296,
+          "name": "Peñarol"
+        },
+        {
+          "id": 149297,
+          "name": "Piedras Blancas"
+        },
+        {
+          "id": 149298,
+          "name": "Pocitos"
+        },
+        {
+          "id": 149299,
+          "name": "Punta Carretas"
+        },
+        {
+          "id": 149300,
+          "name": "Punta Gorda"
+        },
+        {
+          "id": 149301,
+          "name": "Reducto"
+        },
+        {
+          "id": 129871,
+          "name": "Santiago Vázquez"
+        },
+        {
+          "id": 149302,
+          "name": "Sayage"
+        },
+        {
+          "id": 149303,
+          "name": "Tres Cruces"
+        },
+        {
+          "id": 149307,
+          "name": "Villa del Cerro"
+        },
+        {
+          "id": 149304,
+          "name": "Villa Española"
+        },
+        {
+          "id": 149305,
+          "name": "Villa García"
+        },
+        {
+          "id": 149306,
+          "name": "Villa Muñoz"
+        }
+      ]
+    },
+    {
+      "id": 3212,
+      "name": "Paysandú",
+      "state_code": "PA",
+      "cities": [
+        {
+          "id": 129803,
+          "name": "Estación Porvenir"
+        },
+        {
+          "id": 129807,
+          "name": "Guichón"
+        },
+        {
+          "id": 129844,
+          "name": "Paysandú"
+        },
+        {
+          "id": 129845,
+          "name": "Piedras Coloradas"
+        },
+        {
+          "id": 129850,
+          "name": "Quebracho"
+        },
+        {
+          "id": 129861,
+          "name": "San Félix"
+        }
+      ]
+    },
+    {
+      "id": 3210,
+      "name": "Río Negro",
+      "state_code": "RN",
+      "cities": [
+        {
+          "id": 129806,
+          "name": "Fray Bentos"
+        },
+        {
+          "id": 129836,
+          "name": "Nuevo Berlín"
+        },
+        {
+          "id": 129863,
+          "name": "San Javier"
+        },
+        {
+          "id": 129893,
+          "name": "Young"
+        }
+      ]
+    },
+    {
+      "id": 3207,
+      "name": "Rivera",
+      "state_code": "RV",
+      "cities": [
+        {
+          "id": 129831,
+          "name": "Minas de Corrales"
+        },
+        {
+          "id": 129852,
+          "name": "Rivera"
+        },
+        {
+          "id": 129882,
+          "name": "Tranqueras"
+        },
+        {
+          "id": 129888,
+          "name": "Vichadero"
+        }
+      ]
+    },
+    {
+      "id": 3216,
+      "name": "Rocha",
+      "state_code": "RO",
+      "cities": [
+        {
+          "id": 129790,
+          "name": "Castillos"
+        },
+        {
+          "id": 129792,
+          "name": "Cebollatí"
+        },
+        {
+          "id": 129793,
+          "name": "Chui"
+        },
+        {
+          "id": 129798,
+          "name": "Dieciocho de Julio"
+        },
+        {
+          "id": 129816,
+          "name": "La Paloma"
+        },
+        {
+          "id": 129822,
+          "name": "Lascano"
+        },
+        {
+          "id": 129853,
+          "name": "Rocha"
+        },
+        {
+          "id": 129886,
+          "name": "Velázquez"
+        }
+      ]
+    },
+    {
+      "id": 3220,
+      "name": "Salto",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 129783,
+          "name": "Belén"
+        },
+        {
+          "id": 129857,
+          "name": "Salto"
+        },
+        {
+          "id": 129889,
+          "name": "Villa Constitución"
+        }
+      ]
+    },
+    {
+      "id": 3204,
+      "name": "San José",
+      "state_code": "SJ",
+      "cities": [
+        {
+          "id": 129797,
+          "name": "Delta del Tigre"
+        },
+        {
+          "id": 129801,
+          "name": "Ecilda Paullier"
+        },
+        {
+          "id": 129823,
+          "name": "Libertad"
+        },
+        {
+          "id": 129849,
+          "name": "Puntas de Valdéz"
+        },
+        {
+          "id": 129851,
+          "name": "Rafael Perazza"
+        },
+        {
+          "id": 129854,
+          "name": "Rodríguez"
+        },
+        {
+          "id": 129864,
+          "name": "San José de Mayo"
+        }
+      ]
+    },
+    {
+      "id": 3219,
+      "name": "Soriano",
+      "state_code": "SO",
+      "cities": [
+        {
+          "id": 129787,
+          "name": "Cardona"
+        },
+        {
+          "id": 129799,
+          "name": "Dolores"
+        },
+        {
+          "id": 129811,
+          "name": "José Enrique Rodó"
+        },
+        {
+          "id": 129828,
+          "name": "Mercedes"
+        },
+        {
+          "id": 129839,
+          "name": "Palmitas"
+        },
+        {
+          "id": 129867,
+          "name": "Santa Catalina"
+        },
+        {
+          "id": 129891,
+          "name": "Villa Soriano"
+        }
+      ]
+    },
+    {
+      "id": 3221,
+      "name": "Tacuarembó",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 129796,
+          "name": "Curtina"
+        },
+        {
+          "id": 129843,
+          "name": "Paso de los Toros"
+        },
+        {
+          "id": 129877,
+          "name": "Tacuarembó"
+        }
+      ]
+    },
+    {
+      "id": 3214,
+      "name": "Treinta y Tres",
+      "state_code": "TT",
+      "cities": [
+        {
+          "id": 129868,
+          "name": "Santa Clara de Olimar"
+        },
+        {
+          "id": 129883,
+          "name": "Treinta y Tres"
+        },
+        {
+          "id": 129887,
+          "name": "Vergara"
+        },
+        {
+          "id": 129890,
+          "name": "Villa Sara"
+        }
+      ]
+    }
+  ]
+}

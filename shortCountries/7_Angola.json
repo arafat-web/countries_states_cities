@@ -1,0 +1,402 @@
+{
+  "id": 7,
+  "name": "Angola",
+  "short_name": "AGO",
+  "phone_code": "244",
+  "currency": "AOA",
+  "currency_name": "Angolan kwanza",
+  "currency_symbol": "Kz",
+  "states": [
+    {
+      "id": 221,
+      "name": "Bengo Province",
+      "state_code": "BGO",
+      "cities": [
+        {
+          "id": 153645,
+          "name": "Ambriz"
+        },
+        {
+          "id": 153646,
+          "name": "Bula Atumba"
+        },
+        {
+          "id": 598,
+          "name": "Caxito"
+        },
+        {
+          "id": 153647,
+          "name": "Dande"
+        },
+        {
+          "id": 153648,
+          "name": "Muxima"
+        },
+        {
+          "id": 153649,
+          "name": "Nambuangongo"
+        },
+        {
+          "id": 153650,
+          "name": "Pango Aluquém"
+        },
+        {
+          "id": 153651,
+          "name": "Úcua"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Benguela Province",
+      "state_code": "BGU",
+      "cities": [
+        {
+          "id": 153653,
+          "name": "Baía Farta"
+        },
+        {
+          "id": 153654,
+          "name": "Balombo"
+        },
+        {
+          "id": 590,
+          "name": "Benguela"
+        },
+        {
+          "id": 153656,
+          "name": "Bocoio"
+        },
+        {
+          "id": 153659,
+          "name": "Caimbambo"
+        },
+        {
+          "id": 153652,
+          "name": "Catumbela"
+        },
+        {
+          "id": 597,
+          "name": "Catumbela"
+        },
+        {
+          "id": 153655,
+          "name": "Chongoroi"
+        },
+        {
+          "id": 153658,
+          "name": "Cubal"
+        },
+        {
+          "id": 153657,
+          "name": "Ganda"
+        },
+        {
+          "id": 613,
+          "name": "Lobito"
+        },
+        {
+          "id": 153660,
+          "name": "Sumbe"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Bié Province",
+      "state_code": "BIE",
+      "cities": [
+        {
+          "id": 595,
+          "name": "Camacupa"
+        },
+        {
+          "id": 596,
+          "name": "Catabola"
+        },
+        {
+          "id": 605,
+          "name": "Chissamba"
+        },
+        {
+          "id": 606,
+          "name": "Cuito"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Cabinda Province",
+      "state_code": "CAB",
+      "cities": [
+        {
+          "id": 591,
+          "name": "Cabinda"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Cuando Cubango Province",
+      "state_code": "CCU",
+      "cities": [
+        {
+          "id": 625,
+          "name": "Menongue"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Cuanza Norte Province",
+      "state_code": "CNO",
+      "cities": [
+        {
+          "id": 594,
+          "name": "Camabatela"
+        },
+        {
+          "id": 627,
+          "name": "N’dalatando"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Cuanza Sul",
+      "state_code": "CUS",
+      "cities": [
+        {
+          "id": 629,
+          "name": "Quibala"
+        },
+        {
+          "id": 634,
+          "name": "Sumbe"
+        },
+        {
+          "id": 635,
+          "name": "Uacu Cungo"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Cunene Province",
+      "state_code": "CNN",
+      "cities": [
+        {
+          "id": 628,
+          "name": "Ondjiva"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Huambo Province",
+      "state_code": "HUA",
+      "cities": [
+        {
+          "id": 600,
+          "name": "Caála"
+        },
+        {
+          "id": 601,
+          "name": "Chela"
+        },
+        {
+          "id": 609,
+          "name": "Huambo"
+        },
+        {
+          "id": 614,
+          "name": "Longonjo"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Huíla Province",
+      "state_code": "HUI",
+      "cities": [
+        {
+          "id": 592,
+          "name": "Caconda"
+        },
+        {
+          "id": 593,
+          "name": "Caluquembe"
+        },
+        {
+          "id": 602,
+          "name": "Chibia"
+        },
+        {
+          "id": 603,
+          "name": "Chicomba"
+        },
+        {
+          "id": 604,
+          "name": "Chipindo"
+        },
+        {
+          "id": 607,
+          "name": "Cuvango"
+        },
+        {
+          "id": 608,
+          "name": "Gambos"
+        },
+        {
+          "id": 610,
+          "name": "Humpata"
+        },
+        {
+          "id": 612,
+          "name": "Jamba"
+        },
+        {
+          "id": 617,
+          "name": "Lubango"
+        },
+        {
+          "id": 623,
+          "name": "Matala"
+        },
+        {
+          "id": 630,
+          "name": "Quilengues"
+        },
+        {
+          "id": 631,
+          "name": "Quipungo"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Luanda Province",
+      "state_code": "LUA",
+      "cities": [
+        {
+          "id": 589,
+          "name": "Belas"
+        },
+        {
+          "id": 153641,
+          "name": "Cacuaco"
+        },
+        {
+          "id": 153642,
+          "name": "Cazenga"
+        },
+        {
+          "id": 611,
+          "name": "Icolo e Bengo"
+        },
+        {
+          "id": 615,
+          "name": "Luanda"
+        },
+        {
+          "id": 153643,
+          "name": "Talatona"
+        },
+        {
+          "id": 153644,
+          "name": "Viana"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Lunda Norte Province",
+      "state_code": "LNO",
+      "cities": [
+        {
+          "id": 618,
+          "name": "Lucapa"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Lunda Sul Province",
+      "state_code": "LSU",
+      "cities": [
+        {
+          "id": 599,
+          "name": "Cazaji"
+        },
+        {
+          "id": 632,
+          "name": "Saurimo"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Malanje Province",
+      "state_code": "MAL",
+      "cities": [
+        {
+          "id": 622,
+          "name": "Malanje"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Moxico Province",
+      "state_code": "MOX",
+      "cities": [
+        {
+          "id": 621,
+          "name": "Léua"
+        },
+        {
+          "id": 616,
+          "name": "Luau"
+        },
+        {
+          "id": 619,
+          "name": "Luena"
+        },
+        {
+          "id": 620,
+          "name": "Lumeje"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Uíge Province",
+      "state_code": "UIG",
+      "cities": [
+        {
+          "id": 636,
+          "name": "Uíge"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Zaire Province",
+      "state_code": "ZAI",
+      "cities": [
+        {
+          "id": 624,
+          "name": "Mbanza Congo"
+        },
+        {
+          "id": 626,
+          "name": "N'zeto"
+        },
+        {
+          "id": 633,
+          "name": "Soio"
+        }
+      ]
+    }
+  ]
+}

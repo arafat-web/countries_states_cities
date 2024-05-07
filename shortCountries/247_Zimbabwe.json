@@ -1,0 +1,517 @@
+{
+  "id": 247,
+  "name": "Zimbabwe",
+  "short_name": "ZWE",
+  "phone_code": "263",
+  "currency": "ZWL",
+  "currency_name": "Zimbabwe Dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 1956,
+      "name": "Bulawayo Province",
+      "state_code": "BU",
+      "cities": [
+        {
+          "id": 131411,
+          "name": "Bulawayo"
+        }
+      ]
+    },
+    {
+      "id": 1958,
+      "name": "Harare Province",
+      "state_code": "HA",
+      "cities": [
+        {
+          "id": 131425,
+          "name": "Chitungwiza"
+        },
+        {
+          "id": 131431,
+          "name": "Epworth"
+        },
+        {
+          "id": 131443,
+          "name": "Harare"
+        }
+      ]
+    },
+    {
+      "id": 1959,
+      "name": "Manicaland",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 131410,
+          "name": "Buhera District"
+        },
+        {
+          "id": 131417,
+          "name": "Chimanimani"
+        },
+        {
+          "id": 131418,
+          "name": "Chimanimani District"
+        },
+        {
+          "id": 131420,
+          "name": "Chipinge"
+        },
+        {
+          "id": 131421,
+          "name": "Chipinge District"
+        },
+        {
+          "id": 131430,
+          "name": "Dorowa Mining Lease"
+        },
+        {
+          "id": 131444,
+          "name": "Headlands"
+        },
+        {
+          "id": 131464,
+          "name": "Makoni District"
+        },
+        {
+          "id": 131480,
+          "name": "Mutare"
+        },
+        {
+          "id": 131481,
+          "name": "Mutare District"
+        },
+        {
+          "id": 131482,
+          "name": "Mutasa District"
+        },
+        {
+          "id": 131489,
+          "name": "Nyanga"
+        },
+        {
+          "id": 131490,
+          "name": "Nyanga District"
+        },
+        {
+          "id": 131491,
+          "name": "Nyazura"
+        },
+        {
+          "id": 131492,
+          "name": "Odzi"
+        },
+        {
+          "id": 131493,
+          "name": "Penhalonga"
+        },
+        {
+          "id": 131497,
+          "name": "Rusape"
+        }
+      ]
+    },
+    {
+      "id": 1955,
+      "name": "Mashonaland Central Province",
+      "state_code": "MC",
+      "cities": [
+        {
+          "id": 131405,
+          "name": "Bindura"
+        },
+        {
+          "id": 131406,
+          "name": "Bindura District"
+        },
+        {
+          "id": 131412,
+          "name": "Centenary"
+        },
+        {
+          "id": 131413,
+          "name": "Centenary District"
+        },
+        {
+          "id": 131428,
+          "name": "Concession"
+        },
+        {
+          "id": 131434,
+          "name": "Glendale"
+        },
+        {
+          "id": 131437,
+          "name": "Guruve District"
+        },
+        {
+          "id": 131472,
+          "name": "Mazowe"
+        },
+        {
+          "id": 131473,
+          "name": "Mazowe District"
+        },
+        {
+          "id": 131476,
+          "name": "Mount Darwin"
+        },
+        {
+          "id": 131485,
+          "name": "Mvurwi"
+        },
+        {
+          "id": 131498,
+          "name": "Rushinga District"
+        },
+        {
+          "id": 131500,
+          "name": "Shamva"
+        },
+        {
+          "id": 131501,
+          "name": "Shamva District"
+        }
+      ]
+    },
+    {
+      "id": 1951,
+      "name": "Mashonaland East Province",
+      "state_code": "ME",
+      "cities": [
+        {
+          "id": 131401,
+          "name": "Beatrice"
+        },
+        {
+          "id": 131426,
+          "name": "Chivhu"
+        },
+        {
+          "id": 131436,
+          "name": "Goromonzi District"
+        },
+        {
+          "id": 131462,
+          "name": "Macheke"
+        },
+        {
+          "id": 131466,
+          "name": "Marondera"
+        },
+        {
+          "id": 131467,
+          "name": "Marondera District"
+        },
+        {
+          "id": 131477,
+          "name": "Mudzi District"
+        },
+        {
+          "id": 131478,
+          "name": "Murehwa"
+        },
+        {
+          "id": 131479,
+          "name": "Murehwa District"
+        },
+        {
+          "id": 131483,
+          "name": "Mutoko"
+        },
+        {
+          "id": 131499,
+          "name": "Ruwa"
+        }
+      ]
+    },
+    {
+      "id": 1953,
+      "name": "Mashonaland West Province",
+      "state_code": "MW",
+      "cities": [
+        {
+          "id": 131400,
+          "name": "Banket"
+        },
+        {
+          "id": 131414,
+          "name": "Chakari"
+        },
+        {
+          "id": 131415,
+          "name": "Chegutu"
+        },
+        {
+          "id": 131416,
+          "name": "Chegutu District"
+        },
+        {
+          "id": 131419,
+          "name": "Chinhoyi"
+        },
+        {
+          "id": 131424,
+          "name": "Chirundu"
+        },
+        {
+          "id": 131445,
+          "name": "Hurungwe District"
+        },
+        {
+          "id": 131451,
+          "name": "Kadoma"
+        },
+        {
+          "id": 131452,
+          "name": "Kadoma District"
+        },
+        {
+          "id": 131454,
+          "name": "Kariba"
+        },
+        {
+          "id": 131455,
+          "name": "Kariba District"
+        },
+        {
+          "id": 131456,
+          "name": "Karoi"
+        },
+        {
+          "id": 131463,
+          "name": "Makonde District"
+        },
+        {
+          "id": 131475,
+          "name": "Mhangura"
+        },
+        {
+          "id": 131488,
+          "name": "Norton"
+        },
+        {
+          "id": 131495,
+          "name": "Raffingora"
+        }
+      ]
+    },
+    {
+      "id": 1960,
+      "name": "Masvingo Province",
+      "state_code": "MV",
+      "cities": [
+        {
+          "id": 131404,
+          "name": "Bikita District"
+        },
+        {
+          "id": 131422,
+          "name": "Chiredzi"
+        },
+        {
+          "id": 131423,
+          "name": "Chiredzi District"
+        },
+        {
+          "id": 131427,
+          "name": "Chivi District"
+        },
+        {
+          "id": 131438,
+          "name": "Gutu District"
+        },
+        {
+          "id": 131468,
+          "name": "Mashava"
+        },
+        {
+          "id": 131469,
+          "name": "Masvingo"
+        },
+        {
+          "id": 131470,
+          "name": "Masvingo District"
+        },
+        {
+          "id": 131486,
+          "name": "Mwenezi District"
+        },
+        {
+          "id": 131507,
+          "name": "Zvishavane"
+        }
+      ]
+    },
+    {
+      "id": 1954,
+      "name": "Matabeleland North Province",
+      "state_code": "MN",
+      "cities": [
+        {
+          "id": 131407,
+          "name": "Binga"
+        },
+        {
+          "id": 131408,
+          "name": "Binga District"
+        },
+        {
+          "id": 131409,
+          "name": "Bubi District"
+        },
+        {
+          "id": 131429,
+          "name": "Dete"
+        },
+        {
+          "id": 131446,
+          "name": "Hwange"
+        },
+        {
+          "id": 131447,
+          "name": "Hwange District"
+        },
+        {
+          "id": 131450,
+          "name": "Inyati"
+        },
+        {
+          "id": 131453,
+          "name": "Kamativi Mine"
+        },
+        {
+          "id": 131460,
+          "name": "Lupane"
+        },
+        {
+          "id": 131461,
+          "name": "Lupane District"
+        },
+        {
+          "id": 131487,
+          "name": "Nkayi District"
+        },
+        {
+          "id": 131506,
+          "name": "Victoria Falls"
+        }
+      ]
+    },
+    {
+      "id": 1952,
+      "name": "Matabeleland South Province",
+      "state_code": "MS",
+      "cities": [
+        {
+          "id": 131402,
+          "name": "Beitbridge"
+        },
+        {
+          "id": 131403,
+          "name": "Beitbridge District"
+        },
+        {
+          "id": 131432,
+          "name": "Esigodini"
+        },
+        {
+          "id": 131433,
+          "name": "Filabusi"
+        },
+        {
+          "id": 131439,
+          "name": "Gwanda"
+        },
+        {
+          "id": 131440,
+          "name": "Gwanda District"
+        },
+        {
+          "id": 131448,
+          "name": "Insiza"
+        },
+        {
+          "id": 131449,
+          "name": "Insiza District"
+        },
+        {
+          "id": 131465,
+          "name": "Mangwe District"
+        },
+        {
+          "id": 131471,
+          "name": "Matobo"
+        },
+        {
+          "id": 131494,
+          "name": "Plumtree"
+        },
+        {
+          "id": 131505,
+          "name": "Umzingwane District"
+        }
+      ]
+    },
+    {
+      "id": 1957,
+      "name": "Midlands Province",
+      "state_code": "MI",
+      "cities": [
+        {
+          "id": 131435,
+          "name": "Gokwe"
+        },
+        {
+          "id": 131441,
+          "name": "Gweru"
+        },
+        {
+          "id": 131442,
+          "name": "Gweru District"
+        },
+        {
+          "id": 131457,
+          "name": "Kwekwe"
+        },
+        {
+          "id": 131458,
+          "name": "Kwekwe District"
+        },
+        {
+          "id": 131459,
+          "name": "Lalapanzi"
+        },
+        {
+          "id": 131474,
+          "name": "Mberengwa District"
+        },
+        {
+          "id": 131484,
+          "name": "Mvuma"
+        },
+        {
+          "id": 131496,
+          "name": "Redcliff"
+        },
+        {
+          "id": 131502,
+          "name": "Shangani"
+        },
+        {
+          "id": 131503,
+          "name": "Shurugwi"
+        },
+        {
+          "id": 131504,
+          "name": "Shurugwi District"
+        },
+        {
+          "id": 131508,
+          "name": "Zvishavane District"
+        }
+      ]
+    }
+  ]
+}

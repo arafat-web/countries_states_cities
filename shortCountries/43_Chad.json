@@ -1,0 +1,371 @@
+{
+  "id": 43,
+  "name": "Chad",
+  "short_name": "TCD",
+  "phone_code": "235",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "states": [
+    {
+      "id": 3583,
+      "name": "Bahr el Gazel",
+      "state_code": "BG",
+      "cities": [
+        {
+          "id": 105152,
+          "name": "Moussoro"
+        }
+      ]
+    },
+    {
+      "id": 3590,
+      "name": "Batha",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 105120,
+          "name": "Ati"
+        },
+        {
+          "id": 105154,
+          "name": "Oum Hadjer"
+        }
+      ]
+    },
+    {
+      "id": 3574,
+      "name": "Borkou",
+      "state_code": "BO",
+      "cities": [
+        {
+          "id": 105133,
+          "name": "Faya-Largeau"
+        }
+      ]
+    },
+    {
+      "id": 5114,
+      "name": "Chari-Baguirmi",
+      "state_code": "CB",
+      "cities": [
+        {
+          "id": 153256,
+          "name": "Baguirmi Department"
+        },
+        {
+          "id": 153257,
+          "name": "Bousso"
+        },
+        {
+          "id": 153258,
+          "name": "Chari Department"
+        },
+        {
+          "id": 153259,
+          "name": "Dababa"
+        },
+        {
+          "id": 153260,
+          "name": "Gaoui"
+        },
+        {
+          "id": 153261,
+          "name": "Linia"
+        },
+        {
+          "id": 153262,
+          "name": "Mandjafa"
+        },
+        {
+          "id": 153263,
+          "name": "Massenya"
+        }
+      ]
+    },
+    {
+      "id": 3575,
+      "name": "Ennedi-Est",
+      "state_code": "EE",
+      "cities": []
+    },
+    {
+      "id": 3584,
+      "name": "Ennedi-Ouest",
+      "state_code": "EO",
+      "cities": [
+        {
+          "id": 105132,
+          "name": "Fada"
+        }
+      ]
+    },
+    {
+      "id": 3576,
+      "name": "Guéra",
+      "state_code": "GR",
+      "cities": [
+        {
+          "id": 105124,
+          "name": "Bitkine"
+        },
+        {
+          "id": 105149,
+          "name": "Melfi"
+        },
+        {
+          "id": 105150,
+          "name": "Mongo"
+        }
+      ]
+    },
+    {
+      "id": 3573,
+      "name": "Hadjer-Lamis",
+      "state_code": "HL",
+      "cities": [
+        {
+          "id": 105125,
+          "name": "Bokoro"
+        },
+        {
+          "id": 105146,
+          "name": "Massaguet"
+        },
+        {
+          "id": 105147,
+          "name": "Massakory"
+        }
+      ]
+    },
+    {
+      "id": 3588,
+      "name": "Kanem",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 105145,
+          "name": "Mao"
+        }
+      ]
+    },
+    {
+      "id": 3577,
+      "name": "Lac",
+      "state_code": "LC",
+      "cities": [
+        {
+          "id": 105126,
+          "name": "Bol"
+        }
+      ]
+    },
+    {
+      "id": 3585,
+      "name": "Logone Occidental",
+      "state_code": "LO",
+      "cities": [
+        {
+          "id": 105122,
+          "name": "Beïnamar"
+        },
+        {
+          "id": 105121,
+          "name": "Benoy"
+        },
+        {
+          "id": 105143,
+          "name": "Lac Wey"
+        },
+        {
+          "id": 105151,
+          "name": "Moundou"
+        }
+      ]
+    },
+    {
+      "id": 3591,
+      "name": "Logone Oriental",
+      "state_code": "LR",
+      "cities": [
+        {
+          "id": 105129,
+          "name": "Bébédja"
+        },
+        {
+          "id": 105128,
+          "name": "Béboto"
+        },
+        {
+          "id": 105131,
+          "name": "Doba"
+        }
+      ]
+    },
+    {
+      "id": 3589,
+      "name": "Mandoul",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 105134,
+          "name": "Goundi"
+        },
+        {
+          "id": 105141,
+          "name": "Koumra"
+        },
+        {
+          "id": 105153,
+          "name": "Moïssala"
+        }
+      ]
+    },
+    {
+      "id": 3580,
+      "name": "Mayo-Kebbi Est",
+      "state_code": "ME",
+      "cities": [
+        {
+          "id": 105127,
+          "name": "Bongor"
+        },
+        {
+          "id": 105135,
+          "name": "Gounou Gaya"
+        },
+        {
+          "id": 105138,
+          "name": "Guelendeng"
+        }
+      ]
+    },
+    {
+      "id": 3571,
+      "name": "Mayo-Kebbi Ouest",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 105148,
+          "name": "Mboursou Léré"
+        },
+        {
+          "id": 105155,
+          "name": "Pala"
+        }
+      ]
+    },
+    {
+      "id": 3570,
+      "name": "Moyen-Chari",
+      "state_code": "MC",
+      "cities": [
+        {
+          "id": 105142,
+          "name": "Kyabé"
+        },
+        {
+          "id": 105156,
+          "name": "Sarh"
+        }
+      ]
+    },
+    {
+      "id": 3586,
+      "name": "N'Djamena",
+      "state_code": "ND",
+      "cities": [
+        {
+          "id": 153264,
+          "name": "N'Djamena"
+        }
+      ]
+    },
+    {
+      "id": 3582,
+      "name": "Ouaddaï",
+      "state_code": "OD",
+      "cities": [
+        {
+          "id": 105116,
+          "name": "Abéché"
+        },
+        {
+          "id": 105117,
+          "name": "Adré"
+        },
+        {
+          "id": 105137,
+          "name": "Goz Béïda"
+        }
+      ]
+    },
+    {
+      "id": 3592,
+      "name": "Salamat",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 105118,
+          "name": "Am Timan"
+        }
+      ]
+    },
+    {
+      "id": 3572,
+      "name": "Sila",
+      "state_code": "SI",
+      "cities": [
+        {
+          "id": 105136,
+          "name": "Goz Beïda"
+        }
+      ]
+    },
+    {
+      "id": 3579,
+      "name": "Tandjilé",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 105130,
+          "name": "Béré"
+        },
+        {
+          "id": 105140,
+          "name": "Kelo"
+        },
+        {
+          "id": 105144,
+          "name": "Laï"
+        }
+      ]
+    },
+    {
+      "id": 3587,
+      "name": "Tibesti",
+      "state_code": "TI",
+      "cities": [
+        {
+          "id": 105119,
+          "name": "Aozou"
+        }
+      ]
+    },
+    {
+      "id": 3581,
+      "name": "Wadi Fira",
+      "state_code": "WF",
+      "cities": [
+        {
+          "id": 105123,
+          "name": "Biltine"
+        },
+        {
+          "id": 105139,
+          "name": "Iriba"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": 67,
+  "name": "Equatorial Guinea",
+  "short_name": "GNQ",
+  "phone_code": "240",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "states": [
+    {
+      "id": 3444,
+      "name": "Annobón Province",
+      "state_code": "AN",
+      "cities": [
+        {
+          "id": 52397,
+          "name": "San Antonio de Palé"
+        }
+      ]
+    },
+    {
+      "id": 3446,
+      "name": "Bioko Norte Province",
+      "state_code": "BN",
+      "cities": [
+        {
+          "id": 52387,
+          "name": "Malabo"
+        },
+        {
+          "id": 52395,
+          "name": "Rebola"
+        },
+        {
+          "id": 52398,
+          "name": "Santiago de Baney"
+        }
+      ]
+    },
+    {
+      "id": 3443,
+      "name": "Bioko Sur Province",
+      "state_code": "BS",
+      "cities": [
+        {
+          "id": 52385,
+          "name": "Luba"
+        }
+      ]
+    },
+    {
+      "id": 3445,
+      "name": "Centro Sur Province",
+      "state_code": "CS",
+      "cities": [
+        {
+          "id": 52376,
+          "name": "Acurenam"
+        },
+        {
+          "id": 52380,
+          "name": "Bicurga"
+        },
+        {
+          "id": 52384,
+          "name": "Evinayong"
+        }
+      ]
+    },
+    {
+      "id": 3442,
+      "name": "Insular Region",
+      "state_code": "I",
+      "cities": []
+    },
+    {
+      "id": 3439,
+      "name": "Kié-Ntem Province",
+      "state_code": "KN",
+      "cities": [
+        {
+          "id": 52383,
+          "name": "Ebebiyin"
+        },
+        {
+          "id": 52390,
+          "name": "Mikomeseng"
+        },
+        {
+          "id": 52392,
+          "name": "Ncue"
+        },
+        {
+          "id": 52393,
+          "name": "Nsang"
+        }
+      ]
+    },
+    {
+      "id": 3441,
+      "name": "Litoral Province",
+      "state_code": "LI",
+      "cities": [
+        {
+          "id": 52379,
+          "name": "Bata"
+        },
+        {
+          "id": 52381,
+          "name": "Bitica"
+        },
+        {
+          "id": 52382,
+          "name": "Cogo"
+        },
+        {
+          "id": 52386,
+          "name": "Machinda"
+        },
+        {
+          "id": 52388,
+          "name": "Mbini"
+        },
+        {
+          "id": 52396,
+          "name": "Río Campo"
+        }
+      ]
+    },
+    {
+      "id": 3438,
+      "name": "Río Muni",
+      "state_code": "C",
+      "cities": []
+    },
+    {
+      "id": 3440,
+      "name": "Wele-Nzas Province",
+      "state_code": "WN",
+      "cities": [
+        {
+          "id": 52375,
+          "name": "Aconibe"
+        },
+        {
+          "id": 52378,
+          "name": "Añisoc"
+        },
+        {
+          "id": 52377,
+          "name": "Ayene"
+        },
+        {
+          "id": 52389,
+          "name": "Mengomeyén"
+        },
+        {
+          "id": 52391,
+          "name": "Mongomo"
+        },
+        {
+          "id": 52394,
+          "name": "Nsok"
+        }
+      ]
+    }
+  ]
+}

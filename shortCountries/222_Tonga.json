@@ -1,0 +1,78 @@
+{
+  "id": 222,
+  "name": "Tonga",
+  "short_name": "TON",
+  "phone_code": "676",
+  "currency": "TOP",
+  "currency_name": "Tongan paʻanga",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3913,
+      "name": "Haʻapai",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 107049,
+          "name": "Pangai"
+        }
+      ]
+    },
+    {
+      "id": 3915,
+      "name": "ʻEua",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 107051,
+          "name": "‘Ohonua"
+        }
+      ]
+    },
+    {
+      "id": 3914,
+      "name": "Niuas",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 107045,
+          "name": "Hihifo"
+        }
+      ]
+    },
+    {
+      "id": 3912,
+      "name": "Tongatapu",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 107044,
+          "name": "Haveluloto"
+        },
+        {
+          "id": 107046,
+          "name": "Kolonga"
+        },
+        {
+          "id": 107048,
+          "name": "Nuku‘alofa"
+        },
+        {
+          "id": 107050,
+          "name": "Vaini"
+        }
+      ]
+    },
+    {
+      "id": 3911,
+      "name": "Vavaʻu",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 107047,
+          "name": "Neiafu"
+        }
+      ]
+    }
+  ]
+}

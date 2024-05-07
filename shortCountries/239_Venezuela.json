@@ -1,0 +1,729 @@
+{
+  "id": 239,
+  "name": "Venezuela",
+  "short_name": "VEN",
+  "phone_code": "58",
+  "currency": "VES",
+  "currency_name": "Bolívar",
+  "currency_symbol": "Bs",
+  "states": [
+    {
+      "id": 2044,
+      "name": "Amazonas",
+      "state_code": "Z",
+      "cities": [
+        {
+          "id": 130106,
+          "name": "Maroa"
+        },
+        {
+          "id": 130110,
+          "name": "Municipio Autónomo Alto Orinoco"
+        },
+        {
+          "id": 130131,
+          "name": "Puerto Ayacucho"
+        },
+        {
+          "id": 130142,
+          "name": "San Carlos de Río Negro"
+        },
+        {
+          "id": 130146,
+          "name": "San Fernando de Atabapo"
+        },
+        {
+          "id": 130149,
+          "name": "San Juan de Manapiare"
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "name": "Anzoátegui",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 130041,
+          "name": "Anaco"
+        },
+        {
+          "id": 130042,
+          "name": "Aragua de Barcelona"
+        },
+        {
+          "id": 130044,
+          "name": "Barcelona"
+        },
+        {
+          "id": 130054,
+          "name": "Cantaura"
+        },
+        {
+          "id": 130078,
+          "name": "El Tigre"
+        },
+        {
+          "id": 130113,
+          "name": "Municipio José Gregorio Monagas"
+        },
+        {
+          "id": 130127,
+          "name": "Onoto"
+        },
+        {
+          "id": 130133,
+          "name": "Puerto La Cruz"
+        },
+        {
+          "id": 130134,
+          "name": "Puerto Píritu"
+        },
+        {
+          "id": 130148,
+          "name": "San José de Guanipa"
+        }
+      ]
+    },
+    {
+      "id": 4856,
+      "name": "Apure",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 153351,
+          "name": "San Fernando de Apure"
+        }
+      ]
+    },
+    {
+      "id": 2047,
+      "name": "Aragua",
+      "state_code": "D",
+      "cities": [
+        {
+          "id": 130052,
+          "name": "Cagua"
+        },
+        {
+          "id": 130077,
+          "name": "El Limón"
+        },
+        {
+          "id": 130093,
+          "name": "La Victoria"
+        },
+        {
+          "id": 130096,
+          "name": "Las Tejerías"
+        },
+        {
+          "id": 130104,
+          "name": "Maracay"
+        },
+        {
+          "id": 130128,
+          "name": "Palo Negro"
+        },
+        {
+          "id": 130151,
+          "name": "San Mateo"
+        },
+        {
+          "id": 130153,
+          "name": "Santa Rita"
+        },
+        {
+          "id": 130162,
+          "name": "Turmero"
+        },
+        {
+          "id": 130169,
+          "name": "Villa de Cura"
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "name": "Barinas",
+      "state_code": "E",
+      "cities": [
+        {
+          "id": 130040,
+          "name": "Alto Barinas"
+        },
+        {
+          "id": 130045,
+          "name": "Barinas"
+        },
+        {
+          "id": 130046,
+          "name": "Barinitas"
+        },
+        {
+          "id": 130111,
+          "name": "Municipio Barinas"
+        }
+      ]
+    },
+    {
+      "id": 2039,
+      "name": "Bolívar",
+      "state_code": "F",
+      "cities": [
+        {
+          "id": 130067,
+          "name": "Ciudad Bolívar"
+        },
+        {
+          "id": 130068,
+          "name": "Ciudad Guayana"
+        },
+        {
+          "id": 130119,
+          "name": "Municipio Padre Pedro Chien"
+        },
+        {
+          "id": 130152,
+          "name": "Santa Elena de Uairén"
+        },
+        {
+          "id": 130164,
+          "name": "Upata"
+        }
+      ]
+    },
+    {
+      "id": 2040,
+      "name": "Carabobo",
+      "state_code": "G",
+      "cities": [
+        {
+          "id": 130081,
+          "name": "Guacara"
+        },
+        {
+          "id": 130085,
+          "name": "Güigüe"
+        },
+        {
+          "id": 130098,
+          "name": "Los Guayos"
+        },
+        {
+          "id": 130105,
+          "name": "Mariara"
+        },
+        {
+          "id": 130108,
+          "name": "Morón"
+        },
+        {
+          "id": 130132,
+          "name": "Puerto Cabello"
+        },
+        {
+          "id": 130147,
+          "name": "San Joaquín"
+        },
+        {
+          "id": 130156,
+          "name": "Tacarigua"
+        },
+        {
+          "id": 130158,
+          "name": "Tocuyito"
+        },
+        {
+          "id": 130165,
+          "name": "Valencia"
+        }
+      ]
+    },
+    {
+      "id": 2034,
+      "name": "Cojedes",
+      "state_code": "H",
+      "cities": [
+        {
+          "id": 130141,
+          "name": "San Carlos"
+        },
+        {
+          "id": 130157,
+          "name": "Tinaquillo"
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "name": "Delta Amacuro",
+      "state_code": "Y",
+      "cities": [
+        {
+          "id": 130161,
+          "name": "Tucupita"
+        }
+      ]
+    },
+    {
+      "id": 4855,
+      "name": "Distrito Capital",
+      "state_code": "A",
+      "cities": [
+        {
+          "id": 149261,
+          "name": "Caracas"
+        }
+      ]
+    },
+    {
+      "id": 2035,
+      "name": "Falcón",
+      "state_code": "I",
+      "cities": [
+        {
+          "id": 130065,
+          "name": "Chichiriviche"
+        },
+        {
+          "id": 130071,
+          "name": "Coro"
+        },
+        {
+          "id": 130116,
+          "name": "Municipio Los Taques"
+        },
+        {
+          "id": 130118,
+          "name": "Municipio Miranda"
+        },
+        {
+          "id": 130135,
+          "name": "Punta Cardón"
+        },
+        {
+          "id": 130136,
+          "name": "Punto Fijo"
+        },
+        {
+          "id": 130160,
+          "name": "Tucacas"
+        }
+      ]
+    },
+    {
+      "id": 2046,
+      "name": "Federal Dependencies of Venezuela",
+      "state_code": "W",
+      "cities": []
+    },
+    {
+      "id": 2045,
+      "name": "Guárico",
+      "state_code": "J",
+      "cities": [
+        {
+          "id": 130039,
+          "name": "Altagracia de Orituco"
+        },
+        {
+          "id": 130053,
+          "name": "Calabozo"
+        },
+        {
+          "id": 130150,
+          "name": "San Juan de los Morros"
+        },
+        {
+          "id": 130167,
+          "name": "Valle de La Pascua"
+        },
+        {
+          "id": 130171,
+          "name": "Zaraza"
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "La Guaira",
+      "state_code": "X",
+      "cities": [
+        {
+          "id": 130055,
+          "name": "Caraballeda"
+        },
+        {
+          "id": 130060,
+          "name": "Catia La Mar"
+        },
+        {
+          "id": 130092,
+          "name": "La Guaira"
+        },
+        {
+          "id": 130102,
+          "name": "Maiquetía"
+        }
+      ]
+    },
+    {
+      "id": 2038,
+      "name": "Lara",
+      "state_code": "K",
+      "cities": [
+        {
+          "id": 130047,
+          "name": "Barquisimeto"
+        },
+        {
+          "id": 130051,
+          "name": "Cabudare"
+        },
+        {
+          "id": 130057,
+          "name": "Carora"
+        },
+        {
+          "id": 130079,
+          "name": "El Tocuyo"
+        },
+        {
+          "id": 130099,
+          "name": "Los Rastrojos"
+        },
+        {
+          "id": 130137,
+          "name": "Quíbor"
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "name": "Mérida",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 130074,
+          "name": "Ejido"
+        },
+        {
+          "id": 130080,
+          "name": "El Vigía"
+        },
+        {
+          "id": 130124,
+          "name": "Mérida"
+        },
+        {
+          "id": 130109,
+          "name": "Mucumpiz"
+        },
+        {
+          "id": 130115,
+          "name": "Municipio Libertador"
+        }
+      ]
+    },
+    {
+      "id": 2037,
+      "name": "Miranda",
+      "state_code": "M",
+      "cities": [
+        {
+          "id": 130048,
+          "name": "Baruta"
+        },
+        {
+          "id": 130058,
+          "name": "Carrizal"
+        },
+        {
+          "id": 130061,
+          "name": "Caucaguita"
+        },
+        {
+          "id": 130062,
+          "name": "Caucagüito"
+        },
+        {
+          "id": 130063,
+          "name": "Chacao"
+        },
+        {
+          "id": 130064,
+          "name": "Charallave"
+        },
+        {
+          "id": 130073,
+          "name": "Cúa"
+        },
+        {
+          "id": 130075,
+          "name": "El Cafetal"
+        },
+        {
+          "id": 130076,
+          "name": "El Hatillo"
+        },
+        {
+          "id": 130083,
+          "name": "Guarenas"
+        },
+        {
+          "id": 130084,
+          "name": "Guatire"
+        },
+        {
+          "id": 130089,
+          "name": "La Dolorita"
+        },
+        {
+          "id": 130097,
+          "name": "Los Dos Caminos"
+        },
+        {
+          "id": 130100,
+          "name": "Los Teques"
+        },
+        {
+          "id": 130126,
+          "name": "Ocumare del Tuy"
+        },
+        {
+          "id": 130129,
+          "name": "Petare"
+        },
+        {
+          "id": 130139,
+          "name": "San Antonio de Los Altos"
+        },
+        {
+          "id": 130155,
+          "name": "Santa Teresa del Tuy"
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "name": "Monagas",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 130056,
+          "name": "Caripito"
+        },
+        {
+          "id": 130107,
+          "name": "Maturín"
+        },
+        {
+          "id": 130117,
+          "name": "Municipio Maturín"
+        },
+        {
+          "id": 130122,
+          "name": "Municipio Uracoa"
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "name": "Nueva Esparta",
+      "state_code": "O",
+      "cities": [
+        {
+          "id": 130087,
+          "name": "Juan Griego"
+        },
+        {
+          "id": 130088,
+          "name": "La Asunción"
+        },
+        {
+          "id": 130130,
+          "name": "Porlamar"
+        }
+      ]
+    },
+    {
+      "id": 2036,
+      "name": "Portuguesa",
+      "state_code": "P",
+      "cities": [
+        {
+          "id": 130038,
+          "name": "Acarigua"
+        },
+        {
+          "id": 130043,
+          "name": "Araure"
+        },
+        {
+          "id": 130082,
+          "name": "Guanare"
+        },
+        {
+          "id": 130168,
+          "name": "Villa Bruzual"
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "name": "Sucre",
+      "state_code": "R",
+      "cities": [
+        {
+          "id": 130059,
+          "name": "Carúpano"
+        },
+        {
+          "id": 130072,
+          "name": "Cumaná"
+        },
+        {
+          "id": 130086,
+          "name": "Güiria"
+        },
+        {
+          "id": 130123,
+          "name": "Municipio Valdez"
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "name": "Táchira",
+      "state_code": "S",
+      "cities": [
+        {
+          "id": 130070,
+          "name": "Colón"
+        },
+        {
+          "id": 130090,
+          "name": "La Fría"
+        },
+        {
+          "id": 130091,
+          "name": "La Grita"
+        },
+        {
+          "id": 130114,
+          "name": "Municipio José María Vargas"
+        },
+        {
+          "id": 130138,
+          "name": "Rubio"
+        },
+        {
+          "id": 130140,
+          "name": "San Antonio del Táchira"
+        },
+        {
+          "id": 130144,
+          "name": "San Cristóbal"
+        },
+        {
+          "id": 130163,
+          "name": "Táriba"
+        }
+      ]
+    },
+    {
+      "id": 2043,
+      "name": "Trujillo",
+      "state_code": "T",
+      "cities": [
+        {
+          "id": 130049,
+          "name": "Boconó"
+        },
+        {
+          "id": 130120,
+          "name": "Municipio Pampanito"
+        },
+        {
+          "id": 130121,
+          "name": "Municipio San Rafael de Carvajal"
+        },
+        {
+          "id": 130159,
+          "name": "Trujillo"
+        },
+        {
+          "id": 130166,
+          "name": "Valera"
+        }
+      ]
+    },
+    {
+      "id": 2041,
+      "name": "Yaracuy",
+      "state_code": "U",
+      "cities": [
+        {
+          "id": 130066,
+          "name": "Chivacoa"
+        },
+        {
+          "id": 130112,
+          "name": "Municipio Independencia"
+        },
+        {
+          "id": 130125,
+          "name": "Nirgua"
+        },
+        {
+          "id": 130145,
+          "name": "San Felipe"
+        },
+        {
+          "id": 130170,
+          "name": "Yaritagua"
+        }
+      ]
+    },
+    {
+      "id": 2042,
+      "name": "Zulia",
+      "state_code": "V",
+      "cities": [
+        {
+          "id": 130050,
+          "name": "Cabimas"
+        },
+        {
+          "id": 130069,
+          "name": "Ciudad Ojeda"
+        },
+        {
+          "id": 130094,
+          "name": "La Villa del Rosario"
+        },
+        {
+          "id": 130095,
+          "name": "Lagunillas"
+        },
+        {
+          "id": 130101,
+          "name": "Machiques"
+        },
+        {
+          "id": 130103,
+          "name": "Maracaibo"
+        },
+        {
+          "id": 130143,
+          "name": "San Carlos del Zulia"
+        },
+        {
+          "id": 130154,
+          "name": "Santa Rita"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "id": 81,
+  "name": "Georgia",
+  "short_name": "GEO",
+  "phone_code": "995",
+  "currency": "GEL",
+  "currency_name": "Georgian lari",
+  "currency_symbol": "ლ",
+  "states": [
+    {
+      "id": 901,
+      "name": "Abkhazia",
+      "state_code": "AB",
+      "cities": [
+        {
+          "id": 52054,
+          "name": "Bich’vinta"
+        },
+        {
+          "id": 52063,
+          "name": "Dranda"
+        },
+        {
+          "id": 52065,
+          "name": "Gagra"
+        },
+        {
+          "id": 52066,
+          "name": "Gali"
+        },
+        {
+          "id": 52067,
+          "name": "Gantiadi"
+        },
+        {
+          "id": 52073,
+          "name": "Gudauta"
+        },
+        {
+          "id": 52078,
+          "name": "Kelasuri"
+        },
+        {
+          "id": 52105,
+          "name": "Och’amch’ire"
+        },
+        {
+          "id": 52111,
+          "name": "P’rimorsk’oe"
+        },
+        {
+          "id": 52122,
+          "name": "Sokhumi"
+        },
+        {
+          "id": 52123,
+          "name": "Stantsiya Novyy Afon"
+        },
+        {
+          "id": 52130,
+          "name": "Tqvarch'eli"
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "name": "Adjara",
+      "state_code": "AJ",
+      "cities": [
+        {
+          "id": 52040,
+          "name": "Akhaldaba"
+        },
+        {
+          "id": 52053,
+          "name": "Batumi"
+        },
+        {
+          "id": 52058,
+          "name": "Chakvi"
+        },
+        {
+          "id": 52061,
+          "name": "Dioknisi"
+        },
+        {
+          "id": 52081,
+          "name": "Khelvachauri"
+        },
+        {
+          "id": 52084,
+          "name": "Khulo"
+        },
+        {
+          "id": 52085,
+          "name": "Kobuleti"
+        },
+        {
+          "id": 52093,
+          "name": "Makhinjauri"
+        },
+        {
+          "id": 52104,
+          "name": "Ochkhamuri"
+        },
+        {
+          "id": 52119,
+          "name": "Shuakhevi"
+        },
+        {
+          "id": 52134,
+          "name": "Tsikhisdziri"
+        }
+      ]
+    },
+    {
+      "id": 907,
+      "name": "Guria",
+      "state_code": "GU",
+      "cities": [
+        {
+          "id": 52091,
+          "name": "Lanchkhuti"
+        },
+        {
+          "id": 52102,
+          "name": "Naruja"
+        },
+        {
+          "id": 52108,
+          "name": "Ozurgeti"
+        },
+        {
+          "id": 52141,
+          "name": "Urek’i"
+        }
+      ]
+    },
+    {
+      "id": 905,
+      "name": "Imereti",
+      "state_code": "IM",
+      "cities": [
+        {
+          "id": 52051,
+          "name": "Baghdatis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52059,
+          "name": "Chiat’ura"
+        },
+        {
+          "id": 52088,
+          "name": "K’alak’i Chiat’ura"
+        },
+        {
+          "id": 52089,
+          "name": "K’ulashi"
+        },
+        {
+          "id": 52079,
+          "name": "Kharagauli"
+        },
+        {
+          "id": 52083,
+          "name": "Khoni"
+        },
+        {
+          "id": 52086,
+          "name": "Kutaisi"
+        },
+        {
+          "id": 52114,
+          "name": "Sach’khere"
+        },
+        {
+          "id": 52116,
+          "name": "Samtredia"
+        },
+        {
+          "id": 52118,
+          "name": "Shorapani"
+        },
+        {
+          "id": 52129,
+          "name": "Tqibuli"
+        },
+        {
+          "id": 52137,
+          "name": "Tsqaltubo"
+        },
+        {
+          "id": 52143,
+          "name": "Vani"
+        },
+        {
+          "id": 52144,
+          "name": "Zestap’oni"
+        }
+      ]
+    },
+    {
+      "id": 910,
+      "name": "Kakheti",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 52045,
+          "name": "Akhmet’a"
+        },
+        {
+          "id": 52046,
+          "name": "Akhmet’is Munitsip’alit’et’i"
+        },
+        {
+          "id": 52074,
+          "name": "Gurjaani"
+        },
+        {
+          "id": 52090,
+          "name": "Lagodekhi"
+        },
+        {
+          "id": 52112,
+          "name": "Qvareli"
+        },
+        {
+          "id": 52115,
+          "name": "Sagarejo"
+        },
+        {
+          "id": 52120,
+          "name": "Sighnaghi"
+        },
+        {
+          "id": 52121,
+          "name": "Sighnaghis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52127,
+          "name": "Telavi"
+        },
+        {
+          "id": 52135,
+          "name": "Tsinandali"
+        },
+        {
+          "id": 52136,
+          "name": "Tsnori"
+        }
+      ]
+    },
+    {
+      "id": 897,
+      "name": "Khelvachauri Municipality",
+      "state_code": "29",
+      "cities": []
+    },
+    {
+      "id": 904,
+      "name": "Kvemo Kartli",
+      "state_code": "KK",
+      "cities": [
+        {
+          "id": 52055,
+          "name": "Bolnisi"
+        },
+        {
+          "id": 52056,
+          "name": "Bolnisis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52060,
+          "name": "Didi Lilo"
+        },
+        {
+          "id": 52062,
+          "name": "Dmanisis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52068,
+          "name": "Gardabani"
+        },
+        {
+          "id": 52069,
+          "name": "Gardabnis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52094,
+          "name": "Manglisi"
+        },
+        {
+          "id": 52095,
+          "name": "Marneuli"
+        },
+        {
+          "id": 52096,
+          "name": "Marneulis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52101,
+          "name": "Naghvarevi"
+        },
+        {
+          "id": 52113,
+          "name": "Rust’avi"
+        },
+        {
+          "id": 52140,
+          "name": "T’et’ri Tsqaro"
+        },
+        {
+          "id": 52128,
+          "name": "Tetrits’q’alos Munitsip’alit’et’i"
+        },
+        {
+          "id": 52138,
+          "name": "Ts’alk’is Munitsip’alit’et’i"
+        },
+        {
+          "id": 52133,
+          "name": "Tsalka"
+        }
+      ]
+    },
+    {
+      "id": 902,
+      "name": "Mtskheta-Mtianeti",
+      "state_code": "MM",
+      "cities": [
+        {
+          "id": 52041,
+          "name": "Akhalgori"
+        },
+        {
+          "id": 52064,
+          "name": "Dzegvi"
+        },
+        {
+          "id": 52072,
+          "name": "Gudauri"
+        },
+        {
+          "id": 52075,
+          "name": "Java"
+        },
+        {
+          "id": 52100,
+          "name": "Mtskheta"
+        },
+        {
+          "id": 52109,
+          "name": "P’asanauri"
+        },
+        {
+          "id": 52124,
+          "name": "Step’antsminda"
+        },
+        {
+          "id": 52145,
+          "name": "Zhinvali"
+        }
+      ]
+    },
+    {
+      "id": 909,
+      "name": "Racha-Lechkhumi and Kvemo Svaneti",
+      "state_code": "RL",
+      "cities": [
+        {
+          "id": 52047,
+          "name": "Ambrolauri"
+        },
+        {
+          "id": 52048,
+          "name": "Ambrolauris Munitsip’alit’et’i"
+        },
+        {
+          "id": 52092,
+          "name": "Lent’ekhi"
+        },
+        {
+          "id": 52106,
+          "name": "Oni"
+        }
+      ]
+    },
+    {
+      "id": 908,
+      "name": "Samegrelo-Zemo Svaneti",
+      "state_code": "SZ",
+      "cities": [
+        {
+          "id": 52035,
+          "name": "Abasha"
+        },
+        {
+          "id": 52076,
+          "name": "Jvari"
+        },
+        {
+          "id": 52082,
+          "name": "Khobi"
+        },
+        {
+          "id": 52087,
+          "name": "Kveda Chkhorots’q’u"
+        },
+        {
+          "id": 52097,
+          "name": "Mart’vili"
+        },
+        {
+          "id": 52098,
+          "name": "Mest’ia"
+        },
+        {
+          "id": 52099,
+          "name": "Mest’iis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52107,
+          "name": "Orsant’ia"
+        },
+        {
+          "id": 52110,
+          "name": "P’ot’i"
+        },
+        {
+          "id": 52117,
+          "name": "Senak’i"
+        },
+        {
+          "id": 52132,
+          "name": "Tsalenjikha"
+        },
+        {
+          "id": 52146,
+          "name": "Zugdidi"
+        }
+      ]
+    },
+    {
+      "id": 906,
+      "name": "Samtskhe-Javakheti",
+      "state_code": "SJ",
+      "cities": [
+        {
+          "id": 52036,
+          "name": "Adigeni"
+        },
+        {
+          "id": 52037,
+          "name": "Adigeni Municipality"
+        },
+        {
+          "id": 52039,
+          "name": "Akhaldaba"
+        },
+        {
+          "id": 52042,
+          "name": "Akhalk’alak’i"
+        },
+        {
+          "id": 52043,
+          "name": "Akhaltsikhe"
+        },
+        {
+          "id": 52044,
+          "name": "Akhaltsikhis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52050,
+          "name": "Asp’indzis Munitsip’alit’et’i"
+        },
+        {
+          "id": 52049,
+          "name": "Aspindza"
+        },
+        {
+          "id": 52052,
+          "name": "Bakuriani"
+        },
+        {
+          "id": 52057,
+          "name": "Borjomi"
+        },
+        {
+          "id": 52103,
+          "name": "Ninotsminda"
+        },
+        {
+          "id": 52131,
+          "name": "Tsaghveri"
+        },
+        {
+          "id": 52142,
+          "name": "Vale"
+        }
+      ]
+    },
+    {
+      "id": 898,
+      "name": "Senaki Municipality",
+      "state_code": "50",
+      "cities": []
+    },
+    {
+      "id": 903,
+      "name": "Shida Kartli",
+      "state_code": "SK",
+      "cities": [
+        {
+          "id": 52038,
+          "name": "Agara"
+        },
+        {
+          "id": 52070,
+          "name": "Gori"
+        },
+        {
+          "id": 52071,
+          "name": "Goris Munitsip’alit’et’i"
+        },
+        {
+          "id": 52077,
+          "name": "Kaspi"
+        },
+        {
+          "id": 52080,
+          "name": "Khashuri"
+        },
+        {
+          "id": 52125,
+          "name": "Surami"
+        },
+        {
+          "id": 52139,
+          "name": "Ts’khinvali"
+        }
+      ]
+    },
+    {
+      "id": 899,
+      "name": "Tbilisi",
+      "state_code": "TB",
+      "cities": [
+        {
+          "id": 52126,
+          "name": "Tbilisi"
+        }
+      ]
+    }
+  ]
+}

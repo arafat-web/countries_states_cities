@@ -1,0 +1,132 @@
+{
+  "id": 125,
+  "name": "Liechtenstein",
+  "short_name": "LIE",
+  "phone_code": "423",
+  "currency": "CHF",
+  "currency_name": "Swiss franc",
+  "currency_symbol": "CHf",
+  "states": [
+    {
+      "id": 458,
+      "name": "Balzers",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 66437,
+          "name": "Balzers"
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Eschen",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 66438,
+          "name": "Eschen"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "Gamprin",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 66439,
+          "name": "Gamprin"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "name": "Mauren",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 66440,
+          "name": "Mauren"
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Planken",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 66441,
+          "name": "Planken"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Ruggell",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 66442,
+          "name": "Ruggell"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Schaan",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 66443,
+          "name": "Schaan"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Schellenberg",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 66444,
+          "name": "Schellenberg"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Triesen",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 66445,
+          "name": "Triesen"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Triesenberg",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 66446,
+          "name": "Triesenberg"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "name": "Vaduz",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 66447,
+          "name": "Vaduz"
+        }
+      ]
+    }
+  ]
+}

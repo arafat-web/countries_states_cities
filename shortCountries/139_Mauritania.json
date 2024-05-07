@@ -1,0 +1,271 @@
+{
+  "id": 139,
+  "name": "Mauritania",
+  "short_name": "MRT",
+  "phone_code": "222",
+  "currency": "MRO",
+  "currency_name": "Mauritanian ouguiya",
+  "currency_symbol": "MRU",
+  "states": [
+    {
+      "id": 3344,
+      "name": "Adrar",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 67746,
+          "name": "Atar"
+        },
+        {
+          "id": 150074,
+          "name": "Azougui"
+        },
+        {
+          "id": 67748,
+          "name": "Chingueṭṭi"
+        },
+        {
+          "id": 150075,
+          "name": "Ksar el Khali"
+        }
+      ]
+    },
+    {
+      "id": 3349,
+      "name": "Assaba",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 67747,
+          "name": "Barkéwol"
+        },
+        {
+          "id": 67750,
+          "name": "Kiffa"
+        }
+      ]
+    },
+    {
+      "id": 3339,
+      "name": "Brakna",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 67757,
+          "name": "’Elb el Jmel"
+        },
+        {
+          "id": 67745,
+          "name": "Aleg"
+        },
+        {
+          "id": 150071,
+          "name": "Bofal"
+        },
+        {
+          "id": 150072,
+          "name": "Sori Malé"
+        }
+      ]
+    },
+    {
+      "id": 3346,
+      "name": "Dakhlet Nouadhibou",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 150076,
+          "name": "Cansado"
+        },
+        {
+          "id": 150077,
+          "name": "Iouik"
+        },
+        {
+          "id": 67751,
+          "name": "Nouadhibou"
+        }
+      ]
+    },
+    {
+      "id": 3341,
+      "name": "Gorgol",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 67749,
+          "name": "Kaédi"
+        }
+      ]
+    },
+    {
+      "id": 3350,
+      "name": "Guidimaka",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 67754,
+          "name": "Sélibaby"
+        }
+      ]
+    },
+    {
+      "id": 3338,
+      "name": "Hodh Ech Chargui",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 150066,
+          "name": "Diade"
+        },
+        {
+          "id": 150067,
+          "name": "Kataouane"
+        },
+        {
+          "id": 67752,
+          "name": "Néma"
+        },
+        {
+          "id": 150068,
+          "name": "Timbedra"
+        }
+      ]
+    },
+    {
+      "id": 3351,
+      "name": "Hodh El Gharbi",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 67743,
+          "name": "Aioun"
+        },
+        {
+          "id": 150069,
+          "name": "Ayoun el Atrous"
+        },
+        {
+          "id": 150070,
+          "name": "Togba"
+        }
+      ]
+    },
+    {
+      "id": 3342,
+      "name": "Inchiri",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 67744,
+          "name": "Akjoujt"
+        }
+      ]
+    },
+    {
+      "id": 3343,
+      "name": "Nouakchott-Nord",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 150085,
+          "name": "Dar-Naim"
+        },
+        {
+          "id": 150086,
+          "name": "Teyarett"
+        },
+        {
+          "id": 150087,
+          "name": "Toujouonine"
+        }
+      ]
+    },
+    {
+      "id": 3352,
+      "name": "Nouakchott-Ouest",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 150082,
+          "name": "Ksar"
+        },
+        {
+          "id": 150083,
+          "name": "Sebkha"
+        },
+        {
+          "id": 150084,
+          "name": "Tevragh-Zeina"
+        }
+      ]
+    },
+    {
+      "id": 3347,
+      "name": "Nouakchott-Sud",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 150088,
+          "name": "Arafat"
+        },
+        {
+          "id": 150089,
+          "name": "Riyad"
+        }
+      ]
+    },
+    {
+      "id": 3345,
+      "name": "Tagant",
+      "state_code": "09",
+      "cities": []
+    },
+    {
+      "id": 3340,
+      "name": "Tiris Zemmour",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 150078,
+          "name": "Ain Ben Tili"
+        },
+        {
+          "id": 150079,
+          "name": "Chegga"
+        },
+        {
+          "id": 150080,
+          "name": "Fderîck"
+        },
+        {
+          "id": 150081,
+          "name": "Zouérat"
+        },
+        {
+          "id": 67756,
+          "name": "Zouerate"
+        }
+      ]
+    },
+    {
+      "id": 3348,
+      "name": "Trarza",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 150073,
+          "name": "Legat"
+        },
+        {
+          "id": 67753,
+          "name": "Rosso"
+        },
+        {
+          "id": 67755,
+          "name": "Tékane"
+        }
+      ]
+    }
+  ]
+}

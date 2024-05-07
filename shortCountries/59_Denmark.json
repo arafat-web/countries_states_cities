@@ -1,0 +1,1766 @@
+{
+  "id": 59,
+  "name": "Denmark",
+  "short_name": "DNK",
+  "phone_code": "45",
+  "currency": "DKK",
+  "currency_name": "Danish krone",
+  "currency_symbol": "Kr.",
+  "states": [
+    {
+      "id": 1530,
+      "name": "Capital Region of Denmark",
+      "state_code": "84",
+      "cities": [
+        {
+          "id": 30990,
+          "name": "Åkirkeby"
+        },
+        {
+          "id": 30577,
+          "name": "Albertslund"
+        },
+        {
+          "id": 30578,
+          "name": "Albertslund Kommune"
+        },
+        {
+          "id": 30579,
+          "name": "Allerød Kommune"
+        },
+        {
+          "id": 30589,
+          "name": "Ballerup"
+        },
+        {
+          "id": 30590,
+          "name": "Ballerup Kommune"
+        },
+        {
+          "id": 30595,
+          "name": "Birkerød"
+        },
+        {
+          "id": 30598,
+          "name": "Blovstrød"
+        },
+        {
+          "id": 30601,
+          "name": "Bornholm Kommune"
+        },
+        {
+          "id": 30610,
+          "name": "Brøndby Kommune"
+        },
+        {
+          "id": 30616,
+          "name": "Charlottenlund"
+        },
+        {
+          "id": 30618,
+          "name": "Christianshavn"
+        },
+        {
+          "id": 30619,
+          "name": "Christiansø"
+        },
+        {
+          "id": 30620,
+          "name": "Copenhagen"
+        },
+        {
+          "id": 30622,
+          "name": "Dragør"
+        },
+        {
+          "id": 30623,
+          "name": "Dragør Kommune"
+        },
+        {
+          "id": 30627,
+          "name": "Egedal Kommune"
+        },
+        {
+          "id": 30633,
+          "name": "Espergærde"
+        },
+        {
+          "id": 30638,
+          "name": "Farum"
+        },
+        {
+          "id": 30645,
+          "name": "Fløng"
+        },
+        {
+          "id": 30648,
+          "name": "Fredensborg"
+        },
+        {
+          "id": 30649,
+          "name": "Fredensborg Kommune"
+        },
+        {
+          "id": 30652,
+          "name": "Frederiksberg"
+        },
+        {
+          "id": 30654,
+          "name": "Frederiksberg Kommune"
+        },
+        {
+          "id": 30657,
+          "name": "Frederikssund"
+        },
+        {
+          "id": 30658,
+          "name": "Frederikssund Kommune"
+        },
+        {
+          "id": 30659,
+          "name": "Frederiksværk"
+        },
+        {
+          "id": 30662,
+          "name": "Furesø Kommune"
+        },
+        {
+          "id": 30664,
+          "name": "Ganløse"
+        },
+        {
+          "id": 30665,
+          "name": "Gentofte Kommune"
+        },
+        {
+          "id": 30666,
+          "name": "Gilleleje"
+        },
+        {
+          "id": 30670,
+          "name": "Gladsaxe Municipality"
+        },
+        {
+          "id": 30672,
+          "name": "Glostrup"
+        },
+        {
+          "id": 30673,
+          "name": "Glostrup Kommune"
+        },
+        {
+          "id": 30681,
+          "name": "Græsted"
+        },
+        {
+          "id": 30678,
+          "name": "Gribskov Kommune"
+        },
+        {
+          "id": 30691,
+          "name": "Halsnæs Kommune"
+        },
+        {
+          "id": 153629,
+          "name": "Hedehusene"
+        },
+        {
+          "id": 30700,
+          "name": "Hellebæk"
+        },
+        {
+          "id": 30701,
+          "name": "Helsinge"
+        },
+        {
+          "id": 30702,
+          "name": "Helsingør"
+        },
+        {
+          "id": 30703,
+          "name": "Helsingør Kommune"
+        },
+        {
+          "id": 30704,
+          "name": "Herlev Kommune"
+        },
+        {
+          "id": 30707,
+          "name": "Hillerød"
+        },
+        {
+          "id": 30708,
+          "name": "Hillerød Kommune"
+        },
+        {
+          "id": 30722,
+          "name": "Hornbæk"
+        },
+        {
+          "id": 30736,
+          "name": "Høje-Taastrup Kommune"
+        },
+        {
+          "id": 30739,
+          "name": "Hørsholm"
+        },
+        {
+          "id": 30740,
+          "name": "Hørsholm Kommune"
+        },
+        {
+          "id": 30727,
+          "name": "Humlebæk"
+        },
+        {
+          "id": 30728,
+          "name": "Hundested"
+        },
+        {
+          "id": 30731,
+          "name": "Hvidovre"
+        },
+        {
+          "id": 30732,
+          "name": "Hvidovre Kommune"
+        },
+        {
+          "id": 30745,
+          "name": "Ishøj"
+        },
+        {
+          "id": 30746,
+          "name": "Ishøj Kommune"
+        },
+        {
+          "id": 30752,
+          "name": "Jægerspris"
+        },
+        {
+          "id": 30762,
+          "name": "Kokkedal"
+        },
+        {
+          "id": 30766,
+          "name": "Kongens Lyngby"
+        },
+        {
+          "id": 30770,
+          "name": "København"
+        },
+        {
+          "id": 30780,
+          "name": "Lillerød"
+        },
+        {
+          "id": 30782,
+          "name": "Liseleje"
+        },
+        {
+          "id": 30785,
+          "name": "Lyngby-Tårbæk Kommune"
+        },
+        {
+          "id": 30786,
+          "name": "Lynge"
+        },
+        {
+          "id": 30803,
+          "name": "Måløv"
+        },
+        {
+          "id": 30808,
+          "name": "Nexø"
+        },
+        {
+          "id": 30810,
+          "name": "Nivå"
+        },
+        {
+          "id": 30823,
+          "name": "Nødebo"
+        },
+        {
+          "id": 31000,
+          "name": "Ølstykke"
+        },
+        {
+          "id": 30857,
+          "name": "Rødovre"
+        },
+        {
+          "id": 30858,
+          "name": "Rødovre Kommune"
+        },
+        {
+          "id": 30861,
+          "name": "Rønne"
+        },
+        {
+          "id": 30849,
+          "name": "Rudersdal Kommune"
+        },
+        {
+          "id": 30880,
+          "name": "Skævinge"
+        },
+        {
+          "id": 30874,
+          "name": "Skibby"
+        },
+        {
+          "id": 30884,
+          "name": "Slangerup"
+        },
+        {
+          "id": 30885,
+          "name": "Smørumnedre"
+        },
+        {
+          "id": 30896,
+          "name": "Stavnsholt"
+        },
+        {
+          "id": 30900,
+          "name": "Stenløse"
+        },
+        {
+          "id": 30930,
+          "name": "Taastrup"
+        },
+        {
+          "id": 30946,
+          "name": "Tårnby"
+        },
+        {
+          "id": 30947,
+          "name": "Tårnby Kommune"
+        },
+        {
+          "id": 30944,
+          "name": "Trørød"
+        },
+        {
+          "id": 30957,
+          "name": "Vallensbæk"
+        },
+        {
+          "id": 30958,
+          "name": "Vallensbæk Kommune"
+        },
+        {
+          "id": 30960,
+          "name": "Vanløse"
+        },
+        {
+          "id": 30988,
+          "name": "Værløse"
+        },
+        {
+          "id": 30967,
+          "name": "Veksø"
+        }
+      ]
+    },
+    {
+      "id": 1531,
+      "name": "Central Denmark Region",
+      "state_code": "82",
+      "cities": [
+        {
+          "id": 30993,
+          "name": "Aarhus"
+        },
+        {
+          "id": 30994,
+          "name": "Aarhus Kommune"
+        },
+        {
+          "id": 30580,
+          "name": "Allingåbro"
+        },
+        {
+          "id": 30585,
+          "name": "Assentoft"
+        },
+        {
+          "id": 30587,
+          "name": "Auning"
+        },
+        {
+          "id": 30588,
+          "name": "Avlum"
+        },
+        {
+          "id": 30591,
+          "name": "Beder"
+        },
+        {
+          "id": 30596,
+          "name": "Bjerringbro"
+        },
+        {
+          "id": 30600,
+          "name": "Bording Kirkeby"
+        },
+        {
+          "id": 30604,
+          "name": "Brande"
+        },
+        {
+          "id": 30609,
+          "name": "Brædstrup"
+        },
+        {
+          "id": 30626,
+          "name": "Ebeltoft"
+        },
+        {
+          "id": 30639,
+          "name": "Favrskov Kommune"
+        },
+        {
+          "id": 30647,
+          "name": "Framlev"
+        },
+        {
+          "id": 30663,
+          "name": "Galten"
+        },
+        {
+          "id": 30669,
+          "name": "Gjellerup"
+        },
+        {
+          "id": 30675,
+          "name": "Grenaa"
+        },
+        {
+          "id": 30688,
+          "name": "Hadsten"
+        },
+        {
+          "id": 30692,
+          "name": "Hammel"
+        },
+        {
+          "id": 30693,
+          "name": "Hammerum"
+        },
+        {
+          "id": 30695,
+          "name": "Harboøre"
+        },
+        {
+          "id": 30698,
+          "name": "Hedensted"
+        },
+        {
+          "id": 30699,
+          "name": "Hedensted Kommune"
+        },
+        {
+          "id": 30705,
+          "name": "Herning"
+        },
+        {
+          "id": 30706,
+          "name": "Herning Kommune"
+        },
+        {
+          "id": 30709,
+          "name": "Hinnerup"
+        },
+        {
+          "id": 30712,
+          "name": "Hjortshøj"
+        },
+        {
+          "id": 30719,
+          "name": "Holstebro"
+        },
+        {
+          "id": 30720,
+          "name": "Holstebro Kommune"
+        },
+        {
+          "id": 30723,
+          "name": "Hornslet"
+        },
+        {
+          "id": 30724,
+          "name": "Hornsyld"
+        },
+        {
+          "id": 30725,
+          "name": "Horsens"
+        },
+        {
+          "id": 30726,
+          "name": "Horsens Kommune"
+        },
+        {
+          "id": 30738,
+          "name": "Hørning"
+        },
+        {
+          "id": 30730,
+          "name": "Hvide Sande"
+        },
+        {
+          "id": 30743,
+          "name": "Ikast"
+        },
+        {
+          "id": 30744,
+          "name": "Ikast-Brande Kommune"
+        },
+        {
+          "id": 30749,
+          "name": "Juelsminde"
+        },
+        {
+          "id": 30755,
+          "name": "Karup"
+        },
+        {
+          "id": 30758,
+          "name": "Kibæk"
+        },
+        {
+          "id": 30760,
+          "name": "Kjellerup"
+        },
+        {
+          "id": 30765,
+          "name": "Kolt"
+        },
+        {
+          "id": 30775,
+          "name": "Langå"
+        },
+        {
+          "id": 30778,
+          "name": "Lemvig"
+        },
+        {
+          "id": 30779,
+          "name": "Lemvig Kommune"
+        },
+        {
+          "id": 30781,
+          "name": "Lind"
+        },
+        {
+          "id": 30790,
+          "name": "Løgten"
+        },
+        {
+          "id": 30787,
+          "name": "Lystrup"
+        },
+        {
+          "id": 30794,
+          "name": "Malling"
+        },
+        {
+          "id": 30804,
+          "name": "Mårslet"
+        },
+        {
+          "id": 30813,
+          "name": "Norddjurs Kommune"
+        },
+        {
+          "id": 30827,
+          "name": "Odder"
+        },
+        {
+          "id": 30828,
+          "name": "Odder Kommune"
+        },
+        {
+          "id": 30838,
+          "name": "Randers"
+        },
+        {
+          "id": 30839,
+          "name": "Randers Kommune"
+        },
+        {
+          "id": 30843,
+          "name": "Ringkøbing"
+        },
+        {
+          "id": 30844,
+          "name": "Ringkøbing-Skjern Kommune"
+        },
+        {
+          "id": 30860,
+          "name": "Rønde"
+        },
+        {
+          "id": 30851,
+          "name": "Ry"
+        },
+        {
+          "id": 30852,
+          "name": "Ryomgård"
+        },
+        {
+          "id": 30863,
+          "name": "Sabro"
+        },
+        {
+          "id": 30865,
+          "name": "Samsø Kommune"
+        },
+        {
+          "id": 30867,
+          "name": "Silkeborg"
+        },
+        {
+          "id": 30868,
+          "name": "Silkeborg Kommune"
+        },
+        {
+          "id": 30872,
+          "name": "Skanderborg"
+        },
+        {
+          "id": 30873,
+          "name": "Skanderborg Kommune"
+        },
+        {
+          "id": 30875,
+          "name": "Skive"
+        },
+        {
+          "id": 30876,
+          "name": "Skive Kommune"
+        },
+        {
+          "id": 30877,
+          "name": "Skjern"
+        },
+        {
+          "id": 30878,
+          "name": "Skovby"
+        },
+        {
+          "id": 30886,
+          "name": "Snejbjerg"
+        },
+        {
+          "id": 30888,
+          "name": "Solbjerg"
+        },
+        {
+          "id": 30925,
+          "name": "Søften"
+        },
+        {
+          "id": 30894,
+          "name": "Spentrup"
+        },
+        {
+          "id": 30897,
+          "name": "Stavtrup"
+        },
+        {
+          "id": 30903,
+          "name": "Stilling"
+        },
+        {
+          "id": 30904,
+          "name": "Stoholm"
+        },
+        {
+          "id": 30909,
+          "name": "Struer"
+        },
+        {
+          "id": 30910,
+          "name": "Struer Kommune"
+        },
+        {
+          "id": 30915,
+          "name": "Sunds"
+        },
+        {
+          "id": 30917,
+          "name": "Svejbæk"
+        },
+        {
+          "id": 30923,
+          "name": "Syddjurs Kommune"
+        },
+        {
+          "id": 30931,
+          "name": "Tarm"
+        },
+        {
+          "id": 30936,
+          "name": "Thyborøn"
+        },
+        {
+          "id": 30952,
+          "name": "Tørring"
+        },
+        {
+          "id": 30942,
+          "name": "Tranbjerg"
+        },
+        {
+          "id": 30943,
+          "name": "Trige"
+        },
+        {
+          "id": 30953,
+          "name": "Ulfborg"
+        },
+        {
+          "id": 30955,
+          "name": "Ulstrup"
+        },
+        {
+          "id": 30972,
+          "name": "Viborg"
+        },
+        {
+          "id": 30973,
+          "name": "Viborg Kommune"
+        },
+        {
+          "id": 30975,
+          "name": "Videbæk"
+        },
+        {
+          "id": 30976,
+          "name": "Vildbjerg"
+        },
+        {
+          "id": 30978,
+          "name": "Vinderup"
+        },
+        {
+          "id": 30981,
+          "name": "Virklund"
+        }
+      ]
+    },
+    {
+      "id": 1532,
+      "name": "North Denmark Region",
+      "state_code": "81",
+      "cities": [
+        {
+          "id": 30575,
+          "name": "Aalborg"
+        },
+        {
+          "id": 30576,
+          "name": "Aars"
+        },
+        {
+          "id": 30989,
+          "name": "Åbybro"
+        },
+        {
+          "id": 30991,
+          "name": "Ålborg Kommune"
+        },
+        {
+          "id": 30992,
+          "name": "Ålestrup"
+        },
+        {
+          "id": 30581,
+          "name": "Arden"
+        },
+        {
+          "id": 30608,
+          "name": "Brovst"
+        },
+        {
+          "id": 30611,
+          "name": "Brønderslev"
+        },
+        {
+          "id": 30612,
+          "name": "Brønderslev Kommune"
+        },
+        {
+          "id": 30624,
+          "name": "Dronninglund"
+        },
+        {
+          "id": 30637,
+          "name": "Farsø"
+        },
+        {
+          "id": 30644,
+          "name": "Fjerritslev"
+        },
+        {
+          "id": 30655,
+          "name": "Frederikshavn"
+        },
+        {
+          "id": 30656,
+          "name": "Frederikshavn Kommune"
+        },
+        {
+          "id": 30660,
+          "name": "Frejlev"
+        },
+        {
+          "id": 30667,
+          "name": "Gistrup"
+        },
+        {
+          "id": 30689,
+          "name": "Hadsund"
+        },
+        {
+          "id": 30690,
+          "name": "Hals"
+        },
+        {
+          "id": 30694,
+          "name": "Hanstholm"
+        },
+        {
+          "id": 30710,
+          "name": "Hirtshals"
+        },
+        {
+          "id": 30711,
+          "name": "Hjallerup"
+        },
+        {
+          "id": 30713,
+          "name": "Hjørring"
+        },
+        {
+          "id": 30714,
+          "name": "Hjørring Kommune"
+        },
+        {
+          "id": 30715,
+          "name": "Hobro"
+        },
+        {
+          "id": 30729,
+          "name": "Hurup"
+        },
+        {
+          "id": 30747,
+          "name": "Jammerbugt Kommune"
+        },
+        {
+          "id": 30769,
+          "name": "Kås"
+        },
+        {
+          "id": 30761,
+          "name": "Klarup"
+        },
+        {
+          "id": 30788,
+          "name": "Læso Kommune"
+        },
+        {
+          "id": 30789,
+          "name": "Løgstør"
+        },
+        {
+          "id": 30793,
+          "name": "Løkken"
+        },
+        {
+          "id": 30795,
+          "name": "Mariager"
+        },
+        {
+          "id": 30796,
+          "name": "Mariagerfjord Kommune"
+        },
+        {
+          "id": 30801,
+          "name": "Morsø Kommune"
+        },
+        {
+          "id": 30809,
+          "name": "Nibe"
+        },
+        {
+          "id": 30826,
+          "name": "Nørresundby"
+        },
+        {
+          "id": 30818,
+          "name": "Nykøbing Mors"
+        },
+        {
+          "id": 30836,
+          "name": "Pandrup"
+        },
+        {
+          "id": 30840,
+          "name": "Rebild Kommune"
+        },
+        {
+          "id": 30924,
+          "name": "Sæby"
+        },
+        {
+          "id": 30869,
+          "name": "Sindal"
+        },
+        {
+          "id": 30871,
+          "name": "Skagen"
+        },
+        {
+          "id": 30881,
+          "name": "Skørping"
+        },
+        {
+          "id": 30906,
+          "name": "Storvorde"
+        },
+        {
+          "id": 30913,
+          "name": "Støvring"
+        },
+        {
+          "id": 30907,
+          "name": "Strandby"
+        },
+        {
+          "id": 30920,
+          "name": "Svenstrup"
+        },
+        {
+          "id": 30948,
+          "name": "Tårs"
+        },
+        {
+          "id": 30933,
+          "name": "Thisted"
+        },
+        {
+          "id": 30934,
+          "name": "Thisted Kommune"
+        },
+        {
+          "id": 30956,
+          "name": "Vadum"
+        },
+        {
+          "id": 30968,
+          "name": "Vestbjerg"
+        },
+        {
+          "id": 30969,
+          "name": "Vester Hassing"
+        },
+        {
+          "id": 30971,
+          "name": "Vesthimmerland Kommune"
+        },
+        {
+          "id": 30983,
+          "name": "Vodskov"
+        },
+        {
+          "id": 30987,
+          "name": "Vrå"
+        }
+      ]
+    },
+    {
+      "id": 1529,
+      "name": "Region of Southern Denmark",
+      "state_code": "83",
+      "cities": [
+        {
+          "id": 30573,
+          "name": "Aabenraa"
+        },
+        {
+          "id": 30574,
+          "name": "Aabenraa Kommune"
+        },
+        {
+          "id": 30995,
+          "name": "Årslev"
+        },
+        {
+          "id": 30996,
+          "name": "Årup"
+        },
+        {
+          "id": 30583,
+          "name": "Assens"
+        },
+        {
+          "id": 30584,
+          "name": "Assens Kommune"
+        },
+        {
+          "id": 30586,
+          "name": "Augustenborg"
+        },
+        {
+          "id": 30997,
+          "name": "Ærø Kommune"
+        },
+        {
+          "id": 30998,
+          "name": "Ærøskøbing"
+        },
+        {
+          "id": 30592,
+          "name": "Bellinge"
+        },
+        {
+          "id": 30593,
+          "name": "Billund"
+        },
+        {
+          "id": 30594,
+          "name": "Billund Kommune"
+        },
+        {
+          "id": 30599,
+          "name": "Bogense"
+        },
+        {
+          "id": 30615,
+          "name": "Børkop"
+        },
+        {
+          "id": 30603,
+          "name": "Bramming"
+        },
+        {
+          "id": 30605,
+          "name": "Brejning"
+        },
+        {
+          "id": 30606,
+          "name": "Brenderup"
+        },
+        {
+          "id": 30607,
+          "name": "Broager"
+        },
+        {
+          "id": 30613,
+          "name": "Brørup"
+        },
+        {
+          "id": 30614,
+          "name": "Bullerup"
+        },
+        {
+          "id": 30617,
+          "name": "Christiansfeld"
+        },
+        {
+          "id": 30625,
+          "name": "Dybbøl"
+        },
+        {
+          "id": 30628,
+          "name": "Egtved"
+        },
+        {
+          "id": 30629,
+          "name": "Ejby"
+        },
+        {
+          "id": 30631,
+          "name": "Esbjerg"
+        },
+        {
+          "id": 30632,
+          "name": "Esbjerg Kommune"
+        },
+        {
+          "id": 30634,
+          "name": "Faaborg"
+        },
+        {
+          "id": 30635,
+          "name": "Faaborg-Midtfyn Kommune"
+        },
+        {
+          "id": 30636,
+          "name": "Fanø Kommune"
+        },
+        {
+          "id": 30650,
+          "name": "Fredericia"
+        },
+        {
+          "id": 30651,
+          "name": "Fredericia Kommune"
+        },
+        {
+          "id": 30668,
+          "name": "Give"
+        },
+        {
+          "id": 30671,
+          "name": "Glamsbjerg"
+        },
+        {
+          "id": 30674,
+          "name": "Gram"
+        },
+        {
+          "id": 30680,
+          "name": "Gråsten"
+        },
+        {
+          "id": 30679,
+          "name": "Grindsted"
+        },
+        {
+          "id": 30682,
+          "name": "Guderup"
+        },
+        {
+          "id": 30686,
+          "name": "Haderslev"
+        },
+        {
+          "id": 30687,
+          "name": "Haderslev Kommune"
+        },
+        {
+          "id": 30733,
+          "name": "Hårby"
+        },
+        {
+          "id": 30721,
+          "name": "Holsted"
+        },
+        {
+          "id": 30735,
+          "name": "Højby"
+        },
+        {
+          "id": 30741,
+          "name": "Høruphav"
+        },
+        {
+          "id": 30748,
+          "name": "Jelling"
+        },
+        {
+          "id": 30756,
+          "name": "Kerteminde"
+        },
+        {
+          "id": 30757,
+          "name": "Kerteminde Kommune"
+        },
+        {
+          "id": 30763,
+          "name": "Kolding"
+        },
+        {
+          "id": 30764,
+          "name": "Kolding Kommune"
+        },
+        {
+          "id": 30768,
+          "name": "Kruså"
+        },
+        {
+          "id": 30773,
+          "name": "Langeland Kommune"
+        },
+        {
+          "id": 30774,
+          "name": "Langeskov"
+        },
+        {
+          "id": 30791,
+          "name": "Løgumkloster"
+        },
+        {
+          "id": 30792,
+          "name": "Løjt Kirkeby"
+        },
+        {
+          "id": 30784,
+          "name": "Lunderskov"
+        },
+        {
+          "id": 30798,
+          "name": "Marstal"
+        },
+        {
+          "id": 30799,
+          "name": "Middelfart"
+        },
+        {
+          "id": 30800,
+          "name": "Middelfart Kommune"
+        },
+        {
+          "id": 30802,
+          "name": "Munkebo"
+        },
+        {
+          "id": 30806,
+          "name": "Neder Holluf"
+        },
+        {
+          "id": 30811,
+          "name": "Nordborg"
+        },
+        {
+          "id": 30812,
+          "name": "Nordby"
+        },
+        {
+          "id": 30814,
+          "name": "Nordfyns Kommune"
+        },
+        {
+          "id": 30825,
+          "name": "Nørre Åby"
+        },
+        {
+          "id": 30815,
+          "name": "Nyborg"
+        },
+        {
+          "id": 30816,
+          "name": "Nyborg Kommune"
+        },
+        {
+          "id": 30829,
+          "name": "Odense"
+        },
+        {
+          "id": 30830,
+          "name": "Odense Kommune"
+        },
+        {
+          "id": 30832,
+          "name": "Oksbøl"
+        },
+        {
+          "id": 30834,
+          "name": "Otterup"
+        },
+        {
+          "id": 30999,
+          "name": "Ølgod"
+        },
+        {
+          "id": 30835,
+          "name": "Padborg"
+        },
+        {
+          "id": 30841,
+          "name": "Ribe"
+        },
+        {
+          "id": 30842,
+          "name": "Ringe"
+        },
+        {
+          "id": 30855,
+          "name": "Rødding"
+        },
+        {
+          "id": 30856,
+          "name": "Rødekro"
+        },
+        {
+          "id": 30850,
+          "name": "Rudkøbing"
+        },
+        {
+          "id": 30866,
+          "name": "Seden"
+        },
+        {
+          "id": 30870,
+          "name": "Skaerbaek"
+        },
+        {
+          "id": 30887,
+          "name": "Snoghøj"
+        },
+        {
+          "id": 30926,
+          "name": "Sønder Bjert"
+        },
+        {
+          "id": 30927,
+          "name": "Sønderborg"
+        },
+        {
+          "id": 30928,
+          "name": "Sønderborg Kommune"
+        },
+        {
+          "id": 30929,
+          "name": "Søndersø"
+        },
+        {
+          "id": 30895,
+          "name": "Starup"
+        },
+        {
+          "id": 30902,
+          "name": "Stige"
+        },
+        {
+          "id": 30908,
+          "name": "Strib"
+        },
+        {
+          "id": 30918,
+          "name": "Svendborg"
+        },
+        {
+          "id": 30919,
+          "name": "Svendborg Kommune"
+        },
+        {
+          "id": 30932,
+          "name": "Taulov"
+        },
+        {
+          "id": 30935,
+          "name": "Thurø By"
+        },
+        {
+          "id": 30937,
+          "name": "Tinglev"
+        },
+        {
+          "id": 30938,
+          "name": "Tjæreborg"
+        },
+        {
+          "id": 30939,
+          "name": "Toftlund"
+        },
+        {
+          "id": 30940,
+          "name": "Tommerup"
+        },
+        {
+          "id": 30941,
+          "name": "Tommerup Stationsby"
+        },
+        {
+          "id": 30950,
+          "name": "Tønder"
+        },
+        {
+          "id": 30951,
+          "name": "Tønder Kommune"
+        },
+        {
+          "id": 30954,
+          "name": "Ullerslev"
+        },
+        {
+          "id": 30959,
+          "name": "Vamdrup"
+        },
+        {
+          "id": 30961,
+          "name": "Varde"
+        },
+        {
+          "id": 30962,
+          "name": "Varde Kommune"
+        },
+        {
+          "id": 30963,
+          "name": "Vejen"
+        },
+        {
+          "id": 30964,
+          "name": "Vejen Kommune"
+        },
+        {
+          "id": 30965,
+          "name": "Vejle"
+        },
+        {
+          "id": 30966,
+          "name": "Vejle Kommune"
+        },
+        {
+          "id": 30970,
+          "name": "Vester-Skerninge"
+        },
+        {
+          "id": 30977,
+          "name": "Vindeby"
+        },
+        {
+          "id": 30982,
+          "name": "Vissenbjerg"
+        },
+        {
+          "id": 30984,
+          "name": "Vojens"
+        }
+      ]
+    },
+    {
+      "id": 1528,
+      "name": "Region Zealand",
+      "state_code": "85",
+      "cities": [
+        {
+          "id": 30582,
+          "name": "Asnæs"
+        },
+        {
+          "id": 30597,
+          "name": "Bjæverskov"
+        },
+        {
+          "id": 30602,
+          "name": "Borup"
+        },
+        {
+          "id": 30621,
+          "name": "Dianalund"
+        },
+        {
+          "id": 30630,
+          "name": "Ejby"
+        },
+        {
+          "id": 30640,
+          "name": "Faxe"
+        },
+        {
+          "id": 30641,
+          "name": "Faxe Kommune"
+        },
+        {
+          "id": 30642,
+          "name": "Faxe Ladeplads"
+        },
+        {
+          "id": 30643,
+          "name": "Fensmark"
+        },
+        {
+          "id": 30646,
+          "name": "Forlev"
+        },
+        {
+          "id": 30653,
+          "name": "Frederiksberg"
+        },
+        {
+          "id": 30661,
+          "name": "Fuglebjerg"
+        },
+        {
+          "id": 30685,
+          "name": "Gørlev"
+        },
+        {
+          "id": 30676,
+          "name": "Greve"
+        },
+        {
+          "id": 30677,
+          "name": "Greve Kommune"
+        },
+        {
+          "id": 30683,
+          "name": "Guldborgsund Kommune"
+        },
+        {
+          "id": 30684,
+          "name": "Gundsømagle"
+        },
+        {
+          "id": 30734,
+          "name": "Hårlev"
+        },
+        {
+          "id": 30696,
+          "name": "Haslev"
+        },
+        {
+          "id": 30697,
+          "name": "Havdrup"
+        },
+        {
+          "id": 30716,
+          "name": "Holbæk"
+        },
+        {
+          "id": 30717,
+          "name": "Holbæk Kommune"
+        },
+        {
+          "id": 30718,
+          "name": "Holeby"
+        },
+        {
+          "id": 30737,
+          "name": "Høng"
+        },
+        {
+          "id": 30742,
+          "name": "Hørve"
+        },
+        {
+          "id": 30750,
+          "name": "Jyderup"
+        },
+        {
+          "id": 30751,
+          "name": "Jyllinge"
+        },
+        {
+          "id": 30753,
+          "name": "Kalundborg"
+        },
+        {
+          "id": 30754,
+          "name": "Kalundborg Kommune"
+        },
+        {
+          "id": 30759,
+          "name": "Kirke Hvalsø"
+        },
+        {
+          "id": 30767,
+          "name": "Korsør"
+        },
+        {
+          "id": 30771,
+          "name": "Køge"
+        },
+        {
+          "id": 30772,
+          "name": "Køge Kommune"
+        },
+        {
+          "id": 30776,
+          "name": "Lejre"
+        },
+        {
+          "id": 30777,
+          "name": "Lejre Kommune"
+        },
+        {
+          "id": 30783,
+          "name": "Lolland Kommune"
+        },
+        {
+          "id": 30797,
+          "name": "Maribo"
+        },
+        {
+          "id": 30805,
+          "name": "Nakskov"
+        },
+        {
+          "id": 30821,
+          "name": "Næstved"
+        },
+        {
+          "id": 30822,
+          "name": "Næstved Kommune"
+        },
+        {
+          "id": 30807,
+          "name": "Neder Vindinge"
+        },
+        {
+          "id": 30824,
+          "name": "Nørre Alslev"
+        },
+        {
+          "id": 30817,
+          "name": "Nykøbing Falster"
+        },
+        {
+          "id": 30819,
+          "name": "Nykøbing Sjælland"
+        },
+        {
+          "id": 30820,
+          "name": "Nyråd"
+        },
+        {
+          "id": 30831,
+          "name": "Odsherred Kommune"
+        },
+        {
+          "id": 30833,
+          "name": "Osted"
+        },
+        {
+          "id": 31001,
+          "name": "Ørslev"
+        },
+        {
+          "id": 30837,
+          "name": "Præstø"
+        },
+        {
+          "id": 30845,
+          "name": "Ringsted"
+        },
+        {
+          "id": 30846,
+          "name": "Ringsted Kommune"
+        },
+        {
+          "id": 30847,
+          "name": "Roskilde"
+        },
+        {
+          "id": 30848,
+          "name": "Roskilde Kommune"
+        },
+        {
+          "id": 30853,
+          "name": "Rødby"
+        },
+        {
+          "id": 30854,
+          "name": "Rødbyhavn"
+        },
+        {
+          "id": 30859,
+          "name": "Rødvig"
+        },
+        {
+          "id": 30862,
+          "name": "Rønnede"
+        },
+        {
+          "id": 30864,
+          "name": "Sakskøbing"
+        },
+        {
+          "id": 30879,
+          "name": "Skælskør"
+        },
+        {
+          "id": 30882,
+          "name": "Slagelse"
+        },
+        {
+          "id": 30883,
+          "name": "Slagelse Kommune"
+        },
+        {
+          "id": 30889,
+          "name": "Solrød"
+        },
+        {
+          "id": 30890,
+          "name": "Solrød Kommune"
+        },
+        {
+          "id": 30891,
+          "name": "Solrød Strand"
+        },
+        {
+          "id": 30892,
+          "name": "Sorø"
+        },
+        {
+          "id": 30893,
+          "name": "Sorø Kommune"
+        },
+        {
+          "id": 30898,
+          "name": "Stege"
+        },
+        {
+          "id": 30899,
+          "name": "Stenlille"
+        },
+        {
+          "id": 30901,
+          "name": "Stevns Kommune"
+        },
+        {
+          "id": 30905,
+          "name": "Store Heddinge"
+        },
+        {
+          "id": 30911,
+          "name": "Strøby Egede"
+        },
+        {
+          "id": 30912,
+          "name": "Stubbekøbing"
+        },
+        {
+          "id": 30914,
+          "name": "Sundby"
+        },
+        {
+          "id": 30916,
+          "name": "Svebølle"
+        },
+        {
+          "id": 30921,
+          "name": "Svinninge"
+        },
+        {
+          "id": 30922,
+          "name": "Svogerslev"
+        },
+        {
+          "id": 30949,
+          "name": "Tølløse"
+        },
+        {
+          "id": 30945,
+          "name": "Tune"
+        },
+        {
+          "id": 30974,
+          "name": "Viby"
+        },
+        {
+          "id": 30979,
+          "name": "Vindinge"
+        },
+        {
+          "id": 30980,
+          "name": "Vipperød"
+        },
+        {
+          "id": 30985,
+          "name": "Vordingborg"
+        },
+        {
+          "id": 30986,
+          "name": "Vordingborg Kommune"
+        }
+      ]
+    }
+  ]
+}

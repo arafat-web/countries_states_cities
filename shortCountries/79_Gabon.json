@@ -1,0 +1,186 @@
+{
+  "id": 79,
+  "name": "Gabon",
+  "short_name": "GAB",
+  "phone_code": "241",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "states": [
+    {
+      "id": 2727,
+      "name": "Estuaire Province",
+      "state_code": "1",
+      "cities": [
+        {
+          "id": 48131,
+          "name": "Cocobeach"
+        },
+        {
+          "id": 48138,
+          "name": "Libreville"
+        },
+        {
+          "id": 48150,
+          "name": "Ntoum"
+        }
+      ]
+    },
+    {
+      "id": 2726,
+      "name": "Haut-Ogooué Province",
+      "state_code": "2",
+      "cities": [
+        {
+          "id": 48133,
+          "name": "Franceville"
+        },
+        {
+          "id": 48139,
+          "name": "Lékoni"
+        },
+        {
+          "id": 48145,
+          "name": "Moanda"
+        },
+        {
+          "id": 48147,
+          "name": "Mounana"
+        },
+        {
+          "id": 48151,
+          "name": "Okondja"
+        }
+      ]
+    },
+    {
+      "id": 2730,
+      "name": "Moyen-Ogooué Province",
+      "state_code": "3",
+      "cities": [
+        {
+          "id": 48136,
+          "name": "Lambaréné"
+        },
+        {
+          "id": 48149,
+          "name": "Ndjolé"
+        }
+      ]
+    },
+    {
+      "id": 2731,
+      "name": "Ngounié Province",
+      "state_code": "4",
+      "cities": [
+        {
+          "id": 48132,
+          "name": "Fougamou"
+        },
+        {
+          "id": 48142,
+          "name": "Mbigou"
+        },
+        {
+          "id": 48143,
+          "name": "Mimongo"
+        },
+        {
+          "id": 48146,
+          "name": "Mouila"
+        },
+        {
+          "id": 48148,
+          "name": "Ndendé"
+        }
+      ]
+    },
+    {
+      "id": 2725,
+      "name": "Nyanga Province",
+      "state_code": "5",
+      "cities": [
+        {
+          "id": 48141,
+          "name": "Mayumba"
+        },
+        {
+          "id": 48155,
+          "name": "Tchibanga"
+        }
+      ]
+    },
+    {
+      "id": 2724,
+      "name": "Ogooué-Ivindo Province",
+      "state_code": "6",
+      "cities": [
+        {
+          "id": 48130,
+          "name": "Booué"
+        },
+        {
+          "id": 48140,
+          "name": "Makokou"
+        },
+        {
+          "id": 48156,
+          "name": "Zadie"
+        }
+      ]
+    },
+    {
+      "id": 2729,
+      "name": "Ogooué-Lolo Province",
+      "state_code": "7",
+      "cities": [
+        {
+          "id": 48135,
+          "name": "Koulamoutou"
+        },
+        {
+          "id": 48137,
+          "name": "Lastoursville"
+        }
+      ]
+    },
+    {
+      "id": 2728,
+      "name": "Ogooué-Maritime Province",
+      "state_code": "8",
+      "cities": [
+        {
+          "id": 48134,
+          "name": "Gamba"
+        },
+        {
+          "id": 48152,
+          "name": "Omboué"
+        },
+        {
+          "id": 48154,
+          "name": "Port-Gentil"
+        }
+      ]
+    },
+    {
+      "id": 2723,
+      "name": "Woleu-Ntem Province",
+      "state_code": "9",
+      "cities": [
+        {
+          "id": 48129,
+          "name": "Bitam"
+        },
+        {
+          "id": 48144,
+          "name": "Mitzic"
+        },
+        {
+          "id": 48153,
+          "name": "Oyem"
+        }
+      ]
+    }
+  ]
+}

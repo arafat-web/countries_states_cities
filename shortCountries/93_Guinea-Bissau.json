@@ -1,0 +1,141 @@
+{
+  "id": 93,
+  "name": "Guinea-Bissau",
+  "short_name": "GNB",
+  "phone_code": "245",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "states": [
+    {
+      "id": 2720,
+      "name": "Bafatá",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 53807,
+          "name": "Bafatá"
+        },
+        {
+          "id": 53815,
+          "name": "Contuboel Sector"
+        }
+      ]
+    },
+    {
+      "id": 2714,
+      "name": "Biombo Region",
+      "state_code": "BM",
+      "cities": [
+        {
+          "id": 53820,
+          "name": "Quinhámel"
+        }
+      ]
+    },
+    {
+      "id": 2722,
+      "name": "Bolama Region",
+      "state_code": "BL",
+      "cities": [
+        {
+          "id": 53809,
+          "name": "Bolama"
+        },
+        {
+          "id": 53811,
+          "name": "Bubaque"
+        }
+      ]
+    },
+    {
+      "id": 2713,
+      "name": "Cacheu Region",
+      "state_code": "CA",
+      "cities": [
+        {
+          "id": 53812,
+          "name": "Cacheu"
+        },
+        {
+          "id": 53813,
+          "name": "Canchungo"
+        }
+      ]
+    },
+    {
+      "id": 2719,
+      "name": "Gabú Region",
+      "state_code": "GA",
+      "cities": [
+        {
+          "id": 53817,
+          "name": "Gabú"
+        }
+      ]
+    },
+    {
+      "id": 2721,
+      "name": "Leste Province",
+      "state_code": "L",
+      "cities": []
+    },
+    {
+      "id": 2717,
+      "name": "Norte Province",
+      "state_code": "N",
+      "cities": []
+    },
+    {
+      "id": 2718,
+      "name": "Oio Region",
+      "state_code": "OI",
+      "cities": [
+        {
+          "id": 53808,
+          "name": "Bissorã"
+        },
+        {
+          "id": 53816,
+          "name": "Farim"
+        },
+        {
+          "id": 53818,
+          "name": "Mansôa"
+        }
+      ]
+    },
+    {
+      "id": 2715,
+      "name": "Quinara Region",
+      "state_code": "QU",
+      "cities": [
+        {
+          "id": 53810,
+          "name": "Buba"
+        }
+      ]
+    },
+    {
+      "id": 2716,
+      "name": "Sul Province",
+      "state_code": "S",
+      "cities": []
+    },
+    {
+      "id": 2712,
+      "name": "Tombali Region",
+      "state_code": "TO",
+      "cities": [
+        {
+          "id": 53814,
+          "name": "Catió"
+        },
+        {
+          "id": 53819,
+          "name": "Quebo"
+        }
+      ]
+    }
+  ]
+}

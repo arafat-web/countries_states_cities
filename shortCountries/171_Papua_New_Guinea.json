@@ -1,0 +1,562 @@
+{
+  "id": 171,
+  "name": "Papua New Guinea",
+  "short_name": "PNG",
+  "phone_code": "675",
+  "currency": "PGK",
+  "currency_name": "Papua New Guinean kina",
+  "currency_symbol": "K",
+  "states": [
+    {
+      "id": 4831,
+      "name": "Bougainville",
+      "state_code": "NSB",
+      "cities": [
+        {
+          "id": 81029,
+          "name": "Arawa"
+        },
+        {
+          "id": 81033,
+          "name": "Central Bougainville"
+        },
+        {
+          "id": 81063,
+          "name": "Kieta"
+        },
+        {
+          "id": 81091,
+          "name": "North Bougainville"
+        },
+        {
+          "id": 81097,
+          "name": "Panguna"
+        },
+        {
+          "id": 81109,
+          "name": "South Bougainville"
+        }
+      ]
+    },
+    {
+      "id": 4847,
+      "name": "Central Province",
+      "state_code": "CPM",
+      "cities": [
+        {
+          "id": 81024,
+          "name": "Abau"
+        },
+        {
+          "id": 81041,
+          "name": "Goilala"
+        },
+        {
+          "id": 81055,
+          "name": "Kairuku-Hiri"
+        },
+        {
+          "id": 81104,
+          "name": "Rigo"
+        }
+      ]
+    },
+    {
+      "id": 4846,
+      "name": "Chimbu Province",
+      "state_code": "CPK",
+      "cities": [
+        {
+          "id": 81034,
+          "name": "Chuave"
+        },
+        {
+          "id": 81043,
+          "name": "Gumine"
+        },
+        {
+          "id": 81059,
+          "name": "Karimui Nomane"
+        },
+        {
+          "id": 81062,
+          "name": "Kerowagi"
+        },
+        {
+          "id": 81073,
+          "name": "Kundiawa"
+        },
+        {
+          "id": 81107,
+          "name": "Sinasina Yonggamugl"
+        }
+      ]
+    },
+    {
+      "id": 4834,
+      "name": "East New Britain",
+      "state_code": "EBR",
+      "cities": [
+        {
+          "id": 81040,
+          "name": "Gazelle"
+        },
+        {
+          "id": 81069,
+          "name": "Kokopo"
+        },
+        {
+          "id": 81098,
+          "name": "Pomio"
+        },
+        {
+          "id": 81102,
+          "name": "Rabaul"
+        }
+      ]
+    },
+    {
+      "id": 4845,
+      "name": "Eastern Highlands Province",
+      "state_code": "EHG",
+      "cities": [
+        {
+          "id": 81036,
+          "name": "Daulo"
+        },
+        {
+          "id": 81042,
+          "name": "Goroka"
+        },
+        {
+          "id": 81045,
+          "name": "Henganofi"
+        },
+        {
+          "id": 81054,
+          "name": "Kainantu"
+        },
+        {
+          "id": 81077,
+          "name": "Lufa"
+        },
+        {
+          "id": 81095,
+          "name": "Obura Wonenara"
+        },
+        {
+          "id": 81096,
+          "name": "Okapa"
+        },
+        {
+          "id": 81118,
+          "name": "Unggai Bena"
+        }
+      ]
+    },
+    {
+      "id": 4848,
+      "name": "Enga Province",
+      "state_code": "EPW",
+      "cities": [
+        {
+          "id": 81056,
+          "name": "Kandep"
+        },
+        {
+          "id": 81071,
+          "name": "Kompiam Ambum"
+        },
+        {
+          "id": 81075,
+          "name": "Lagaip Porgera"
+        },
+        {
+          "id": 81100,
+          "name": "Porgera"
+        },
+        {
+          "id": 81122,
+          "name": "Wabag"
+        },
+        {
+          "id": 81123,
+          "name": "Wapenamanda"
+        }
+      ]
+    },
+    {
+      "id": 4839,
+      "name": "Gulf",
+      "state_code": "GPK",
+      "cities": [
+        {
+          "id": 81061,
+          "name": "Kerema"
+        },
+        {
+          "id": 81064,
+          "name": "Kikori"
+        }
+      ]
+    },
+    {
+      "id": 4833,
+      "name": "Hela",
+      "state_code": "HLA",
+      "cities": [
+        {
+          "id": 81070,
+          "name": "Komo Margarima"
+        },
+        {
+          "id": 81072,
+          "name": "Koroba-Lake Kopiago"
+        },
+        {
+          "id": 81114,
+          "name": "Tari"
+        },
+        {
+          "id": 81115,
+          "name": "Tari Pori"
+        }
+      ]
+    },
+    {
+      "id": 4832,
+      "name": "Jiwaka Province",
+      "state_code": "JWK",
+      "cities": [
+        {
+          "id": 81028,
+          "name": "Angalimp South Wahgi"
+        },
+        {
+          "id": 81051,
+          "name": "Jimi"
+        },
+        {
+          "id": 81093,
+          "name": "North Wahgi"
+        }
+      ]
+    },
+    {
+      "id": 4843,
+      "name": "Madang Province",
+      "state_code": "MPM",
+      "cities": [
+        {
+          "id": 81031,
+          "name": "Bogia"
+        },
+        {
+          "id": 81078,
+          "name": "Madang"
+        },
+        {
+          "id": 81084,
+          "name": "Middle Ramu"
+        },
+        {
+          "id": 81103,
+          "name": "Rai Coast"
+        },
+        {
+          "id": 81111,
+          "name": "Sumkar"
+        },
+        {
+          "id": 81119,
+          "name": "Usino Bundi"
+        }
+      ]
+    },
+    {
+      "id": 4842,
+      "name": "Manus Province",
+      "state_code": "MRL",
+      "cities": [
+        {
+          "id": 81076,
+          "name": "Lorengau"
+        },
+        {
+          "id": 81079,
+          "name": "Manus"
+        }
+      ]
+    },
+    {
+      "id": 4849,
+      "name": "Milne Bay Province",
+      "state_code": "MBA",
+      "cities": [
+        {
+          "id": 81027,
+          "name": "Alotau"
+        },
+        {
+          "id": 81038,
+          "name": "Esa’ala"
+        },
+        {
+          "id": 81066,
+          "name": "Kiriwina Goodenough"
+        },
+        {
+          "id": 81105,
+          "name": "Samarai"
+        },
+        {
+          "id": 81106,
+          "name": "Samarai Murua"
+        }
+      ]
+    },
+    {
+      "id": 4835,
+      "name": "Morobe Province",
+      "state_code": "MPL",
+      "cities": [
+        {
+          "id": 81032,
+          "name": "Bulolo"
+        },
+        {
+          "id": 81039,
+          "name": "Finschhafen"
+        },
+        {
+          "id": 81046,
+          "name": "Huon Gulf"
+        },
+        {
+          "id": 81052,
+          "name": "Kabwum"
+        },
+        {
+          "id": 81074,
+          "name": "Lae"
+        },
+        {
+          "id": 81080,
+          "name": "Markham"
+        },
+        {
+          "id": 81082,
+          "name": "Menyamya"
+        },
+        {
+          "id": 81089,
+          "name": "Nawae"
+        },
+        {
+          "id": 81117,
+          "name": "Tewai Siassi"
+        },
+        {
+          "id": 81124,
+          "name": "Wau"
+        }
+      ]
+    },
+    {
+      "id": 4841,
+      "name": "New Ireland Province",
+      "state_code": "NIK",
+      "cities": [
+        {
+          "id": 81060,
+          "name": "Kavieng"
+        },
+        {
+          "id": 81087,
+          "name": "Namatanai"
+        }
+      ]
+    },
+    {
+      "id": 4838,
+      "name": "Oro Province",
+      "state_code": "NPP",
+      "cities": [
+        {
+          "id": 81049,
+          "name": "Ijivitari"
+        },
+        {
+          "id": 81068,
+          "name": "Kokoda"
+        },
+        {
+          "id": 81099,
+          "name": "Popondetta"
+        },
+        {
+          "id": 81108,
+          "name": "Sohe"
+        }
+      ]
+    },
+    {
+      "id": 4837,
+      "name": "Port Moresby",
+      "state_code": "NCD",
+      "cities": [
+        {
+          "id": 81088,
+          "name": "National Capital District"
+        },
+        {
+          "id": 81101,
+          "name": "Port Moresby"
+        }
+      ]
+    },
+    {
+      "id": 4836,
+      "name": "Sandaun Province",
+      "state_code": "SAN",
+      "cities": [
+        {
+          "id": 81025,
+          "name": "Aitape"
+        },
+        {
+          "id": 81026,
+          "name": "Aitape Lumi"
+        },
+        {
+          "id": 81094,
+          "name": "Nuku"
+        },
+        {
+          "id": 81116,
+          "name": "Telefomin"
+        },
+        {
+          "id": 81120,
+          "name": "Vanimo"
+        },
+        {
+          "id": 81121,
+          "name": "Vanimo Green"
+        }
+      ]
+    },
+    {
+      "id": 4844,
+      "name": "Southern Highlands Province",
+      "state_code": "SHM",
+      "cities": [
+        {
+          "id": 81047,
+          "name": "Ialibu"
+        },
+        {
+          "id": 81048,
+          "name": "Ialibu Pangia"
+        },
+        {
+          "id": 81050,
+          "name": "Imbonggu"
+        },
+        {
+          "id": 81053,
+          "name": "Kagua Erave"
+        },
+        {
+          "id": 81081,
+          "name": "Mendi"
+        },
+        {
+          "id": 81090,
+          "name": "Nipa Kutubu"
+        }
+      ]
+    },
+    {
+      "id": 4830,
+      "name": "West New Britain Province",
+      "state_code": "WBK",
+      "cities": [
+        {
+          "id": 81057,
+          "name": "Kandrian"
+        },
+        {
+          "id": 81058,
+          "name": "Kandrian Gloucester"
+        },
+        {
+          "id": 81065,
+          "name": "Kimbe"
+        },
+        {
+          "id": 81112,
+          "name": "Talasea"
+        }
+      ]
+    },
+    {
+      "id": 4840,
+      "name": "Western Highlands Province",
+      "state_code": "WHM",
+      "cities": [
+        {
+          "id": 81030,
+          "name": "Baiyer Mul"
+        },
+        {
+          "id": 81037,
+          "name": "Dei"
+        },
+        {
+          "id": 81044,
+          "name": "Hagen"
+        },
+        {
+          "id": 81086,
+          "name": "Mount Hagen"
+        },
+        {
+          "id": 81113,
+          "name": "Tambul Nebilyer"
+        }
+      ]
+    },
+    {
+      "id": 4850,
+      "name": "Western Province",
+      "state_code": "WPD",
+      "cities": [
+        {
+          "id": 81035,
+          "name": "Daru"
+        },
+        {
+          "id": 81067,
+          "name": "Kiunga"
+        },
+        {
+          "id": 81083,
+          "name": "Middle Fly"
+        },
+        {
+          "id": 81085,
+          "name": "Morehead"
+        },
+        {
+          "id": 81092,
+          "name": "North Fly"
+        },
+        {
+          "id": 81110,
+          "name": "South Fly"
+        }
+      ]
+    }
+  ]
+}

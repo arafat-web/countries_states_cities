@@ -1,0 +1,222 @@
+{
+  "id": 223,
+  "name": "Trinidad and Tobago",
+  "short_name": "TTO",
+  "phone_code": "+1-868",
+  "currency": "TTD",
+  "currency_name": "Trinidad and Tobago dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3362,
+      "name": "Arima",
+      "state_code": "ARI",
+      "cities": [
+        {
+          "id": 108968,
+          "name": "Arima"
+        }
+      ]
+    },
+    {
+      "id": 3366,
+      "name": "Chaguanas",
+      "state_code": "CHA",
+      "cities": [
+        {
+          "id": 108970,
+          "name": "Chaguanas"
+        },
+        {
+          "id": 108990,
+          "name": "Ward of Chaguanas"
+        }
+      ]
+    },
+    {
+      "id": 3354,
+      "name": "Couva-Tabaquite-Talparo Regional Corporation",
+      "state_code": "CTT",
+      "cities": [
+        {
+          "id": 108971,
+          "name": "Couva"
+        },
+        {
+          "id": 108988,
+          "name": "Tabaquite"
+        }
+      ]
+    },
+    {
+      "id": 3367,
+      "name": "Diego Martin Regional Corporation",
+      "state_code": "DMN",
+      "cities": [
+        {
+          "id": 108978,
+          "name": "Petit Valley"
+        },
+        {
+          "id": 108991,
+          "name": "Ward of Diego Martin"
+        }
+      ]
+    },
+    {
+      "id": 3355,
+      "name": "Eastern Tobago",
+      "state_code": "ETO",
+      "cities": [
+        {
+          "id": 108986,
+          "name": "Scarborough"
+        }
+      ]
+    },
+    {
+      "id": 3365,
+      "name": "Penal-Debe Regional Corporation",
+      "state_code": "PED",
+      "cities": [
+        {
+          "id": 108972,
+          "name": "Debe"
+        },
+        {
+          "id": 108979,
+          "name": "Peñal"
+        }
+      ]
+    },
+    {
+      "id": 3360,
+      "name": "Point Fortin",
+      "state_code": "PTF",
+      "cities": [
+        {
+          "id": 108980,
+          "name": "Point Fortin"
+        }
+      ]
+    },
+    {
+      "id": 3363,
+      "name": "Port of Spain",
+      "state_code": "POS",
+      "cities": [
+        {
+          "id": 108976,
+          "name": "Mucurapo"
+        },
+        {
+          "id": 108981,
+          "name": "Port of Spain"
+        }
+      ]
+    },
+    {
+      "id": 3368,
+      "name": "Princes Town Regional Corporation",
+      "state_code": "PRT",
+      "cities": [
+        {
+          "id": 108982,
+          "name": "Princes Town"
+        }
+      ]
+    },
+    {
+      "id": 3356,
+      "name": "Rio Claro-Mayaro Regional Corporation",
+      "state_code": "MRC",
+      "cities": []
+    },
+    {
+      "id": 3359,
+      "name": "San Fernando",
+      "state_code": "SFO",
+      "cities": [
+        {
+          "id": 108974,
+          "name": "Marabella"
+        },
+        {
+          "id": 108975,
+          "name": "Mon Repos"
+        },
+        {
+          "id": 108984,
+          "name": "San Fernando"
+        }
+      ]
+    },
+    {
+      "id": 3357,
+      "name": "San Juan-Laventille Regional Corporation",
+      "state_code": "SJL",
+      "cities": [
+        {
+          "id": 108973,
+          "name": "Laventille"
+        }
+      ]
+    },
+    {
+      "id": 3361,
+      "name": "Sangre Grande Regional Corporation",
+      "state_code": "SGE",
+      "cities": [
+        {
+          "id": 108985,
+          "name": "Sangre Grande"
+        }
+      ]
+    },
+    {
+      "id": 3364,
+      "name": "Siparia Regional Corporation",
+      "state_code": "SIP",
+      "cities": [
+        {
+          "id": 108987,
+          "name": "Siparia"
+        },
+        {
+          "id": 108992,
+          "name": "Ward of Siparia"
+        }
+      ]
+    },
+    {
+      "id": 3358,
+      "name": "Tunapuna-Piarco Regional Corporation",
+      "state_code": "TUP",
+      "cities": [
+        {
+          "id": 108969,
+          "name": "Arouca"
+        },
+        {
+          "id": 108977,
+          "name": "Paradise"
+        },
+        {
+          "id": 108989,
+          "name": "Tunapuna"
+        }
+      ]
+    },
+    {
+      "id": 3353,
+      "name": "Western Tobago",
+      "state_code": "WTO",
+      "cities": [
+        {
+          "id": 108983,
+          "name": "Rio Claro"
+        }
+      ]
+    }
+  ]
+}

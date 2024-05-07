@@ -1,0 +1,777 @@
+{
+  "id": 113,
+  "name": "Kenya",
+  "short_name": "KEN",
+  "phone_code": "254",
+  "currency": "KES",
+  "currency_name": "Kenyan shilling",
+  "currency_symbol": "KSh",
+  "states": [
+    {
+      "id": 181,
+      "name": "Baringo",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 64774,
+          "name": "Baringo"
+        },
+        {
+          "id": 64781,
+          "name": "Eldama Ravine"
+        },
+        {
+          "id": 64790,
+          "name": "Kabarnet"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Bomet",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 64870,
+          "name": "Sotik"
+        },
+        {
+          "id": 64871,
+          "name": "Sotik Post"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Bungoma",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 64776,
+          "name": "Bungoma"
+        },
+        {
+          "id": 64827,
+          "name": "Malikisi"
+        },
+        {
+          "id": 64877,
+          "name": "Webuye"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Busia",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 64777,
+          "name": "Busia"
+        },
+        {
+          "id": 64821,
+          "name": "Luanda"
+        },
+        {
+          "id": 64822,
+          "name": "Lugulu"
+        },
+        {
+          "id": 64826,
+          "name": "Malaba"
+        },
+        {
+          "id": 64848,
+          "name": "Nambare"
+        },
+        {
+          "id": 64861,
+          "name": "Port Victoria"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Elgeyo-Marakwet",
+      "state_code": "05",
+      "cities": []
+    },
+    {
+      "id": 163,
+      "name": "Embu",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 64783,
+          "name": "Embu"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Garissa",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 64784,
+          "name": "Garissa"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Homa Bay",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 64787,
+          "name": "Homa Bay"
+        },
+        {
+          "id": 64860,
+          "name": "Oyugis"
+        },
+        {
+          "id": 64863,
+          "name": "Rachuonyo District"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Isiolo",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 64788,
+          "name": "Isiolo"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Kajiado",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 64791,
+          "name": "Kajiado"
+        },
+        {
+          "id": 64824,
+          "name": "Magadi"
+        },
+        {
+          "id": 64853,
+          "name": "Ngong"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Kakamega",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 64778,
+          "name": "Butere"
+        },
+        {
+          "id": 64792,
+          "name": "Kakamega"
+        },
+        {
+          "id": 64842,
+          "name": "Mumias"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Kericho",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 64799,
+          "name": "Kericho"
+        },
+        {
+          "id": 64809,
+          "name": "Kipkelion"
+        },
+        {
+          "id": 64818,
+          "name": "Litein"
+        },
+        {
+          "id": 64820,
+          "name": "Londiani"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Kiambu",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 64802,
+          "name": "Kiambu"
+        },
+        {
+          "id": 64805,
+          "name": "Kikuyu"
+        },
+        {
+          "id": 64817,
+          "name": "Limuru"
+        },
+        {
+          "id": 64874,
+          "name": "Thika"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Kilifi",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 64789,
+          "name": "Iten"
+        },
+        {
+          "id": 64797,
+          "name": "Kapsowar"
+        },
+        {
+          "id": 64806,
+          "name": "Kilifi"
+        },
+        {
+          "id": 64828,
+          "name": "Malindi"
+        },
+        {
+          "id": 64832,
+          "name": "Mariakani"
+        },
+        {
+          "id": 64872,
+          "name": "Takaungu"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Kirinyaga",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 64801,
+          "name": "Kerugoya"
+        },
+        {
+          "id": 64866,
+          "name": "Sagana"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Kisii",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 64810,
+          "name": "Kisii"
+        },
+        {
+          "id": 64857,
+          "name": "Ogembo"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Kisumu",
+      "state_code": "17",
+      "cities": [
+        {
+          "id": 64772,
+          "name": "Ahero"
+        },
+        {
+          "id": 64811,
+          "name": "Kisumu"
+        },
+        {
+          "id": 64841,
+          "name": "Muhoroni"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Kitui",
+      "state_code": "18",
+      "cities": [
+        {
+          "id": 64813,
+          "name": "Kitui"
+        },
+        {
+          "id": 64844,
+          "name": "Mwingi"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Kwale",
+      "state_code": "19",
+      "cities": [
+        {
+          "id": 64785,
+          "name": "Gazi"
+        },
+        {
+          "id": 64807,
+          "name": "Kinango"
+        },
+        {
+          "id": 64815,
+          "name": "Kwale"
+        },
+        {
+          "id": 64867,
+          "name": "Sawa Sawa"
+        },
+        {
+          "id": 64868,
+          "name": "Shimoni"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Laikipia",
+      "state_code": "20",
+      "cities": [
+        {
+          "id": 64850,
+          "name": "Nanyuki"
+        },
+        {
+          "id": 64854,
+          "name": "Nyahururu"
+        },
+        {
+          "id": 64865,
+          "name": "Rumuruti"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Lamu",
+      "state_code": "21",
+      "cities": [
+        {
+          "id": 64816,
+          "name": "Lamu"
+        },
+        {
+          "id": 64878,
+          "name": "Witu"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Machakos",
+      "state_code": "22",
+      "cities": [
+        {
+          "id": 64773,
+          "name": "Athi River"
+        },
+        {
+          "id": 64794,
+          "name": "Kangundo"
+        },
+        {
+          "id": 64814,
+          "name": "Konza"
+        },
+        {
+          "id": 64823,
+          "name": "Machakos"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Makueni",
+      "state_code": "23",
+      "cities": [
+        {
+          "id": 64825,
+          "name": "Makueni Boma"
+        },
+        {
+          "id": 64840,
+          "name": "Mtito Andei"
+        },
+        {
+          "id": 64879,
+          "name": "Wote"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Mandera",
+      "state_code": "24",
+      "cities": [
+        {
+          "id": 64829,
+          "name": "Mandera"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Marsabit",
+      "state_code": "25",
+      "cities": [
+        {
+          "id": 64833,
+          "name": "Marsabit"
+        },
+        {
+          "id": 64839,
+          "name": "Moyale"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Meru",
+      "state_code": "26",
+      "cities": [
+        {
+          "id": 64834,
+          "name": "Maua"
+        },
+        {
+          "id": 64835,
+          "name": "Meru"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Migori",
+      "state_code": "27",
+      "cities": [
+        {
+          "id": 64803,
+          "name": "Kihancha"
+        },
+        {
+          "id": 64836,
+          "name": "Migori"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Mombasa",
+      "state_code": "28",
+      "cities": [
+        {
+          "id": 64838,
+          "name": "Mombasa"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Murang'a",
+      "state_code": "29",
+      "cities": [
+        {
+          "id": 64793,
+          "name": "Kangema"
+        },
+        {
+          "id": 64798,
+          "name": "Karuri"
+        },
+        {
+          "id": 64830,
+          "name": "Maragua"
+        },
+        {
+          "id": 64843,
+          "name": "Murang’a"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Nairobi City",
+      "state_code": "30",
+      "cities": [
+        {
+          "id": 64845,
+          "name": "Nairobi"
+        },
+        {
+          "id": 64862,
+          "name": "Pumwani"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Nakuru",
+      "state_code": "31",
+      "cities": [
+        {
+          "id": 64804,
+          "name": "Kijabe"
+        },
+        {
+          "id": 64837,
+          "name": "Molo"
+        },
+        {
+          "id": 64846,
+          "name": "Naivasha"
+        },
+        {
+          "id": 64847,
+          "name": "Nakuru"
+        },
+        {
+          "id": 64864,
+          "name": "Rongai"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Nandi",
+      "state_code": "32",
+      "cities": [
+        {
+          "id": 64796,
+          "name": "Kapsabet"
+        },
+        {
+          "id": 64849,
+          "name": "Nandi Hills"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Narok",
+      "state_code": "33",
+      "cities": [
+        {
+          "id": 64852,
+          "name": "Narok"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Nyamira",
+      "state_code": "34",
+      "cities": [
+        {
+          "id": 64800,
+          "name": "Keroka"
+        },
+        {
+          "id": 64855,
+          "name": "Nyamira"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Nyandarua",
+      "state_code": "35",
+      "cities": [
+        {
+          "id": 64858,
+          "name": "Ol Kalou"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Nyeri",
+      "state_code": "36",
+      "cities": [
+        {
+          "id": 64851,
+          "name": "Naro Moru"
+        },
+        {
+          "id": 64856,
+          "name": "Nyeri"
+        },
+        {
+          "id": 64859,
+          "name": "Othaya"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Samburu",
+      "state_code": "37",
+      "cities": [
+        {
+          "id": 64831,
+          "name": "Maralal"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Siaya",
+      "state_code": "38",
+      "cities": [
+        {
+          "id": 64775,
+          "name": "Bondo"
+        },
+        {
+          "id": 64869,
+          "name": "Siaya"
+        },
+        {
+          "id": 64881,
+          "name": "Yala"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Taita–Taveta",
+      "state_code": "39",
+      "cities": []
+    },
+    {
+      "id": 205,
+      "name": "Tana River",
+      "state_code": "40",
+      "cities": [
+        {
+          "id": 64786,
+          "name": "Hola"
+        },
+        {
+          "id": 64808,
+          "name": "Kipini"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Tharaka-Nithi",
+      "state_code": "41",
+      "cities": [
+        {
+          "id": 64780,
+          "name": "Chuka"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Trans Nzoia",
+      "state_code": "42",
+      "cities": [
+        {
+          "id": 64812,
+          "name": "Kitale"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Turkana",
+      "state_code": "43",
+      "cities": [
+        {
+          "id": 64819,
+          "name": "Lodwar"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Uasin Gishu",
+      "state_code": "44",
+      "cities": [
+        {
+          "id": 64782,
+          "name": "Eldoret"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Vihiga",
+      "state_code": "45",
+      "cities": []
+    },
+    {
+      "id": 182,
+      "name": "Wajir",
+      "state_code": "46",
+      "cities": [
+        {
+          "id": 64876,
+          "name": "Wajir"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "name": "West Pokot",
+      "state_code": "47",
+      "cities": [
+        {
+          "id": 64779,
+          "name": "Chepareria"
+        },
+        {
+          "id": 64795,
+          "name": "Kapenguria"
+        },
+        {
+          "id": 64873,
+          "name": "Taveta"
+        },
+        {
+          "id": 64875,
+          "name": "Voi"
+        },
+        {
+          "id": 64880,
+          "name": "Wundanyi"
+        }
+      ]
+    }
+  ]
+}

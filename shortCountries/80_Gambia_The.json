@@ -1,0 +1,469 @@
+{
+  "id": 80,
+  "name": "Gambia The",
+  "short_name": "GMB",
+  "phone_code": "220",
+  "currency": "GMD",
+  "currency_name": "Gambian dalasi",
+  "currency_symbol": "D",
+  "states": [
+    {
+      "id": 2666,
+      "name": "Banjul",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 52219,
+          "name": "Bakau"
+        },
+        {
+          "id": 52221,
+          "name": "Banjul"
+        },
+        {
+          "id": 52277,
+          "name": "Kombo Saint Mary District"
+        },
+        {
+          "id": 52304,
+          "name": "Serekunda"
+        }
+      ]
+    },
+    {
+      "id": 2669,
+      "name": "Central River Division",
+      "state_code": "M",
+      "cities": [
+        {
+          "id": 52222,
+          "name": "Bansang"
+        },
+        {
+          "id": 52228,
+          "name": "Brikama Nding"
+        },
+        {
+          "id": 52233,
+          "name": "Dankunku"
+        },
+        {
+          "id": 52236,
+          "name": "Denton"
+        },
+        {
+          "id": 52246,
+          "name": "Fulladu West"
+        },
+        {
+          "id": 52247,
+          "name": "Galleh Manda"
+        },
+        {
+          "id": 52248,
+          "name": "Georgetown"
+        },
+        {
+          "id": 52252,
+          "name": "Jakhaly"
+        },
+        {
+          "id": 52254,
+          "name": "Janjanbureh"
+        },
+        {
+          "id": 52258,
+          "name": "Jarreng"
+        },
+        {
+          "id": 52265,
+          "name": "Karantaba"
+        },
+        {
+          "id": 52266,
+          "name": "Kass Wollof"
+        },
+        {
+          "id": 52280,
+          "name": "Kuntaur"
+        },
+        {
+          "id": 52281,
+          "name": "Kunting"
+        },
+        {
+          "id": 52285,
+          "name": "Lower Saloum"
+        },
+        {
+          "id": 52287,
+          "name": "Niamina East District"
+        },
+        {
+          "id": 52288,
+          "name": "Niamina West District"
+        },
+        {
+          "id": 52289,
+          "name": "Niani"
+        },
+        {
+          "id": 52290,
+          "name": "Nianija District"
+        },
+        {
+          "id": 52294,
+          "name": "Pateh Sam"
+        },
+        {
+          "id": 52298,
+          "name": "Sami"
+        },
+        {
+          "id": 52299,
+          "name": "Sami District"
+        },
+        {
+          "id": 52303,
+          "name": "Saruja"
+        },
+        {
+          "id": 52309,
+          "name": "Sukuta"
+        },
+        {
+          "id": 52317,
+          "name": "Upper Saloum"
+        },
+        {
+          "id": 52318,
+          "name": "Wassu"
+        }
+      ]
+    },
+    {
+      "id": 2670,
+      "name": "Lower River Division",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 52223,
+          "name": "Baro Kunda"
+        },
+        {
+          "id": 52229,
+          "name": "Bureng"
+        },
+        {
+          "id": 52253,
+          "name": "Jali"
+        },
+        {
+          "id": 52255,
+          "name": "Jarra Central"
+        },
+        {
+          "id": 52256,
+          "name": "Jarra East"
+        },
+        {
+          "id": 52257,
+          "name": "Jarra West"
+        },
+        {
+          "id": 52259,
+          "name": "Jenoi"
+        },
+        {
+          "id": 52260,
+          "name": "Jifarong"
+        },
+        {
+          "id": 52262,
+          "name": "Kaiaf"
+        },
+        {
+          "id": 52264,
+          "name": "Karantaba"
+        },
+        {
+          "id": 52268,
+          "name": "Keneba"
+        },
+        {
+          "id": 52270,
+          "name": "Kiang Central"
+        },
+        {
+          "id": 52271,
+          "name": "Kiang East"
+        },
+        {
+          "id": 52272,
+          "name": "Kiang West District"
+        },
+        {
+          "id": 52286,
+          "name": "Mansa Konko"
+        },
+        {
+          "id": 52291,
+          "name": "Nioro"
+        },
+        {
+          "id": 52301,
+          "name": "Sankwia"
+        },
+        {
+          "id": 52305,
+          "name": "Si Kunda"
+        },
+        {
+          "id": 52306,
+          "name": "Soma"
+        },
+        {
+          "id": 52313,
+          "name": "Sutukung"
+        },
+        {
+          "id": 52314,
+          "name": "Toniataba"
+        },
+        {
+          "id": 52319,
+          "name": "Wellingara Ba"
+        }
+      ]
+    },
+    {
+      "id": 2671,
+      "name": "North Bank Division",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 52220,
+          "name": "Bambali"
+        },
+        {
+          "id": 52224,
+          "name": "Barra"
+        },
+        {
+          "id": 52230,
+          "name": "Central Baddibu"
+        },
+        {
+          "id": 52231,
+          "name": "Chilla"
+        },
+        {
+          "id": 52234,
+          "name": "Daru Rilwan"
+        },
+        {
+          "id": 52239,
+          "name": "Essau"
+        },
+        {
+          "id": 52240,
+          "name": "Farafenni"
+        },
+        {
+          "id": 52250,
+          "name": "Gunjur"
+        },
+        {
+          "id": 52261,
+          "name": "Jokadu"
+        },
+        {
+          "id": 52267,
+          "name": "Katchang"
+        },
+        {
+          "id": 52269,
+          "name": "Kerewan"
+        },
+        {
+          "id": 52282,
+          "name": "Lamin"
+        },
+        {
+          "id": 52283,
+          "name": "Lower Baddibu District"
+        },
+        {
+          "id": 52284,
+          "name": "Lower Niumi District"
+        },
+        {
+          "id": 52292,
+          "name": "No Kunda"
+        },
+        {
+          "id": 52296,
+          "name": "Saba"
+        },
+        {
+          "id": 52302,
+          "name": "Sara Kunda"
+        },
+        {
+          "id": 52315,
+          "name": "Upper Baddibu"
+        },
+        {
+          "id": 52316,
+          "name": "Upper Niumi District"
+        }
+      ]
+    },
+    {
+      "id": 2668,
+      "name": "Upper River Division",
+      "state_code": "U",
+      "cities": [
+        {
+          "id": 52218,
+          "name": "Bakadagy"
+        },
+        {
+          "id": 52225,
+          "name": "Basse Santa Su"
+        },
+        {
+          "id": 52226,
+          "name": "Brifu"
+        },
+        {
+          "id": 52232,
+          "name": "Daba Kunda"
+        },
+        {
+          "id": 52235,
+          "name": "Demba Kunda"
+        },
+        {
+          "id": 52237,
+          "name": "Diabugu"
+        },
+        {
+          "id": 52238,
+          "name": "Diabugu Basilla"
+        },
+        {
+          "id": 52245,
+          "name": "Fulladu East"
+        },
+        {
+          "id": 52251,
+          "name": "Gunjur Kuta"
+        },
+        {
+          "id": 52263,
+          "name": "Kantora"
+        },
+        {
+          "id": 52273,
+          "name": "Koina"
+        },
+        {
+          "id": 52279,
+          "name": "Kumbija"
+        },
+        {
+          "id": 52293,
+          "name": "Nyamanari"
+        },
+        {
+          "id": 52295,
+          "name": "Perai"
+        },
+        {
+          "id": 52297,
+          "name": "Sabi"
+        },
+        {
+          "id": 52300,
+          "name": "Sandu"
+        },
+        {
+          "id": 52308,
+          "name": "Sudowol"
+        },
+        {
+          "id": 52311,
+          "name": "Sun Kunda"
+        },
+        {
+          "id": 52312,
+          "name": "Sutukoba"
+        },
+        {
+          "id": 52320,
+          "name": "Wuli"
+        }
+      ]
+    },
+    {
+      "id": 2667,
+      "name": "West Coast Division",
+      "state_code": "W",
+      "cities": [
+        {
+          "id": 52217,
+          "name": "Abuko"
+        },
+        {
+          "id": 52227,
+          "name": "Brikama"
+        },
+        {
+          "id": 52241,
+          "name": "Foni Bondali"
+        },
+        {
+          "id": 52242,
+          "name": "Foni Brefet"
+        },
+        {
+          "id": 52243,
+          "name": "Foni Jarrol"
+        },
+        {
+          "id": 52244,
+          "name": "Foni Kansala"
+        },
+        {
+          "id": 52249,
+          "name": "Gunjur"
+        },
+        {
+          "id": 52274,
+          "name": "Kombo Central District"
+        },
+        {
+          "id": 52275,
+          "name": "Kombo East District"
+        },
+        {
+          "id": 52276,
+          "name": "Kombo North District"
+        },
+        {
+          "id": 52278,
+          "name": "Kombo South District"
+        },
+        {
+          "id": 52307,
+          "name": "Somita"
+        },
+        {
+          "id": 52310,
+          "name": "Sukuta"
+        }
+      ]
+    }
+  ]
+}

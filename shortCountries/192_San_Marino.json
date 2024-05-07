@@ -1,0 +1,110 @@
+{
+  "id": 192,
+  "name": "San Marino",
+  "short_name": "SMR",
+  "phone_code": "378",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 59,
+      "name": "Acquaviva",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 104693,
+          "name": "Acquaviva"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Borgo Maggiore",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 104694,
+          "name": "Borgo Maggiore"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Chiesanuova",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 104699,
+          "name": "Poggio di Chiesanuova"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Domagnano",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 104695,
+          "name": "Domagnano"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Faetano",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 104696,
+          "name": "Faetano"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Fiorentino",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 104697,
+          "name": "Fiorentino"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Montegiardino",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 104698,
+          "name": "Monte Giardino"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "San Marino",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 104700,
+          "name": "San Marino"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Serravalle",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 104701,
+          "name": "Serravalle"
+        }
+      ]
+    }
+  ]
+}

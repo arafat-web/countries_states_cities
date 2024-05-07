@@ -1,0 +1,319 @@
+{
+  "id": 217,
+  "name": "Tajikistan",
+  "short_name": "TJK",
+  "phone_code": "992",
+  "currency": "TJS",
+  "currency_name": "Tajikistani somoni",
+  "currency_symbol": "SM",
+  "states": [
+    {
+      "id": 3397,
+      "name": "districts of Republican Subordination",
+      "state_code": "RA",
+      "cities": [
+        {
+          "id": 106769,
+          "name": "Darband"
+        },
+        {
+          "id": 106774,
+          "name": "Hisor"
+        },
+        {
+          "id": 106779,
+          "name": "Karakenja"
+        },
+        {
+          "id": 106780,
+          "name": "Khodzha-Maston"
+        },
+        {
+          "id": 106800,
+          "name": "Novobod"
+        },
+        {
+          "id": 106801,
+          "name": "Obigarm"
+        },
+        {
+          "id": 106811,
+          "name": "Rasht"
+        },
+        {
+          "id": 106812,
+          "name": "Roghun"
+        },
+        {
+          "id": 106813,
+          "name": "Shahrinav"
+        },
+        {
+          "id": 106819,
+          "name": "Tagob"
+        },
+        {
+          "id": 106821,
+          "name": "Tursunzoda"
+        },
+        {
+          "id": 106822,
+          "name": "Vahdat"
+        },
+        {
+          "id": 106823,
+          "name": "Vahdat District"
+        },
+        {
+          "id": 106825,
+          "name": "Varzob"
+        },
+        {
+          "id": 106826,
+          "name": "Varzob District"
+        }
+      ]
+    },
+    {
+      "id": 3399,
+      "name": "Gorno-Badakhshan Autonomous Province",
+      "state_code": "GB",
+      "cities": [
+        {
+          "id": 106776,
+          "name": "Ishqoshim"
+        },
+        {
+          "id": 106781,
+          "name": "Khorugh"
+        },
+        {
+          "id": 106790,
+          "name": "Murghob"
+        },
+        {
+          "id": 106796,
+          "name": "Nohiyai Shughnon"
+        }
+      ]
+    },
+    {
+      "id": 3398,
+      "name": "Khatlon Province",
+      "state_code": "KT",
+      "cities": [
+        {
+          "id": 106760,
+          "name": "Abdurahmoni Jomí"
+        },
+        {
+          "id": 106763,
+          "name": "Boshchorbogh"
+        },
+        {
+          "id": 106765,
+          "name": "Bŭstonqal’a"
+        },
+        {
+          "id": 106767,
+          "name": "Chubek"
+        },
+        {
+          "id": 106768,
+          "name": "Danghara"
+        },
+        {
+          "id": 106770,
+          "name": "Dŭstí"
+        },
+        {
+          "id": 106771,
+          "name": "Farkhor"
+        },
+        {
+          "id": 106773,
+          "name": "Gharavŭtí"
+        },
+        {
+          "id": 106778,
+          "name": "Jilikŭl"
+        },
+        {
+          "id": 106784,
+          "name": "Kirov"
+        },
+        {
+          "id": 106785,
+          "name": "Kolkhozobod"
+        },
+        {
+          "id": 106788,
+          "name": "Kŭlob"
+        },
+        {
+          "id": 106789,
+          "name": "Moskovskiy"
+        },
+        {
+          "id": 106791,
+          "name": "Mŭ’minobod"
+        },
+        {
+          "id": 106793,
+          "name": "Nohiyai Kolkhozobod"
+        },
+        {
+          "id": 106795,
+          "name": "Nohiyai Panj"
+        },
+        {
+          "id": 106797,
+          "name": "Nohiyai Vakhsh"
+        },
+        {
+          "id": 106798,
+          "name": "Norak"
+        },
+        {
+          "id": 106803,
+          "name": "Orzu"
+        },
+        {
+          "id": 106806,
+          "name": "Panj"
+        },
+        {
+          "id": 106810,
+          "name": "Qŭrghonteppa"
+        },
+        {
+          "id": 106814,
+          "name": "Shahritus"
+        },
+        {
+          "id": 106817,
+          "name": "Sovet"
+        },
+        {
+          "id": 106820,
+          "name": "Tartiki"
+        },
+        {
+          "id": 106824,
+          "name": "Vakhsh"
+        },
+        {
+          "id": 106828,
+          "name": "Vose’"
+        },
+        {
+          "id": 106829,
+          "name": "Yovon"
+        }
+      ]
+    },
+    {
+      "id": 3400,
+      "name": "Sughd Province",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 106761,
+          "name": "Adrasmon"
+        },
+        {
+          "id": 106762,
+          "name": "Ayní"
+        },
+        {
+          "id": 106764,
+          "name": "Bŭston"
+        },
+        {
+          "id": 106766,
+          "name": "Chkalov"
+        },
+        {
+          "id": 106772,
+          "name": "Ghafurov"
+        },
+        {
+          "id": 106775,
+          "name": "Isfara"
+        },
+        {
+          "id": 106777,
+          "name": "Istaravshan"
+        },
+        {
+          "id": 106782,
+          "name": "Khŭjand"
+        },
+        {
+          "id": 106783,
+          "name": "Kim"
+        },
+        {
+          "id": 106786,
+          "name": "Konibodom"
+        },
+        {
+          "id": 106787,
+          "name": "Konsoy"
+        },
+        {
+          "id": 106792,
+          "name": "Neftobod"
+        },
+        {
+          "id": 106794,
+          "name": "Nohiyai Konibodom"
+        },
+        {
+          "id": 106799,
+          "name": "Nov"
+        },
+        {
+          "id": 106802,
+          "name": "Oltintopkan"
+        },
+        {
+          "id": 106804,
+          "name": "Pakhtakoron"
+        },
+        {
+          "id": 106805,
+          "name": "Palos"
+        },
+        {
+          "id": 106807,
+          "name": "Panjakent"
+        },
+        {
+          "id": 106808,
+          "name": "Proletar"
+        },
+        {
+          "id": 106809,
+          "name": "Quruqsoy"
+        },
+        {
+          "id": 106815,
+          "name": "Shaydon"
+        },
+        {
+          "id": 106816,
+          "name": "Shŭrob"
+        },
+        {
+          "id": 106818,
+          "name": "Taboshar"
+        },
+        {
+          "id": 106827,
+          "name": "Vorukh"
+        }
+      ]
+    }
+  ]
+}

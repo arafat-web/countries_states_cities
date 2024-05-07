@@ -1,0 +1,101 @@
+{
+  "id": 60,
+  "name": "Djibouti",
+  "short_name": "DJI",
+  "phone_code": "253",
+  "currency": "DJF",
+  "currency_name": "Djiboutian franc",
+  "currency_symbol": "Fdj",
+  "states": [
+    {
+      "id": 2933,
+      "name": "Ali Sabieh Region",
+      "state_code": "AS",
+      "cities": [
+        {
+          "id": 30561,
+          "name": "'Ali Sabieh"
+        },
+        {
+          "id": 30567,
+          "name": "Goubétto"
+        },
+        {
+          "id": 30569,
+          "name": "Holhol"
+        }
+      ]
+    },
+    {
+      "id": 2932,
+      "name": "Arta Region",
+      "state_code": "AR",
+      "cities": [
+        {
+          "id": 30563,
+          "name": "Arta"
+        }
+      ]
+    },
+    {
+      "id": 2930,
+      "name": "Dikhil Region",
+      "state_code": "DI",
+      "cities": [
+        {
+          "id": 30564,
+          "name": "Dikhil"
+        },
+        {
+          "id": 30568,
+          "name": "Gâlâfi"
+        }
+      ]
+    },
+    {
+      "id": 2929,
+      "name": "Djibouti",
+      "state_code": "DJ",
+      "cities": [
+        {
+          "id": 30565,
+          "name": "Djibouti"
+        },
+        {
+          "id": 30570,
+          "name": "Loyada"
+        }
+      ]
+    },
+    {
+      "id": 2928,
+      "name": "Obock Region",
+      "state_code": "OB",
+      "cities": [
+        {
+          "id": 30562,
+          "name": "Alaïli Ḏaḏḏa‘"
+        },
+        {
+          "id": 30571,
+          "name": "Obock"
+        }
+      ]
+    },
+    {
+      "id": 2931,
+      "name": "Tadjourah Region",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 30566,
+          "name": "Dorra"
+        },
+        {
+          "id": 30572,
+          "name": "Tadjourah"
+        }
+      ]
+    }
+  ]
+}

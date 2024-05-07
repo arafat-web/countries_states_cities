@@ -1,0 +1,363 @@
+{
+  "id": 143,
+  "name": "Micronesia",
+  "short_name": "FSM",
+  "phone_code": "691",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 2580,
+      "name": "Chuuk State",
+      "state_code": "TRK",
+      "cities": [
+        {
+          "id": 39155,
+          "name": "Eot Municipality"
+        },
+        {
+          "id": 39156,
+          "name": "Ettal Municipality"
+        },
+        {
+          "id": 39159,
+          "name": "Fananu Municipality"
+        },
+        {
+          "id": 39160,
+          "name": "Fanapanges Municipality"
+        },
+        {
+          "id": 39163,
+          "name": "Fefen Municipality"
+        },
+        {
+          "id": 39164,
+          "name": "Fonoton Municipality"
+        },
+        {
+          "id": 39167,
+          "name": "Houk Municipality"
+        },
+        {
+          "id": 39173,
+          "name": "Kuttu Municipality"
+        },
+        {
+          "id": 39175,
+          "name": "Lekinioch Municipality"
+        },
+        {
+          "id": 39177,
+          "name": "Losap Municipality"
+        },
+        {
+          "id": 39180,
+          "name": "Makur Municipality"
+        },
+        {
+          "id": 39182,
+          "name": "Moch Municipality"
+        },
+        {
+          "id": 39184,
+          "name": "Murilo"
+        },
+        {
+          "id": 39185,
+          "name": "Murilo Municipality"
+        },
+        {
+          "id": 39186,
+          "name": "Namoluk Municipality"
+        },
+        {
+          "id": 39187,
+          "name": "Nema"
+        },
+        {
+          "id": 39188,
+          "name": "Nema Municipality"
+        },
+        {
+          "id": 39192,
+          "name": "Nomwin Municipality"
+        },
+        {
+          "id": 39194,
+          "name": "Oneop Municipality"
+        },
+        {
+          "id": 39195,
+          "name": "Onou Municipality"
+        },
+        {
+          "id": 39196,
+          "name": "Onoun Municipality"
+        },
+        {
+          "id": 39197,
+          "name": "Paata-Tupunion Municipality"
+        },
+        {
+          "id": 39199,
+          "name": "Parem Municipality"
+        },
+        {
+          "id": 39200,
+          "name": "Piherarh Municipality"
+        },
+        {
+          "id": 39201,
+          "name": "Piis-Emwar Municipality"
+        },
+        {
+          "id": 39202,
+          "name": "Piis-Panewu Municipality"
+        },
+        {
+          "id": 39204,
+          "name": "Pollap Municipality"
+        },
+        {
+          "id": 39205,
+          "name": "Polowat Municipality"
+        },
+        {
+          "id": 39206,
+          "name": "Pwene Municipality"
+        },
+        {
+          "id": 39207,
+          "name": "Ramanum Municipality"
+        },
+        {
+          "id": 39210,
+          "name": "Ruo Municipality"
+        },
+        {
+          "id": 39213,
+          "name": "Satowan Municipality"
+        },
+        {
+          "id": 39214,
+          "name": "Siis Municipality"
+        },
+        {
+          "id": 39216,
+          "name": "Ta Municipality"
+        },
+        {
+          "id": 39218,
+          "name": "Tamatam Municipality"
+        },
+        {
+          "id": 39220,
+          "name": "Tolensom Municipality"
+        },
+        {
+          "id": 39222,
+          "name": "Tonoas Municipality"
+        },
+        {
+          "id": 39224,
+          "name": "Udot-Fonuweisom Municipality"
+        },
+        {
+          "id": 39226,
+          "name": "Uman-Fonuweisom Municipality"
+        },
+        {
+          "id": 39227,
+          "name": "Unanu Municipality"
+        },
+        {
+          "id": 39230,
+          "name": "Weno"
+        },
+        {
+          "id": 39231,
+          "name": "Weno Municipality"
+        },
+        {
+          "id": 39233,
+          "name": "Wonei Municipality"
+        }
+      ]
+    },
+    {
+      "id": 2583,
+      "name": "Kosrae State",
+      "state_code": "KSA",
+      "cities": [
+        {
+          "id": 39176,
+          "name": "Lelu Municipality"
+        },
+        {
+          "id": 39181,
+          "name": "Malem Municipality"
+        },
+        {
+          "id": 39217,
+          "name": "Tafunsak Municipality"
+        },
+        {
+          "id": 39219,
+          "name": "Tofol"
+        },
+        {
+          "id": 39228,
+          "name": "Utwe Municipality"
+        }
+      ]
+    },
+    {
+      "id": 2581,
+      "name": "Pohnpei State",
+      "state_code": "PNI",
+      "cities": [
+        {
+          "id": 39169,
+          "name": "Kitti Municipality"
+        },
+        {
+          "id": 39170,
+          "name": "Kolonia"
+        },
+        {
+          "id": 39171,
+          "name": "Kolonia Municipality"
+        },
+        {
+          "id": 39172,
+          "name": "Kolonia Town"
+        },
+        {
+          "id": 39179,
+          "name": "Madolenihm Municipality"
+        },
+        {
+          "id": 39183,
+          "name": "Mokil Municipality"
+        },
+        {
+          "id": 39189,
+          "name": "Nett Municipality"
+        },
+        {
+          "id": 39190,
+          "name": "Ngatik"
+        },
+        {
+          "id": 39193,
+          "name": "Nukuoro Municipality"
+        },
+        {
+          "id": 39198,
+          "name": "Palikir - National Government Center"
+        },
+        {
+          "id": 39203,
+          "name": "Pingelap Municipality"
+        },
+        {
+          "id": 39211,
+          "name": "Sapwuahfik Municipality"
+        },
+        {
+          "id": 39215,
+          "name": "Sokehs Municipality"
+        },
+        {
+          "id": 39223,
+          "name": "U Municipality"
+        }
+      ]
+    },
+    {
+      "id": 2582,
+      "name": "Yap State",
+      "state_code": "YAP",
+      "cities": [
+        {
+          "id": 39153,
+          "name": "Colonia"
+        },
+        {
+          "id": 39154,
+          "name": "Dalipebinaw Municipality"
+        },
+        {
+          "id": 39157,
+          "name": "Fais"
+        },
+        {
+          "id": 39158,
+          "name": "Fais Municipality"
+        },
+        {
+          "id": 39161,
+          "name": "Fanif Municipality"
+        },
+        {
+          "id": 39162,
+          "name": "Faraulep Municipality"
+        },
+        {
+          "id": 39165,
+          "name": "Gagil Municipality"
+        },
+        {
+          "id": 39166,
+          "name": "Gilman Municipality"
+        },
+        {
+          "id": 39168,
+          "name": "Kanifay Municipality"
+        },
+        {
+          "id": 39174,
+          "name": "Lamotrek Municipality"
+        },
+        {
+          "id": 39178,
+          "name": "Maap Municipality"
+        },
+        {
+          "id": 39191,
+          "name": "Ngulu Municipality"
+        },
+        {
+          "id": 39208,
+          "name": "Rull Municipality"
+        },
+        {
+          "id": 39209,
+          "name": "Rumung Municipality"
+        },
+        {
+          "id": 39212,
+          "name": "Satawal Municipality"
+        },
+        {
+          "id": 39221,
+          "name": "Tomil Municipality"
+        },
+        {
+          "id": 39225,
+          "name": "Ulithi Municipality"
+        },
+        {
+          "id": 39229,
+          "name": "Weloy Municipality"
+        },
+        {
+          "id": 39232,
+          "name": "Woleai Municipality"
+        }
+      ]
+    }
+  ]
+}

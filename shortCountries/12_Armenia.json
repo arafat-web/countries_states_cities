@@ -1,0 +1,1320 @@
+{
+  "id": 12,
+  "name": "Armenia",
+  "short_name": "ARM",
+  "phone_code": "374",
+  "currency": "AMD",
+  "currency_name": "Armenian dram",
+  "currency_symbol": "֏",
+  "states": [
+    {
+      "id": 2023,
+      "name": "Aragatsotn Region",
+      "state_code": "AG",
+      "cities": [
+        {
+          "id": 286,
+          "name": "Agarakavan"
+        },
+        {
+          "id": 303,
+          "name": "Aparan"
+        },
+        {
+          "id": 305,
+          "name": "Aragats"
+        },
+        {
+          "id": 329,
+          "name": "Arteni"
+        },
+        {
+          "id": 334,
+          "name": "Ashnak"
+        },
+        {
+          "id": 335,
+          "name": "Ashtarak"
+        },
+        {
+          "id": 361,
+          "name": "Byurakan"
+        },
+        {
+          "id": 412,
+          "name": "Hnaberd"
+        },
+        {
+          "id": 428,
+          "name": "Karbi"
+        },
+        {
+          "id": 430,
+          "name": "Kasakh"
+        },
+        {
+          "id": 434,
+          "name": "Kosh"
+        },
+        {
+          "id": 486,
+          "name": "Nor Yerznka"
+        },
+        {
+          "id": 497,
+          "name": "Oshakan"
+        },
+        {
+          "id": 512,
+          "name": "Sasunik"
+        },
+        {
+          "id": 520,
+          "name": "Shenavan"
+        },
+        {
+          "id": 546,
+          "name": "T’alin"
+        },
+        {
+          "id": 538,
+          "name": "Tsaghkahovit"
+        },
+        {
+          "id": 548,
+          "name": "Ushi"
+        },
+        {
+          "id": 570,
+          "name": "Voskevaz"
+        },
+        {
+          "id": 588,
+          "name": "Zovuni"
+        }
+      ]
+    },
+    {
+      "id": 2024,
+      "name": "Ararat Province",
+      "state_code": "AR",
+      "cities": [
+        {
+          "id": 282,
+          "name": "Abovyan"
+        },
+        {
+          "id": 307,
+          "name": "Aralez"
+        },
+        {
+          "id": 309,
+          "name": "Ararat"
+        },
+        {
+          "id": 314,
+          "name": "Arevabuyr"
+        },
+        {
+          "id": 319,
+          "name": "Arevshat"
+        },
+        {
+          "id": 324,
+          "name": "Armash"
+        },
+        {
+          "id": 328,
+          "name": "Artashat"
+        },
+        {
+          "id": 337,
+          "name": "Avshar"
+        },
+        {
+          "id": 338,
+          "name": "Aygavan"
+        },
+        {
+          "id": 341,
+          "name": "Aygepat"
+        },
+        {
+          "id": 343,
+          "name": "Aygestan"
+        },
+        {
+          "id": 344,
+          "name": "Aygezard"
+        },
+        {
+          "id": 351,
+          "name": "Bardzrashen"
+        },
+        {
+          "id": 356,
+          "name": "Berk’anush"
+        },
+        {
+          "id": 359,
+          "name": "Burastan"
+        },
+        {
+          "id": 362,
+          "name": "Byuravan"
+        },
+        {
+          "id": 366,
+          "name": "Dalar"
+        },
+        {
+          "id": 368,
+          "name": "Darakert"
+        },
+        {
+          "id": 370,
+          "name": "Dashtavan"
+        },
+        {
+          "id": 373,
+          "name": "Dimitrov"
+        },
+        {
+          "id": 377,
+          "name": "Dvin"
+        },
+        {
+          "id": 395,
+          "name": "Getazat"
+        },
+        {
+          "id": 396,
+          "name": "Ghukasavan"
+        },
+        {
+          "id": 401,
+          "name": "Goravan"
+        },
+        {
+          "id": 409,
+          "name": "Hayanist"
+        },
+        {
+          "id": 415,
+          "name": "Hovtashat"
+        },
+        {
+          "id": 416,
+          "name": "Hovtashen"
+        },
+        {
+          "id": 421,
+          "name": "Jrahovit"
+        },
+        {
+          "id": 449,
+          "name": "Lusarrat"
+        },
+        {
+          "id": 455,
+          "name": "Marmarashen"
+        },
+        {
+          "id": 458,
+          "name": "Masis"
+        },
+        {
+          "id": 472,
+          "name": "Mrganush"
+        },
+        {
+          "id": 475,
+          "name": "Mrgavan"
+        },
+        {
+          "id": 476,
+          "name": "Mrgavet"
+        },
+        {
+          "id": 482,
+          "name": "Nizami"
+        },
+        {
+          "id": 487,
+          "name": "Norabats’"
+        },
+        {
+          "id": 489,
+          "name": "Noramarg"
+        },
+        {
+          "id": 491,
+          "name": "Norashen"
+        },
+        {
+          "id": 493,
+          "name": "Noyakert"
+        },
+        {
+          "id": 495,
+          "name": "Nshavan"
+        },
+        {
+          "id": 513,
+          "name": "Sayat’-Nova"
+        },
+        {
+          "id": 516,
+          "name": "Shahumyan"
+        },
+        {
+          "id": 525,
+          "name": "Sis"
+        },
+        {
+          "id": 526,
+          "name": "Sisavan"
+        },
+        {
+          "id": 531,
+          "name": "Surenavan"
+        },
+        {
+          "id": 560,
+          "name": "Vedi"
+        },
+        {
+          "id": 561,
+          "name": "Verin Artashat"
+        },
+        {
+          "id": 562,
+          "name": "Verin Dvin"
+        },
+        {
+          "id": 568,
+          "name": "Vosketap’"
+        },
+        {
+          "id": 571,
+          "name": "Vostan"
+        },
+        {
+          "id": 574,
+          "name": "Yeghegnavan"
+        },
+        {
+          "id": 582,
+          "name": "Zangakatun"
+        },
+        {
+          "id": 585,
+          "name": "Zorak"
+        }
+      ]
+    },
+    {
+      "id": 2026,
+      "name": "Armavir Region",
+      "state_code": "AV",
+      "cities": [
+        {
+          "id": 289,
+          "name": "Aghavnatun"
+        },
+        {
+          "id": 292,
+          "name": "Aknalich"
+        },
+        {
+          "id": 293,
+          "name": "Aknashen"
+        },
+        {
+          "id": 297,
+          "name": "Alashkert"
+        },
+        {
+          "id": 302,
+          "name": "Apaga"
+        },
+        {
+          "id": 306,
+          "name": "Arak’s"
+        },
+        {
+          "id": 310,
+          "name": "Arazap’"
+        },
+        {
+          "id": 311,
+          "name": "Arbat’"
+        },
+        {
+          "id": 315,
+          "name": "Arevashat"
+        },
+        {
+          "id": 317,
+          "name": "Arevik"
+        },
+        {
+          "id": 322,
+          "name": "Argavand"
+        },
+        {
+          "id": 325,
+          "name": "Armavir"
+        },
+        {
+          "id": 327,
+          "name": "Arshaluys"
+        },
+        {
+          "id": 330,
+          "name": "Artimet"
+        },
+        {
+          "id": 340,
+          "name": "Aygek"
+        },
+        {
+          "id": 342,
+          "name": "Aygeshat"
+        },
+        {
+          "id": 347,
+          "name": "Baghramyan"
+        },
+        {
+          "id": 350,
+          "name": "Bambakashat"
+        },
+        {
+          "id": 367,
+          "name": "Dalarik"
+        },
+        {
+          "id": 374,
+          "name": "Doghs"
+        },
+        {
+          "id": 388,
+          "name": "Gay"
+        },
+        {
+          "id": 389,
+          "name": "Geghakert"
+        },
+        {
+          "id": 392,
+          "name": "Geghanist"
+        },
+        {
+          "id": 394,
+          "name": "Getashen"
+        },
+        {
+          "id": 398,
+          "name": "Gmbet’"
+        },
+        {
+          "id": 403,
+          "name": "Griboyedov"
+        },
+        {
+          "id": 410,
+          "name": "Haykashen"
+        },
+        {
+          "id": 414,
+          "name": "Hovtamej"
+        },
+        {
+          "id": 419,
+          "name": "Janfida"
+        },
+        {
+          "id": 433,
+          "name": "Khoronk’"
+        },
+        {
+          "id": 440,
+          "name": "Lenughi"
+        },
+        {
+          "id": 448,
+          "name": "Lukashin"
+        },
+        {
+          "id": 454,
+          "name": "Margara"
+        },
+        {
+          "id": 461,
+          "name": "Mayisyan"
+        },
+        {
+          "id": 465,
+          "name": "Merdzavan"
+        },
+        {
+          "id": 469,
+          "name": "Metsamor"
+        },
+        {
+          "id": 473,
+          "name": "Mrgashat"
+        },
+        {
+          "id": 477,
+          "name": "Musalerr"
+        },
+        {
+          "id": 478,
+          "name": "Myasnikyan"
+        },
+        {
+          "id": 479,
+          "name": "Nalbandyan"
+        },
+        {
+          "id": 483,
+          "name": "Nor Armavir"
+        },
+        {
+          "id": 488,
+          "name": "Norakert"
+        },
+        {
+          "id": 504,
+          "name": "P’shatavan"
+        },
+        {
+          "id": 502,
+          "name": "Ptghunk’"
+        },
+        {
+          "id": 509,
+          "name": "Sardarapat"
+        },
+        {
+          "id": 519,
+          "name": "Shenavan"
+        },
+        {
+          "id": 532,
+          "name": "Tandzut"
+        },
+        {
+          "id": 533,
+          "name": "Taronik"
+        },
+        {
+          "id": 539,
+          "name": "Tsaghkunk’"
+        },
+        {
+          "id": 540,
+          "name": "Tsiatsan"
+        },
+        {
+          "id": 549,
+          "name": "Vagharshapat"
+        },
+        {
+          "id": 567,
+          "name": "Voskehat"
+        },
+        {
+          "id": 575,
+          "name": "Yeghegnut"
+        },
+        {
+          "id": 579,
+          "name": "Yeraskhahun"
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "name": "Gegharkunik Province",
+      "state_code": "GR",
+      "cities": [
+        {
+          "id": 296,
+          "name": "Akunk’"
+        },
+        {
+          "id": 336,
+          "name": "Astghadzor"
+        },
+        {
+          "id": 364,
+          "name": "Chambarak"
+        },
+        {
+          "id": 371,
+          "name": "Ddmashen"
+        },
+        {
+          "id": 375,
+          "name": "Drakhtik"
+        },
+        {
+          "id": 380,
+          "name": "Dzoragyugh"
+        },
+        {
+          "id": 384,
+          "name": "Gagarin"
+        },
+        {
+          "id": 385,
+          "name": "Gandzak"
+        },
+        {
+          "id": 387,
+          "name": "Gavarr"
+        },
+        {
+          "id": 390,
+          "name": "Geghamasar"
+        },
+        {
+          "id": 391,
+          "name": "Geghamavan"
+        },
+        {
+          "id": 427,
+          "name": "Karanlukh"
+        },
+        {
+          "id": 429,
+          "name": "Karchaghbyur"
+        },
+        {
+          "id": 437,
+          "name": "Lanjaghbyur"
+        },
+        {
+          "id": 438,
+          "name": "Lchap’"
+        },
+        {
+          "id": 439,
+          "name": "Lchashen"
+        },
+        {
+          "id": 446,
+          "name": "Lichk’"
+        },
+        {
+          "id": 450,
+          "name": "Madina"
+        },
+        {
+          "id": 457,
+          "name": "Martuni"
+        },
+        {
+          "id": 467,
+          "name": "Mets Masrik"
+        },
+        {
+          "id": 481,
+          "name": "Nerk’in Getashen"
+        },
+        {
+          "id": 492,
+          "name": "Noratus"
+        },
+        {
+          "id": 511,
+          "name": "Sarukhan"
+        },
+        {
+          "id": 514,
+          "name": "Sevan"
+        },
+        {
+          "id": 541,
+          "name": "Tsovagyugh"
+        },
+        {
+          "id": 542,
+          "name": "Tsovak"
+        },
+        {
+          "id": 543,
+          "name": "Tsovasar"
+        },
+        {
+          "id": 544,
+          "name": "Tsovazard"
+        },
+        {
+          "id": 545,
+          "name": "Tsovinar"
+        },
+        {
+          "id": 550,
+          "name": "Vaghashen"
+        },
+        {
+          "id": 552,
+          "name": "Vahan"
+        },
+        {
+          "id": 556,
+          "name": "Vardenik"
+        },
+        {
+          "id": 557,
+          "name": "Vardenis"
+        },
+        {
+          "id": 558,
+          "name": "Varser"
+        },
+        {
+          "id": 563,
+          "name": "Verin Getashen"
+        },
+        {
+          "id": 578,
+          "name": "Yeranos"
+        }
+      ]
+    },
+    {
+      "id": 2033,
+      "name": "Kotayk Region",
+      "state_code": "KT",
+      "cities": [
+        {
+          "id": 281,
+          "name": "Abovyan"
+        },
+        {
+          "id": 287,
+          "name": "Aghavnadzor"
+        },
+        {
+          "id": 295,
+          "name": "Akunk’"
+        },
+        {
+          "id": 308,
+          "name": "Aramus"
+        },
+        {
+          "id": 323,
+          "name": "Argel"
+        },
+        {
+          "id": 332,
+          "name": "Arzakan"
+        },
+        {
+          "id": 333,
+          "name": "Arzni"
+        },
+        {
+          "id": 349,
+          "name": "Balahovit"
+        },
+        {
+          "id": 357,
+          "name": "Bjni"
+        },
+        {
+          "id": 360,
+          "name": "Buzhakan"
+        },
+        {
+          "id": 363,
+          "name": "Byureghavan"
+        },
+        {
+          "id": 379,
+          "name": "Dzoraghbyur"
+        },
+        {
+          "id": 382,
+          "name": "Fantan"
+        },
+        {
+          "id": 386,
+          "name": "Garrni"
+        },
+        {
+          "id": 400,
+          "name": "Goght’"
+        },
+        {
+          "id": 417,
+          "name": "Hrazdan"
+        },
+        {
+          "id": 426,
+          "name": "Kaputan"
+        },
+        {
+          "id": 435,
+          "name": "Kotayk’"
+        },
+        {
+          "id": 442,
+          "name": "Lerrnanist"
+        },
+        {
+          "id": 459,
+          "name": "Mayakovski"
+        },
+        {
+          "id": 462,
+          "name": "Meghradzor"
+        },
+        {
+          "id": 474,
+          "name": "Mrgashen"
+        },
+        {
+          "id": 484,
+          "name": "Nor Geghi"
+        },
+        {
+          "id": 485,
+          "name": "Nor Gyugh"
+        },
+        {
+          "id": 500,
+          "name": "Prroshyan"
+        },
+        {
+          "id": 501,
+          "name": "Ptghni"
+        },
+        {
+          "id": 527,
+          "name": "Solak"
+        },
+        {
+          "id": 537,
+          "name": "Tsaghkadzor"
+        },
+        {
+          "id": 577,
+          "name": "Yeghvard"
+        },
+        {
+          "id": 583,
+          "name": "Zarr"
+        },
+        {
+          "id": 586,
+          "name": "Zoravan"
+        },
+        {
+          "id": 587,
+          "name": "Zovaber"
+        }
+      ]
+    },
+    {
+      "id": 2029,
+      "name": "Lori Region",
+      "state_code": "LO",
+      "cities": [
+        {
+          "id": 283,
+          "name": "Agarak"
+        },
+        {
+          "id": 290,
+          "name": "Akht’ala"
+        },
+        {
+          "id": 298,
+          "name": "Alaverdi"
+        },
+        {
+          "id": 316,
+          "name": "Arevashogh"
+        },
+        {
+          "id": 353,
+          "name": "Bazum"
+        },
+        {
+          "id": 365,
+          "name": "Chochkan"
+        },
+        {
+          "id": 369,
+          "name": "Darpas"
+        },
+        {
+          "id": 376,
+          "name": "Dsegh"
+        },
+        {
+          "id": 383,
+          "name": "Fioletovo"
+        },
+        {
+          "id": 399,
+          "name": "Gogaran"
+        },
+        {
+          "id": 404,
+          "name": "Gugark’"
+        },
+        {
+          "id": 405,
+          "name": "Gyulagarak"
+        },
+        {
+          "id": 423,
+          "name": "Jrashen"
+        },
+        {
+          "id": 443,
+          "name": "Lerrnants’k’"
+        },
+        {
+          "id": 444,
+          "name": "Lerrnapat"
+        },
+        {
+          "id": 445,
+          "name": "Lerrnavan"
+        },
+        {
+          "id": 447,
+          "name": "Lorut"
+        },
+        {
+          "id": 453,
+          "name": "Margahovit"
+        },
+        {
+          "id": 468,
+          "name": "Mets Parni"
+        },
+        {
+          "id": 470,
+          "name": "Metsavan"
+        },
+        {
+          "id": 490,
+          "name": "Norashen"
+        },
+        {
+          "id": 496,
+          "name": "Odzun"
+        },
+        {
+          "id": 506,
+          "name": "Sarahart’"
+        },
+        {
+          "id": 507,
+          "name": "Saramej"
+        },
+        {
+          "id": 517,
+          "name": "Shahumyan"
+        },
+        {
+          "id": 523,
+          "name": "Shirakamut"
+        },
+        {
+          "id": 524,
+          "name": "Shnogh"
+        },
+        {
+          "id": 529,
+          "name": "Spitak"
+        },
+        {
+          "id": 530,
+          "name": "Step’anavan"
+        },
+        {
+          "id": 534,
+          "name": "Tashir"
+        },
+        {
+          "id": 536,
+          "name": "Tsaghkaber"
+        },
+        {
+          "id": 547,
+          "name": "Urrut"
+        },
+        {
+          "id": 551,
+          "name": "Vahagni"
+        },
+        {
+          "id": 553,
+          "name": "Vanadzor"
+        },
+        {
+          "id": 554,
+          "name": "Vardablur"
+        },
+        {
+          "id": 576,
+          "name": "Yeghegnut"
+        }
+      ]
+    },
+    {
+      "id": 2031,
+      "name": "Shirak Region",
+      "state_code": "SH",
+      "cities": [
+        {
+          "id": 291,
+          "name": "Akhuryan"
+        },
+        {
+          "id": 299,
+          "name": "Amasia"
+        },
+        {
+          "id": 301,
+          "name": "Anushavan"
+        },
+        {
+          "id": 318,
+          "name": "Arevik"
+        },
+        {
+          "id": 320,
+          "name": "Arevshat"
+        },
+        {
+          "id": 326,
+          "name": "Arrap’i"
+        },
+        {
+          "id": 346,
+          "name": "Azatan"
+        },
+        {
+          "id": 352,
+          "name": "Basen"
+        },
+        {
+          "id": 378,
+          "name": "Dzit’hank’ov"
+        },
+        {
+          "id": 406,
+          "name": "Gyumri"
+        },
+        {
+          "id": 411,
+          "name": "Haykavan"
+        },
+        {
+          "id": 413,
+          "name": "Horrom"
+        },
+        {
+          "id": 424,
+          "name": "Kamo"
+        },
+        {
+          "id": 441,
+          "name": "Lerrnakert"
+        },
+        {
+          "id": 452,
+          "name": "Maralik"
+        },
+        {
+          "id": 456,
+          "name": "Marmashen"
+        },
+        {
+          "id": 460,
+          "name": "Mayisyan"
+        },
+        {
+          "id": 463,
+          "name": "Meghrashen"
+        },
+        {
+          "id": 466,
+          "name": "Mets Mant’ash"
+        },
+        {
+          "id": 503,
+          "name": "P’ok’r Mant’ash"
+        },
+        {
+          "id": 499,
+          "name": "Pemzashen"
+        },
+        {
+          "id": 508,
+          "name": "Saratak"
+        },
+        {
+          "id": 522,
+          "name": "Shirak"
+        },
+        {
+          "id": 528,
+          "name": "Spandaryan"
+        },
+        {
+          "id": 566,
+          "name": "Voskehask"
+        },
+        {
+          "id": 580,
+          "name": "Yerazgavors"
+        }
+      ]
+    },
+    {
+      "id": 2027,
+      "name": "Syunik Province",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 284,
+          "name": "Agarak"
+        },
+        {
+          "id": 294,
+          "name": "Akner"
+        },
+        {
+          "id": 300,
+          "name": "Angeghakot’"
+        },
+        {
+          "id": 358,
+          "name": "Brrnakot’"
+        },
+        {
+          "id": 381,
+          "name": "Dzorastan"
+        },
+        {
+          "id": 402,
+          "name": "Goris"
+        },
+        {
+          "id": 408,
+          "name": "Hats’avan"
+        },
+        {
+          "id": 425,
+          "name": "Kapan"
+        },
+        {
+          "id": 432,
+          "name": "Khndzoresk"
+        },
+        {
+          "id": 464,
+          "name": "Meghri"
+        },
+        {
+          "id": 515,
+          "name": "Shaghat"
+        },
+        {
+          "id": 521,
+          "name": "Shinuhayr"
+        },
+        {
+          "id": 535,
+          "name": "Tegh"
+        },
+        {
+          "id": 564,
+          "name": "Verishen"
+        }
+      ]
+    },
+    {
+      "id": 2032,
+      "name": "Tavush Region",
+      "state_code": "TV",
+      "cities": [
+        {
+          "id": 312,
+          "name": "Archis"
+        },
+        {
+          "id": 331,
+          "name": "Artsvaberd"
+        },
+        {
+          "id": 339,
+          "name": "Aygehovit"
+        },
+        {
+          "id": 345,
+          "name": "Azatamut"
+        },
+        {
+          "id": 348,
+          "name": "Bagratashen"
+        },
+        {
+          "id": 354,
+          "name": "Berd"
+        },
+        {
+          "id": 355,
+          "name": "Berdavan"
+        },
+        {
+          "id": 372,
+          "name": "Dilijan"
+        },
+        {
+          "id": 407,
+          "name": "Haghartsin"
+        },
+        {
+          "id": 418,
+          "name": "Ijevan"
+        },
+        {
+          "id": 431,
+          "name": "Khasht’arrak"
+        },
+        {
+          "id": 471,
+          "name": "Mosesgegh"
+        },
+        {
+          "id": 480,
+          "name": "Navur"
+        },
+        {
+          "id": 494,
+          "name": "Noyemberyan"
+        },
+        {
+          "id": 498,
+          "name": "Parravak’ar"
+        },
+        {
+          "id": 510,
+          "name": "Sarigyugh"
+        },
+        {
+          "id": 569,
+          "name": "Voskevan"
+        }
+      ]
+    },
+    {
+      "id": 2025,
+      "name": "Vayots Dzor Region",
+      "state_code": "VD",
+      "cities": [
+        {
+          "id": 285,
+          "name": "Agarakadzor"
+        },
+        {
+          "id": 288,
+          "name": "Aghavnadzor"
+        },
+        {
+          "id": 313,
+          "name": "Areni"
+        },
+        {
+          "id": 393,
+          "name": "Getap’"
+        },
+        {
+          "id": 397,
+          "name": "Gladzor"
+        },
+        {
+          "id": 420,
+          "name": "Jermuk"
+        },
+        {
+          "id": 451,
+          "name": "Malishka"
+        },
+        {
+          "id": 505,
+          "name": "Rrind"
+        },
+        {
+          "id": 518,
+          "name": "Shatin"
+        },
+        {
+          "id": 559,
+          "name": "Vayk’"
+        },
+        {
+          "id": 565,
+          "name": "Vernashen"
+        },
+        {
+          "id": 572,
+          "name": "Yeghegis"
+        },
+        {
+          "id": 573,
+          "name": "Yeghegnadzor"
+        },
+        {
+          "id": 584,
+          "name": "Zarrit’ap’"
+        }
+      ]
+    },
+    {
+      "id": 2030,
+      "name": "Yerevan",
+      "state_code": "ER",
+      "cities": [
+        {
+          "id": 304,
+          "name": "Arabkir"
+        },
+        {
+          "id": 321,
+          "name": "Argavand"
+        },
+        {
+          "id": 422,
+          "name": "Jrashen"
+        },
+        {
+          "id": 436,
+          "name": "K’anak’erravan"
+        },
+        {
+          "id": 555,
+          "name": "Vardadzor"
+        },
+        {
+          "id": 581,
+          "name": "Yerevan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 87,
+  "name": "Grenada",
+  "short_name": "GRD",
+  "phone_code": "+1-473",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3867,
+      "name": "Carriacou and Petite Martinique",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 52030,
+          "name": "Hillsborough"
+        }
+      ]
+    },
+    {
+      "id": 3865,
+      "name": "Saint Andrew Parish",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 52029,
+          "name": "Grenville"
+        }
+      ]
+    },
+    {
+      "id": 3869,
+      "name": "Saint David Parish",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 52031,
+          "name": "Saint David’s"
+        }
+      ]
+    },
+    {
+      "id": 3864,
+      "name": "Saint George Parish",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 52032,
+          "name": "Saint George's"
+        }
+      ]
+    },
+    {
+      "id": 3868,
+      "name": "Saint John Parish",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 52028,
+          "name": "Gouyave"
+        }
+      ]
+    },
+    {
+      "id": 3866,
+      "name": "Saint Mark Parish",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 52034,
+          "name": "Victoria"
+        }
+      ]
+    },
+    {
+      "id": 3863,
+      "name": "Saint Patrick Parish",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 52033,
+          "name": "Sauteurs"
+        }
+      ]
+    }
+  ]
+}

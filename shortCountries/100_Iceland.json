@@ -1,0 +1,363 @@
+{
+  "id": 100,
+  "name": "Iceland",
+  "short_name": "ISL",
+  "phone_code": "354",
+  "currency": "ISK",
+  "currency_name": "Icelandic króna",
+  "currency_symbol": "kr",
+  "states": [
+    {
+      "id": 3431,
+      "name": "Capital Region",
+      "state_code": "1",
+      "cities": [
+        {
+          "id": 135228,
+          "name": "Álftanes"
+        },
+        {
+          "id": 135181,
+          "name": "Garðabær"
+        },
+        {
+          "id": 135186,
+          "name": "Hafnarfjörður"
+        },
+        {
+          "id": 135196,
+          "name": "Kjósarhreppur"
+        },
+        {
+          "id": 135197,
+          "name": "Kópavogur"
+        },
+        {
+          "id": 135200,
+          "name": "Mosfellsbaer"
+        },
+        {
+          "id": 135201,
+          "name": "Mosfellsbær"
+        },
+        {
+          "id": 135206,
+          "name": "Reykjavík"
+        },
+        {
+          "id": 135211,
+          "name": "Seltjarnarnes"
+        }
+      ]
+    },
+    {
+      "id": 3433,
+      "name": "Eastern Region",
+      "state_code": "7",
+      "cities": [
+        {
+          "id": 135166,
+          "name": "Borgarfjarðarhreppur"
+        },
+        {
+          "id": 135168,
+          "name": "Breiðdalshreppur"
+        },
+        {
+          "id": 135172,
+          "name": "Egilsstaðir"
+        },
+        {
+          "id": 135173,
+          "name": "Eskifjörður"
+        },
+        {
+          "id": 135177,
+          "name": "Fjarðabyggð"
+        },
+        {
+          "id": 135179,
+          "name": "Fljótsdalshérað"
+        },
+        {
+          "id": 135178,
+          "name": "Fljótsdalshreppur"
+        },
+        {
+          "id": 135191,
+          "name": "Höfn"
+        },
+        {
+          "id": 135203,
+          "name": "Neskaupstaður"
+        },
+        {
+          "id": 135207,
+          "name": "Reyðarfjörður"
+        }
+      ]
+    },
+    {
+      "id": 3437,
+      "name": "Northeastern Region",
+      "state_code": "6",
+      "cities": [
+        {
+          "id": 135163,
+          "name": "Akureyri"
+        },
+        {
+          "id": 135170,
+          "name": "Dalvík"
+        },
+        {
+          "id": 135171,
+          "name": "Dalvíkurbyggð"
+        },
+        {
+          "id": 135175,
+          "name": "Eyjafjarðarsveit"
+        },
+        {
+          "id": 135176,
+          "name": "Fjallabyggð"
+        },
+        {
+          "id": 135185,
+          "name": "Grýtubakkahreppur"
+        },
+        {
+          "id": 135192,
+          "name": "Hörgársveit"
+        },
+        {
+          "id": 135194,
+          "name": "Húsavík"
+        },
+        {
+          "id": 135198,
+          "name": "Langanesbyggð"
+        },
+        {
+          "id": 135199,
+          "name": "Laugar"
+        },
+        {
+          "id": 135212,
+          "name": "Siglufjörður"
+        },
+        {
+          "id": 135217,
+          "name": "Skútustaðahreppur"
+        },
+        {
+          "id": 135221,
+          "name": "Svalbarðsstrandarhreppur"
+        },
+        {
+          "id": 135223,
+          "name": "Tjörneshreppur"
+        },
+        {
+          "id": 135233,
+          "name": "Þingeyjarsveit"
+        }
+      ]
+    },
+    {
+      "id": 3435,
+      "name": "Northwestern Region",
+      "state_code": "5",
+      "cities": [
+        {
+          "id": 135161,
+          "name": "Akrahreppur"
+        },
+        {
+          "id": 135193,
+          "name": "Húnaþing Vestra"
+        },
+        {
+          "id": 135209,
+          "name": "Sauðárkrókur"
+        },
+        {
+          "id": 135214,
+          "name": "Skagabyggð"
+        },
+        {
+          "id": 135222,
+          "name": "Sveitarfélagið Skagafjörður"
+        }
+      ]
+    },
+    {
+      "id": 3430,
+      "name": "Southern Peninsula Region",
+      "state_code": "2",
+      "cities": [
+        {
+          "id": 135182,
+          "name": "Garður"
+        },
+        {
+          "id": 135183,
+          "name": "Grindavík"
+        },
+        {
+          "id": 135195,
+          "name": "Keflavík"
+        },
+        {
+          "id": 135205,
+          "name": "Reykjanesbær"
+        },
+        {
+          "id": 135208,
+          "name": "Sandgerði"
+        },
+        {
+          "id": 135227,
+          "name": "Vogar"
+        }
+      ]
+    },
+    {
+      "id": 3434,
+      "name": "Southern Region",
+      "state_code": "8",
+      "cities": [
+        {
+          "id": 135229,
+          "name": "Ásahreppur"
+        },
+        {
+          "id": 135164,
+          "name": "Bláskógabyggð"
+        },
+        {
+          "id": 135180,
+          "name": "Flóahreppur"
+        },
+        {
+          "id": 135184,
+          "name": "Grímsnes- og Grafningshreppur"
+        },
+        {
+          "id": 135188,
+          "name": "Hrunamannahreppur"
+        },
+        {
+          "id": 135190,
+          "name": "Hveragerði"
+        },
+        {
+          "id": 135202,
+          "name": "Mýrdalshreppur"
+        },
+        {
+          "id": 135210,
+          "name": "Selfoss"
+        },
+        {
+          "id": 135213,
+          "name": "Skaftárhreppur"
+        },
+        {
+          "id": 135215,
+          "name": "Skeiða- og Gnúpverjahreppur"
+        },
+        {
+          "id": 135225,
+          "name": "Vestmannaeyjabær"
+        },
+        {
+          "id": 135226,
+          "name": "Vestmannaeyjar"
+        },
+        {
+          "id": 135234,
+          "name": "Þorlákshöfn"
+        }
+      ]
+    },
+    {
+      "id": 3436,
+      "name": "Western Region",
+      "state_code": "3",
+      "cities": [
+        {
+          "id": 135162,
+          "name": "Akranes"
+        },
+        {
+          "id": 135165,
+          "name": "Borgarbyggð"
+        },
+        {
+          "id": 135167,
+          "name": "Borgarnes"
+        },
+        {
+          "id": 135169,
+          "name": "Dalabyggð"
+        },
+        {
+          "id": 135174,
+          "name": "Eyja- og Miklaholtshreppur"
+        },
+        {
+          "id": 135187,
+          "name": "Helgafellssveit"
+        },
+        {
+          "id": 135189,
+          "name": "Hvalfjarðarsveit"
+        },
+        {
+          "id": 135232,
+          "name": "Ólafsvík"
+        },
+        {
+          "id": 135216,
+          "name": "Skorradalshreppur"
+        },
+        {
+          "id": 135218,
+          "name": "Snæfellsbær"
+        },
+        {
+          "id": 135220,
+          "name": "Stykkishólmur"
+        }
+      ]
+    },
+    {
+      "id": 3432,
+      "name": "Westfjords",
+      "state_code": "4",
+      "cities": [
+        {
+          "id": 135230,
+          "name": "Ísafjarðarbær"
+        },
+        {
+          "id": 135231,
+          "name": "Ísafjörður"
+        },
+        {
+          "id": 135204,
+          "name": "Reykhólahreppur"
+        },
+        {
+          "id": 135219,
+          "name": "Strandabyggð"
+        },
+        {
+          "id": 135224,
+          "name": "Tálknafjarðarhreppur"
+        }
+      ]
+    }
+  ]
+}

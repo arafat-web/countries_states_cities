@@ -1,0 +1,29 @@
+{
+  "id": 145,
+  "name": "Monaco",
+  "short_name": "MCO",
+  "phone_code": "377",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 4917,
+      "name": "La Colle",
+      "state_code": "CL",
+      "cities": []
+    },
+    {
+      "id": 4918,
+      "name": "La Condamine",
+      "state_code": "CO",
+      "cities": []
+    },
+    {
+      "id": 4919,
+      "name": "Moneghetti",
+      "state_code": "MG",
+      "cities": []
+    }
+  ]
+}

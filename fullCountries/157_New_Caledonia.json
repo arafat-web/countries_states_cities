@@ -1,0 +1,139 @@
+{
+  "id": 157,
+  "name": "New Caledonia",
+  "iso3": "NCL",
+  "iso2": "NC",
+  "numeric_code": "540",
+  "phone_code": "687",
+  "capital": "Noumea",
+  "currency": "XPF",
+  "currency_name": "CFP franc",
+  "currency_symbol": "₣",
+  "tld": ".nc",
+  "native": "Nouvelle-Calédonie",
+  "region": "Oceania",
+  "region_id": "5",
+  "subregion": "Melanesia",
+  "subregion_id": "20",
+  "nationality": "New Caledonian",
+  "timezones": [
+    {
+      "zoneName": "Pacific/Noumea",
+      "gmtOffset": 39600,
+      "gmtOffsetName": "UTC+11:00",
+      "abbreviation": "NCT",
+      "tzName": "New Caledonia Time"
+    }
+  ],
+  "translations": {
+    "kr": "누벨칼레도니",
+    "pt-BR": "Nova Caledônia",
+    "pt": "Nova Caledónia",
+    "nl": "Nieuw-Caledonië",
+    "hr": "Nova Kaledonija",
+    "fa": "کالدونیای جدید",
+    "de": "Neukaledonien",
+    "es": "Nueva Caledonia",
+    "fr": "Nouvelle-Calédonie",
+    "ja": "ニューカレドニア",
+    "it": "Nuova Caledonia",
+    "cn": "新喀里多尼亚",
+    "tr": "Yeni Kaledonya"
+  },
+  "latitude": "-21.50000000",
+  "longitude": "165.50000000",
+  "emoji": "🇳🇨",
+  "emojiU": "U+1F1F3 U+1F1E8",
+  "states": [
+    {
+      "id": 5227,
+      "name": "Loyalty Islands Province",
+      "state_code": "03",
+      "latitude": "-20.96670000",
+      "longitude": "167.23330000",
+      "type": "province",
+      "cities": [
+        {
+          "id": 153638,
+          "name": "Lifou",
+          "latitude": "-20.96670000",
+          "longitude": "167.23330000"
+        },
+        {
+          "id": 153639,
+          "name": "Maré",
+          "latitude": "-21.51670000",
+          "longitude": "167.98330000"
+        }
+      ]
+    },
+    {
+      "id": 5226,
+      "name": "North Province",
+      "state_code": "02",
+      "latitude": "-22.27580000",
+      "longitude": "166.45800000",
+      "type": "province",
+      "cities": [
+        {
+          "id": 153637,
+          "name": "Houaïlou",
+          "latitude": "-21.29090000",
+          "longitude": "165.62170000"
+        },
+        {
+          "id": 153635,
+          "name": "Koné",
+          "latitude": "-21.05900000",
+          "longitude": "164.85180000"
+        },
+        {
+          "id": 153636,
+          "name": "Poindimié",
+          "latitude": "-20.94960000",
+          "longitude": "165.32930000"
+        }
+      ]
+    },
+    {
+      "id": 5225,
+      "name": "South Province",
+      "state_code": "01",
+      "latitude": "-22.27580000",
+      "longitude": "166.45800000",
+      "type": "province",
+      "cities": [
+        {
+          "id": 153634,
+          "name": "Bourail",
+          "latitude": "-21.57010000",
+          "longitude": "165.48040000"
+        },
+        {
+          "id": 153632,
+          "name": "Dumbéa",
+          "latitude": "-22.15000000",
+          "longitude": "166.45000000"
+        },
+        {
+          "id": 153631,
+          "name": "Le Mont-Dore",
+          "latitude": "-22.21570000",
+          "longitude": "166.46650000"
+        },
+        {
+          "id": 153630,
+          "name": "Nouméa",
+          "latitude": "-22.27580000",
+          "longitude": "166.45800000"
+        },
+        {
+          "id": 153633,
+          "name": "Païta",
+          "latitude": "-22.13370000",
+          "longitude": "166.35050000"
+        }
+      ]
+    }
+  ]
+}

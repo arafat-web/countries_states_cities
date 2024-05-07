@@ -1,0 +1,105 @@
+{
+  "id": 23,
+  "name": "Belize",
+  "short_name": "BLZ",
+  "phone_code": "501",
+  "currency": "BZD",
+  "currency_name": "Belize dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 264,
+      "name": "Belize District",
+      "state_code": "BZ",
+      "cities": [
+        {
+          "id": 16133,
+          "name": "Belize City"
+        },
+        {
+          "id": 16143,
+          "name": "San Pedro"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Cayo District",
+      "state_code": "CY",
+      "cities": [
+        {
+          "id": 16134,
+          "name": "Belmopan"
+        },
+        {
+          "id": 16135,
+          "name": "Benque Viejo el Carmen"
+        },
+        {
+          "id": 16142,
+          "name": "San Ignacio"
+        },
+        {
+          "id": 16145,
+          "name": "Valley of Peace"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Corozal District",
+      "state_code": "CZL",
+      "cities": [
+        {
+          "id": 16136,
+          "name": "Corozal"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Orange Walk District",
+      "state_code": "OW",
+      "cities": [
+        {
+          "id": 16138,
+          "name": "Hopelchén"
+        },
+        {
+          "id": 16139,
+          "name": "Orange Walk"
+        },
+        {
+          "id": 16144,
+          "name": "Shipyard"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Stann Creek District",
+      "state_code": "SC",
+      "cities": [
+        {
+          "id": 16137,
+          "name": "Dangriga"
+        },
+        {
+          "id": 16140,
+          "name": "Placencia"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Toledo District",
+      "state_code": "TOL",
+      "cities": [
+        {
+          "id": 16141,
+          "name": "Punta Gorda"
+        }
+      ]
+    }
+  ]
+}

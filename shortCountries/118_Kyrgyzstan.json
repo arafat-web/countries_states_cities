@@ -1,0 +1,285 @@
+{
+  "id": 118,
+  "name": "Kyrgyzstan",
+  "short_name": "KGZ",
+  "phone_code": "996",
+  "currency": "KGS",
+  "currency_name": "Kyrgyzstani som",
+  "currency_symbol": "лв",
+  "states": [
+    {
+      "id": 998,
+      "name": "Batken Region",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 64886,
+          "name": "Aydarken"
+        },
+        {
+          "id": 64888,
+          "name": "Batken"
+        },
+        {
+          "id": 64896,
+          "name": "Iradan"
+        },
+        {
+          "id": 64897,
+          "name": "Isfana"
+        },
+        {
+          "id": 64909,
+          "name": "Karavan"
+        },
+        {
+          "id": 64915,
+          "name": "Kyzyl-Kyya"
+        },
+        {
+          "id": 64923,
+          "name": "Suluktu"
+        }
+      ]
+    },
+    {
+      "id": 1001,
+      "name": "Bishkek",
+      "state_code": "GB",
+      "cities": [
+        {
+          "id": 64891,
+          "name": "Bishkek"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "name": "Chuy Region",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 64884,
+          "name": "Alamudunskiy Rayon"
+        },
+        {
+          "id": 64890,
+          "name": "Belovodskoye"
+        },
+        {
+          "id": 64894,
+          "name": "Chuyskiy Rayon"
+        },
+        {
+          "id": 64898,
+          "name": "Ivanovka"
+        },
+        {
+          "id": 64902,
+          "name": "Kaindy"
+        },
+        {
+          "id": 64903,
+          "name": "Kant"
+        },
+        {
+          "id": 64906,
+          "name": "Kara-Balta"
+        },
+        {
+          "id": 64911,
+          "name": "Kemin"
+        },
+        {
+          "id": 64917,
+          "name": "Lebedinovka"
+        },
+        {
+          "id": 64921,
+          "name": "Sokulukskiy Rayon"
+        },
+        {
+          "id": 64922,
+          "name": "Sosnovka"
+        },
+        {
+          "id": 64928,
+          "name": "Tokmok"
+        },
+        {
+          "id": 64934,
+          "name": "Ysyk-Ata"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "name": "Issyk-Kul Region",
+      "state_code": "Y",
+      "cities": [
+        {
+          "id": 64882,
+          "name": "Ak-Suu"
+        },
+        {
+          "id": 64887,
+          "name": "Balykchy"
+        },
+        {
+          "id": 64892,
+          "name": "Cholpon-Ata"
+        },
+        {
+          "id": 64901,
+          "name": "Kadzhi-Say"
+        },
+        {
+          "id": 64908,
+          "name": "Karakol"
+        },
+        {
+          "id": 64916,
+          "name": "Kyzyl-Suu"
+        },
+        {
+          "id": 64931,
+          "name": "Tyup"
+        }
+      ]
+    },
+    {
+      "id": 1000,
+      "name": "Jalal-Abad Region",
+      "state_code": "J",
+      "cities": [
+        {
+          "id": 64883,
+          "name": "Ala-Buka"
+        },
+        {
+          "id": 64889,
+          "name": "Bazar-Korgon"
+        },
+        {
+          "id": 64899,
+          "name": "Jalal-Abad"
+        },
+        {
+          "id": 64910,
+          "name": "Kazarman"
+        },
+        {
+          "id": 64912,
+          "name": "Kerben"
+        },
+        {
+          "id": 64913,
+          "name": "Kochkor-Ata"
+        },
+        {
+          "id": 64924,
+          "name": "Suzak"
+        },
+        {
+          "id": 64927,
+          "name": "Tash-Kumyr"
+        },
+        {
+          "id": 64929,
+          "name": "Toktogul"
+        },
+        {
+          "id": 64930,
+          "name": "Toktogul District"
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "name": "Naryn Region",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 64885,
+          "name": "At-Bashi"
+        },
+        {
+          "id": 64900,
+          "name": "Jumgal"
+        },
+        {
+          "id": 64918,
+          "name": "Naryn"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "name": "Osh",
+      "state_code": "GO",
+      "cities": []
+    },
+    {
+      "id": 1005,
+      "name": "Osh Region",
+      "state_code": "O",
+      "cities": [
+        {
+          "id": 64893,
+          "name": "Chong-Alay District"
+        },
+        {
+          "id": 64895,
+          "name": "Daroot-Korgon"
+        },
+        {
+          "id": 64904,
+          "name": "Kara Kulja"
+        },
+        {
+          "id": 64905,
+          "name": "Kara Suu"
+        },
+        {
+          "id": 64914,
+          "name": "Kyzyl-Eshme"
+        },
+        {
+          "id": 64919,
+          "name": "Nookat"
+        },
+        {
+          "id": 64920,
+          "name": "Osh"
+        },
+        {
+          "id": 64932,
+          "name": "Uzgen"
+        },
+        {
+          "id": 64933,
+          "name": "Uzgen District"
+        }
+      ]
+    },
+    {
+      "id": 997,
+      "name": "Talas Region",
+      "state_code": "T",
+      "cities": [
+        {
+          "id": 64907,
+          "name": "Kara-Buurinskiy Rayon"
+        },
+        {
+          "id": 64925,
+          "name": "Talas"
+        },
+        {
+          "id": 64926,
+          "name": "Talasskiy Rayon"
+        }
+      ]
+    }
+  ]
+}

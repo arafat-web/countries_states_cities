@@ -1,0 +1,549 @@
+{
+  "id": 54,
+  "name": "Cote D'Ivoire (Ivory Coast)",
+  "short_name": "CIV",
+  "phone_code": "225",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "states": [
+    {
+      "id": 2634,
+      "name": "Abidjan",
+      "state_code": "AB",
+      "cities": [
+        {
+          "id": 18860,
+          "name": "Abidjan"
+        },
+        {
+          "id": 18861,
+          "name": "Abobo"
+        },
+        {
+          "id": 18870,
+          "name": "Anyama"
+        },
+        {
+          "id": 18876,
+          "name": "Bingerville"
+        }
+      ]
+    },
+    {
+      "id": 2626,
+      "name": "Agnéby",
+      "state_code": "16",
+      "cities": []
+    },
+    {
+      "id": 2636,
+      "name": "Bafing Region",
+      "state_code": "17",
+      "cities": []
+    },
+    {
+      "id": 2643,
+      "name": "Bas-Sassandra District",
+      "state_code": "BS",
+      "cities": [
+        {
+          "id": 18901,
+          "name": "Gbôklé"
+        },
+        {
+          "id": 18924,
+          "name": "Nawa"
+        },
+        {
+          "id": 18928,
+          "name": "San-Pédro"
+        },
+        {
+          "id": 18929,
+          "name": "Sassandra"
+        },
+        {
+          "id": 18933,
+          "name": "Tabou"
+        }
+      ]
+    },
+    {
+      "id": 2635,
+      "name": "Bas-Sassandra Region",
+      "state_code": "09",
+      "cities": []
+    },
+    {
+      "id": 2654,
+      "name": "Comoé District",
+      "state_code": "CM",
+      "cities": [
+        {
+          "id": 18859,
+          "name": "Abengourou"
+        },
+        {
+          "id": 18862,
+          "name": "Aboisso"
+        },
+        {
+          "id": 18863,
+          "name": "Adiaké"
+        },
+        {
+          "id": 18867,
+          "name": "Agnibilékrou"
+        },
+        {
+          "id": 18872,
+          "name": "Ayamé"
+        },
+        {
+          "id": 18880,
+          "name": "Bonoua"
+        },
+        {
+          "id": 18903,
+          "name": "Grand-Bassam"
+        },
+        {
+          "id": 18913,
+          "name": "Indénié-Djuablin"
+        },
+        {
+          "id": 18931,
+          "name": "Sud-Comoé"
+        }
+      ]
+    },
+    {
+      "id": 2644,
+      "name": "Denguélé District",
+      "state_code": "DN",
+      "cities": [
+        {
+          "id": 18898,
+          "name": "Folon"
+        },
+        {
+          "id": 18915,
+          "name": "Kabadougou"
+        },
+        {
+          "id": 18925,
+          "name": "Odienné"
+        }
+      ]
+    },
+    {
+      "id": 2642,
+      "name": "Denguélé Region",
+      "state_code": "10",
+      "cities": []
+    },
+    {
+      "id": 2645,
+      "name": "Dix-Huit Montagnes",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 18874,
+          "name": "Bangolo"
+        },
+        {
+          "id": 18875,
+          "name": "Biankouma"
+        },
+        {
+          "id": 18889,
+          "name": "Cavally"
+        },
+        {
+          "id": 18893,
+          "name": "Danané"
+        },
+        {
+          "id": 18897,
+          "name": "Duekoué"
+        },
+        {
+          "id": 18908,
+          "name": "Guémon"
+        },
+        {
+          "id": 18907,
+          "name": "Guiglo"
+        },
+        {
+          "id": 18919,
+          "name": "Man"
+        },
+        {
+          "id": 18936,
+          "name": "Tonkpi"
+        },
+        {
+          "id": 18938,
+          "name": "Toulépleu Gueré"
+        }
+      ]
+    },
+    {
+      "id": 2633,
+      "name": "Fromager",
+      "state_code": "18",
+      "cities": []
+    },
+    {
+      "id": 2651,
+      "name": "Gôh-Djiboua District",
+      "state_code": "GD",
+      "cities": [
+        {
+          "id": 18896,
+          "name": "Divo"
+        },
+        {
+          "id": 18899,
+          "name": "Gagnoa"
+        },
+        {
+          "id": 18909,
+          "name": "Gôh"
+        },
+        {
+          "id": 18906,
+          "name": "Guibéroua"
+        },
+        {
+          "id": 18917,
+          "name": "Lakota"
+        },
+        {
+          "id": 18918,
+          "name": "Lôh-Djiboua"
+        },
+        {
+          "id": 18926,
+          "name": "Oumé"
+        }
+      ]
+    },
+    {
+      "id": 2638,
+      "name": "Haut-Sassandra",
+      "state_code": "02",
+      "cities": []
+    },
+    {
+      "id": 2632,
+      "name": "Lacs District",
+      "state_code": "LC",
+      "cities": []
+    },
+    {
+      "id": 2640,
+      "name": "Lacs Region",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 18871,
+          "name": "Arrah"
+        },
+        {
+          "id": 18886,
+          "name": "Bélier"
+        },
+        {
+          "id": 18877,
+          "name": "Bocanda"
+        },
+        {
+          "id": 18879,
+          "name": "Bongouanou"
+        },
+        {
+          "id": 18894,
+          "name": "Daoukro"
+        },
+        {
+          "id": 18895,
+          "name": "Dimbokro"
+        },
+        {
+          "id": 18912,
+          "name": "Iffou"
+        },
+        {
+          "id": 18922,
+          "name": "Moronou"
+        },
+        {
+          "id": 18923,
+          "name": "N'Zi"
+        },
+        {
+          "id": 18939,
+          "name": "Toumodi"
+        },
+        {
+          "id": 18942,
+          "name": "Yamoussoukro"
+        }
+      ]
+    },
+    {
+      "id": 2627,
+      "name": "Lagunes District",
+      "state_code": "LG",
+      "cities": []
+    },
+    {
+      "id": 2639,
+      "name": "Lagunes region",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 18864,
+          "name": "Adzopé"
+        },
+        {
+          "id": 18865,
+          "name": "Affery"
+        },
+        {
+          "id": 18866,
+          "name": "Agboville"
+        },
+        {
+          "id": 18868,
+          "name": "Agnéby-Tiassa"
+        },
+        {
+          "id": 18869,
+          "name": "Akoupé"
+        },
+        {
+          "id": 18891,
+          "name": "Dabou"
+        },
+        {
+          "id": 18904,
+          "name": "Grand-Lahou"
+        },
+        {
+          "id": 18905,
+          "name": "Grands-Ponts"
+        },
+        {
+          "id": 18935,
+          "name": "Tiassalé"
+        }
+      ]
+    },
+    {
+      "id": 2631,
+      "name": "Marahoué Region",
+      "state_code": "12",
+      "cities": []
+    },
+    {
+      "id": 2629,
+      "name": "Montagnes District",
+      "state_code": "MG",
+      "cities": []
+    },
+    {
+      "id": 2646,
+      "name": "Moyen-Cavally",
+      "state_code": "19",
+      "cities": []
+    },
+    {
+      "id": 2630,
+      "name": "Moyen-Comoé",
+      "state_code": "05",
+      "cities": []
+    },
+    {
+      "id": 2655,
+      "name": "N'zi-Comoé",
+      "state_code": "11",
+      "cities": []
+    },
+    {
+      "id": 2648,
+      "name": "Sassandra-Marahoué District",
+      "state_code": "SM",
+      "cities": [
+        {
+          "id": 18882,
+          "name": "Bouaflé"
+        },
+        {
+          "id": 18892,
+          "name": "Daloa"
+        },
+        {
+          "id": 18911,
+          "name": "Haut-Sassandra"
+        },
+        {
+          "id": 18914,
+          "name": "Issia"
+        },
+        {
+          "id": 18921,
+          "name": "Marahoué"
+        },
+        {
+          "id": 18940,
+          "name": "Vavoua"
+        },
+        {
+          "id": 18943,
+          "name": "Zuénoula"
+        }
+      ]
+    },
+    {
+      "id": 2625,
+      "name": "Savanes Region",
+      "state_code": "03",
+      "cities": []
+    },
+    {
+      "id": 2628,
+      "name": "Sud-Bandama",
+      "state_code": "15",
+      "cities": []
+    },
+    {
+      "id": 2652,
+      "name": "Sud-Comoé",
+      "state_code": "13",
+      "cities": []
+    },
+    {
+      "id": 2637,
+      "name": "Vallée du Bandama District",
+      "state_code": "VB",
+      "cities": []
+    },
+    {
+      "id": 2647,
+      "name": "Vallée du Bandama Region",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 18887,
+          "name": "Béoumi"
+        },
+        {
+          "id": 18881,
+          "name": "Botro"
+        },
+        {
+          "id": 18883,
+          "name": "Bouaké"
+        },
+        {
+          "id": 18890,
+          "name": "Dabakala"
+        },
+        {
+          "id": 18900,
+          "name": "Gbêkê"
+        },
+        {
+          "id": 18910,
+          "name": "Hambol"
+        },
+        {
+          "id": 18916,
+          "name": "Katiola"
+        },
+        {
+          "id": 18927,
+          "name": "Sakassou"
+        }
+      ]
+    },
+    {
+      "id": 2650,
+      "name": "Woroba District",
+      "state_code": "WR",
+      "cities": [
+        {
+          "id": 18873,
+          "name": "Bafing"
+        },
+        {
+          "id": 18888,
+          "name": "Béré"
+        },
+        {
+          "id": 18920,
+          "name": "Mankono"
+        },
+        {
+          "id": 18932,
+          "name": "Séguéla"
+        },
+        {
+          "id": 18937,
+          "name": "Touba"
+        },
+        {
+          "id": 18941,
+          "name": "Worodougou"
+        }
+      ]
+    },
+    {
+      "id": 2649,
+      "name": "Worodougou",
+      "state_code": "14",
+      "cities": []
+    },
+    {
+      "id": 2653,
+      "name": "Yamoussoukro",
+      "state_code": "YM",
+      "cities": []
+    },
+    {
+      "id": 2641,
+      "name": "Zanzan Region",
+      "state_code": "ZZ",
+      "cities": [
+        {
+          "id": 18878,
+          "name": "Bondoukou"
+        },
+        {
+          "id": 18884,
+          "name": "Bouna"
+        },
+        {
+          "id": 18885,
+          "name": "Bounkani"
+        },
+        {
+          "id": 18902,
+          "name": "Gontougo"
+        },
+        {
+          "id": 18930,
+          "name": "Sinfra"
+        },
+        {
+          "id": 18934,
+          "name": "Tanda"
+        }
+      ]
+    }
+  ]
+}

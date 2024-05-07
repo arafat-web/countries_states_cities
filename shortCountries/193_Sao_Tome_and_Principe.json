@@ -1,0 +1,45 @@
+{
+  "id": 193,
+  "name": "Sao Tome and Principe",
+  "short_name": "STP",
+  "phone_code": "239",
+  "currency": "STD",
+  "currency_name": "Dobra",
+  "currency_symbol": "Db",
+  "states": [
+    {
+      "id": 270,
+      "name": "Príncipe Province",
+      "state_code": "P",
+      "cities": [
+        {
+          "id": 104837,
+          "name": "Santo António"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "São Tomé Province",
+      "state_code": "S",
+      "cities": [
+        {
+          "id": 104835,
+          "name": "Cantagalo District"
+        },
+        {
+          "id": 104836,
+          "name": "Caué District"
+        },
+        {
+          "id": 104838,
+          "name": "São Tomé"
+        },
+        {
+          "id": 104839,
+          "name": "Trindade"
+        }
+      ]
+    }
+  ]
+}

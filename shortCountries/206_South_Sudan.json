@@ -1,0 +1,76 @@
+{
+  "id": 206,
+  "name": "South Sudan",
+  "short_name": "SSD",
+  "phone_code": "211",
+  "currency": "SSP",
+  "currency_name": "South Sudanese pound",
+  "currency_symbol": "£",
+  "states": [
+    {
+      "id": 2092,
+      "name": "Central Equatoria",
+      "state_code": "EC",
+      "cities": []
+    },
+    {
+      "id": 2093,
+      "name": "Eastern Equatoria",
+      "state_code": "EE",
+      "cities": []
+    },
+    {
+      "id": 2094,
+      "name": "Jonglei State",
+      "state_code": "JG",
+      "cities": []
+    },
+    {
+      "id": 2090,
+      "name": "Lakes",
+      "state_code": "LK",
+      "cities": [
+        {
+          "id": 104834,
+          "name": "Yirol"
+        }
+      ]
+    },
+    {
+      "id": 2088,
+      "name": "Northern Bahr el Ghazal",
+      "state_code": "BN",
+      "cities": []
+    },
+    {
+      "id": 2085,
+      "name": "Unity",
+      "state_code": "UY",
+      "cities": []
+    },
+    {
+      "id": 2086,
+      "name": "Upper Nile",
+      "state_code": "NU",
+      "cities": []
+    },
+    {
+      "id": 2087,
+      "name": "Warrap",
+      "state_code": "WR",
+      "cities": []
+    },
+    {
+      "id": 2091,
+      "name": "Western Bahr el Ghazal",
+      "state_code": "BW",
+      "cities": []
+    },
+    {
+      "id": 2089,
+      "name": "Western Equatoria",
+      "state_code": "EW",
+      "cities": []
+    }
+  ]
+}

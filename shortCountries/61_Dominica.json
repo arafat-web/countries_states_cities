@@ -1,0 +1,149 @@
+{
+  "id": 61,
+  "name": "Dominica",
+  "short_name": "DMA",
+  "phone_code": "+1-767",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 4082,
+      "name": "Saint Andrew Parish",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 31003,
+          "name": "Calibishie"
+        },
+        {
+          "id": 31008,
+          "name": "Marigot"
+        },
+        {
+          "id": 31017,
+          "name": "Wesley"
+        },
+        {
+          "id": 31018,
+          "name": "Woodford Hill"
+        }
+      ]
+    },
+    {
+      "id": 4078,
+      "name": "Saint David Parish",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 31004,
+          "name": "Castle Bruce"
+        },
+        {
+          "id": 31012,
+          "name": "Rosalie"
+        }
+      ]
+    },
+    {
+      "id": 4079,
+      "name": "Saint George Parish",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 31013,
+          "name": "Roseau"
+        }
+      ]
+    },
+    {
+      "id": 4076,
+      "name": "Saint John Parish",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 31011,
+          "name": "Portsmouth"
+        }
+      ]
+    },
+    {
+      "id": 4085,
+      "name": "Saint Joseph Parish",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 31014,
+          "name": "Saint Joseph"
+        },
+        {
+          "id": 31015,
+          "name": "Salisbury"
+        }
+      ]
+    },
+    {
+      "id": 4083,
+      "name": "Saint Luke Parish",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 31009,
+          "name": "Pointe Michel"
+        }
+      ]
+    },
+    {
+      "id": 4077,
+      "name": "Saint Mark Parish",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 31016,
+          "name": "Soufrière"
+        }
+      ]
+    },
+    {
+      "id": 4080,
+      "name": "Saint Patrick Parish",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 31002,
+          "name": "Berekua"
+        },
+        {
+          "id": 31006,
+          "name": "La Plaine"
+        }
+      ]
+    },
+    {
+      "id": 4084,
+      "name": "Saint Paul Parish",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 31007,
+          "name": "Mahaut"
+        },
+        {
+          "id": 31010,
+          "name": "Pont Cassé"
+        }
+      ]
+    },
+    {
+      "id": 4081,
+      "name": "Saint Peter Parish",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 31005,
+          "name": "Colihaut"
+        }
+      ]
+    }
+  ]
+}

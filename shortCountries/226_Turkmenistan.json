@@ -1,0 +1,173 @@
+{
+  "id": 226,
+  "name": "Turkmenistan",
+  "short_name": "TKM",
+  "phone_code": "993",
+  "currency": "TMT",
+  "currency_name": "Turkmenistan manat",
+  "currency_symbol": "T",
+  "states": [
+    {
+      "id": 3374,
+      "name": "Ahal Region",
+      "state_code": "A",
+      "cities": [
+        {
+          "id": 106880,
+          "name": "Abadan"
+        },
+        {
+          "id": 106882,
+          "name": "Annau"
+        },
+        {
+          "id": 106883,
+          "name": "Arçabil"
+        },
+        {
+          "id": 106886,
+          "name": "Baharly"
+        },
+        {
+          "id": 106896,
+          "name": "Kaka"
+        },
+        {
+          "id": 106905,
+          "name": "Tejen"
+        }
+      ]
+    },
+    {
+      "id": 3371,
+      "name": "Ashgabat",
+      "state_code": "S",
+      "cities": [
+        {
+          "id": 106884,
+          "name": "Ashgabat"
+        }
+      ]
+    },
+    {
+      "id": 3372,
+      "name": "Balkan Region",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 106887,
+          "name": "Balkanabat"
+        },
+        {
+          "id": 106889,
+          "name": "Bereket"
+        },
+        {
+          "id": 106895,
+          "name": "Gumdag"
+        },
+        {
+          "id": 106898,
+          "name": "Magtymguly"
+        },
+        {
+          "id": 106901,
+          "name": "Serdar"
+        },
+        {
+          "id": 106907,
+          "name": "Türkmenbaşy"
+        }
+      ]
+    },
+    {
+      "id": 3373,
+      "name": "Daşoguz Region",
+      "state_code": "D",
+      "cities": [
+        {
+          "id": 106881,
+          "name": "Akdepe"
+        },
+        {
+          "id": 106890,
+          "name": "Boldumsaz"
+        },
+        {
+          "id": 106891,
+          "name": "Daşoguz"
+        },
+        {
+          "id": 106897,
+          "name": "Köneürgench"
+        },
+        {
+          "id": 106904,
+          "name": "Tagta"
+        },
+        {
+          "id": 106909,
+          "name": "Yylanly"
+        }
+      ]
+    },
+    {
+      "id": 3370,
+      "name": "Lebap Region",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 106885,
+          "name": "Atamyrat"
+        },
+        {
+          "id": 106892,
+          "name": "Farap"
+        },
+        {
+          "id": 106893,
+          "name": "Gazojak"
+        },
+        {
+          "id": 106894,
+          "name": "Gowurdak"
+        },
+        {
+          "id": 106900,
+          "name": "Saýat"
+        },
+        {
+          "id": 106906,
+          "name": "Türkmenabat"
+        }
+      ]
+    },
+    {
+      "id": 3369,
+      "name": "Mary Region",
+      "state_code": "M",
+      "cities": [
+        {
+          "id": 106888,
+          "name": "Bayramaly"
+        },
+        {
+          "id": 106899,
+          "name": "Mary"
+        },
+        {
+          "id": 106902,
+          "name": "Serhetabat"
+        },
+        {
+          "id": 106903,
+          "name": "Seydi"
+        },
+        {
+          "id": 106908,
+          "name": "Yolöten"
+        }
+      ]
+    }
+  ]
+}

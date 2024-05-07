@@ -1,0 +1,137 @@
+{
+  "id": 94,
+  "name": "Guyana",
+  "short_name": "GUY",
+  "phone_code": "592",
+  "currency": "GYD",
+  "currency_name": "Guyanese dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 2764,
+      "name": "Barima-Waini",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 53826,
+          "name": "Mabaruma"
+        }
+      ]
+    },
+    {
+      "id": 2760,
+      "name": "Cuyuni-Mazaruni",
+      "state_code": "CU",
+      "cities": [
+        {
+          "id": 53822,
+          "name": "Bartica"
+        }
+      ]
+    },
+    {
+      "id": 2767,
+      "name": "Demerara-Mahaica",
+      "state_code": "DE",
+      "cities": [
+        {
+          "id": 53823,
+          "name": "Georgetown"
+        },
+        {
+          "id": 53827,
+          "name": "Mahaica Village"
+        }
+      ]
+    },
+    {
+      "id": 2766,
+      "name": "East Berbice-Corentyne",
+      "state_code": "EB",
+      "cities": [
+        {
+          "id": 53830,
+          "name": "New Amsterdam"
+        },
+        {
+          "id": 53833,
+          "name": "Skeldon"
+        }
+      ]
+    },
+    {
+      "id": 2768,
+      "name": "Essequibo Islands-West Demerara",
+      "state_code": "ES",
+      "cities": [
+        {
+          "id": 53831,
+          "name": "Parika"
+        },
+        {
+          "id": 53834,
+          "name": "Vreed-en-Hoop"
+        }
+      ]
+    },
+    {
+      "id": 2762,
+      "name": "Mahaica-Berbice",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 53828,
+          "name": "Mahaicony Village"
+        },
+        {
+          "id": 53832,
+          "name": "Rosignol"
+        }
+      ]
+    },
+    {
+      "id": 2765,
+      "name": "Pomeroon-Supenaam",
+      "state_code": "PM",
+      "cities": [
+        {
+          "id": 53821,
+          "name": "Anna Regina"
+        }
+      ]
+    },
+    {
+      "id": 2761,
+      "name": "Potaro-Siparuni",
+      "state_code": "PT",
+      "cities": [
+        {
+          "id": 53829,
+          "name": "Mahdia"
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "name": "Upper Demerara-Berbice",
+      "state_code": "UD",
+      "cities": [
+        {
+          "id": 53825,
+          "name": "Linden"
+        }
+      ]
+    },
+    {
+      "id": 2769,
+      "name": "Upper Takutu-Upper Essequibo",
+      "state_code": "UT",
+      "cities": [
+        {
+          "id": 53824,
+          "name": "Lethem"
+        }
+      ]
+    }
+  ]
+}

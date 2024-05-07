@@ -1,0 +1,132 @@
+{
+  "id": 210,
+  "name": "Suriname",
+  "short_name": "SUR",
+  "phone_code": "597",
+  "currency": "SRD",
+  "currency_name": "Surinamese dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 2846,
+      "name": "Brokopondo District",
+      "state_code": "BR",
+      "cities": [
+        {
+          "id": 104822,
+          "name": "Brokopondo"
+        },
+        {
+          "id": 104823,
+          "name": "Brownsweg"
+        }
+      ]
+    },
+    {
+      "id": 2839,
+      "name": "Commewijne District",
+      "state_code": "CM",
+      "cities": [
+        {
+          "id": 104826,
+          "name": "Mariënburg"
+        },
+        {
+          "id": 104828,
+          "name": "Nieuw Amsterdam"
+        }
+      ]
+    },
+    {
+      "id": 2842,
+      "name": "Coronie District",
+      "state_code": "CR",
+      "cities": [
+        {
+          "id": 104832,
+          "name": "Totness"
+        }
+      ]
+    },
+    {
+      "id": 2845,
+      "name": "Marowijne District",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 104821,
+          "name": "Albina"
+        },
+        {
+          "id": 104827,
+          "name": "Moengo"
+        }
+      ]
+    },
+    {
+      "id": 2840,
+      "name": "Nickerie District",
+      "state_code": "NI",
+      "cities": [
+        {
+          "id": 104829,
+          "name": "Nieuw Nickerie"
+        },
+        {
+          "id": 104833,
+          "name": "Wageningen"
+        }
+      ]
+    },
+    {
+      "id": 2841,
+      "name": "Para District",
+      "state_code": "PR",
+      "cities": [
+        {
+          "id": 104830,
+          "name": "Onverwacht"
+        }
+      ]
+    },
+    {
+      "id": 2843,
+      "name": "Paramaribo District",
+      "state_code": "PM",
+      "cities": [
+        {
+          "id": 104831,
+          "name": "Paramaribo"
+        }
+      ]
+    },
+    {
+      "id": 2848,
+      "name": "Saramacca District",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 104824,
+          "name": "Groningen"
+        }
+      ]
+    },
+    {
+      "id": 2847,
+      "name": "Sipaliwini District",
+      "state_code": "SI",
+      "cities": []
+    },
+    {
+      "id": 2844,
+      "name": "Wanica District",
+      "state_code": "WA",
+      "cities": [
+        {
+          "id": 104825,
+          "name": "Lelydorp"
+        }
+      ]
+    }
+  ]
+}

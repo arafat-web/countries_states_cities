@@ -1,0 +1,162 @@
+{
+  "id": 50,
+  "name": "Congo",
+  "short_name": "COG",
+  "phone_code": "242",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FC",
+  "states": [
+    {
+      "id": 2866,
+      "name": "Bouenza Department",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 17345,
+          "name": "Kayes"
+        },
+        {
+          "id": 17348,
+          "name": "Madingou"
+        }
+      ]
+    },
+    {
+      "id": 2870,
+      "name": "Brazzaville",
+      "state_code": "BZV",
+      "cities": [
+        {
+          "id": 17339,
+          "name": "Brazzaville"
+        }
+      ]
+    },
+    {
+      "id": 2864,
+      "name": "Cuvette Department",
+      "state_code": "8",
+      "cities": [
+        {
+          "id": 17349,
+          "name": "Makoua"
+        },
+        {
+          "id": 17352,
+          "name": "Owando"
+        }
+      ]
+    },
+    {
+      "id": 2869,
+      "name": "Cuvette-Ouest Department",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 17342,
+          "name": "Ewo"
+        }
+      ]
+    },
+    {
+      "id": 2867,
+      "name": "Kouilou Department",
+      "state_code": "5",
+      "cities": []
+    },
+    {
+      "id": 2868,
+      "name": "Lékoumou Department",
+      "state_code": "2",
+      "cities": [
+        {
+          "id": 17354,
+          "name": "Sibiti"
+        }
+      ]
+    },
+    {
+      "id": 2865,
+      "name": "Likouala Department",
+      "state_code": "7",
+      "cities": [
+        {
+          "id": 17344,
+          "name": "Impfondo"
+        }
+      ]
+    },
+    {
+      "id": 2872,
+      "name": "Niari Department",
+      "state_code": "9",
+      "cities": [
+        {
+          "id": 17341,
+          "name": "Dolisie"
+        },
+        {
+          "id": 17350,
+          "name": "Mossendjo"
+        }
+      ]
+    },
+    {
+      "id": 2862,
+      "name": "Plateaux Department",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 17340,
+          "name": "Djambala"
+        },
+        {
+          "id": 17343,
+          "name": "Gamboma"
+        }
+      ]
+    },
+    {
+      "id": 2863,
+      "name": "Pointe-Noire",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 17347,
+          "name": "Loandjili"
+        },
+        {
+          "id": 17353,
+          "name": "Pointe-Noire"
+        }
+      ]
+    },
+    {
+      "id": 2873,
+      "name": "Pool Department",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 17346,
+          "name": "Kinkala"
+        }
+      ]
+    },
+    {
+      "id": 2871,
+      "name": "Sangha Department",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 17351,
+          "name": "Ouésso"
+        },
+        {
+          "id": 17355,
+          "name": "Sémbé"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2223 @@
+{
+  "id": 34,
+  "name": "Bulgaria",
+  "short_name": "BGR",
+  "phone_code": "359",
+  "currency": "BGN",
+  "currency_name": "Bulgarian lev",
+  "currency_symbol": "Лв.",
+  "states": [
+    {
+      "id": 4699,
+      "name": "Blagoevgrad Province",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 9265,
+          "name": "Bansko"
+        },
+        {
+          "id": 9270,
+          "name": "Belitsa"
+        },
+        {
+          "id": 9275,
+          "name": "Blagoevgrad"
+        },
+        {
+          "id": 9329,
+          "name": "Garmen"
+        },
+        {
+          "id": 9335,
+          "name": "Gotse Delchev"
+        },
+        {
+          "id": 9341,
+          "name": "Hadzhidimovo"
+        },
+        {
+          "id": 9368,
+          "name": "Kolarovo"
+        },
+        {
+          "id": 9374,
+          "name": "Kresna"
+        },
+        {
+          "id": 9422,
+          "name": "Obshtina Bansko"
+        },
+        {
+          "id": 9425,
+          "name": "Obshtina Belitsa"
+        },
+        {
+          "id": 9429,
+          "name": "Obshtina Blagoevgrad"
+        },
+        {
+          "id": 9476,
+          "name": "Obshtina Garmen"
+        },
+        {
+          "id": 9482,
+          "name": "Obshtina Gotse Delchev"
+        },
+        {
+          "id": 9511,
+          "name": "Obshtina Kresna"
+        },
+        {
+          "id": 9555,
+          "name": "Obshtina Petrich"
+        },
+        {
+          "id": 9571,
+          "name": "Obshtina Razlog"
+        },
+        {
+          "id": 9582,
+          "name": "Obshtina Sandanski"
+        },
+        {
+          "id": 9584,
+          "name": "Obshtina Satovcha"
+        },
+        {
+          "id": 9589,
+          "name": "Obshtina Simitli"
+        },
+        {
+          "id": 9603,
+          "name": "Obshtina Strumyani"
+        },
+        {
+          "id": 9633,
+          "name": "Obshtina Yakoruda"
+        },
+        {
+          "id": 9653,
+          "name": "Petrich"
+        },
+        {
+          "id": 9670,
+          "name": "Razlog"
+        },
+        {
+          "id": 9681,
+          "name": "Sandanski"
+        },
+        {
+          "id": 9686,
+          "name": "Satovcha"
+        },
+        {
+          "id": 9694,
+          "name": "Simitli"
+        },
+        {
+          "id": 9705,
+          "name": "Stara Kresna"
+        },
+        {
+          "id": 9711,
+          "name": "Strumyani"
+        },
+        {
+          "id": 9745,
+          "name": "Yakoruda"
+        }
+      ]
+    },
+    {
+      "id": 4715,
+      "name": "Burgas Province",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 9250,
+          "name": "Aheloy"
+        },
+        {
+          "id": 9251,
+          "name": "Ahtopol"
+        },
+        {
+          "id": 9261,
+          "name": "Aytos"
+        },
+        {
+          "id": 9266,
+          "name": "Bata"
+        },
+        {
+          "id": 9292,
+          "name": "Burgas"
+        },
+        {
+          "id": 9299,
+          "name": "Chernomorets"
+        },
+        {
+          "id": 9353,
+          "name": "Kameno"
+        },
+        {
+          "id": 9356,
+          "name": "Karnobat"
+        },
+        {
+          "id": 9363,
+          "name": "Kiten"
+        },
+        {
+          "id": 9397,
+          "name": "Malko Tarnovo"
+        },
+        {
+          "id": 9406,
+          "name": "Nesebar"
+        },
+        {
+          "id": 9419,
+          "name": "Obshtina Aytos"
+        },
+        {
+          "id": 9442,
+          "name": "Obshtina Burgas"
+        },
+        {
+          "id": 9495,
+          "name": "Obshtina Kameno"
+        },
+        {
+          "id": 9498,
+          "name": "Obshtina Karnobat"
+        },
+        {
+          "id": 9529,
+          "name": "Obshtina Malko Tarnovo"
+        },
+        {
+          "id": 9538,
+          "name": "Obshtina Nesebar"
+        },
+        {
+          "id": 9560,
+          "name": "Obshtina Pomorie"
+        },
+        {
+          "id": 9564,
+          "name": "Obshtina Primorsko"
+        },
+        {
+          "id": 9596,
+          "name": "Obshtina Sozopol"
+        },
+        {
+          "id": 9605,
+          "name": "Obshtina Sungurlare"
+        },
+        {
+          "id": 9640,
+          "name": "Obzor"
+        },
+        {
+          "id": 9658,
+          "name": "Pomorie"
+        },
+        {
+          "id": 9662,
+          "name": "Primorsko"
+        },
+        {
+          "id": 9668,
+          "name": "Ravda"
+        },
+        {
+          "id": 9674,
+          "name": "Ruen"
+        },
+        {
+          "id": 9683,
+          "name": "Sarafovo"
+        },
+        {
+          "id": 9702,
+          "name": "Sozopol"
+        },
+        {
+          "id": 9703,
+          "name": "Sredets"
+        },
+        {
+          "id": 9713,
+          "name": "Sungurlare"
+        },
+        {
+          "id": 9715,
+          "name": "Sveti Vlas"
+        },
+        {
+          "id": 9728,
+          "name": "Tsarevo"
+        }
+      ]
+    },
+    {
+      "id": 4718,
+      "name": "Dobrich Province",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 9262,
+          "name": "Balchik"
+        },
+        {
+          "id": 9310,
+          "name": "Dobrich"
+        },
+        {
+          "id": 9330,
+          "name": "General Toshevo"
+        },
+        {
+          "id": 9357,
+          "name": "Kavarna"
+        },
+        {
+          "id": 9378,
+          "name": "Krushari"
+        },
+        {
+          "id": 9420,
+          "name": "Obshtina Balchik"
+        },
+        {
+          "id": 9457,
+          "name": "Obshtina Dobrich"
+        },
+        {
+          "id": 9458,
+          "name": "Obshtina Dobrich-Selska"
+        },
+        {
+          "id": 9477,
+          "name": "Obshtina General Toshevo"
+        },
+        {
+          "id": 9499,
+          "name": "Obshtina Kavarna"
+        },
+        {
+          "id": 9514,
+          "name": "Obshtina Krushari"
+        },
+        {
+          "id": 9587,
+          "name": "Obshtina Shabla"
+        },
+        {
+          "id": 9611,
+          "name": "Obshtina Tervel"
+        },
+        {
+          "id": 9690,
+          "name": "Shabla"
+        },
+        {
+          "id": 9720,
+          "name": "Tervel"
+        }
+      ]
+    },
+    {
+      "id": 4693,
+      "name": "Gabrovo Province",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 9318,
+          "name": "Dryanovo"
+        },
+        {
+          "id": 9328,
+          "name": "Gabrovo"
+        },
+        {
+          "id": 9465,
+          "name": "Obshtina Dryanovo"
+        },
+        {
+          "id": 9474,
+          "name": "Obshtina Gabrovo"
+        },
+        {
+          "id": 9586,
+          "name": "Obshtina Sevlievo"
+        },
+        {
+          "id": 9615,
+          "name": "Obshtina Tryavna"
+        },
+        {
+          "id": 9689,
+          "name": "Sevlievo"
+        },
+        {
+          "id": 9726,
+          "name": "Tryavna"
+        }
+      ]
+    },
+    {
+      "id": 4704,
+      "name": "Haskovo Province",
+      "state_code": "26",
+      "cities": [
+        {
+          "id": 9308,
+          "name": "Dimitrovgrad"
+        },
+        {
+          "id": 9342,
+          "name": "Harmanli"
+        },
+        {
+          "id": 9343,
+          "name": "Haskovo"
+        },
+        {
+          "id": 9350,
+          "name": "Ivaylovgrad"
+        },
+        {
+          "id": 9392,
+          "name": "Lyubimets"
+        },
+        {
+          "id": 9394,
+          "name": "Madzharovo"
+        },
+        {
+          "id": 9401,
+          "name": "Mineralni Bani"
+        },
+        {
+          "id": 9455,
+          "name": "Obshtina Dimitrovgrad"
+        },
+        {
+          "id": 9486,
+          "name": "Obshtina Harmanli"
+        },
+        {
+          "id": 9487,
+          "name": "Obshtina Haskovo"
+        },
+        {
+          "id": 9493,
+          "name": "Obshtina Ivaylovgrad"
+        },
+        {
+          "id": 9527,
+          "name": "Obshtina Madzharovo"
+        },
+        {
+          "id": 9532,
+          "name": "Obshtina Mineralni Bani"
+        },
+        {
+          "id": 9598,
+          "name": "Obshtina Stambolovo"
+        },
+        {
+          "id": 9607,
+          "name": "Obshtina Svilengrad"
+        },
+        {
+          "id": 9613,
+          "name": "Obshtina Topolovgrad"
+        },
+        {
+          "id": 9693,
+          "name": "Simeonovgrad"
+        },
+        {
+          "id": 9716,
+          "name": "Svilengrad"
+        },
+        {
+          "id": 9722,
+          "name": "Topolovgrad"
+        }
+      ]
+    },
+    {
+      "id": 4702,
+      "name": "Kardzhali Province",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 9257,
+          "name": "Ardino"
+        },
+        {
+          "id": 9323,
+          "name": "Dzhebel"
+        },
+        {
+          "id": 9354,
+          "name": "Kardzhali"
+        },
+        {
+          "id": 9362,
+          "name": "Kirkovo"
+        },
+        {
+          "id": 9377,
+          "name": "Krumovgrad"
+        },
+        {
+          "id": 9416,
+          "name": "Obshtina Ardino"
+        },
+        {
+          "id": 9448,
+          "name": "Obshtina Chernoochene"
+        },
+        {
+          "id": 9469,
+          "name": "Obshtina Dzhebel"
+        },
+        {
+          "id": 9496,
+          "name": "Obshtina Kardzhali"
+        },
+        {
+          "id": 9502,
+          "name": "Obshtina Kirkovo"
+        },
+        {
+          "id": 9535,
+          "name": "Obshtina Momchilgrad"
+        }
+      ]
+    },
+    {
+      "id": 4703,
+      "name": "Kyustendil Province",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 9276,
+          "name": "Boboshevo"
+        },
+        {
+          "id": 9277,
+          "name": "Bobov Dol"
+        },
+        {
+          "id": 9321,
+          "name": "Dupnitsa"
+        },
+        {
+          "id": 9367,
+          "name": "Kocherinovo"
+        },
+        {
+          "id": 9381,
+          "name": "Kyustendil"
+        },
+        {
+          "id": 9407,
+          "name": "Nevestino"
+        },
+        {
+          "id": 9430,
+          "name": "Obshtina Boboshevo"
+        },
+        {
+          "id": 9431,
+          "name": "Obshtina Bobov Dol"
+        },
+        {
+          "id": 9467,
+          "name": "Obshtina Dupnitsa"
+        },
+        {
+          "id": 9504,
+          "name": "Obshtina Kocherinovo"
+        },
+        {
+          "id": 9518,
+          "name": "Obshtina Kyustendil"
+        },
+        {
+          "id": 9539,
+          "name": "Obshtina Nevestino"
+        },
+        {
+          "id": 9572,
+          "name": "Obshtina Rila"
+        },
+        {
+          "id": 9583,
+          "name": "Obshtina Sapareva Banya"
+        },
+        {
+          "id": 9614,
+          "name": "Obshtina Treklyano"
+        },
+        {
+          "id": 9671,
+          "name": "Rila"
+        },
+        {
+          "id": 9682,
+          "name": "Sapareva Banya"
+        }
+      ]
+    },
+    {
+      "id": 4710,
+      "name": "Lovech Province",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 9256,
+          "name": "Apriltsi"
+        },
+        {
+          "id": 9385,
+          "name": "Letnitsa"
+        },
+        {
+          "id": 9388,
+          "name": "Lovech"
+        },
+        {
+          "id": 9390,
+          "name": "Lukovit"
+        },
+        {
+          "id": 9523,
+          "name": "Obshtina Lovech"
+        },
+        {
+          "id": 9612,
+          "name": "Obshtina Teteven"
+        },
+        {
+          "id": 9621,
+          "name": "Obshtina Ugarchin"
+        },
+        {
+          "id": 9721,
+          "name": "Teteven"
+        },
+        {
+          "id": 9725,
+          "name": "Troyan"
+        },
+        {
+          "id": 9732,
+          "name": "Ugarchin"
+        },
+        {
+          "id": 9743,
+          "name": "Yablanitsa"
+        }
+      ]
+    },
+    {
+      "id": 4696,
+      "name": "Montana Province",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 9274,
+          "name": "Berkovitsa"
+        },
+        {
+          "id": 9283,
+          "name": "Boychinovtsi"
+        },
+        {
+          "id": 9290,
+          "name": "Brusartsi"
+        },
+        {
+          "id": 9301,
+          "name": "Chiprovtsi"
+        },
+        {
+          "id": 9387,
+          "name": "Lom"
+        },
+        {
+          "id": 9398,
+          "name": "Medkovets"
+        },
+        {
+          "id": 9404,
+          "name": "Montana"
+        },
+        {
+          "id": 9437,
+          "name": "Obshtina Boychinovtsi"
+        },
+        {
+          "id": 9450,
+          "name": "Obshtina Chiprovtsi"
+        },
+        {
+          "id": 9478,
+          "name": "Obshtina Georgi Damyanovo"
+        },
+        {
+          "id": 9522,
+          "name": "Obshtina Lom"
+        },
+        {
+          "id": 9536,
+          "name": "Obshtina Montana"
+        },
+        {
+          "id": 9622,
+          "name": "Obshtina Valchedram"
+        },
+        {
+          "id": 9625,
+          "name": "Obshtina Varshets"
+        },
+        {
+          "id": 9632,
+          "name": "Obshtina Yakimovo"
+        },
+        {
+          "id": 9733,
+          "name": "Valchedram"
+        },
+        {
+          "id": 9736,
+          "name": "Varshets"
+        },
+        {
+          "id": 9744,
+          "name": "Yakimovo"
+        }
+      ]
+    },
+    {
+      "id": 4712,
+      "name": "Pazardzhik Province",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 9267,
+          "name": "Batak"
+        },
+        {
+          "id": 9273,
+          "name": "Belovo"
+        },
+        {
+          "id": 9286,
+          "name": "Bratsigovo"
+        },
+        {
+          "id": 9384,
+          "name": "Lesichovo"
+        },
+        {
+          "id": 9423,
+          "name": "Obshtina Batak"
+        },
+        {
+          "id": 9428,
+          "name": "Obshtina Belovo"
+        },
+        {
+          "id": 9440,
+          "name": "Obshtina Bratsigovo"
+        },
+        {
+          "id": 9520,
+          "name": "Obshtina Lesichovo"
+        },
+        {
+          "id": 9547,
+          "name": "Obshtina Panagyurishte"
+        },
+        {
+          "id": 9551,
+          "name": "Obshtina Pazardzhik"
+        },
+        {
+          "id": 9554,
+          "name": "Obshtina Peshtera"
+        },
+        {
+          "id": 9568,
+          "name": "Obshtina Rakitovo"
+        },
+        {
+          "id": 9585,
+          "name": "Obshtina Septemvri"
+        },
+        {
+          "id": 9602,
+          "name": "Obshtina Strelcha"
+        },
+        {
+          "id": 9627,
+          "name": "Obshtina Velingrad"
+        },
+        {
+          "id": 9644,
+          "name": "Panagyurishte"
+        },
+        {
+          "id": 9649,
+          "name": "Pazardzhik"
+        },
+        {
+          "id": 9652,
+          "name": "Peshtera"
+        },
+        {
+          "id": 9666,
+          "name": "Rakitovo"
+        },
+        {
+          "id": 9684,
+          "name": "Sarnitsa"
+        },
+        {
+          "id": 9685,
+          "name": "Sarnitsa Obshtina"
+        },
+        {
+          "id": 9688,
+          "name": "Septemvri"
+        },
+        {
+          "id": 9710,
+          "name": "Strelcha"
+        },
+        {
+          "id": 9738,
+          "name": "Velingrad"
+        }
+      ]
+    },
+    {
+      "id": 4695,
+      "name": "Pernik Province",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 9268,
+          "name": "Batanovtsi"
+        },
+        {
+          "id": 9288,
+          "name": "Breznik"
+        },
+        {
+          "id": 9509,
+          "name": "Obshtina Kovachevtsi"
+        },
+        {
+          "id": 9552,
+          "name": "Obshtina Pernik"
+        },
+        {
+          "id": 9567,
+          "name": "Obshtina Radomir"
+        },
+        {
+          "id": 9636,
+          "name": "Obshtina Zemen"
+        },
+        {
+          "id": 9650,
+          "name": "Pernik"
+        },
+        {
+          "id": 9665,
+          "name": "Radomir"
+        },
+        {
+          "id": 9724,
+          "name": "Tran"
+        },
+        {
+          "id": 9748,
+          "name": "Zemen"
+        }
+      ]
+    },
+    {
+      "id": 4706,
+      "name": "Pleven Province",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 9269,
+          "name": "Belene"
+        },
+        {
+          "id": 9300,
+          "name": "Cherven Bryag"
+        },
+        {
+          "id": 9312,
+          "name": "Dolna Mitropolia"
+        },
+        {
+          "id": 9314,
+          "name": "Dolni Dabnik"
+        },
+        {
+          "id": 9337,
+          "name": "Gulyantsi"
+        },
+        {
+          "id": 9347,
+          "name": "Iskar"
+        },
+        {
+          "id": 9366,
+          "name": "Knezha"
+        },
+        {
+          "id": 9372,
+          "name": "Koynare"
+        },
+        {
+          "id": 9386,
+          "name": "Levski"
+        },
+        {
+          "id": 9409,
+          "name": "Nikopol"
+        },
+        {
+          "id": 9424,
+          "name": "Obshtina Belene"
+        },
+        {
+          "id": 9449,
+          "name": "Obshtina Cherven Bryag"
+        },
+        {
+          "id": 9460,
+          "name": "Obshtina Dolna Mitropolia"
+        },
+        {
+          "id": 9462,
+          "name": "Obshtina Dolni Dabnik"
+        },
+        {
+          "id": 9484,
+          "name": "Obshtina Gulyantsi"
+        },
+        {
+          "id": 9490,
+          "name": "Obshtina Iskar"
+        },
+        {
+          "id": 9503,
+          "name": "Obshtina Knezha"
+        },
+        {
+          "id": 9521,
+          "name": "Obshtina Levski"
+        },
+        {
+          "id": 9541,
+          "name": "Obshtina Nikopol"
+        },
+        {
+          "id": 9557,
+          "name": "Obshtina Pleven"
+        },
+        {
+          "id": 9562,
+          "name": "Obshtina Pordim"
+        },
+        {
+          "id": 9655,
+          "name": "Pleven"
+        },
+        {
+          "id": 9660,
+          "name": "Pordim"
+        },
+        {
+          "id": 9696,
+          "name": "Slavyanovo"
+        }
+      ]
+    },
+    {
+      "id": 4701,
+      "name": "Plovdiv Province",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 9259,
+          "name": "Asenovgrad"
+        },
+        {
+          "id": 9289,
+          "name": "Brezovo"
+        },
+        {
+          "id": 9345,
+          "name": "Hisarya"
+        },
+        {
+          "id": 9351,
+          "name": "Kalofer"
+        },
+        {
+          "id": 9352,
+          "name": "Kaloyanovo"
+        },
+        {
+          "id": 9355,
+          "name": "Karlovo"
+        },
+        {
+          "id": 9365,
+          "name": "Klisura"
+        },
+        {
+          "id": 9375,
+          "name": "Krichim"
+        },
+        {
+          "id": 9383,
+          "name": "Laki"
+        },
+        {
+          "id": 9417,
+          "name": "Obshtina Asenovgrad"
+        },
+        {
+          "id": 9489,
+          "name": "Obshtina Hisarya"
+        },
+        {
+          "id": 9494,
+          "name": "Obshtina Kaloyanovo"
+        },
+        {
+          "id": 9497,
+          "name": "Obshtina Karlovo"
+        },
+        {
+          "id": 9512,
+          "name": "Obshtina Krichim"
+        },
+        {
+          "id": 9516,
+          "name": "Obshtina Kuklen"
+        },
+        {
+          "id": 9519,
+          "name": "Obshtina Laki"
+        },
+        {
+          "id": 9530,
+          "name": "Obshtina Maritsa"
+        },
+        {
+          "id": 9548,
+          "name": "Obshtina Parvomay"
+        },
+        {
+          "id": 9553,
+          "name": "Obshtina Perushtitsa"
+        },
+        {
+          "id": 9558,
+          "name": "Obshtina Plovdiv"
+        },
+        {
+          "id": 9569,
+          "name": "Obshtina Rakovski"
+        },
+        {
+          "id": 9573,
+          "name": "Obshtina Rodopi"
+        },
+        {
+          "id": 9578,
+          "name": "Obshtina Sadovo"
+        },
+        {
+          "id": 9579,
+          "name": "Obshtina Saedinenie"
+        },
+        {
+          "id": 9595,
+          "name": "Obshtina Sopot"
+        },
+        {
+          "id": 9597,
+          "name": "Obshtina Stamboliyski"
+        },
+        {
+          "id": 9645,
+          "name": "Parvomay"
+        },
+        {
+          "id": 9651,
+          "name": "Perushtitsa"
+        },
+        {
+          "id": 9656,
+          "name": "Plovdiv"
+        },
+        {
+          "id": 9667,
+          "name": "Rakovski"
+        },
+        {
+          "id": 9677,
+          "name": "Sadovo"
+        },
+        {
+          "id": 9678,
+          "name": "Saedinenie"
+        },
+        {
+          "id": 9704,
+          "name": "Stamboliyski"
+        },
+        {
+          "id": 9723,
+          "name": "Topolovo"
+        }
+      ]
+    },
+    {
+      "id": 4698,
+      "name": "Razgrad Province",
+      "state_code": "17",
+      "cities": [
+        {
+          "id": 9348,
+          "name": "Isperih"
+        },
+        {
+          "id": 9379,
+          "name": "Kubrat"
+        },
+        {
+          "id": 9389,
+          "name": "Loznitsa"
+        },
+        {
+          "id": 9399,
+          "name": "Medovene"
+        },
+        {
+          "id": 9491,
+          "name": "Obshtina Isperih"
+        },
+        {
+          "id": 9515,
+          "name": "Obshtina Kubrat"
+        },
+        {
+          "id": 9524,
+          "name": "Obshtina Loznitsa"
+        },
+        {
+          "id": 9570,
+          "name": "Obshtina Razgrad"
+        },
+        {
+          "id": 9581,
+          "name": "Obshtina Samuil"
+        },
+        {
+          "id": 9616,
+          "name": "Obshtina Tsar Kaloyan"
+        },
+        {
+          "id": 9635,
+          "name": "Obshtina Zavet"
+        },
+        {
+          "id": 9669,
+          "name": "Razgrad"
+        },
+        {
+          "id": 9680,
+          "name": "Samuil"
+        },
+        {
+          "id": 9727,
+          "name": "Tsar Kaloyan"
+        },
+        {
+          "id": 9747,
+          "name": "Zavet"
+        }
+      ]
+    },
+    {
+      "id": 4713,
+      "name": "Ruse Province",
+      "state_code": "18",
+      "cities": [
+        {
+          "id": 9281,
+          "name": "Borovo"
+        },
+        {
+          "id": 9322,
+          "name": "Dve Mogili"
+        },
+        {
+          "id": 9349,
+          "name": "Ivanovo"
+        },
+        {
+          "id": 9435,
+          "name": "Obshtina Borovo"
+        },
+        {
+          "id": 9443,
+          "name": "Obshtina Byala"
+        },
+        {
+          "id": 9468,
+          "name": "Obshtina Dve Mogili"
+        },
+        {
+          "id": 9492,
+          "name": "Obshtina Ivanovo"
+        },
+        {
+          "id": 9576,
+          "name": "Obshtina Ruse"
+        },
+        {
+          "id": 9593,
+          "name": "Obshtina Slivo Pole"
+        },
+        {
+          "id": 9617,
+          "name": "Obshtina Tsenovo"
+        },
+        {
+          "id": 9628,
+          "name": "Obshtina Vetovo"
+        },
+        {
+          "id": 9675,
+          "name": "Ruse"
+        },
+        {
+          "id": 9687,
+          "name": "Senovo"
+        },
+        {
+          "id": 9699,
+          "name": "Slivo Pole"
+        },
+        {
+          "id": 9729,
+          "name": "Tsenovo"
+        },
+        {
+          "id": 9739,
+          "name": "Vetovo"
+        }
+      ]
+    },
+    {
+      "id": 4882,
+      "name": "Shumen",
+      "state_code": "27",
+      "cities": [
+        {
+          "id": 146184,
+          "name": "Shumen"
+        }
+      ]
+    },
+    {
+      "id": 4708,
+      "name": "Silistra Province",
+      "state_code": "19",
+      "cities": [
+        {
+          "id": 9253,
+          "name": "Alfatar"
+        },
+        {
+          "id": 9319,
+          "name": "Dulovo"
+        },
+        {
+          "id": 9331,
+          "name": "Glavinitsa"
+        },
+        {
+          "id": 9358,
+          "name": "Kaynardzha"
+        },
+        {
+          "id": 9413,
+          "name": "Obshtina Alfatar"
+        },
+        {
+          "id": 9466,
+          "name": "Obshtina Dulovo"
+        },
+        {
+          "id": 9479,
+          "name": "Obshtina Glavinitsa"
+        },
+        {
+          "id": 9500,
+          "name": "Obshtina Kaynardzha"
+        },
+        {
+          "id": 9588,
+          "name": "Obshtina Silistra"
+        },
+        {
+          "id": 9590,
+          "name": "Obshtina Sitovo"
+        },
+        {
+          "id": 9619,
+          "name": "Obshtina Tutrakan"
+        },
+        {
+          "id": 9692,
+          "name": "Silistra"
+        },
+        {
+          "id": 9695,
+          "name": "Sitovo"
+        },
+        {
+          "id": 9730,
+          "name": "Tutrakan"
+        }
+      ]
+    },
+    {
+      "id": 4700,
+      "name": "Sliven Province",
+      "state_code": "20",
+      "cities": [
+        {
+          "id": 9360,
+          "name": "Kermen"
+        },
+        {
+          "id": 9371,
+          "name": "Kotel"
+        },
+        {
+          "id": 9410,
+          "name": "Nova Zagora"
+        },
+        {
+          "id": 9508,
+          "name": "Obshtina Kotel"
+        },
+        {
+          "id": 9542,
+          "name": "Obshtina Nova Zagora"
+        },
+        {
+          "id": 9591,
+          "name": "Obshtina Sliven"
+        },
+        {
+          "id": 9620,
+          "name": "Obshtina Tvarditsa"
+        },
+        {
+          "id": 9697,
+          "name": "Sliven"
+        },
+        {
+          "id": 9731,
+          "name": "Tvarditsa"
+        }
+      ]
+    },
+    {
+      "id": 4694,
+      "name": "Smolyan Province",
+      "state_code": "21",
+      "cities": [
+        {
+          "id": 9264,
+          "name": "Banite"
+        },
+        {
+          "id": 9279,
+          "name": "Borino"
+        },
+        {
+          "id": 9298,
+          "name": "Chepelare"
+        },
+        {
+          "id": 9306,
+          "name": "Devin"
+        },
+        {
+          "id": 9315,
+          "name": "Dospat"
+        },
+        {
+          "id": 9339,
+          "name": "Gyovren"
+        },
+        {
+          "id": 9393,
+          "name": "Madan"
+        },
+        {
+          "id": 9405,
+          "name": "Nedelino"
+        },
+        {
+          "id": 9421,
+          "name": "Obshtina Banite"
+        },
+        {
+          "id": 9433,
+          "name": "Obshtina Borino"
+        },
+        {
+          "id": 9447,
+          "name": "Obshtina Chepelare"
+        },
+        {
+          "id": 9453,
+          "name": "Obshtina Devin"
+        },
+        {
+          "id": 9463,
+          "name": "Obshtina Dospat"
+        },
+        {
+          "id": 9526,
+          "name": "Obshtina Madan"
+        },
+        {
+          "id": 9537,
+          "name": "Obshtina Nedelino"
+        },
+        {
+          "id": 9575,
+          "name": "Obshtina Rudozem"
+        },
+        {
+          "id": 9594,
+          "name": "Obshtina Smolyan"
+        },
+        {
+          "id": 9639,
+          "name": "Obshtina Zlatograd"
+        },
+        {
+          "id": 9673,
+          "name": "Rudozem"
+        },
+        {
+          "id": 9700,
+          "name": "Smolyan"
+        },
+        {
+          "id": 9752,
+          "name": "Zlatograd"
+        }
+      ]
+    },
+    {
+      "id": 4705,
+      "name": "Sofia City Province",
+      "state_code": "22",
+      "cities": [
+        {
+          "id": 9291,
+          "name": "Buhovo"
+        },
+        {
+          "id": 9701,
+          "name": "Sofia"
+        },
+        {
+          "id": 9707,
+          "name": "Stolichna Obshtina"
+        }
+      ]
+    },
+    {
+      "id": 4719,
+      "name": "Sofia Province",
+      "state_code": "23",
+      "cities": [
+        {
+          "id": 9254,
+          "name": "Anton"
+        },
+        {
+          "id": 9282,
+          "name": "Botevgrad"
+        },
+        {
+          "id": 9285,
+          "name": "Bozhurishte"
+        },
+        {
+          "id": 9296,
+          "name": "Chavdar"
+        },
+        {
+          "id": 9297,
+          "name": "Chelopech"
+        },
+        {
+          "id": 9311,
+          "name": "Dolna Banya"
+        },
+        {
+          "id": 9316,
+          "name": "Dragoman"
+        },
+        {
+          "id": 9326,
+          "name": "Elin Pelin"
+        },
+        {
+          "id": 9327,
+          "name": "Etropole"
+        },
+        {
+          "id": 9332,
+          "name": "Godech"
+        },
+        {
+          "id": 9333,
+          "name": "Gorna Malina"
+        },
+        {
+          "id": 9346,
+          "name": "Ihtiman"
+        },
+        {
+          "id": 9369,
+          "name": "Koprivshtitsa"
+        },
+        {
+          "id": 9370,
+          "name": "Kostinbrod"
+        },
+        {
+          "id": 9382,
+          "name": "Lakatnik"
+        },
+        {
+          "id": 9402,
+          "name": "Mirkovo"
+        },
+        {
+          "id": 9414,
+          "name": "Obshtina Anton"
+        },
+        {
+          "id": 9436,
+          "name": "Obshtina Botevgrad"
+        },
+        {
+          "id": 9439,
+          "name": "Obshtina Bozhurishte"
+        },
+        {
+          "id": 9445,
+          "name": "Obshtina Chavdar"
+        },
+        {
+          "id": 9446,
+          "name": "Obshtina Chelopech"
+        },
+        {
+          "id": 9459,
+          "name": "Obshtina Dolna Banya"
+        },
+        {
+          "id": 9464,
+          "name": "Obshtina Dragoman"
+        },
+        {
+          "id": 9472,
+          "name": "Obshtina Elin Pelin"
+        },
+        {
+          "id": 9473,
+          "name": "Obshtina Etropole"
+        },
+        {
+          "id": 9480,
+          "name": "Obshtina Gorna Malina"
+        },
+        {
+          "id": 9505,
+          "name": "Obshtina Koprivshtitsa"
+        },
+        {
+          "id": 9506,
+          "name": "Obshtina Kostenets"
+        },
+        {
+          "id": 9507,
+          "name": "Obshtina Kostinbrod"
+        },
+        {
+          "id": 9533,
+          "name": "Obshtina Mirkovo"
+        },
+        {
+          "id": 9556,
+          "name": "Obshtina Pirdop"
+        },
+        {
+          "id": 9563,
+          "name": "Obshtina Pravets"
+        },
+        {
+          "id": 9580,
+          "name": "Obshtina Samokov"
+        },
+        {
+          "id": 9592,
+          "name": "Obshtina Slivnitsa"
+        },
+        {
+          "id": 9609,
+          "name": "Obshtina Svoge"
+        },
+        {
+          "id": 9638,
+          "name": "Obshtina Zlatitsa"
+        },
+        {
+          "id": 9654,
+          "name": "Pirdop"
+        },
+        {
+          "id": 9661,
+          "name": "Pravets"
+        },
+        {
+          "id": 9679,
+          "name": "Samokov"
+        },
+        {
+          "id": 9698,
+          "name": "Slivnitsa"
+        },
+        {
+          "id": 9718,
+          "name": "Svoge"
+        },
+        {
+          "id": 9750,
+          "name": "Zlatitsa"
+        }
+      ]
+    },
+    {
+      "id": 4707,
+      "name": "Stara Zagora Province",
+      "state_code": "24",
+      "cities": [
+        {
+          "id": 9258,
+          "name": "Asen"
+        },
+        {
+          "id": 9302,
+          "name": "Chirpan"
+        },
+        {
+          "id": 9340,
+          "name": "Gŭlŭbovo"
+        },
+        {
+          "id": 9338,
+          "name": "Gurkovo"
+        },
+        {
+          "id": 9359,
+          "name": "Kazanlak"
+        },
+        {
+          "id": 9395,
+          "name": "Maglizh"
+        },
+        {
+          "id": 9408,
+          "name": "Nikolaevo"
+        },
+        {
+          "id": 9441,
+          "name": "Obshtina Bratya Daskalovi"
+        },
+        {
+          "id": 9451,
+          "name": "Obshtina Chirpan"
+        },
+        {
+          "id": 9475,
+          "name": "Obshtina Galabovo"
+        },
+        {
+          "id": 9485,
+          "name": "Obshtina Gurkovo"
+        },
+        {
+          "id": 9501,
+          "name": "Obshtina Kazanlŭk"
+        },
+        {
+          "id": 9528,
+          "name": "Obshtina Maglizh"
+        },
+        {
+          "id": 9540,
+          "name": "Obshtina Nikolaevo"
+        },
+        {
+          "id": 9545,
+          "name": "Obshtina Opan"
+        },
+        {
+          "id": 9549,
+          "name": "Obshtina Pavel Banya"
+        },
+        {
+          "id": 9566,
+          "name": "Obshtina Radnevo"
+        },
+        {
+          "id": 9599,
+          "name": "Obshtina Stara Zagora"
+        },
+        {
+          "id": 9647,
+          "name": "Pavel Banya"
+        },
+        {
+          "id": 9664,
+          "name": "Radnevo"
+        },
+        {
+          "id": 9691,
+          "name": "Shipka"
+        },
+        {
+          "id": 9706,
+          "name": "Stara Zagora"
+        }
+      ]
+    },
+    {
+      "id": 4714,
+      "name": "Targovishte Province",
+      "state_code": "25",
+      "cities": [
+        {
+          "id": 9255,
+          "name": "Antonovo"
+        },
+        {
+          "id": 9415,
+          "name": "Obshtina Antonovo"
+        },
+        {
+          "id": 9543,
+          "name": "Obshtina Omurtag"
+        },
+        {
+          "id": 9544,
+          "name": "Obshtina Opaka"
+        },
+        {
+          "id": 9561,
+          "name": "Obshtina Popovo"
+        },
+        {
+          "id": 9610,
+          "name": "Obshtina Targovishte"
+        },
+        {
+          "id": 9641,
+          "name": "Omurtag"
+        },
+        {
+          "id": 9642,
+          "name": "Opaka"
+        },
+        {
+          "id": 9659,
+          "name": "Popovo"
+        },
+        {
+          "id": 9719,
+          "name": "Targovishte"
+        }
+      ]
+    },
+    {
+      "id": 4717,
+      "name": "Varna Province",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 9252,
+          "name": "Aksakovo"
+        },
+        {
+          "id": 9260,
+          "name": "Asparuhovo"
+        },
+        {
+          "id": 9263,
+          "name": "Balgarevo"
+        },
+        {
+          "id": 9272,
+          "name": "Beloslav"
+        },
+        {
+          "id": 9293,
+          "name": "Byala"
+        },
+        {
+          "id": 9304,
+          "name": "Dalgopol"
+        },
+        {
+          "id": 9307,
+          "name": "Devnya"
+        },
+        {
+          "id": 9313,
+          "name": "Dolni Chiflik"
+        },
+        {
+          "id": 9364,
+          "name": "Kiten"
+        },
+        {
+          "id": 9412,
+          "name": "Obshtina Aksakovo"
+        },
+        {
+          "id": 9418,
+          "name": "Obshtina Avren"
+        },
+        {
+          "id": 9427,
+          "name": "Obshtina Beloslav"
+        },
+        {
+          "id": 9444,
+          "name": "Obshtina Byala"
+        },
+        {
+          "id": 9452,
+          "name": "Obshtina Dalgopol"
+        },
+        {
+          "id": 9454,
+          "name": "Obshtina Devnya"
+        },
+        {
+          "id": 9461,
+          "name": "Obshtina Dolni Chiflik"
+        },
+        {
+          "id": 9565,
+          "name": "Obshtina Provadia"
+        },
+        {
+          "id": 9606,
+          "name": "Obshtina Suvorovo"
+        },
+        {
+          "id": 9623,
+          "name": "Obshtina Valchidol"
+        },
+        {
+          "id": 9624,
+          "name": "Obshtina Varna"
+        },
+        {
+          "id": 9629,
+          "name": "Obshtina Vetrino"
+        },
+        {
+          "id": 9663,
+          "name": "Provadia"
+        },
+        {
+          "id": 9714,
+          "name": "Suvorovo"
+        },
+        {
+          "id": 9734,
+          "name": "Valchidol"
+        },
+        {
+          "id": 9735,
+          "name": "Varna"
+        },
+        {
+          "id": 9740,
+          "name": "Vetrino"
+        },
+        {
+          "id": 9751,
+          "name": "Zlatni Pyasatsi"
+        }
+      ]
+    },
+    {
+      "id": 4709,
+      "name": "Veliko Tarnovo Province",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 9294,
+          "name": "Byala Cherkva"
+        },
+        {
+          "id": 9305,
+          "name": "Debelets"
+        },
+        {
+          "id": 9324,
+          "name": "Elena"
+        },
+        {
+          "id": 9334,
+          "name": "Gorna Oryahovitsa"
+        },
+        {
+          "id": 9361,
+          "name": "Kilifarevo"
+        },
+        {
+          "id": 9391,
+          "name": "Lyaskovets"
+        },
+        {
+          "id": 9470,
+          "name": "Obshtina Elena"
+        },
+        {
+          "id": 9481,
+          "name": "Obshtina Gorna Oryahovitsa"
+        },
+        {
+          "id": 9525,
+          "name": "Obshtina Lyaskovets"
+        },
+        {
+          "id": 9550,
+          "name": "Obshtina Pavlikeni"
+        },
+        {
+          "id": 9559,
+          "name": "Obshtina Polski Trambesh"
+        },
+        {
+          "id": 9601,
+          "name": "Obshtina Strazhitsa"
+        },
+        {
+          "id": 9604,
+          "name": "Obshtina Suhindol"
+        },
+        {
+          "id": 9608,
+          "name": "Obshtina Svishtov"
+        },
+        {
+          "id": 9626,
+          "name": "Obshtina Veliko Tŭrnovo"
+        },
+        {
+          "id": 9637,
+          "name": "Obshtina Zlataritsa"
+        },
+        {
+          "id": 9646,
+          "name": "Parvomaytsi"
+        },
+        {
+          "id": 9648,
+          "name": "Pavlikeni"
+        },
+        {
+          "id": 9657,
+          "name": "Polski Trambesh"
+        },
+        {
+          "id": 9709,
+          "name": "Strazhitsa"
+        },
+        {
+          "id": 9712,
+          "name": "Suhindol"
+        },
+        {
+          "id": 9717,
+          "name": "Svishtov"
+        },
+        {
+          "id": 9737,
+          "name": "Veliko Tŭrnovo"
+        },
+        {
+          "id": 9749,
+          "name": "Zlataritsa"
+        }
+      ]
+    },
+    {
+      "id": 4697,
+      "name": "Vidin Province",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 9271,
+          "name": "Belogradchik"
+        },
+        {
+          "id": 9284,
+          "name": "Boynitsa"
+        },
+        {
+          "id": 9287,
+          "name": "Bregovo"
+        },
+        {
+          "id": 9303,
+          "name": "Chuprene"
+        },
+        {
+          "id": 9309,
+          "name": "Dimovo"
+        },
+        {
+          "id": 9317,
+          "name": "Drenovets"
+        },
+        {
+          "id": 9320,
+          "name": "Dunavtsi"
+        },
+        {
+          "id": 9336,
+          "name": "Gramada"
+        },
+        {
+          "id": 9380,
+          "name": "Kula"
+        },
+        {
+          "id": 9396,
+          "name": "Makresh"
+        },
+        {
+          "id": 9411,
+          "name": "Novo Selo"
+        },
+        {
+          "id": 9426,
+          "name": "Obshtina Belogradchik"
+        },
+        {
+          "id": 9438,
+          "name": "Obshtina Boynitsa"
+        },
+        {
+          "id": 9456,
+          "name": "Obshtina Dimovo"
+        },
+        {
+          "id": 9483,
+          "name": "Obshtina Gramada"
+        },
+        {
+          "id": 9517,
+          "name": "Obshtina Kula"
+        },
+        {
+          "id": 9577,
+          "name": "Obshtina Ruzhintsi"
+        },
+        {
+          "id": 9630,
+          "name": "Obshtina Vidin"
+        },
+        {
+          "id": 9676,
+          "name": "Ruzhintsi"
+        },
+        {
+          "id": 9741,
+          "name": "Vidin"
+        }
+      ]
+    },
+    {
+      "id": 4711,
+      "name": "Vratsa Province",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 9280,
+          "name": "Borovan"
+        },
+        {
+          "id": 9295,
+          "name": "Byala Slatina"
+        },
+        {
+          "id": 9344,
+          "name": "Hayredin"
+        },
+        {
+          "id": 9373,
+          "name": "Kozloduy"
+        },
+        {
+          "id": 9376,
+          "name": "Krivodol"
+        },
+        {
+          "id": 9400,
+          "name": "Mezdra"
+        },
+        {
+          "id": 9403,
+          "name": "Mizia"
+        },
+        {
+          "id": 9434,
+          "name": "Obshtina Borovan"
+        },
+        {
+          "id": 9488,
+          "name": "Obshtina Hayredin"
+        },
+        {
+          "id": 9510,
+          "name": "Obshtina Kozloduy"
+        },
+        {
+          "id": 9513,
+          "name": "Obshtina Krivodol"
+        },
+        {
+          "id": 9531,
+          "name": "Obshtina Mezdra"
+        },
+        {
+          "id": 9534,
+          "name": "Obshtina Mizia"
+        },
+        {
+          "id": 9546,
+          "name": "Obshtina Oryahovo"
+        },
+        {
+          "id": 9574,
+          "name": "Obshtina Roman"
+        },
+        {
+          "id": 9631,
+          "name": "Obshtina Vratsa"
+        },
+        {
+          "id": 9643,
+          "name": "Oryahovo"
+        },
+        {
+          "id": 9672,
+          "name": "Roman"
+        },
+        {
+          "id": 9742,
+          "name": "Vratsa"
+        }
+      ]
+    },
+    {
+      "id": 4716,
+      "name": "Yambol Province",
+      "state_code": "28",
+      "cities": [
+        {
+          "id": 9278,
+          "name": "Bolyarovo"
+        },
+        {
+          "id": 9325,
+          "name": "Elhovo"
+        },
+        {
+          "id": 9432,
+          "name": "Obshtina Bolyarovo"
+        },
+        {
+          "id": 9471,
+          "name": "Obshtina Elhovo"
+        },
+        {
+          "id": 9600,
+          "name": "Obshtina Straldzha"
+        },
+        {
+          "id": 9618,
+          "name": "Obshtina Tundzha"
+        },
+        {
+          "id": 9634,
+          "name": "Obshtina Yambol"
+        },
+        {
+          "id": 9708,
+          "name": "Straldzha"
+        },
+        {
+          "id": 9746,
+          "name": "Yambol"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": 73,
+  "name": "Fiji Islands",
+  "short_name": "FJI",
+  "phone_code": "679",
+  "currency": "FJD",
+  "currency_name": "Fijian dollar",
+  "currency_symbol": "FJ$",
+  "states": [
+    {
+      "id": 1917,
+      "name": "Ba",
+      "state_code": "01",
+      "cities": []
+    },
+    {
+      "id": 1930,
+      "name": "Bua",
+      "state_code": "02",
+      "cities": []
+    },
+    {
+      "id": 1924,
+      "name": "Cakaudrove",
+      "state_code": "03",
+      "cities": []
+    },
+    {
+      "id": 1929,
+      "name": "Central Division",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 39145,
+          "name": "Naitasiri Province"
+        },
+        {
+          "id": 39146,
+          "name": "Namosi Province"
+        },
+        {
+          "id": 39149,
+          "name": "Rewa Province"
+        },
+        {
+          "id": 39150,
+          "name": "Serua Province"
+        },
+        {
+          "id": 39151,
+          "name": "Suva"
+        },
+        {
+          "id": 39152,
+          "name": "Tailevu Province"
+        }
+      ]
+    },
+    {
+      "id": 1932,
+      "name": "Eastern Division",
+      "state_code": "E",
+      "cities": [
+        {
+          "id": 39137,
+          "name": "Kadavu Province"
+        },
+        {
+          "id": 39139,
+          "name": "Lau Province"
+        },
+        {
+          "id": 39141,
+          "name": "Levuka"
+        },
+        {
+          "id": 39142,
+          "name": "Lomaiviti Province"
+        }
+      ]
+    },
+    {
+      "id": 1934,
+      "name": "Kadavu",
+      "state_code": "04",
+      "cities": []
+    },
+    {
+      "id": 1933,
+      "name": "Lau",
+      "state_code": "05",
+      "cities": []
+    },
+    {
+      "id": 1916,
+      "name": "Lomaiviti",
+      "state_code": "06",
+      "cities": []
+    },
+    {
+      "id": 1922,
+      "name": "Macuata",
+      "state_code": "07",
+      "cities": []
+    },
+    {
+      "id": 1919,
+      "name": "Nadroga-Navosa",
+      "state_code": "08",
+      "cities": []
+    },
+    {
+      "id": 1927,
+      "name": "Naitasiri",
+      "state_code": "09",
+      "cities": []
+    },
+    {
+      "id": 1928,
+      "name": "Namosi",
+      "state_code": "10",
+      "cities": []
+    },
+    {
+      "id": 1921,
+      "name": "Northern Division",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 39135,
+          "name": "Bua Province"
+        },
+        {
+          "id": 39136,
+          "name": "Cakaudrove Province"
+        },
+        {
+          "id": 39138,
+          "name": "Labasa"
+        },
+        {
+          "id": 39143,
+          "name": "Macuata Province"
+        }
+      ]
+    },
+    {
+      "id": 1926,
+      "name": "Ra",
+      "state_code": "11",
+      "cities": []
+    },
+    {
+      "id": 1920,
+      "name": "Rewa",
+      "state_code": "12",
+      "cities": []
+    },
+    {
+      "id": 1931,
+      "name": "Rotuma",
+      "state_code": "R",
+      "cities": []
+    },
+    {
+      "id": 1925,
+      "name": "Serua",
+      "state_code": "13",
+      "cities": []
+    },
+    {
+      "id": 1918,
+      "name": "Tailevu",
+      "state_code": "14",
+      "cities": []
+    },
+    {
+      "id": 1923,
+      "name": "Western Division",
+      "state_code": "W",
+      "cities": [
+        {
+          "id": 39133,
+          "name": "Ba"
+        },
+        {
+          "id": 39134,
+          "name": "Ba Province"
+        },
+        {
+          "id": 39140,
+          "name": "Lautoka"
+        },
+        {
+          "id": 39144,
+          "name": "Nadi"
+        },
+        {
+          "id": 39147,
+          "name": "Nandronga and Navosa Province"
+        },
+        {
+          "id": 39148,
+          "name": "Ra Province"
+        }
+      ]
+    }
+  ]
+}

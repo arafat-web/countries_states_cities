@@ -1,0 +1,509 @@
+{
+  "id": 66,
+  "name": "El Salvador",
+  "short_name": "SLV",
+  "phone_code": "503",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 4139,
+      "name": "Ahuachapán Department",
+      "state_code": "AH",
+      "cities": [
+        {
+          "id": 104842,
+          "name": "Ahuachapán"
+        },
+        {
+          "id": 104848,
+          "name": "Atiquizaya"
+        },
+        {
+          "id": 104863,
+          "name": "Concepción de Ataco"
+        },
+        {
+          "id": 104873,
+          "name": "Guaymango"
+        },
+        {
+          "id": 104883,
+          "name": "Jujutla"
+        },
+        {
+          "id": 104906,
+          "name": "San Francisco Menéndez"
+        },
+        {
+          "id": 104931,
+          "name": "Tacuba"
+        }
+      ]
+    },
+    {
+      "id": 4132,
+      "name": "Cabañas Department",
+      "state_code": "CA",
+      "cities": [
+        {
+          "id": 104924,
+          "name": "Sensuntepeque"
+        },
+        {
+          "id": 104937,
+          "name": "Victoria"
+        }
+      ]
+    },
+    {
+      "id": 4131,
+      "name": "Chalatenango Department",
+      "state_code": "CH",
+      "cities": [
+        {
+          "id": 104853,
+          "name": "Chalatenango"
+        },
+        {
+          "id": 104891,
+          "name": "Nueva Concepción"
+        }
+      ]
+    },
+    {
+      "id": 4137,
+      "name": "Cuscatlán Department",
+      "state_code": "CU",
+      "cities": [
+        {
+          "id": 104861,
+          "name": "Cojutepeque"
+        },
+        {
+          "id": 104909,
+          "name": "San Martín"
+        },
+        {
+          "id": 104930,
+          "name": "Suchitoto"
+        },
+        {
+          "id": 104932,
+          "name": "Tecoluca"
+        },
+        {
+          "id": 104933,
+          "name": "Tenancingo"
+        }
+      ]
+    },
+    {
+      "id": 4134,
+      "name": "La Libertad Department",
+      "state_code": "LI",
+      "cities": [
+        {
+          "id": 104844,
+          "name": "Antiguo Cuscatlán"
+        },
+        {
+          "id": 104858,
+          "name": "Ciudad Arce"
+        },
+        {
+          "id": 104884,
+          "name": "La Libertad"
+        },
+        {
+          "id": 104894,
+          "name": "Nuevo Cuscatlán"
+        },
+        {
+          "id": 104900,
+          "name": "Quezaltepeque"
+        },
+        {
+          "id": 104907,
+          "name": "San Juan Opico"
+        },
+        {
+          "id": 104911,
+          "name": "San Pablo Tacachico"
+        },
+        {
+          "id": 104920,
+          "name": "Santa Tecla"
+        },
+        {
+          "id": 104939,
+          "name": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "id": 4136,
+      "name": "La Paz Department",
+      "state_code": "PA",
+      "cities": [
+        {
+          "id": 104870,
+          "name": "El Rosario"
+        },
+        {
+          "id": 104895,
+          "name": "Olocuilta"
+        },
+        {
+          "id": 104912,
+          "name": "San Pedro Masahuat"
+        },
+        {
+          "id": 104921,
+          "name": "Santiago Nonualco"
+        },
+        {
+          "id": 104938,
+          "name": "Zacatecoluca"
+        }
+      ]
+    },
+    {
+      "id": 4138,
+      "name": "La Unión Department",
+      "state_code": "UN",
+      "cities": [
+        {
+          "id": 104843,
+          "name": "Anamorós"
+        },
+        {
+          "id": 104864,
+          "name": "Conchagua"
+        },
+        {
+          "id": 104876,
+          "name": "Intipucá"
+        },
+        {
+          "id": 104885,
+          "name": "La Unión"
+        },
+        {
+          "id": 104892,
+          "name": "Nueva Esparta"
+        },
+        {
+          "id": 104898,
+          "name": "Pasaquina"
+        },
+        {
+          "id": 104903,
+          "name": "San Alejo"
+        },
+        {
+          "id": 104919,
+          "name": "Santa Rosa de Lima"
+        }
+      ]
+    },
+    {
+      "id": 4130,
+      "name": "Morazán Department",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 104851,
+          "name": "Cacaopera"
+        },
+        {
+          "id": 104865,
+          "name": "Corinto"
+        },
+        {
+          "id": 104872,
+          "name": "Guatajiagua"
+        },
+        {
+          "id": 104879,
+          "name": "Jocoro"
+        },
+        {
+          "id": 104905,
+          "name": "San Francisco"
+        },
+        {
+          "id": 104926,
+          "name": "Sociedad"
+        }
+      ]
+    },
+    {
+      "id": 4135,
+      "name": "San Miguel Department",
+      "state_code": "SM",
+      "cities": [
+        {
+          "id": 104855,
+          "name": "Chapeltique"
+        },
+        {
+          "id": 104856,
+          "name": "Chinameca"
+        },
+        {
+          "id": 104857,
+          "name": "Chirilagua"
+        },
+        {
+          "id": 104859,
+          "name": "Ciudad Barrios"
+        },
+        {
+          "id": 104871,
+          "name": "El Tránsito"
+        },
+        {
+          "id": 104886,
+          "name": "Lolotique"
+        },
+        {
+          "id": 104889,
+          "name": "Moncagua"
+        },
+        {
+          "id": 104893,
+          "name": "Nueva Guadalupe"
+        },
+        {
+          "id": 104910,
+          "name": "San Miguel"
+        },
+        {
+          "id": 104913,
+          "name": "San Rafael Oriente"
+        },
+        {
+          "id": 104925,
+          "name": "Sesori"
+        }
+      ]
+    },
+    {
+      "id": 4133,
+      "name": "San Salvador Department",
+      "state_code": "SS",
+      "cities": [
+        {
+          "id": 104841,
+          "name": "Aguilares"
+        },
+        {
+          "id": 104846,
+          "name": "Apopa"
+        },
+        {
+          "id": 104849,
+          "name": "Ayutuxtepeque"
+        },
+        {
+          "id": 104866,
+          "name": "Cuscatancingo"
+        },
+        {
+          "id": 104867,
+          "name": "Delgado"
+        },
+        {
+          "id": 104869,
+          "name": "El Paisnal"
+        },
+        {
+          "id": 104874,
+          "name": "Guazapa"
+        },
+        {
+          "id": 104875,
+          "name": "Ilopango"
+        },
+        {
+          "id": 104887,
+          "name": "Mejicanos"
+        },
+        {
+          "id": 104897,
+          "name": "Panchimalco"
+        },
+        {
+          "id": 104901,
+          "name": "Rosario de Mora"
+        },
+        {
+          "id": 104908,
+          "name": "San Marcos"
+        },
+        {
+          "id": 104914,
+          "name": "San Salvador"
+        },
+        {
+          "id": 104923,
+          "name": "Santo Tomás"
+        },
+        {
+          "id": 104929,
+          "name": "Soyapango"
+        },
+        {
+          "id": 104935,
+          "name": "Tonacatepeque"
+        }
+      ]
+    },
+    {
+      "id": 4127,
+      "name": "San Vicente Department",
+      "state_code": "SV",
+      "cities": [
+        {
+          "id": 104845,
+          "name": "Apastepeque"
+        },
+        {
+          "id": 104915,
+          "name": "San Sebastián"
+        },
+        {
+          "id": 104916,
+          "name": "San Vicente"
+        }
+      ]
+    },
+    {
+      "id": 4128,
+      "name": "Santa Ana Department",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 104852,
+          "name": "Candelaria de La Frontera"
+        },
+        {
+          "id": 104854,
+          "name": "Chalchuapa"
+        },
+        {
+          "id": 104860,
+          "name": "Coatepeque"
+        },
+        {
+          "id": 104868,
+          "name": "El Congo"
+        },
+        {
+          "id": 104888,
+          "name": "Metapán"
+        },
+        {
+          "id": 104917,
+          "name": "Santa Ana"
+        },
+        {
+          "id": 104934,
+          "name": "Texistepeque"
+        }
+      ]
+    },
+    {
+      "id": 4140,
+      "name": "Sonsonate Department",
+      "state_code": "SO",
+      "cities": [
+        {
+          "id": 104840,
+          "name": "Acajutla"
+        },
+        {
+          "id": 104847,
+          "name": "Armenia"
+        },
+        {
+          "id": 104877,
+          "name": "Izalco"
+        },
+        {
+          "id": 104880,
+          "name": "Juayúa"
+        },
+        {
+          "id": 104890,
+          "name": "Nahuizalco"
+        },
+        {
+          "id": 104904,
+          "name": "San Antonio del Monte"
+        },
+        {
+          "id": 104927,
+          "name": "Sonsonate"
+        },
+        {
+          "id": 104928,
+          "name": "Sonzacate"
+        }
+      ]
+    },
+    {
+      "id": 4129,
+      "name": "Usulután Department",
+      "state_code": "US",
+      "cities": [
+        {
+          "id": 104850,
+          "name": "Berlín"
+        },
+        {
+          "id": 104862,
+          "name": "Concepción Batres"
+        },
+        {
+          "id": 104878,
+          "name": "Jiquilisco"
+        },
+        {
+          "id": 104881,
+          "name": "Jucuapa"
+        },
+        {
+          "id": 104882,
+          "name": "Jucuarán"
+        },
+        {
+          "id": 104896,
+          "name": "Ozatlán"
+        },
+        {
+          "id": 104899,
+          "name": "Puerto El Triunfo"
+        },
+        {
+          "id": 104902,
+          "name": "San Agustín"
+        },
+        {
+          "id": 104918,
+          "name": "Santa Elena"
+        },
+        {
+          "id": 104922,
+          "name": "Santiago de María"
+        },
+        {
+          "id": 104936,
+          "name": "Usulután"
+        }
+      ]
+    }
+  ]
+}

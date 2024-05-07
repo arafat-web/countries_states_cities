@@ -1,0 +1,637 @@
+{
+  "id": 38,
+  "name": "Cameroon",
+  "short_name": "CMR",
+  "phone_code": "237",
+  "currency": "XAF",
+  "currency_name": "Central African CFA franc",
+  "currency_symbol": "FCFA",
+  "states": [
+    {
+      "id": 2663,
+      "name": "Adamawa",
+      "state_code": "AD",
+      "cities": [
+        {
+          "id": 19148,
+          "name": "Bankim"
+        },
+        {
+          "id": 19150,
+          "name": "Banyo"
+        },
+        {
+          "id": 19162,
+          "name": "Bélel"
+        },
+        {
+          "id": 19168,
+          "name": "Djohong"
+        },
+        {
+          "id": 19187,
+          "name": "Kontcha"
+        },
+        {
+          "id": 19203,
+          "name": "Mayo-Banyo"
+        },
+        {
+          "id": 19218,
+          "name": "Meïganga"
+        },
+        {
+          "id": 19236,
+          "name": "Ngaoundéré"
+        },
+        {
+          "id": 19256,
+          "name": "Somié"
+        },
+        {
+          "id": 19258,
+          "name": "Tibati"
+        },
+        {
+          "id": 19259,
+          "name": "Tignère"
+        },
+        {
+          "id": 19262,
+          "name": "Vina"
+        }
+      ]
+    },
+    {
+      "id": 2660,
+      "name": "Centre",
+      "state_code": "CE",
+      "cities": [
+        {
+          "id": 19134,
+          "name": "Akono"
+        },
+        {
+          "id": 19135,
+          "name": "Akonolinga"
+        },
+        {
+          "id": 19139,
+          "name": "Bafia"
+        },
+        {
+          "id": 19174,
+          "name": "Eséka"
+        },
+        {
+          "id": 19173,
+          "name": "Essé"
+        },
+        {
+          "id": 19270,
+          "name": "Évodoula"
+        },
+        {
+          "id": 19208,
+          "name": "Mbalmayo"
+        },
+        {
+          "id": 19209,
+          "name": "Mbam-Et-Inoubou"
+        },
+        {
+          "id": 19210,
+          "name": "Mbandjok"
+        },
+        {
+          "id": 19213,
+          "name": "Mbankomo"
+        },
+        {
+          "id": 19216,
+          "name": "Mefou-et-Akono"
+        },
+        {
+          "id": 19219,
+          "name": "Mfoundi"
+        },
+        {
+          "id": 19221,
+          "name": "Minta"
+        },
+        {
+          "id": 19231,
+          "name": "Nanga Eboko"
+        },
+        {
+          "id": 19233,
+          "name": "Ndikiniméki"
+        },
+        {
+          "id": 19237,
+          "name": "Ngomedzap"
+        },
+        {
+          "id": 19238,
+          "name": "Ngoro"
+        },
+        {
+          "id": 19243,
+          "name": "Nkoteng"
+        },
+        {
+          "id": 19245,
+          "name": "Ntui"
+        },
+        {
+          "id": 19246,
+          "name": "Obala"
+        },
+        {
+          "id": 19247,
+          "name": "Okoa"
+        },
+        {
+          "id": 19248,
+          "name": "Okola"
+        },
+        {
+          "id": 19249,
+          "name": "Ombésa"
+        },
+        {
+          "id": 19254,
+          "name": "Saa"
+        },
+        {
+          "id": 19266,
+          "name": "Yaoundé"
+        },
+        {
+          "id": 19268,
+          "name": "Yoko"
+        }
+      ]
+    },
+    {
+      "id": 2661,
+      "name": "East",
+      "state_code": "ES",
+      "cities": [
+        {
+          "id": 19132,
+          "name": "Abong Mbang"
+        },
+        {
+          "id": 19152,
+          "name": "Batouri"
+        },
+        {
+          "id": 19161,
+          "name": "Bélabo"
+        },
+        {
+          "id": 19156,
+          "name": "Bertoua"
+        },
+        {
+          "id": 19163,
+          "name": "Bétaré Oya"
+        },
+        {
+          "id": 19166,
+          "name": "Dimako"
+        },
+        {
+          "id": 19170,
+          "name": "Doumé"
+        },
+        {
+          "id": 19182,
+          "name": "Garoua Boulaï"
+        },
+        {
+          "id": 19211,
+          "name": "Mbang"
+        },
+        {
+          "id": 19232,
+          "name": "Ndelele"
+        },
+        {
+          "id": 19267,
+          "name": "Yokadouma"
+        }
+      ]
+    },
+    {
+      "id": 2656,
+      "name": "Far North",
+      "state_code": "EN",
+      "cities": [
+        {
+          "id": 19157,
+          "name": "Bogo"
+        },
+        {
+          "id": 19186,
+          "name": "Kaélé"
+        },
+        {
+          "id": 19189,
+          "name": "Kousséri"
+        },
+        {
+          "id": 19190,
+          "name": "Koza"
+        },
+        {
+          "id": 19199,
+          "name": "Makary"
+        },
+        {
+          "id": 19202,
+          "name": "Maroua"
+        },
+        {
+          "id": 19206,
+          "name": "Mayo-Sava"
+        },
+        {
+          "id": 19207,
+          "name": "Mayo-Tsanaga"
+        },
+        {
+          "id": 19220,
+          "name": "Mindif"
+        },
+        {
+          "id": 19223,
+          "name": "Mokolo"
+        },
+        {
+          "id": 19224,
+          "name": "Mora"
+        },
+        {
+          "id": 19265,
+          "name": "Yagoua"
+        }
+      ]
+    },
+    {
+      "id": 2662,
+      "name": "Littoral",
+      "state_code": "LT",
+      "cities": [
+        {
+          "id": 19158,
+          "name": "Bonabéri"
+        },
+        {
+          "id": 19164,
+          "name": "Diang"
+        },
+        {
+          "id": 19165,
+          "name": "Dibombari"
+        },
+        {
+          "id": 19167,
+          "name": "Dizangué"
+        },
+        {
+          "id": 19169,
+          "name": "Douala"
+        },
+        {
+          "id": 19172,
+          "name": "Edéa"
+        },
+        {
+          "id": 19198,
+          "name": "Loum"
+        },
+        {
+          "id": 19201,
+          "name": "Manjo"
+        },
+        {
+          "id": 19212,
+          "name": "Mbanga"
+        },
+        {
+          "id": 19217,
+          "name": "Melong"
+        },
+        {
+          "id": 19225,
+          "name": "Mouanko"
+        },
+        {
+          "id": 19234,
+          "name": "Ndom"
+        },
+        {
+          "id": 19235,
+          "name": "Ngambé"
+        },
+        {
+          "id": 19242,
+          "name": "Nkongsamba"
+        },
+        {
+          "id": 19250,
+          "name": "Penja"
+        },
+        {
+          "id": 19264,
+          "name": "Yabassi"
+        }
+      ]
+    },
+    {
+      "id": 2665,
+      "name": "North",
+      "state_code": "NO",
+      "cities": [
+        {
+          "id": 19176,
+          "name": "Faro Department"
+        },
+        {
+          "id": 19181,
+          "name": "Garoua"
+        },
+        {
+          "id": 19183,
+          "name": "Guider"
+        },
+        {
+          "id": 19194,
+          "name": "Lagdo"
+        },
+        {
+          "id": 19204,
+          "name": "Mayo-Louti"
+        },
+        {
+          "id": 19205,
+          "name": "Mayo-Rey"
+        },
+        {
+          "id": 19251,
+          "name": "Pitoa"
+        },
+        {
+          "id": 19252,
+          "name": "Poli"
+        },
+        {
+          "id": 19253,
+          "name": "Rey Bouba"
+        },
+        {
+          "id": 19257,
+          "name": "Tcholliré"
+        }
+      ]
+    },
+    {
+      "id": 2657,
+      "name": "Northwest",
+      "state_code": "NW",
+      "cities": [
+        {
+          "id": 19137,
+          "name": "Babanki"
+        },
+        {
+          "id": 19141,
+          "name": "Bali"
+        },
+        {
+          "id": 19142,
+          "name": "Bamenda"
+        },
+        {
+          "id": 19151,
+          "name": "Batibo"
+        },
+        {
+          "id": 19155,
+          "name": "Belo"
+        },
+        {
+          "id": 19159,
+          "name": "Boyo"
+        },
+        {
+          "id": 19180,
+          "name": "Fundong"
+        },
+        {
+          "id": 19185,
+          "name": "Jakiri"
+        },
+        {
+          "id": 19193,
+          "name": "Kumbo"
+        },
+        {
+          "id": 19214,
+          "name": "Mbengwi"
+        },
+        {
+          "id": 19222,
+          "name": "Mme-Bafumen"
+        },
+        {
+          "id": 19241,
+          "name": "Njinikom"
+        },
+        {
+          "id": 19263,
+          "name": "Wum"
+        }
+      ]
+    },
+    {
+      "id": 2659,
+      "name": "South",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 19133,
+          "name": "Akom II"
+        },
+        {
+          "id": 19136,
+          "name": "Ambam"
+        },
+        {
+          "id": 19269,
+          "name": "Ébolowa"
+        },
+        {
+          "id": 19191,
+          "name": "Kribi"
+        },
+        {
+          "id": 19197,
+          "name": "Lolodorf"
+        },
+        {
+          "id": 19229,
+          "name": "Mvangué"
+        },
+        {
+          "id": 19230,
+          "name": "Mvila"
+        },
+        {
+          "id": 19255,
+          "name": "Sangmélima"
+        }
+      ]
+    },
+    {
+      "id": 2658,
+      "name": "Southwest",
+      "state_code": "SW",
+      "cities": [
+        {
+          "id": 19144,
+          "name": "Bamusso"
+        },
+        {
+          "id": 19154,
+          "name": "Bekondo"
+        },
+        {
+          "id": 19160,
+          "name": "Buea"
+        },
+        {
+          "id": 19175,
+          "name": "Fako Division"
+        },
+        {
+          "id": 19177,
+          "name": "Fontem"
+        },
+        {
+          "id": 19192,
+          "name": "Kumba"
+        },
+        {
+          "id": 19195,
+          "name": "Lebialem"
+        },
+        {
+          "id": 19196,
+          "name": "Limbe"
+        },
+        {
+          "id": 19200,
+          "name": "Mamfe"
+        },
+        {
+          "id": 19226,
+          "name": "Mundemba"
+        },
+        {
+          "id": 19227,
+          "name": "Mutengene"
+        },
+        {
+          "id": 19228,
+          "name": "Muyuka"
+        },
+        {
+          "id": 19240,
+          "name": "Nguti"
+        },
+        {
+          "id": 19260,
+          "name": "Tiko"
+        }
+      ]
+    },
+    {
+      "id": 2664,
+      "name": "West",
+      "state_code": "OU",
+      "cities": [
+        {
+          "id": 19138,
+          "name": "Bafang"
+        },
+        {
+          "id": 19140,
+          "name": "Bafoussam"
+        },
+        {
+          "id": 19143,
+          "name": "Bamendjou"
+        },
+        {
+          "id": 19145,
+          "name": "Bana"
+        },
+        {
+          "id": 19146,
+          "name": "Bandjoun"
+        },
+        {
+          "id": 19147,
+          "name": "Bangangté"
+        },
+        {
+          "id": 19149,
+          "name": "Bansoa"
+        },
+        {
+          "id": 19153,
+          "name": "Bazou"
+        },
+        {
+          "id": 19171,
+          "name": "Dschang"
+        },
+        {
+          "id": 19178,
+          "name": "Foumban"
+        },
+        {
+          "id": 19179,
+          "name": "Foumbot"
+        },
+        {
+          "id": 19184,
+          "name": "Hauts-Plateaux"
+        },
+        {
+          "id": 19188,
+          "name": "Koung-Khi"
+        },
+        {
+          "id": 19215,
+          "name": "Mbouda"
+        },
+        {
+          "id": 19239,
+          "name": "Ngou"
+        },
+        {
+          "id": 19244,
+          "name": "Noun"
+        },
+        {
+          "id": 19261,
+          "name": "Tonga"
+        }
+      ]
+    }
+  ]
+}

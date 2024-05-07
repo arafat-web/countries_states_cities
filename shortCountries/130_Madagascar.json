@@ -1,0 +1,84 @@
+{
+  "id": 130,
+  "name": "Madagascar",
+  "short_name": "MDG",
+  "phone_code": "261",
+  "currency": "MGA",
+  "currency_name": "Malagasy ariary",
+  "currency_symbol": "Ar",
+  "states": [
+    {
+      "id": 2951,
+      "name": "Antananarivo Province",
+      "state_code": "T",
+      "cities": []
+    },
+    {
+      "id": 2950,
+      "name": "Antsiranana Province",
+      "state_code": "D",
+      "cities": [
+        {
+          "id": 67377,
+          "name": "Ampasimanolotra"
+        },
+        {
+          "id": 67378,
+          "name": "Andovoranto"
+        },
+        {
+          "id": 67379,
+          "name": "Mahanoro"
+        },
+        {
+          "id": 67380,
+          "name": "Mahavelona"
+        },
+        {
+          "id": 67381,
+          "name": "Marolambo"
+        },
+        {
+          "id": 67382,
+          "name": "Toamasina"
+        },
+        {
+          "id": 67383,
+          "name": "Toamasina I"
+        },
+        {
+          "id": 67384,
+          "name": "Toamasina II"
+        },
+        {
+          "id": 67385,
+          "name": "Vohibinany"
+        }
+      ]
+    },
+    {
+      "id": 2948,
+      "name": "Fianarantsoa Province",
+      "state_code": "F",
+      "cities": []
+    },
+    {
+      "id": 2953,
+      "name": "Mahajanga Province",
+      "state_code": "M",
+      "cities": []
+    },
+    {
+      "id": 2952,
+      "name": "Toamasina Province",
+      "state_code": "A",
+      "cities": []
+    },
+    {
+      "id": 2949,
+      "name": "Toliara Province",
+      "state_code": "U",
+      "cities": []
+    }
+  ]
+}

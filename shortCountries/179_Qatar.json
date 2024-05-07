@@ -1,0 +1,126 @@
+{
+  "id": 179,
+  "name": "Qatar",
+  "short_name": "QAT",
+  "phone_code": "974",
+  "currency": "QAR",
+  "currency_name": "Qatari riyal",
+  "currency_symbol": "ق.ر",
+  "states": [
+    {
+      "id": 3182,
+      "name": "Al Daayen",
+      "state_code": "ZA",
+      "cities": []
+    },
+    {
+      "id": 3183,
+      "name": "Al Khor",
+      "state_code": "KH",
+      "cities": [
+        {
+          "id": 89856,
+          "name": "Al Ghuwayrīyah"
+        },
+        {
+          "id": 89858,
+          "name": "Al Khawr"
+        }
+      ]
+    },
+    {
+      "id": 3177,
+      "name": "Al Rayyan Municipality",
+      "state_code": "RA",
+      "cities": [
+        {
+          "id": 89861,
+          "name": "Ar Rayyān"
+        },
+        {
+          "id": 89869,
+          "name": "Umm Bāb"
+        }
+      ]
+    },
+    {
+      "id": 3179,
+      "name": "Al Wakrah",
+      "state_code": "WA",
+      "cities": [
+        {
+          "id": 89859,
+          "name": "Al Wakrah"
+        },
+        {
+          "id": 89860,
+          "name": "Al Wukayr"
+        },
+        {
+          "id": 89868,
+          "name": "Musay‘īd"
+        }
+      ]
+    },
+    {
+      "id": 3178,
+      "name": "Al-Shahaniya",
+      "state_code": "SH",
+      "cities": [
+        {
+          "id": 89857,
+          "name": "Al Jumaylīyah"
+        },
+        {
+          "id": 89863,
+          "name": "Ash Shīḩānīyah"
+        },
+        {
+          "id": 89865,
+          "name": "Dukhān"
+        }
+      ]
+    },
+    {
+      "id": 3181,
+      "name": "Doha",
+      "state_code": "DA",
+      "cities": [
+        {
+          "id": 89864,
+          "name": "Doha"
+        }
+      ]
+    },
+    {
+      "id": 3180,
+      "name": "Madinat ash Shamal",
+      "state_code": "MS",
+      "cities": [
+        {
+          "id": 89862,
+          "name": "Ar Ruways"
+        },
+        {
+          "id": 89866,
+          "name": "Fuwayriţ"
+        },
+        {
+          "id": 89867,
+          "name": "Madīnat ash Shamāl"
+        }
+      ]
+    },
+    {
+      "id": 3184,
+      "name": "Umm Salal Municipality",
+      "state_code": "US",
+      "cities": [
+        {
+          "id": 89870,
+          "name": "Umm Şalāl Muḩammad"
+        }
+      ]
+    }
+  ]
+}

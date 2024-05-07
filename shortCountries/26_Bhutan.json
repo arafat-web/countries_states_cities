@@ -1,0 +1,239 @@
+{
+  "id": 26,
+  "name": "Bhutan",
+  "short_name": "BTN",
+  "phone_code": "975",
+  "currency": "BTN",
+  "currency_name": "Bhutanese ngultrum",
+  "currency_symbol": "Nu.",
+  "states": [
+    {
+      "id": 240,
+      "name": "Bumthang District",
+      "state_code": "33",
+      "cities": [
+        {
+          "id": 15709,
+          "name": "Jakar"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Chukha District",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 15706,
+          "name": "Daphu"
+        },
+        {
+          "id": 15716,
+          "name": "Phuntsholing"
+        },
+        {
+          "id": 15726,
+          "name": "Tsimasham"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Dagana District",
+      "state_code": "22",
+      "cities": [
+        {
+          "id": 15705,
+          "name": "Daga"
+        },
+        {
+          "id": 15728,
+          "name": "Wangdue Phodrang"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Gasa District",
+      "state_code": "GA",
+      "cities": [
+        {
+          "id": 15707,
+          "name": "Gasa"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Haa District",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 15708,
+          "name": "Ha"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Lhuntse District",
+      "state_code": "44",
+      "cities": [
+        {
+          "id": 15710,
+          "name": "Lhuentse"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Mongar District",
+      "state_code": "42",
+      "cities": [
+        {
+          "id": 15711,
+          "name": "Mongar"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Paro District",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 15714,
+          "name": "Paro"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Pemagatshel District",
+      "state_code": "43",
+      "cities": [
+        {
+          "id": 15715,
+          "name": "Pemagatshel"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Punakha District",
+      "state_code": "23",
+      "cities": [
+        {
+          "id": 15712,
+          "name": "Pajo"
+        },
+        {
+          "id": 15717,
+          "name": "Punākha"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Samdrup Jongkhar District",
+      "state_code": "45",
+      "cities": [
+        {
+          "id": 15718,
+          "name": "Samdrup Jongkhar"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Samtse District",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 15719,
+          "name": "Samtse"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Sarpang District",
+      "state_code": "31",
+      "cities": [
+        {
+          "id": 15720,
+          "name": "Sarpang"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Thimphu District",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 15722,
+          "name": "Thimphu"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Trashigang District",
+      "state_code": "41",
+      "cities": [
+        {
+          "id": 15724,
+          "name": "Trashigang"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Trongsa District",
+      "state_code": "32",
+      "cities": []
+    },
+    {
+      "id": 230,
+      "name": "Tsirang District",
+      "state_code": "21",
+      "cities": [
+        {
+          "id": 15725,
+          "name": "Trongsa"
+        },
+        {
+          "id": 15727,
+          "name": "Tsirang"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Wangdue Phodrang District",
+      "state_code": "24",
+      "cities": [
+        {
+          "id": 15723,
+          "name": "Trashi Yangtse"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Zhemgang District",
+      "state_code": "34",
+      "cities": [
+        {
+          "id": 15713,
+          "name": "Panbang"
+        },
+        {
+          "id": 15721,
+          "name": "Shemgang"
+        }
+      ]
+    }
+  ]
+}

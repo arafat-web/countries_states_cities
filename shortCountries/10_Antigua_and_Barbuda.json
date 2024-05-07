@@ -1,0 +1,101 @@
+{
+  "id": 10,
+  "name": "Antigua and Barbuda",
+  "short_name": "ATG",
+  "phone_code": "+1-268",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3708,
+      "name": "Barbuda",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 144,
+          "name": "Codrington"
+        }
+      ]
+    },
+    {
+      "id": 3703,
+      "name": "Redonda",
+      "state_code": "11",
+      "cities": []
+    },
+    {
+      "id": 3709,
+      "name": "Saint George Parish",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 148,
+          "name": "Piggotts"
+        }
+      ]
+    },
+    {
+      "id": 3706,
+      "name": "Saint John Parish",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 149,
+          "name": "Potters Village"
+        },
+        {
+          "id": 150,
+          "name": "Saint John’s"
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "name": "Saint Mary Parish",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 143,
+          "name": "Bolands"
+        }
+      ]
+    },
+    {
+      "id": 3705,
+      "name": "Saint Paul Parish",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 145,
+          "name": "Falmouth"
+        },
+        {
+          "id": 146,
+          "name": "Liberta"
+        }
+      ]
+    },
+    {
+      "id": 3704,
+      "name": "Saint Peter Parish",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 142,
+          "name": "All Saints"
+        },
+        {
+          "id": 147,
+          "name": "Parham"
+        }
+      ]
+    },
+    {
+      "id": 3710,
+      "name": "Saint Philip Parish",
+      "state_code": "08",
+      "cities": []
+    }
+  ]
+}

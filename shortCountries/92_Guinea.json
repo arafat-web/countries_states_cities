@@ -1,0 +1,474 @@
+{
+  "id": 92,
+  "name": "Guinea",
+  "short_name": "GIN",
+  "phone_code": "224",
+  "currency": "GNF",
+  "currency_name": "Guinean franc",
+  "currency_symbol": "FG",
+  "states": [
+    {
+      "id": 2672,
+      "name": "Beyla Prefecture",
+      "state_code": "BE",
+      "cities": []
+    },
+    {
+      "id": 2699,
+      "name": "Boffa Prefecture",
+      "state_code": "BF",
+      "cities": []
+    },
+    {
+      "id": 2709,
+      "name": "Boké Prefecture",
+      "state_code": "BK",
+      "cities": []
+    },
+    {
+      "id": 2676,
+      "name": "Boké Region",
+      "state_code": "B",
+      "cities": [
+        {
+          "id": 52323,
+          "name": "Boffa"
+        },
+        {
+          "id": 52325,
+          "name": "Boké"
+        },
+        {
+          "id": 52324,
+          "name": "Boke Prefecture"
+        },
+        {
+          "id": 52332,
+          "name": "Fria"
+        },
+        {
+          "id": 52333,
+          "name": "Gaoual"
+        },
+        {
+          "id": 52334,
+          "name": "Gaoual Prefecture"
+        },
+        {
+          "id": 52339,
+          "name": "Kimbo"
+        },
+        {
+          "id": 52342,
+          "name": "Koundara"
+        },
+        {
+          "id": 52343,
+          "name": "Koundara Prefecture"
+        },
+        {
+          "id": 52364,
+          "name": "Sanguéya"
+        },
+        {
+          "id": 52374,
+          "name": "Youkounkoun"
+        }
+      ]
+    },
+    {
+      "id": 2686,
+      "name": "Conakry",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 52326,
+          "name": "Camayenne"
+        },
+        {
+          "id": 52327,
+          "name": "Conakry"
+        }
+      ]
+    },
+    {
+      "id": 2705,
+      "name": "Coyah Prefecture",
+      "state_code": "CO",
+      "cities": []
+    },
+    {
+      "id": 2679,
+      "name": "Dabola Prefecture",
+      "state_code": "DB",
+      "cities": []
+    },
+    {
+      "id": 2706,
+      "name": "Dalaba Prefecture",
+      "state_code": "DL",
+      "cities": []
+    },
+    {
+      "id": 2688,
+      "name": "Dinguiraye Prefecture",
+      "state_code": "DI",
+      "cities": []
+    },
+    {
+      "id": 2681,
+      "name": "Dubréka Prefecture",
+      "state_code": "DU",
+      "cities": []
+    },
+    {
+      "id": 2682,
+      "name": "Faranah Prefecture",
+      "state_code": "FA",
+      "cities": []
+    },
+    {
+      "id": 2683,
+      "name": "Forécariah Prefecture",
+      "state_code": "FO",
+      "cities": []
+    },
+    {
+      "id": 2675,
+      "name": "Fria Prefecture",
+      "state_code": "FR",
+      "cities": []
+    },
+    {
+      "id": 2685,
+      "name": "Gaoual Prefecture",
+      "state_code": "GA",
+      "cities": []
+    },
+    {
+      "id": 2711,
+      "name": "Guéckédou Prefecture",
+      "state_code": "GU",
+      "cities": []
+    },
+    {
+      "id": 2704,
+      "name": "Kankan Prefecture",
+      "state_code": "KA",
+      "cities": []
+    },
+    {
+      "id": 2697,
+      "name": "Kankan Region",
+      "state_code": "K",
+      "cities": [
+        {
+          "id": 52336,
+          "name": "Kankan"
+        },
+        {
+          "id": 52337,
+          "name": "Kankan Prefecture"
+        },
+        {
+          "id": 52345,
+          "name": "Kérouané"
+        },
+        {
+          "id": 52338,
+          "name": "Kerouane Prefecture"
+        },
+        {
+          "id": 52344,
+          "name": "Kouroussa"
+        },
+        {
+          "id": 52356,
+          "name": "Mandiana"
+        },
+        {
+          "id": 52357,
+          "name": "Mandiana Prefecture"
+        },
+        {
+          "id": 52365,
+          "name": "Siguiri"
+        },
+        {
+          "id": 52366,
+          "name": "Siguiri Prefecture"
+        },
+        {
+          "id": 52368,
+          "name": "Tokonou"
+        }
+      ]
+    },
+    {
+      "id": 2710,
+      "name": "Kérouané Prefecture",
+      "state_code": "KE",
+      "cities": []
+    },
+    {
+      "id": 2693,
+      "name": "Kindia Prefecture",
+      "state_code": "KD",
+      "cities": []
+    },
+    {
+      "id": 2701,
+      "name": "Kindia Region",
+      "state_code": "D",
+      "cities": [
+        {
+          "id": 52328,
+          "name": "Coyah"
+        },
+        {
+          "id": 52330,
+          "name": "Dubréka"
+        },
+        {
+          "id": 52331,
+          "name": "Forécariah"
+        },
+        {
+          "id": 52340,
+          "name": "Kindia"
+        },
+        {
+          "id": 52361,
+          "name": "Préfecture de Dubréka"
+        },
+        {
+          "id": 52362,
+          "name": "Préfecture de Forécariah"
+        },
+        {
+          "id": 52372,
+          "name": "Télimélé"
+        },
+        {
+          "id": 52367,
+          "name": "Telimele Prefecture"
+        },
+        {
+          "id": 52369,
+          "name": "Tondon"
+        }
+      ]
+    },
+    {
+      "id": 2691,
+      "name": "Kissidougou Prefecture",
+      "state_code": "KS",
+      "cities": []
+    },
+    {
+      "id": 2692,
+      "name": "Koubia Prefecture",
+      "state_code": "KB",
+      "cities": []
+    },
+    {
+      "id": 2703,
+      "name": "Koundara Prefecture",
+      "state_code": "KN",
+      "cities": []
+    },
+    {
+      "id": 2695,
+      "name": "Kouroussa Prefecture",
+      "state_code": "KO",
+      "cities": []
+    },
+    {
+      "id": 2680,
+      "name": "Labé Prefecture",
+      "state_code": "LA",
+      "cities": []
+    },
+    {
+      "id": 2677,
+      "name": "Labé Region",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 52341,
+          "name": "Koubia"
+        },
+        {
+          "id": 52347,
+          "name": "Labé"
+        },
+        {
+          "id": 52346,
+          "name": "Labe Prefecture"
+        },
+        {
+          "id": 52350,
+          "name": "Lélouma"
+        },
+        {
+          "id": 52348,
+          "name": "Lelouma Prefecture"
+        },
+        {
+          "id": 52352,
+          "name": "Mali"
+        },
+        {
+          "id": 52353,
+          "name": "Mali Prefecture"
+        },
+        {
+          "id": 52371,
+          "name": "Tougué"
+        },
+        {
+          "id": 52370,
+          "name": "Tougue Prefecture"
+        }
+      ]
+    },
+    {
+      "id": 2690,
+      "name": "Lélouma Prefecture",
+      "state_code": "LE",
+      "cities": []
+    },
+    {
+      "id": 2708,
+      "name": "Lola Prefecture",
+      "state_code": "LO",
+      "cities": []
+    },
+    {
+      "id": 2702,
+      "name": "Macenta Prefecture",
+      "state_code": "MC",
+      "cities": []
+    },
+    {
+      "id": 2700,
+      "name": "Mali Prefecture",
+      "state_code": "ML",
+      "cities": []
+    },
+    {
+      "id": 2689,
+      "name": "Mamou Prefecture",
+      "state_code": "MM",
+      "cities": []
+    },
+    {
+      "id": 2698,
+      "name": "Mamou Region",
+      "state_code": "M",
+      "cities": [
+        {
+          "id": 52329,
+          "name": "Dalaba"
+        },
+        {
+          "id": 52354,
+          "name": "Mamou"
+        },
+        {
+          "id": 52355,
+          "name": "Mamou Prefecture"
+        },
+        {
+          "id": 52360,
+          "name": "Pita"
+        }
+      ]
+    },
+    {
+      "id": 2673,
+      "name": "Mandiana Prefecture",
+      "state_code": "MD",
+      "cities": []
+    },
+    {
+      "id": 2678,
+      "name": "Nzérékoré Prefecture",
+      "state_code": "NZ",
+      "cities": []
+    },
+    {
+      "id": 2684,
+      "name": "Nzérékoré Region",
+      "state_code": "N",
+      "cities": [
+        {
+          "id": 52321,
+          "name": "Beyla"
+        },
+        {
+          "id": 52322,
+          "name": "Beyla Prefecture"
+        },
+        {
+          "id": 52335,
+          "name": "Gueckedou"
+        },
+        {
+          "id": 52349,
+          "name": "Lola"
+        },
+        {
+          "id": 52351,
+          "name": "Macenta"
+        },
+        {
+          "id": 52359,
+          "name": "Nzérékoré"
+        },
+        {
+          "id": 52358,
+          "name": "Nzerekore Prefecture"
+        },
+        {
+          "id": 52363,
+          "name": "Préfecture de Guékédou"
+        },
+        {
+          "id": 52373,
+          "name": "Yomou"
+        }
+      ]
+    },
+    {
+      "id": 2694,
+      "name": "Pita Prefecture",
+      "state_code": "PI",
+      "cities": []
+    },
+    {
+      "id": 2707,
+      "name": "Siguiri Prefecture",
+      "state_code": "SI",
+      "cities": []
+    },
+    {
+      "id": 2687,
+      "name": "Télimélé Prefecture",
+      "state_code": "TE",
+      "cities": []
+    },
+    {
+      "id": 2696,
+      "name": "Tougué Prefecture",
+      "state_code": "TO",
+      "cities": []
+    },
+    {
+      "id": 2674,
+      "name": "Yomou Prefecture",
+      "state_code": "YO",
+      "cities": []
+    }
+  ]
+}

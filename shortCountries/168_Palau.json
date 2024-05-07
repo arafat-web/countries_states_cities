@@ -1,0 +1,186 @@
+{
+  "id": 168,
+  "name": "Palau",
+  "short_name": "PLW",
+  "phone_code": "680",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 4540,
+      "name": "Aimeliik",
+      "state_code": "002",
+      "cities": [
+        {
+          "id": 89709,
+          "name": "Ngchemiangel"
+        }
+      ]
+    },
+    {
+      "id": 4528,
+      "name": "Airai",
+      "state_code": "004",
+      "cities": [
+        {
+          "id": 89712,
+          "name": "Ngetkib"
+        }
+      ]
+    },
+    {
+      "id": 4538,
+      "name": "Angaur",
+      "state_code": "010",
+      "cities": [
+        {
+          "id": 89700,
+          "name": "Angaur State"
+        }
+      ]
+    },
+    {
+      "id": 4529,
+      "name": "Hatohobei",
+      "state_code": "050",
+      "cities": [
+        {
+          "id": 89714,
+          "name": "Tobi Village"
+        }
+      ]
+    },
+    {
+      "id": 4539,
+      "name": "Kayangel",
+      "state_code": "100",
+      "cities": [
+        {
+          "id": 89702,
+          "name": "Kayangel"
+        }
+      ]
+    },
+    {
+      "id": 4532,
+      "name": "Koror",
+      "state_code": "150",
+      "cities": [
+        {
+          "id": 89704,
+          "name": "Koror"
+        },
+        {
+          "id": 89705,
+          "name": "Koror Town"
+        }
+      ]
+    },
+    {
+      "id": 4530,
+      "name": "Melekeok",
+      "state_code": "212",
+      "cities": [
+        {
+          "id": 89706,
+          "name": "Melekeok Village"
+        }
+      ]
+    },
+    {
+      "id": 4537,
+      "name": "Ngaraard",
+      "state_code": "214",
+      "cities": [
+        {
+          "id": 89715,
+          "name": "Ulimang"
+        }
+      ]
+    },
+    {
+      "id": 4533,
+      "name": "Ngarchelong",
+      "state_code": "218",
+      "cities": [
+        {
+          "id": 89707,
+          "name": "Mengellang"
+        }
+      ]
+    },
+    {
+      "id": 4527,
+      "name": "Ngardmau",
+      "state_code": "222",
+      "cities": [
+        {
+          "id": 89708,
+          "name": "Ngardmau"
+        }
+      ]
+    },
+    {
+      "id": 4531,
+      "name": "Ngatpang",
+      "state_code": "224",
+      "cities": []
+    },
+    {
+      "id": 4536,
+      "name": "Ngchesar",
+      "state_code": "226",
+      "cities": [
+        {
+          "id": 89710,
+          "name": "Ngchesar Hamlet"
+        }
+      ]
+    },
+    {
+      "id": 4541,
+      "name": "Ngeremlengui",
+      "state_code": "227",
+      "cities": [
+        {
+          "id": 89701,
+          "name": "Imeong Hamlet"
+        }
+      ]
+    },
+    {
+      "id": 4534,
+      "name": "Ngiwal",
+      "state_code": "228",
+      "cities": [
+        {
+          "id": 89711,
+          "name": "Ngerkeai"
+        }
+      ]
+    },
+    {
+      "id": 4526,
+      "name": "Peleliu",
+      "state_code": "350",
+      "cities": [
+        {
+          "id": 89703,
+          "name": "Kloulklubed"
+        }
+      ]
+    },
+    {
+      "id": 4535,
+      "name": "Sonsorol",
+      "state_code": "370",
+      "cities": [
+        {
+          "id": 89713,
+          "name": "Sonsorol Village"
+        }
+      ]
+    }
+  ]
+}

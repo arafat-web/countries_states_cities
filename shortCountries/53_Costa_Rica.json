@@ -1,0 +1,696 @@
+{
+  "id": 53,
+  "name": "Costa Rica",
+  "short_name": "CRI",
+  "phone_code": "506",
+  "currency": "CRC",
+  "currency_name": "Costa Rican colón",
+  "currency_symbol": "₡",
+  "states": [
+    {
+      "id": 1215,
+      "name": "Alajuela Province",
+      "state_code": "A",
+      "cities": [
+        {
+          "id": 21643,
+          "name": "Alajuela"
+        },
+        {
+          "id": 21647,
+          "name": "Atenas"
+        },
+        {
+          "id": 21653,
+          "name": "Bijagua"
+        },
+        {
+          "id": 21658,
+          "name": "Carrillos"
+        },
+        {
+          "id": 21672,
+          "name": "Desamparados"
+        },
+        {
+          "id": 21678,
+          "name": "Esquipulas"
+        },
+        {
+          "id": 21685,
+          "name": "Grecia"
+        },
+        {
+          "id": 21687,
+          "name": "Guatuso"
+        },
+        {
+          "id": 21698,
+          "name": "La Fortuna"
+        },
+        {
+          "id": 21705,
+          "name": "Los Chiles"
+        },
+        {
+          "id": 21715,
+          "name": "Naranjo"
+        },
+        {
+          "id": 21719,
+          "name": "Orotina"
+        },
+        {
+          "id": 21722,
+          "name": "Palmares"
+        },
+        {
+          "id": 21729,
+          "name": "Pital"
+        },
+        {
+          "id": 21733,
+          "name": "Poás"
+        },
+        {
+          "id": 21732,
+          "name": "Pocosol"
+        },
+        {
+          "id": 21739,
+          "name": "Quesada"
+        },
+        {
+          "id": 21741,
+          "name": "Río Segundo"
+        },
+        {
+          "id": 21742,
+          "name": "Sabanilla"
+        },
+        {
+          "id": 21747,
+          "name": "San Carlos"
+        },
+        {
+          "id": 21755,
+          "name": "San José"
+        },
+        {
+          "id": 21758,
+          "name": "San Juan"
+        },
+        {
+          "id": 21761,
+          "name": "San Mateo"
+        },
+        {
+          "id": 21766,
+          "name": "San Rafael"
+        },
+        {
+          "id": 21770,
+          "name": "San Ramón"
+        },
+        {
+          "id": 21777,
+          "name": "Santiago"
+        },
+        {
+          "id": 21795,
+          "name": "Upala"
+        },
+        {
+          "id": 21796,
+          "name": "Valverde Vega"
+        },
+        {
+          "id": 21798,
+          "name": "Zarcero"
+        }
+      ]
+    },
+    {
+      "id": 1209,
+      "name": "Guanacaste Province",
+      "state_code": "G",
+      "cities": [
+        {
+          "id": 21641,
+          "name": "Abangares"
+        },
+        {
+          "id": 21648,
+          "name": "Bagaces"
+        },
+        {
+          "id": 21651,
+          "name": "Belén"
+        },
+        {
+          "id": 21660,
+          "name": "Cañas"
+        },
+        {
+          "id": 21657,
+          "name": "Carrillo"
+        },
+        {
+          "id": 21680,
+          "name": "Fortuna"
+        },
+        {
+          "id": 21691,
+          "name": "Hojancha"
+        },
+        {
+          "id": 21695,
+          "name": "Juntas"
+        },
+        {
+          "id": 21697,
+          "name": "La Cruz"
+        },
+        {
+          "id": 21702,
+          "name": "Liberia"
+        },
+        {
+          "id": 21714,
+          "name": "Nandayure"
+        },
+        {
+          "id": 21716,
+          "name": "Nicoya"
+        },
+        {
+          "id": 21784,
+          "name": "Sámara"
+        },
+        {
+          "id": 21776,
+          "name": "Santa Cruz"
+        },
+        {
+          "id": 21781,
+          "name": "Sardinal"
+        },
+        {
+          "id": 21789,
+          "name": "Tilarán"
+        }
+      ]
+    },
+    {
+      "id": 1212,
+      "name": "Heredia Province",
+      "state_code": "H",
+      "cities": [
+        {
+          "id": 21799,
+          "name": "Ángeles"
+        },
+        {
+          "id": 21649,
+          "name": "Barva"
+        },
+        {
+          "id": 21652,
+          "name": "Belén"
+        },
+        {
+          "id": 21679,
+          "name": "Flores"
+        },
+        {
+          "id": 21690,
+          "name": "Heredia"
+        },
+        {
+          "id": 21696,
+          "name": "La Asunción"
+        },
+        {
+          "id": 21704,
+          "name": "Llorente"
+        },
+        {
+          "id": 21708,
+          "name": "Mercedes"
+        },
+        {
+          "id": 21746,
+          "name": "San Antonio"
+        },
+        {
+          "id": 21750,
+          "name": "San Francisco"
+        },
+        {
+          "id": 21753,
+          "name": "San Isidro"
+        },
+        {
+          "id": 21754,
+          "name": "San Josecito"
+        },
+        {
+          "id": 21763,
+          "name": "San Pablo"
+        },
+        {
+          "id": 21767,
+          "name": "San Rafael"
+        },
+        {
+          "id": 21775,
+          "name": "Santa Bárbara"
+        },
+        {
+          "id": 21779,
+          "name": "Santo Domingo"
+        },
+        {
+          "id": 21780,
+          "name": "Sarapiquí"
+        }
+      ]
+    },
+    {
+      "id": 1213,
+      "name": "Limón Province",
+      "state_code": "L",
+      "cities": [
+        {
+          "id": 21650,
+          "name": "Batán"
+        },
+        {
+          "id": 21688,
+          "name": "Guácimo"
+        },
+        {
+          "id": 21689,
+          "name": "Guápiles"
+        },
+        {
+          "id": 21703,
+          "name": "Limón"
+        },
+        {
+          "id": 21706,
+          "name": "Matina"
+        },
+        {
+          "id": 21730,
+          "name": "Pococí"
+        },
+        {
+          "id": 21731,
+          "name": "Pocora"
+        },
+        {
+          "id": 21740,
+          "name": "Roxana"
+        },
+        {
+          "id": 21782,
+          "name": "Siquirres"
+        },
+        {
+          "id": 21783,
+          "name": "Sixaola"
+        },
+        {
+          "id": 21785,
+          "name": "Talamanca"
+        }
+      ]
+    },
+    {
+      "id": 1211,
+      "name": "Provincia de Cartago",
+      "state_code": "C",
+      "cities": [
+        {
+          "id": 21645,
+          "name": "Alvarado"
+        },
+        {
+          "id": 21659,
+          "name": "Cartago"
+        },
+        {
+          "id": 21665,
+          "name": "Concepción"
+        },
+        {
+          "id": 21668,
+          "name": "Cot"
+        },
+        {
+          "id": 21675,
+          "name": "El Guarco"
+        },
+        {
+          "id": 21694,
+          "name": "Jiménez"
+        },
+        {
+          "id": 21699,
+          "name": "La Suiza"
+        },
+        {
+          "id": 21700,
+          "name": "La Unión"
+        },
+        {
+          "id": 21717,
+          "name": "Oreamuno"
+        },
+        {
+          "id": 21718,
+          "name": "Orosí"
+        },
+        {
+          "id": 21721,
+          "name": "Pacayas"
+        },
+        {
+          "id": 21725,
+          "name": "Paraíso"
+        },
+        {
+          "id": 21728,
+          "name": "Pejibaye"
+        },
+        {
+          "id": 21748,
+          "name": "San Diego"
+        },
+        {
+          "id": 21790,
+          "name": "Tobosi"
+        },
+        {
+          "id": 21791,
+          "name": "Tres Ríos"
+        },
+        {
+          "id": 21792,
+          "name": "Tucurrique"
+        },
+        {
+          "id": 21793,
+          "name": "Turrialba"
+        }
+      ]
+    },
+    {
+      "id": 1210,
+      "name": "Puntarenas Province",
+      "state_code": "P",
+      "cities": [
+        {
+          "id": 21654,
+          "name": "Buenos Aires"
+        },
+        {
+          "id": 21656,
+          "name": "Canoas"
+        },
+        {
+          "id": 21661,
+          "name": "Chacarita"
+        },
+        {
+          "id": 21662,
+          "name": "Ciudad Cortés"
+        },
+        {
+          "id": 21666,
+          "name": "Corredor"
+        },
+        {
+          "id": 21667,
+          "name": "Corredores"
+        },
+        {
+          "id": 21669,
+          "name": "Coto Brus"
+        },
+        {
+          "id": 21677,
+          "name": "Esparza"
+        },
+        {
+          "id": 21681,
+          "name": "Garabito"
+        },
+        {
+          "id": 21683,
+          "name": "Golfito"
+        },
+        {
+          "id": 21693,
+          "name": "Jacó"
+        },
+        {
+          "id": 21709,
+          "name": "Miramar"
+        },
+        {
+          "id": 21711,
+          "name": "Montes de Oro"
+        },
+        {
+          "id": 21720,
+          "name": "Osa"
+        },
+        {
+          "id": 21724,
+          "name": "Paquera"
+        },
+        {
+          "id": 21726,
+          "name": "Parrita"
+        },
+        {
+          "id": 21734,
+          "name": "Puntarenas"
+        },
+        {
+          "id": 21738,
+          "name": "Quepos"
+        },
+        {
+          "id": 21773,
+          "name": "San Vito"
+        }
+      ]
+    },
+    {
+      "id": 1214,
+      "name": "San José Province",
+      "state_code": "SJ",
+      "cities": [
+        {
+          "id": 21642,
+          "name": "Acosta"
+        },
+        {
+          "id": 21644,
+          "name": "Alajuelita"
+        },
+        {
+          "id": 21646,
+          "name": "Aserrí"
+        },
+        {
+          "id": 21655,
+          "name": "Calle Blancos"
+        },
+        {
+          "id": 21663,
+          "name": "Colima"
+        },
+        {
+          "id": 21664,
+          "name": "Colón"
+        },
+        {
+          "id": 21670,
+          "name": "Curridabat"
+        },
+        {
+          "id": 21671,
+          "name": "Daniel Flores"
+        },
+        {
+          "id": 21673,
+          "name": "Desamparados"
+        },
+        {
+          "id": 21674,
+          "name": "Dota"
+        },
+        {
+          "id": 21676,
+          "name": "Escazú"
+        },
+        {
+          "id": 21682,
+          "name": "Goicoechea"
+        },
+        {
+          "id": 21684,
+          "name": "Granadilla"
+        },
+        {
+          "id": 21686,
+          "name": "Guadalupe"
+        },
+        {
+          "id": 21692,
+          "name": "Ipís"
+        },
+        {
+          "id": 21701,
+          "name": "León Cortés"
+        },
+        {
+          "id": 21707,
+          "name": "Mercedes"
+        },
+        {
+          "id": 21710,
+          "name": "Montes de Oca"
+        },
+        {
+          "id": 21712,
+          "name": "Mora"
+        },
+        {
+          "id": 21713,
+          "name": "Moravia"
+        },
+        {
+          "id": 21723,
+          "name": "Palmichal"
+        },
+        {
+          "id": 21727,
+          "name": "Patarrá"
+        },
+        {
+          "id": 21737,
+          "name": "Pérez Zeledón"
+        },
+        {
+          "id": 21735,
+          "name": "Puriscal"
+        },
+        {
+          "id": 21736,
+          "name": "Purral"
+        },
+        {
+          "id": 21743,
+          "name": "Sabanilla"
+        },
+        {
+          "id": 21744,
+          "name": "Salitral"
+        },
+        {
+          "id": 21745,
+          "name": "Salitrillos"
+        },
+        {
+          "id": 21749,
+          "name": "San Felipe"
+        },
+        {
+          "id": 21751,
+          "name": "San Ignacio"
+        },
+        {
+          "id": 21752,
+          "name": "San Isidro"
+        },
+        {
+          "id": 21756,
+          "name": "San José"
+        },
+        {
+          "id": 21757,
+          "name": "San Juan"
+        },
+        {
+          "id": 21759,
+          "name": "San Juan de Dios"
+        },
+        {
+          "id": 21760,
+          "name": "San Marcos"
+        },
+        {
+          "id": 21762,
+          "name": "San Miguel"
+        },
+        {
+          "id": 21764,
+          "name": "San Pedro"
+        },
+        {
+          "id": 21765,
+          "name": "San Rafael"
+        },
+        {
+          "id": 21768,
+          "name": "San Rafael Abajo"
+        },
+        {
+          "id": 21769,
+          "name": "San Rafael Arriba"
+        },
+        {
+          "id": 21771,
+          "name": "San Vicente"
+        },
+        {
+          "id": 21772,
+          "name": "San Vicente de Moravia"
+        },
+        {
+          "id": 21774,
+          "name": "Santa Ana"
+        },
+        {
+          "id": 21778,
+          "name": "Santiago"
+        },
+        {
+          "id": 21786,
+          "name": "Tarrazú"
+        },
+        {
+          "id": 21787,
+          "name": "Tejar"
+        },
+        {
+          "id": 21788,
+          "name": "Tibás"
+        },
+        {
+          "id": 21794,
+          "name": "Turrubares"
+        },
+        {
+          "id": 21797,
+          "name": "Vázquez de Coronado"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "id": 151,
+  "name": "Myanmar",
+  "short_name": "MMR",
+  "phone_code": "95",
+  "currency": "MMK",
+  "currency_name": "Burmese kyat",
+  "currency_symbol": "K",
+  "states": [
+    {
+      "id": 2142,
+      "name": "Ayeyarwady Region",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 67633,
+          "name": "Bogale"
+        },
+        {
+          "id": 67639,
+          "name": "Hinthada"
+        },
+        {
+          "id": 67646,
+          "name": "Kyaiklat"
+        },
+        {
+          "id": 67656,
+          "name": "Maubin"
+        },
+        {
+          "id": 67659,
+          "name": "Mawlamyinegyunn"
+        },
+        {
+          "id": 67666,
+          "name": "Myanaung"
+        },
+        {
+          "id": 67673,
+          "name": "Nyaungdon"
+        },
+        {
+          "id": 67677,
+          "name": "Pathein"
+        },
+        {
+          "id": 67680,
+          "name": "Pyapon"
+        },
+        {
+          "id": 67701,
+          "name": "Wakema"
+        }
+      ]
+    },
+    {
+      "id": 2141,
+      "name": "Bago",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 67631,
+          "name": "Bago"
+        },
+        {
+          "id": 67651,
+          "name": "Letpandan"
+        },
+        {
+          "id": 67674,
+          "name": "Nyaunglebin"
+        },
+        {
+          "id": 67678,
+          "name": "Paungde"
+        },
+        {
+          "id": 67681,
+          "name": "Pyay"
+        },
+        {
+          "id": 67684,
+          "name": "Pyu"
+        },
+        {
+          "id": 67694,
+          "name": "Taungoo"
+        },
+        {
+          "id": 67695,
+          "name": "Thanatpin"
+        },
+        {
+          "id": 67696,
+          "name": "Tharyarwady"
+        }
+      ]
+    },
+    {
+      "id": 2137,
+      "name": "Chin State",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 67637,
+          "name": "Falam"
+        },
+        {
+          "id": 67638,
+          "name": "Hakha"
+        }
+      ]
+    },
+    {
+      "id": 2143,
+      "name": "Kachin State",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 67632,
+          "name": "Bhamo"
+        },
+        {
+          "id": 67671,
+          "name": "Myitkyina"
+        }
+      ]
+    },
+    {
+      "id": 2144,
+      "name": "Kayah State",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 67652,
+          "name": "Loikaw"
+        }
+      ]
+    },
+    {
+      "id": 2133,
+      "name": "Kayin State",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 67636,
+          "name": "Dellok"
+        },
+        {
+          "id": 67640,
+          "name": "Hpa-An"
+        },
+        {
+          "id": 67644,
+          "name": "Klonhtoug"
+        },
+        {
+          "id": 67648,
+          "name": "Kyain Seikgyi Township"
+        },
+        {
+          "id": 67661,
+          "name": "Mikenaungea"
+        },
+        {
+          "id": 67667,
+          "name": "Myawadi"
+        },
+        {
+          "id": 67679,
+          "name": "Pulei"
+        },
+        {
+          "id": 67690,
+          "name": "Tagondaing"
+        },
+        {
+          "id": 67691,
+          "name": "Tamoowoug"
+        }
+      ]
+    },
+    {
+      "id": 2136,
+      "name": "Magway Region",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 67634,
+          "name": "Chauk"
+        },
+        {
+          "id": 67653,
+          "name": "Magway"
+        },
+        {
+          "id": 67662,
+          "name": "Minbu"
+        },
+        {
+          "id": 67668,
+          "name": "Myaydo"
+        },
+        {
+          "id": 67676,
+          "name": "Pakokku"
+        },
+        {
+          "id": 67692,
+          "name": "Taungdwingyi"
+        },
+        {
+          "id": 67698,
+          "name": "Thayetmyo"
+        },
+        {
+          "id": 67704,
+          "name": "Yenangyaung"
+        }
+      ]
+    },
+    {
+      "id": 2134,
+      "name": "Mandalay Region",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 67649,
+          "name": "Kyaukse"
+        },
+        {
+          "id": 67654,
+          "name": "Mandalay"
+        },
+        {
+          "id": 67660,
+          "name": "Meiktila"
+        },
+        {
+          "id": 67663,
+          "name": "Mogok"
+        },
+        {
+          "id": 67670,
+          "name": "Myingyan"
+        },
+        {
+          "id": 67675,
+          "name": "Nyaungshwe"
+        },
+        {
+          "id": 67682,
+          "name": "Pyin Oo Lwin"
+        },
+        {
+          "id": 67702,
+          "name": "Yamethin"
+        }
+      ]
+    },
+    {
+      "id": 2147,
+      "name": "Mon State",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 67645,
+          "name": "Kyaikkami"
+        },
+        {
+          "id": 67647,
+          "name": "Kyaikto"
+        },
+        {
+          "id": 67655,
+          "name": "Martaban"
+        },
+        {
+          "id": 67658,
+          "name": "Mawlamyine"
+        },
+        {
+          "id": 67665,
+          "name": "Mudon"
+        },
+        {
+          "id": 67697,
+          "name": "Thaton"
+        }
+      ]
+    },
+    {
+      "id": 2146,
+      "name": "Naypyidaw Union Territory",
+      "state_code": "18",
+      "cities": [
+        {
+          "id": 67672,
+          "name": "Nay Pyi Taw"
+        },
+        {
+          "id": 67683,
+          "name": "Pyinmana"
+        }
+      ]
+    },
+    {
+      "id": 2138,
+      "name": "Rakhine State",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 67687,
+          "name": "Sittwe"
+        }
+      ]
+    },
+    {
+      "id": 2145,
+      "name": "Sagaing Region",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 67657,
+          "name": "Mawlaik"
+        },
+        {
+          "id": 67664,
+          "name": "Monywa"
+        },
+        {
+          "id": 67685,
+          "name": "Sagaing"
+        },
+        {
+          "id": 67686,
+          "name": "Shwebo"
+        }
+      ]
+    },
+    {
+      "id": 2139,
+      "name": "Shan State",
+      "state_code": "17",
+      "cities": [
+        {
+          "id": 67650,
+          "name": "Lashio"
+        },
+        {
+          "id": 67689,
+          "name": "Tachilek"
+        },
+        {
+          "id": 67693,
+          "name": "Taunggyi"
+        }
+      ]
+    },
+    {
+      "id": 2140,
+      "name": "Tanintharyi Region",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 67635,
+          "name": "Dawei"
+        },
+        {
+          "id": 67642,
+          "name": "Kawthoung"
+        },
+        {
+          "id": 67669,
+          "name": "Myeik"
+        }
+      ]
+    },
+    {
+      "id": 2135,
+      "name": "Yangon Region",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 67641,
+          "name": "Kanbe"
+        },
+        {
+          "id": 67643,
+          "name": "Kayan"
+        },
+        {
+          "id": 67688,
+          "name": "Syriam"
+        },
+        {
+          "id": 67699,
+          "name": "Thongwa"
+        },
+        {
+          "id": 67700,
+          "name": "Twante"
+        },
+        {
+          "id": 67703,
+          "name": "Yangon"
+        }
+      ]
+    }
+  ]
+}

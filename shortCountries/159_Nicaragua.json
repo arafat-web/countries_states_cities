@@ -1,0 +1,750 @@
+{
+  "id": 159,
+  "name": "Nicaragua",
+  "short_name": "NIC",
+  "phone_code": "505",
+  "currency": "NIO",
+  "currency_name": "Nicaraguan córdoba",
+  "currency_symbol": "C$",
+  "states": [
+    {
+      "id": 946,
+      "name": "Boaco",
+      "state_code": "BO",
+      "cities": [
+        {
+          "id": 77159,
+          "name": "Boaco"
+        },
+        {
+          "id": 77163,
+          "name": "Camoapa"
+        },
+        {
+          "id": 77260,
+          "name": "San José de los Remates"
+        },
+        {
+          "id": 77265,
+          "name": "San Lorenzo"
+        },
+        {
+          "id": 77273,
+          "name": "Santa Lucía"
+        },
+        {
+          "id": 77285,
+          "name": "Teustepe"
+        }
+      ]
+    },
+    {
+      "id": 950,
+      "name": "Carazo",
+      "state_code": "CA",
+      "cities": [
+        {
+          "id": 77176,
+          "name": "Diriamba"
+        },
+        {
+          "id": 77179,
+          "name": "Dolores"
+        },
+        {
+          "id": 77187,
+          "name": "El Rosario"
+        },
+        {
+          "id": 77195,
+          "name": "Jinotepe"
+        },
+        {
+          "id": 77202,
+          "name": "La Conquista"
+        },
+        {
+          "id": 77206,
+          "name": "La Paz de Carazo"
+        },
+        {
+          "id": 77236,
+          "name": "Municipio de San Marcos"
+        },
+        {
+          "id": 77267,
+          "name": "San Marcos"
+        },
+        {
+          "id": 77275,
+          "name": "Santa Teresa"
+        }
+      ]
+    },
+    {
+      "id": 954,
+      "name": "Chinandega",
+      "state_code": "CI",
+      "cities": [
+        {
+          "id": 77165,
+          "name": "Chichigalpa"
+        },
+        {
+          "id": 77166,
+          "name": "Chinandega"
+        },
+        {
+          "id": 77167,
+          "name": "Cinco Pinos"
+        },
+        {
+          "id": 77172,
+          "name": "Corinto"
+        },
+        {
+          "id": 77186,
+          "name": "El Realejo"
+        },
+        {
+          "id": 77190,
+          "name": "El Viejo"
+        },
+        {
+          "id": 77196,
+          "name": "Jiquilillo"
+        },
+        {
+          "id": 77232,
+          "name": "Municipio de San Francisco del Norte"
+        },
+        {
+          "id": 77246,
+          "name": "Posoltega"
+        },
+        {
+          "id": 77251,
+          "name": "Puerto Morazán"
+        },
+        {
+          "id": 77278,
+          "name": "Santo Tomás del Norte"
+        },
+        {
+          "id": 77280,
+          "name": "Somotillo"
+        }
+      ]
+    },
+    {
+      "id": 940,
+      "name": "Chontales",
+      "state_code": "CO",
+      "cities": [
+        {
+          "id": 77155,
+          "name": "Acoyapa"
+        },
+        {
+          "id": 77170,
+          "name": "Comalapa"
+        },
+        {
+          "id": 77174,
+          "name": "Cuapa"
+        },
+        {
+          "id": 77181,
+          "name": "El Ayote"
+        },
+        {
+          "id": 77197,
+          "name": "Juigalpa"
+        },
+        {
+          "id": 77204,
+          "name": "La Libertad"
+        },
+        {
+          "id": 77276,
+          "name": "Santo Domingo"
+        },
+        {
+          "id": 77277,
+          "name": "Santo Tomás"
+        },
+        {
+          "id": 77293,
+          "name": "Villa Sandino"
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "name": "Estelí",
+      "state_code": "ES",
+      "cities": [
+        {
+          "id": 77171,
+          "name": "Condega"
+        },
+        {
+          "id": 77191,
+          "name": "Estelí"
+        },
+        {
+          "id": 77207,
+          "name": "La Trinidad"
+        },
+        {
+          "id": 77249,
+          "name": "Pueblo Nuevo"
+        },
+        {
+          "id": 77261,
+          "name": "San Juan de Limay"
+        }
+      ]
+    },
+    {
+      "id": 943,
+      "name": "Granada",
+      "state_code": "GR",
+      "cities": [
+        {
+          "id": 77178,
+          "name": "Diriá"
+        },
+        {
+          "id": 77177,
+          "name": "Diriomo"
+        },
+        {
+          "id": 77192,
+          "name": "Granada"
+        },
+        {
+          "id": 77240,
+          "name": "Nandaime"
+        }
+      ]
+    },
+    {
+      "id": 955,
+      "name": "Jinotega",
+      "state_code": "JI",
+      "cities": [
+        {
+          "id": 77183,
+          "name": "El Cuá"
+        },
+        {
+          "id": 77194,
+          "name": "Jinotega"
+        },
+        {
+          "id": 77201,
+          "name": "La Concordia"
+        },
+        {
+          "id": 77210,
+          "name": "Las Praderas"
+        },
+        {
+          "id": 77199,
+          "name": "LLano de La Cruz"
+        },
+        {
+          "id": 77258,
+          "name": "San José de Bocay"
+        },
+        {
+          "id": 77269,
+          "name": "San Rafael del Norte"
+        },
+        {
+          "id": 77272,
+          "name": "San Sebastián de Yalí"
+        }
+      ]
+    },
+    {
+      "id": 944,
+      "name": "León",
+      "state_code": "LE",
+      "cities": [
+        {
+          "id": 77154,
+          "name": "Achuapa"
+        },
+        {
+          "id": 77184,
+          "name": "El Jicaral"
+        },
+        {
+          "id": 77188,
+          "name": "El Sauce"
+        },
+        {
+          "id": 77205,
+          "name": "La Paz Centro"
+        },
+        {
+          "id": 77209,
+          "name": "Larreynaga"
+        },
+        {
+          "id": 77212,
+          "name": "León"
+        },
+        {
+          "id": 77239,
+          "name": "Nagarote"
+        },
+        {
+          "id": 77252,
+          "name": "Quezalguaque"
+        },
+        {
+          "id": 77274,
+          "name": "Santa Rosa del Peñón"
+        },
+        {
+          "id": 77282,
+          "name": "Telica"
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "name": "Madriz",
+      "state_code": "MD",
+      "cities": [
+        {
+          "id": 77211,
+          "name": "Las Sabanas"
+        },
+        {
+          "id": 77245,
+          "name": "Palacagüina"
+        },
+        {
+          "id": 77259,
+          "name": "San José de Cusmapa"
+        },
+        {
+          "id": 77263,
+          "name": "San Juan de Río Coco"
+        },
+        {
+          "id": 77266,
+          "name": "San Lucas"
+        },
+        {
+          "id": 77281,
+          "name": "Somoto"
+        },
+        {
+          "id": 77283,
+          "name": "Telpaneca"
+        },
+        {
+          "id": 77290,
+          "name": "Totogalpa"
+        },
+        {
+          "id": 77296,
+          "name": "Yalagüina"
+        }
+      ]
+    },
+    {
+      "id": 941,
+      "name": "Managua",
+      "state_code": "MN",
+      "cities": [
+        {
+          "id": 77169,
+          "name": "Ciudad Sandino"
+        },
+        {
+          "id": 77182,
+          "name": "El Crucero"
+        },
+        {
+          "id": 77213,
+          "name": "Managua"
+        },
+        {
+          "id": 77214,
+          "name": "Masachapa"
+        },
+        {
+          "id": 77270,
+          "name": "San Rafael del Sur"
+        },
+        {
+          "id": 77286,
+          "name": "Ticuantepe"
+        },
+        {
+          "id": 77287,
+          "name": "Tipitapa"
+        },
+        {
+          "id": 77291,
+          "name": "Valle San Francisco"
+        },
+        {
+          "id": 77292,
+          "name": "Villa El Carmen"
+        }
+      ]
+    },
+    {
+      "id": 953,
+      "name": "Masaya",
+      "state_code": "MS",
+      "cities": [
+        {
+          "id": 77164,
+          "name": "Catarina"
+        },
+        {
+          "id": 77200,
+          "name": "La Concepción"
+        },
+        {
+          "id": 77215,
+          "name": "Masatepe"
+        },
+        {
+          "id": 77216,
+          "name": "Masaya"
+        },
+        {
+          "id": 77226,
+          "name": "Municipio de Masatepe"
+        },
+        {
+          "id": 77228,
+          "name": "Municipio de Nandasmo"
+        },
+        {
+          "id": 77229,
+          "name": "Municipio de Niquinohomo"
+        },
+        {
+          "id": 77234,
+          "name": "Municipio de San Juan de Oriente"
+        },
+        {
+          "id": 77241,
+          "name": "Nandasmo"
+        },
+        {
+          "id": 77242,
+          "name": "Nindirí"
+        },
+        {
+          "id": 77243,
+          "name": "Niquinohomo"
+        },
+        {
+          "id": 77262,
+          "name": "San Juan de Oriente"
+        },
+        {
+          "id": 77288,
+          "name": "Tisma"
+        }
+      ]
+    },
+    {
+      "id": 947,
+      "name": "Matagalpa",
+      "state_code": "MT",
+      "cities": [
+        {
+          "id": 77168,
+          "name": "Ciudad Darío"
+        },
+        {
+          "id": 77217,
+          "name": "Matagalpa"
+        },
+        {
+          "id": 77218,
+          "name": "Matiguás"
+        },
+        {
+          "id": 77238,
+          "name": "Muy Muy"
+        },
+        {
+          "id": 77254,
+          "name": "Río Blanco"
+        },
+        {
+          "id": 77256,
+          "name": "San Dionisio"
+        },
+        {
+          "id": 77271,
+          "name": "San Ramón"
+        },
+        {
+          "id": 77284,
+          "name": "Terrabona"
+        }
+      ]
+    },
+    {
+      "id": 951,
+      "name": "North Caribbean Coast",
+      "state_code": "AN",
+      "cities": [
+        {
+          "id": 77161,
+          "name": "Bonanza"
+        },
+        {
+          "id": 77248,
+          "name": "Prinzapolka"
+        },
+        {
+          "id": 77250,
+          "name": "Puerto Cabezas"
+        },
+        {
+          "id": 77279,
+          "name": "Siuna"
+        },
+        {
+          "id": 77294,
+          "name": "Waslala"
+        },
+        {
+          "id": 77295,
+          "name": "Waspán"
+        }
+      ]
+    },
+    {
+      "id": 4964,
+      "name": "Nueva Segovia",
+      "state_code": "NS",
+      "cities": [
+        {
+          "id": 149132,
+          "name": "Ciudad Antigua"
+        },
+        {
+          "id": 149133,
+          "name": "Dipilto"
+        },
+        {
+          "id": 149134,
+          "name": "El Jícaro"
+        },
+        {
+          "id": 149135,
+          "name": "Jalapa"
+        },
+        {
+          "id": 149136,
+          "name": "Macuelizo"
+        },
+        {
+          "id": 149137,
+          "name": "Mozonte"
+        },
+        {
+          "id": 149138,
+          "name": "Murra"
+        },
+        {
+          "id": 149139,
+          "name": "Ocotal"
+        },
+        {
+          "id": 149140,
+          "name": "Quilalí"
+        },
+        {
+          "id": 149141,
+          "name": "San Fernando"
+        },
+        {
+          "id": 149142,
+          "name": "Santa María"
+        },
+        {
+          "id": 149143,
+          "name": "Wiwilí"
+        }
+      ]
+    },
+    {
+      "id": 949,
+      "name": "Río San Juan",
+      "state_code": "SJ",
+      "cities": [
+        {
+          "id": 77180,
+          "name": "El Almendro"
+        },
+        {
+          "id": 77193,
+          "name": "Greytown"
+        },
+        {
+          "id": 77219,
+          "name": "Morrito"
+        },
+        {
+          "id": 77255,
+          "name": "San Carlos"
+        },
+        {
+          "id": 77268,
+          "name": "San Miguelito"
+        }
+      ]
+    },
+    {
+      "id": 942,
+      "name": "Rivas",
+      "state_code": "RI",
+      "cities": [
+        {
+          "id": 77156,
+          "name": "Altagracia"
+        },
+        {
+          "id": 77157,
+          "name": "Belén"
+        },
+        {
+          "id": 77162,
+          "name": "Buenos Aires"
+        },
+        {
+          "id": 77175,
+          "name": "Cárdenas"
+        },
+        {
+          "id": 77220,
+          "name": "Moyogalpa"
+        },
+        {
+          "id": 77222,
+          "name": "Municipio de Altagracia"
+        },
+        {
+          "id": 77223,
+          "name": "Municipio de Belén"
+        },
+        {
+          "id": 77224,
+          "name": "Municipio de Buenos Aires"
+        },
+        {
+          "id": 77225,
+          "name": "Municipio de Cárdenas"
+        },
+        {
+          "id": 77227,
+          "name": "Municipio de Moyogalpa"
+        },
+        {
+          "id": 77230,
+          "name": "Municipio de Potosí"
+        },
+        {
+          "id": 77231,
+          "name": "Municipio de Rivas"
+        },
+        {
+          "id": 77233,
+          "name": "Municipio de San Jorge"
+        },
+        {
+          "id": 77235,
+          "name": "Municipio de San Juan del Sur"
+        },
+        {
+          "id": 77237,
+          "name": "Municipio de Tola"
+        },
+        {
+          "id": 77247,
+          "name": "Potosí"
+        },
+        {
+          "id": 77253,
+          "name": "Rivas"
+        },
+        {
+          "id": 77257,
+          "name": "San Jorge"
+        },
+        {
+          "id": 77264,
+          "name": "San Juan del Sur"
+        },
+        {
+          "id": 77289,
+          "name": "Tola"
+        }
+      ]
+    },
+    {
+      "id": 952,
+      "name": "South Caribbean Coast",
+      "state_code": "AS",
+      "cities": [
+        {
+          "id": 77158,
+          "name": "Bluefields"
+        },
+        {
+          "id": 77160,
+          "name": "Bocana de Paiwas"
+        },
+        {
+          "id": 77173,
+          "name": "Corn Island"
+        },
+        {
+          "id": 77185,
+          "name": "El Rama"
+        },
+        {
+          "id": 77189,
+          "name": "El Tortuguero"
+        },
+        {
+          "id": 77198,
+          "name": "Kukrahill"
+        },
+        {
+          "id": 77203,
+          "name": "La Cruz de Río Grande"
+        },
+        {
+          "id": 77208,
+          "name": "Laguna de Perlas"
+        },
+        {
+          "id": 77221,
+          "name": "Muelle de los Bueyes"
+        },
+        {
+          "id": 77244,
+          "name": "Nueva Guinea"
+        }
+      ]
+    }
+  ]
+}

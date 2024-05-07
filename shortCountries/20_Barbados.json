@@ -1,0 +1,112 @@
+{
+  "id": 20,
+  "name": "Barbados",
+  "short_name": "BRB",
+  "phone_code": "+1-246",
+  "currency": "BBD",
+  "currency_name": "Barbadian dollar",
+  "currency_symbol": "Bds$",
+  "states": [
+    {
+      "id": 1228,
+      "name": "Christ Church",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 8452,
+          "name": "Oistins"
+        }
+      ]
+    },
+    {
+      "id": 1229,
+      "name": "Saint Andrew",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 8450,
+          "name": "Greenland"
+        }
+      ]
+    },
+    {
+      "id": 1226,
+      "name": "Saint George",
+      "state_code": "03",
+      "cities": []
+    },
+    {
+      "id": 1224,
+      "name": "Saint James",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 8451,
+          "name": "Holetown"
+        }
+      ]
+    },
+    {
+      "id": 1227,
+      "name": "Saint John",
+      "state_code": "05",
+      "cities": []
+    },
+    {
+      "id": 1223,
+      "name": "Saint Joseph",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 8447,
+          "name": "Bathsheba"
+        }
+      ]
+    },
+    {
+      "id": 1221,
+      "name": "Saint Lucy",
+      "state_code": "07",
+      "cities": []
+    },
+    {
+      "id": 1230,
+      "name": "Saint Michael",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 8448,
+          "name": "Bridgetown"
+        }
+      ]
+    },
+    {
+      "id": 1222,
+      "name": "Saint Peter",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 8453,
+          "name": "Speightstown"
+        }
+      ]
+    },
+    {
+      "id": 1220,
+      "name": "Saint Philip",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 8449,
+          "name": "Crane"
+        }
+      ]
+    },
+    {
+      "id": 1225,
+      "name": "Saint Thomas",
+      "state_code": "11",
+      "cities": []
+    }
+  ]
+}

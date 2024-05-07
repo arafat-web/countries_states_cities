@@ -1,0 +1,216 @@
+{
+  "id": 231,
+  "name": "United Arab Emirates",
+  "short_name": "ARE",
+  "phone_code": "971",
+  "currency": "AED",
+  "currency_name": "United Arab Emirates dirham",
+  "currency_symbol": "إ.د",
+  "states": [
+    {
+      "id": 3396,
+      "name": "Abu Dhabi Emirate",
+      "state_code": "AZ",
+      "cities": [
+        {
+          "id": 11,
+          "name": "Abu Dhabi Island and Internal Islands City"
+        },
+        {
+          "id": 12,
+          "name": "Abu Dhabi Municipality"
+        },
+        {
+          "id": 16,
+          "name": "Al Ain City"
+        },
+        {
+          "id": 17,
+          "name": "Al Ain Municipality"
+        },
+        {
+          "id": 19,
+          "name": "Al Dhafra"
+        },
+        {
+          "id": 24,
+          "name": "Al Shamkhah City"
+        },
+        {
+          "id": 26,
+          "name": "Bani Yas City"
+        },
+        {
+          "id": 34,
+          "name": "Khalifah A City"
+        },
+        {
+          "id": 41,
+          "name": "Musaffah"
+        },
+        {
+          "id": 42,
+          "name": "Muzayri‘"
+        },
+        {
+          "id": 25,
+          "name": "Ruwais"
+        },
+        {
+          "id": 49,
+          "name": "Zayed City"
+        }
+      ]
+    },
+    {
+      "id": 3395,
+      "name": "Ajman Emirate",
+      "state_code": "AJ",
+      "cities": [
+        {
+          "id": 14,
+          "name": "Ajman"
+        },
+        {
+          "id": 15,
+          "name": "Ajman City"
+        },
+        {
+          "id": 37,
+          "name": "Manama"
+        },
+        {
+          "id": 38,
+          "name": "Masfout"
+        }
+      ]
+    },
+    {
+      "id": 3391,
+      "name": "Dubai",
+      "state_code": "DU",
+      "cities": [
+        {
+          "id": 32,
+          "name": "Dubai"
+        }
+      ]
+    },
+    {
+      "id": 3393,
+      "name": "Fujairah",
+      "state_code": "FU",
+      "cities": [
+        {
+          "id": 20,
+          "name": "Al Fujairah City"
+        },
+        {
+          "id": 21,
+          "name": "Al Fujairah Municipality"
+        },
+        {
+          "id": 28,
+          "name": "Dibba Al Fujairah Municipality"
+        },
+        {
+          "id": 30,
+          "name": "Dibba Al-Fujairah"
+        },
+        {
+          "id": 31,
+          "name": "Dibba Al-Hisn"
+        },
+        {
+          "id": 45,
+          "name": "Reef Al Fujairah City"
+        }
+      ]
+    },
+    {
+      "id": 3394,
+      "name": "Ras al-Khaimah",
+      "state_code": "RK",
+      "cities": [
+        {
+          "id": 43,
+          "name": "Ras Al Khaimah"
+        },
+        {
+          "id": 44,
+          "name": "Ras Al Khaimah City"
+        }
+      ]
+    },
+    {
+      "id": 3390,
+      "name": "Sharjah Emirate",
+      "state_code": "SH",
+      "cities": [
+        {
+          "id": 13,
+          "name": "Adh Dhayd"
+        },
+        {
+          "id": 18,
+          "name": "Al Batayih"
+        },
+        {
+          "id": 22,
+          "name": "Al Hamriyah"
+        },
+        {
+          "id": 23,
+          "name": "Al Madam"
+        },
+        {
+          "id": 27,
+          "name": "Dhaid"
+        },
+        {
+          "id": 29,
+          "name": "Dibba Al Hesn"
+        },
+        {
+          "id": 33,
+          "name": "Kalba"
+        },
+        {
+          "id": 35,
+          "name": "Khawr Fakkān"
+        },
+        {
+          "id": 36,
+          "name": "Khor Fakkan"
+        },
+        {
+          "id": 39,
+          "name": "Milehah"
+        },
+        {
+          "id": 40,
+          "name": "Murbaḩ"
+        },
+        {
+          "id": 46,
+          "name": "Sharjah"
+        }
+      ]
+    },
+    {
+      "id": 3392,
+      "name": "Umm al-Quwain",
+      "state_code": "UQ",
+      "cities": [
+        {
+          "id": 47,
+          "name": "Umm AL Quwain"
+        },
+        {
+          "id": 48,
+          "name": "Umm Al Quwain City"
+        }
+      ]
+    }
+  ]
+}

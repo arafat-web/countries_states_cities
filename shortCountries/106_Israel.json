@@ -1,0 +1,653 @@
+{
+  "id": 106,
+  "name": "Israel",
+  "short_name": "ISR",
+  "phone_code": "972",
+  "currency": "ILS",
+  "currency_name": "Israeli new shekel",
+  "currency_symbol": "₪",
+  "states": [
+    {
+      "id": 1367,
+      "name": "Central District",
+      "state_code": "M",
+      "cities": [
+        {
+          "id": 57446,
+          "name": "Bet Dagan"
+        },
+        {
+          "id": 57449,
+          "name": "Bet Yiẕẖaq"
+        },
+        {
+          "id": 57450,
+          "name": "Bnei Ayish"
+        },
+        {
+          "id": 57463,
+          "name": "Elyakhin"
+        },
+        {
+          "id": 57467,
+          "name": "Eṭ Ṭaiyiba"
+        },
+        {
+          "id": 57466,
+          "name": "Even Yehuda"
+        },
+        {
+          "id": 57468,
+          "name": "Gan Yavne"
+        },
+        {
+          "id": 57469,
+          "name": "Ganei Tikva"
+        },
+        {
+          "id": 57470,
+          "name": "Gedera"
+        },
+        {
+          "id": 57478,
+          "name": "Hod HaSharon"
+        },
+        {
+          "id": 57483,
+          "name": "Jaljūlya"
+        },
+        {
+          "id": 57491,
+          "name": "Kafr Qāsim"
+        },
+        {
+          "id": 57494,
+          "name": "Kefar H̱abad"
+        },
+        {
+          "id": 57499,
+          "name": "Kefar Yona"
+        },
+        {
+          "id": 57500,
+          "name": "Kfar Saba"
+        },
+        {
+          "id": 57503,
+          "name": "Lapid"
+        },
+        {
+          "id": 57505,
+          "name": "Lod"
+        },
+        {
+          "id": 57507,
+          "name": "Mazkeret Batya"
+        },
+        {
+          "id": 57515,
+          "name": "Modi‘in Makkabbim Re‘ut"
+        },
+        {
+          "id": 57525,
+          "name": "Neẖalim"
+        },
+        {
+          "id": 57522,
+          "name": "Ness Ziona"
+        },
+        {
+          "id": 57523,
+          "name": "Netanya"
+        },
+        {
+          "id": 57526,
+          "name": "Nirit"
+        },
+        {
+          "id": 57527,
+          "name": "Nof Ayalon"
+        },
+        {
+          "id": 57528,
+          "name": "Nordiyya"
+        },
+        {
+          "id": 57531,
+          "name": "Pardesiyya"
+        },
+        {
+          "id": 57533,
+          "name": "Petaẖ Tiqwa"
+        },
+        {
+          "id": 57534,
+          "name": "Qalansuwa"
+        },
+        {
+          "id": 57541,
+          "name": "Ra'anana"
+        },
+        {
+          "id": 57546,
+          "name": "Ramla"
+        },
+        {
+          "id": 57548,
+          "name": "Reẖovot"
+        },
+        {
+          "id": 57549,
+          "name": "Rishon LeẔiyyon"
+        },
+        {
+          "id": 57550,
+          "name": "Rosh Ha‘Ayin"
+        },
+        {
+          "id": 57556,
+          "name": "Savyon"
+        },
+        {
+          "id": 57560,
+          "name": "Shoham"
+        },
+        {
+          "id": 57565,
+          "name": "Tel Mond"
+        },
+        {
+          "id": 57568,
+          "name": "Tirah"
+        },
+        {
+          "id": 57573,
+          "name": "Yavné"
+        },
+        {
+          "id": 57574,
+          "name": "Yehud"
+        },
+        {
+          "id": 57580,
+          "name": "Ẕur Moshe"
+        }
+      ]
+    },
+    {
+      "id": 1369,
+      "name": "Haifa District",
+      "state_code": "HA",
+      "cities": [
+        {
+          "id": 57440,
+          "name": "Atlit"
+        },
+        {
+          "id": 57455,
+          "name": "Caesarea"
+        },
+        {
+          "id": 57457,
+          "name": "Daliyat al Karmel"
+        },
+        {
+          "id": 57461,
+          "name": "El Fureidīs"
+        },
+        {
+          "id": 57473,
+          "name": "Hadera"
+        },
+        {
+          "id": 57474,
+          "name": "Haifa"
+        },
+        {
+          "id": 57480,
+          "name": "Ibṭīn"
+        },
+        {
+          "id": 57521,
+          "name": "Nesher"
+        },
+        {
+          "id": 57535,
+          "name": "Qiryat Ata"
+        },
+        {
+          "id": 57536,
+          "name": "Qiryat Bialik"
+        },
+        {
+          "id": 57538,
+          "name": "Qiryat Moẕqin"
+        },
+        {
+          "id": 57540,
+          "name": "Qiryat Yam"
+        },
+        {
+          "id": 57547,
+          "name": "Rekhasim"
+        },
+        {
+          "id": 57569,
+          "name": "Tirat Karmel"
+        },
+        {
+          "id": 57570,
+          "name": "Umm el Faḥm"
+        }
+      ]
+    },
+    {
+      "id": 1370,
+      "name": "Jerusalem District",
+      "state_code": "JM",
+      "cities": [
+        {
+          "id": 57434,
+          "name": "Abū Ghaush"
+        },
+        {
+          "id": 57447,
+          "name": "Bet Shemesh"
+        },
+        {
+          "id": 57475,
+          "name": "Har Adar"
+        },
+        {
+          "id": 57484,
+          "name": "Jerusalem"
+        },
+        {
+          "id": 57509,
+          "name": "Mevasseret Ẕiyyon"
+        },
+        {
+          "id": 57514,
+          "name": "Modiin Ilit"
+        },
+        {
+          "id": 57571,
+          "name": "West Jerusalem"
+        },
+        {
+          "id": 57579,
+          "name": "Ẕur Hadassa"
+        }
+      ]
+    },
+    {
+      "id": 1366,
+      "name": "Northern District",
+      "state_code": "Z",
+      "cities": [
+        {
+          "id": 57581,
+          "name": "‘Eilabun"
+        },
+        {
+          "id": 57583,
+          "name": "‘Uzeir"
+        },
+        {
+          "id": 57435,
+          "name": "Acre"
+        },
+        {
+          "id": 57436,
+          "name": "Afula"
+        },
+        {
+          "id": 57442,
+          "name": "Basmat Ṭab‘ūn"
+        },
+        {
+          "id": 57445,
+          "name": "Beit Jann"
+        },
+        {
+          "id": 57448,
+          "name": "Bet She’an"
+        },
+        {
+          "id": 57454,
+          "name": "Bīr el Maksūr"
+        },
+        {
+          "id": 57453,
+          "name": "Bu‘eina"
+        },
+        {
+          "id": 57452,
+          "name": "Buqei‘a"
+        },
+        {
+          "id": 57456,
+          "name": "Dabbūrīya"
+        },
+        {
+          "id": 57458,
+          "name": "Deir Ḥannā"
+        },
+        {
+          "id": 57462,
+          "name": "El Mazra‘a"
+        },
+        {
+          "id": 57464,
+          "name": "Er Reina"
+        },
+        {
+          "id": 57465,
+          "name": "Esh Sheikh Dannūn"
+        },
+        {
+          "id": 57578,
+          "name": "Ḥurfeish"
+        },
+        {
+          "id": 57481,
+          "name": "Iksāl"
+        },
+        {
+          "id": 57486,
+          "name": "Jīsh"
+        },
+        {
+          "id": 57485,
+          "name": "Judeida Makr"
+        },
+        {
+          "id": 57502,
+          "name": "Kābūl"
+        },
+        {
+          "id": 57487,
+          "name": "Kafr Kammā"
+        },
+        {
+          "id": 57488,
+          "name": "Kafr Kannā"
+        },
+        {
+          "id": 57489,
+          "name": "Kafr Mandā"
+        },
+        {
+          "id": 57490,
+          "name": "Kafr Miṣr"
+        },
+        {
+          "id": 57492,
+          "name": "Karmi’el"
+        },
+        {
+          "id": 57493,
+          "name": "Kaukab Abū el Hījā"
+        },
+        {
+          "id": 57495,
+          "name": "Kefar Rosh HaNiqra"
+        },
+        {
+          "id": 57497,
+          "name": "Kefar Tavor"
+        },
+        {
+          "id": 57498,
+          "name": "Kefar Weradim"
+        },
+        {
+          "id": 57501,
+          "name": "Kfar Yasif"
+        },
+        {
+          "id": 57577,
+          "name": "maalot Tarshīhā"
+        },
+        {
+          "id": 57506,
+          "name": "Maghār"
+        },
+        {
+          "id": 57508,
+          "name": "Metulla"
+        },
+        {
+          "id": 57513,
+          "name": "Mi‘ilyā"
+        },
+        {
+          "id": 57511,
+          "name": "Migdal Ha‘Emeq"
+        },
+        {
+          "id": 57516,
+          "name": "Nahariyya"
+        },
+        {
+          "id": 57518,
+          "name": "Naḥf"
+        },
+        {
+          "id": 57517,
+          "name": "Nazareth"
+        },
+        {
+          "id": 57519,
+          "name": "Nefat ‘Akko"
+        },
+        {
+          "id": 57520,
+          "name": "Nein"
+        },
+        {
+          "id": 57532,
+          "name": "Pasuta"
+        },
+        {
+          "id": 57539,
+          "name": "Qiryat Shemona"
+        },
+        {
+          "id": 57545,
+          "name": "Ramat Yishay"
+        },
+        {
+          "id": 57551,
+          "name": "Rosh Pinna"
+        },
+        {
+          "id": 57552,
+          "name": "Rumat Heib"
+        },
+        {
+          "id": 57553,
+          "name": "Safed"
+        },
+        {
+          "id": 57561,
+          "name": "Sājūr"
+        },
+        {
+          "id": 57554,
+          "name": "Sakhnīn"
+        },
+        {
+          "id": 57555,
+          "name": "Sallama"
+        },
+        {
+          "id": 57558,
+          "name": "Shelomi"
+        },
+        {
+          "id": 57559,
+          "name": "Shibli"
+        },
+        {
+          "id": 57562,
+          "name": "Sūlam"
+        },
+        {
+          "id": 57563,
+          "name": "Tamra"
+        },
+        {
+          "id": 57566,
+          "name": "Tiberias"
+        },
+        {
+          "id": 57567,
+          "name": "Timrat"
+        },
+        {
+          "id": 57572,
+          "name": "Yavne’el"
+        }
+      ]
+    },
+    {
+      "id": 1368,
+      "name": "Southern District",
+      "state_code": "D",
+      "cities": [
+        {
+          "id": 57582,
+          "name": "‘En Boqeq"
+        },
+        {
+          "id": 57437,
+          "name": "Arad"
+        },
+        {
+          "id": 57438,
+          "name": "Ashdod"
+        },
+        {
+          "id": 57439,
+          "name": "Ashkelon"
+        },
+        {
+          "id": 57444,
+          "name": "Beersheba"
+        },
+        {
+          "id": 57459,
+          "name": "Dimona"
+        },
+        {
+          "id": 57460,
+          "name": "Eilat"
+        },
+        {
+          "id": 57504,
+          "name": "Lehavim"
+        },
+        {
+          "id": 57510,
+          "name": "Midreshet Ben-Gurion"
+        },
+        {
+          "id": 57512,
+          "name": "Mitzpe Ramon"
+        },
+        {
+          "id": 57524,
+          "name": "Netivot"
+        },
+        {
+          "id": 57529,
+          "name": "Ofaqim"
+        },
+        {
+          "id": 57537,
+          "name": "Qiryat Gat"
+        },
+        {
+          "id": 57542,
+          "name": "Rahat"
+        },
+        {
+          "id": 57557,
+          "name": "Sederot"
+        },
+        {
+          "id": 57576,
+          "name": "Yeroẖam"
+        }
+      ]
+    },
+    {
+      "id": 1371,
+      "name": "Tel Aviv District",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 57441,
+          "name": "Azor"
+        },
+        {
+          "id": 57443,
+          "name": "Bat Yam"
+        },
+        {
+          "id": 57451,
+          "name": "Bnei Brak"
+        },
+        {
+          "id": 57471,
+          "name": "Giv'at Shmuel"
+        },
+        {
+          "id": 57472,
+          "name": "Givatayim"
+        },
+        {
+          "id": 57476,
+          "name": "Herzliya"
+        },
+        {
+          "id": 57477,
+          "name": "Herzliya Pituah"
+        },
+        {
+          "id": 57479,
+          "name": "H̱olon"
+        },
+        {
+          "id": 57482,
+          "name": "Jaffa"
+        },
+        {
+          "id": 57496,
+          "name": "Kefar Shemaryahu"
+        },
+        {
+          "id": 57530,
+          "name": "Or Yehuda"
+        },
+        {
+          "id": 57543,
+          "name": "Ramat Gan"
+        },
+        {
+          "id": 57544,
+          "name": "Ramat HaSharon"
+        },
+        {
+          "id": 57564,
+          "name": "Tel Aviv"
+        },
+        {
+          "id": 57575,
+          "name": "Yehud-Monosson"
+        }
+      ]
+    }
+  ]
+}

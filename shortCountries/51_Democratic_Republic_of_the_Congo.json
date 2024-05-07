@@ -1,0 +1,467 @@
+{
+  "id": 51,
+  "name": "Democratic Republic of the Congo",
+  "short_name": "COD",
+  "phone_code": "243",
+  "currency": "CDF",
+  "currency_name": "Congolese Franc",
+  "currency_symbol": "FC",
+  "states": [
+    {
+      "id": 2753,
+      "name": "Bas-Uélé",
+      "state_code": "BU",
+      "cities": [
+        {
+          "id": 17225,
+          "name": "Aketi"
+        },
+        {
+          "id": 17232,
+          "name": "Bondo"
+        },
+        {
+          "id": 17241,
+          "name": "Buta"
+        }
+      ]
+    },
+    {
+      "id": 2744,
+      "name": "Équateur",
+      "state_code": "EQ",
+      "cities": [
+        {
+          "id": 17245,
+          "name": "Gemena"
+        },
+        {
+          "id": 17269,
+          "name": "Lisala"
+        },
+        {
+          "id": 17274,
+          "name": "Lukolela"
+        },
+        {
+          "id": 17279,
+          "name": "Mbandaka"
+        }
+      ]
+    },
+    {
+      "id": 2750,
+      "name": "Haut-Katanga",
+      "state_code": "HK",
+      "cities": [
+        {
+          "id": 17247,
+          "name": "Haut Katanga"
+        },
+        {
+          "id": 17255,
+          "name": "Kambove"
+        },
+        {
+          "id": 17264,
+          "name": "Kipushi"
+        },
+        {
+          "id": 17268,
+          "name": "Likasi"
+        },
+        {
+          "id": 17272,
+          "name": "Lubumbashi"
+        }
+      ]
+    },
+    {
+      "id": 2758,
+      "name": "Haut-Lomami",
+      "state_code": "HL",
+      "cities": [
+        {
+          "id": 17235,
+          "name": "Bukama"
+        },
+        {
+          "id": 17256,
+          "name": "Kamina"
+        }
+      ]
+    },
+    {
+      "id": 2734,
+      "name": "Haut-Uélé",
+      "state_code": "HU",
+      "cities": [
+        {
+          "id": 17250,
+          "name": "Isiro"
+        },
+        {
+          "id": 17291,
+          "name": "Wamba"
+        },
+        {
+          "id": 17292,
+          "name": "Watsa"
+        }
+      ]
+    },
+    {
+      "id": 2751,
+      "name": "Ituri",
+      "state_code": "IT",
+      "cities": [
+        {
+          "id": 17239,
+          "name": "Bunia"
+        }
+      ]
+    },
+    {
+      "id": 2757,
+      "name": "Kasaï",
+      "state_code": "KS",
+      "cities": [
+        {
+          "id": 17248,
+          "name": "Ilebo"
+        },
+        {
+          "id": 17273,
+          "name": "Luebo"
+        },
+        {
+          "id": 17284,
+          "name": "Mweka"
+        },
+        {
+          "id": 17289,
+          "name": "Tshikapa"
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "name": "Kasaï Central",
+      "state_code": "KC",
+      "cities": []
+    },
+    {
+      "id": 2735,
+      "name": "Kasaï Oriental",
+      "state_code": "KE",
+      "cities": [
+        {
+          "id": 17243,
+          "name": "Gandajika"
+        },
+        {
+          "id": 17253,
+          "name": "Kabinda"
+        },
+        {
+          "id": 17281,
+          "name": "Mbuji-Mayi"
+        }
+      ]
+    },
+    {
+      "id": 2741,
+      "name": "Kinshasa",
+      "state_code": "KN",
+      "cities": [
+        {
+          "id": 17263,
+          "name": "Kinshasa"
+        },
+        {
+          "id": 17277,
+          "name": "Masina"
+        }
+      ]
+    },
+    {
+      "id": 2746,
+      "name": "Kongo Central",
+      "state_code": "BC",
+      "cities": [
+        {
+          "id": 17231,
+          "name": "Boma"
+        },
+        {
+          "id": 17258,
+          "name": "Kasangulu"
+        },
+        {
+          "id": 17278,
+          "name": "Matadi"
+        },
+        {
+          "id": 17280,
+          "name": "Mbanza-Ngungu"
+        },
+        {
+          "id": 17282,
+          "name": "Moanda"
+        },
+        {
+          "id": 17288,
+          "name": "Tshela"
+        }
+      ]
+    },
+    {
+      "id": 2740,
+      "name": "Kwango",
+      "state_code": "KG",
+      "cities": [
+        {
+          "id": 17260,
+          "name": "Kasongo-Lunda"
+        }
+      ]
+    },
+    {
+      "id": 2759,
+      "name": "Kwilu",
+      "state_code": "KL",
+      "cities": [
+        {
+          "id": 17226,
+          "name": "Bandundu"
+        },
+        {
+          "id": 17237,
+          "name": "Bulungu"
+        },
+        {
+          "id": 17261,
+          "name": "Kikwit"
+        },
+        {
+          "id": 17276,
+          "name": "Mangai"
+        }
+      ]
+    },
+    {
+      "id": 2747,
+      "name": "Lomami",
+      "state_code": "LO",
+      "cities": [
+        {
+          "id": 17271,
+          "name": "Lubao"
+        },
+        {
+          "id": 17285,
+          "name": "Mwene-Ditu"
+        }
+      ]
+    },
+    {
+      "id": 4953,
+      "name": "Lualaba",
+      "state_code": "LU",
+      "cities": []
+    },
+    {
+      "id": 2755,
+      "name": "Mai-Ndombe",
+      "state_code": "MN",
+      "cities": [
+        {
+          "id": 17230,
+          "name": "Bolobo"
+        },
+        {
+          "id": 17249,
+          "name": "Inongo"
+        },
+        {
+          "id": 17283,
+          "name": "Mushie"
+        },
+        {
+          "id": 17286,
+          "name": "Nioki"
+        }
+      ]
+    },
+    {
+      "id": 2745,
+      "name": "Maniema",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 17257,
+          "name": "Kampene"
+        },
+        {
+          "id": 17259,
+          "name": "Kasongo"
+        },
+        {
+          "id": 17262,
+          "name": "Kindu"
+        }
+      ]
+    },
+    {
+      "id": 2752,
+      "name": "Mongala",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 17238,
+          "name": "Bumba"
+        }
+      ]
+    },
+    {
+      "id": 2749,
+      "name": "Nord-Kivu",
+      "state_code": "NK",
+      "cities": [
+        {
+          "id": 17228,
+          "name": "Beni"
+        },
+        {
+          "id": 17242,
+          "name": "Butembo"
+        },
+        {
+          "id": 17246,
+          "name": "Goma"
+        },
+        {
+          "id": 17287,
+          "name": "Sake"
+        }
+      ]
+    },
+    {
+      "id": 2739,
+      "name": "Nord-Ubangi",
+      "state_code": "NU",
+      "cities": [
+        {
+          "id": 17234,
+          "name": "Bosobolo"
+        },
+        {
+          "id": 17240,
+          "name": "Businga"
+        },
+        {
+          "id": 17244,
+          "name": "Gbadolite"
+        }
+      ]
+    },
+    {
+      "id": 2743,
+      "name": "Sankuru",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 17270,
+          "name": "Lodja"
+        },
+        {
+          "id": 17275,
+          "name": "Lusambo"
+        }
+      ]
+    },
+    {
+      "id": 2738,
+      "name": "Sud-Kivu",
+      "state_code": "SK",
+      "cities": [
+        {
+          "id": 17236,
+          "name": "Bukavu"
+        },
+        {
+          "id": 17252,
+          "name": "Kabare"
+        },
+        {
+          "id": 17290,
+          "name": "Uvira"
+        }
+      ]
+    },
+    {
+      "id": 2748,
+      "name": "Sud-Ubangi",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 17233,
+          "name": "Bongandanga"
+        },
+        {
+          "id": 17267,
+          "name": "Libenge"
+        }
+      ]
+    },
+    {
+      "id": 2733,
+      "name": "Tanganyika",
+      "state_code": "TA",
+      "cities": [
+        {
+          "id": 17251,
+          "name": "Kabalo"
+        },
+        {
+          "id": 17254,
+          "name": "Kalemie"
+        },
+        {
+          "id": 17266,
+          "name": "Kongolo"
+        }
+      ]
+    },
+    {
+      "id": 2756,
+      "name": "Tshopo",
+      "state_code": "TO",
+      "cities": [
+        {
+          "id": 17227,
+          "name": "Basoko"
+        },
+        {
+          "id": 17265,
+          "name": "Kisangani"
+        },
+        {
+          "id": 17293,
+          "name": "Yangambi"
+        }
+      ]
+    },
+    {
+      "id": 2732,
+      "name": "Tshuapa",
+      "state_code": "TU",
+      "cities": [
+        {
+          "id": 17229,
+          "name": "Boende"
+        }
+      ]
+    }
+  ]
+}

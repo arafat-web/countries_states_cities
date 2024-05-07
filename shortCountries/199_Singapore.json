@@ -1,0 +1,150 @@
+{
+  "id": 199,
+  "name": "Singapore",
+  "short_name": "SGP",
+  "phone_code": "65",
+  "currency": "SGD",
+  "currency_name": "Singapore dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 4651,
+      "name": "Central Singapore",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 153462,
+          "name": "Bukit Timah"
+        },
+        {
+          "id": 153466,
+          "name": "Downtown Core"
+        },
+        {
+          "id": 153463,
+          "name": "Geylang"
+        },
+        {
+          "id": 153467,
+          "name": "Kallang"
+        },
+        {
+          "id": 153459,
+          "name": "Marine Parade"
+        },
+        {
+          "id": 153461,
+          "name": "Novena"
+        },
+        {
+          "id": 153464,
+          "name": "Orchard Road"
+        },
+        {
+          "id": 153468,
+          "name": "Outram"
+        },
+        {
+          "id": 153465,
+          "name": "Rochor"
+        },
+        {
+          "id": 104057,
+          "name": "Singapore"
+        },
+        {
+          "id": 153460,
+          "name": "Tanjong Pagar"
+        },
+        {
+          "id": 153469,
+          "name": "Toa Payoh"
+        }
+      ]
+    },
+    {
+      "id": 4649,
+      "name": "North East",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 153475,
+          "name": "Ang Mo Kio"
+        },
+        {
+          "id": 153472,
+          "name": "Hougang"
+        },
+        {
+          "id": 153474,
+          "name": "Punggol"
+        },
+        {
+          "id": 153471,
+          "name": "Sengkang"
+        },
+        {
+          "id": 153473,
+          "name": "Serangoon"
+        }
+      ]
+    },
+    {
+      "id": 4653,
+      "name": "North West",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 153476,
+          "name": "Sembawang"
+        },
+        {
+          "id": 104058,
+          "name": "Woodlands"
+        },
+        {
+          "id": 153470,
+          "name": "Yishun"
+        }
+      ]
+    },
+    {
+      "id": 4650,
+      "name": "South East",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 153478,
+          "name": "Bedok"
+        },
+        {
+          "id": 153479,
+          "name": "Pasir Ris"
+        },
+        {
+          "id": 153477,
+          "name": "Tampines"
+        }
+      ]
+    },
+    {
+      "id": 4652,
+      "name": "South West",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 153481,
+          "name": "Bukit Batok"
+        },
+        {
+          "id": 153482,
+          "name": "Bukit Panjang"
+        },
+        {
+          "id": 153480,
+          "name": "Jurong West"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 188,
+  "name": "Saint Vincent and the Grenadines",
+  "short_name": "VCT",
+  "phone_code": "+1-784",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3389,
+      "name": "Charlotte Parish",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 130030,
+          "name": "Biabou"
+        },
+        {
+          "id": 130031,
+          "name": "Byera Village"
+        },
+        {
+          "id": 130033,
+          "name": "Georgetown"
+        }
+      ]
+    },
+    {
+      "id": 3388,
+      "name": "Grenadines Parish",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 130037,
+          "name": "Port Elizabeth"
+        }
+      ]
+    },
+    {
+      "id": 3386,
+      "name": "Saint Andrew Parish",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 130036,
+          "name": "Layou"
+        }
+      ]
+    },
+    {
+      "id": 3387,
+      "name": "Saint David Parish",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 130032,
+          "name": "Chateaubelair"
+        }
+      ]
+    },
+    {
+      "id": 3384,
+      "name": "Saint George Parish",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 130034,
+          "name": "Kingstown"
+        },
+        {
+          "id": 130035,
+          "name": "Kingstown Park"
+        }
+      ]
+    },
+    {
+      "id": 3385,
+      "name": "Saint Patrick Parish",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 130029,
+          "name": "Barrouallie"
+        }
+      ]
+    }
+  ]
+}

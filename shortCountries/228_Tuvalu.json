@@ -1,0 +1,101 @@
+{
+  "id": 228,
+  "name": "Tuvalu",
+  "short_name": "TUV",
+  "phone_code": "688",
+  "currency": "AUD",
+  "currency_name": "Australian dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3951,
+      "name": "Funafuti",
+      "state_code": "FUN",
+      "cities": [
+        {
+          "id": 108993,
+          "name": "Alapi Village"
+        },
+        {
+          "id": 108995,
+          "name": "Fakaifou Village"
+        },
+        {
+          "id": 108996,
+          "name": "Funafuti"
+        }
+      ]
+    },
+    {
+      "id": 3947,
+      "name": "Nanumanga",
+      "state_code": "NMG",
+      "cities": [
+        {
+          "id": 109001,
+          "name": "Toga Village"
+        }
+      ]
+    },
+    {
+      "id": 3949,
+      "name": "Nanumea",
+      "state_code": "NMA",
+      "cities": []
+    },
+    {
+      "id": 3946,
+      "name": "Niutao Island Council",
+      "state_code": "NIT",
+      "cities": [
+        {
+          "id": 108997,
+          "name": "Kulia Village"
+        },
+        {
+          "id": 108998,
+          "name": "Niulakita"
+        }
+      ]
+    },
+    {
+      "id": 3948,
+      "name": "Nui",
+      "state_code": "NUI",
+      "cities": [
+        {
+          "id": 109000,
+          "name": "Tanrake Village"
+        }
+      ]
+    },
+    {
+      "id": 3952,
+      "name": "Nukufetau",
+      "state_code": "NKF",
+      "cities": [
+        {
+          "id": 108999,
+          "name": "Savave Village"
+        }
+      ]
+    },
+    {
+      "id": 3953,
+      "name": "Nukulaelae",
+      "state_code": "NKL",
+      "cities": []
+    },
+    {
+      "id": 3950,
+      "name": "Vaitupu",
+      "state_code": "VAI",
+      "cities": [
+        {
+          "id": 108994,
+          "name": "Asau Village"
+        }
+      ]
+    }
+  ]
+}

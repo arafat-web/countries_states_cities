@@ -1,0 +1,1630 @@
+{
+  "id": 194,
+  "name": "Saudi Arabia",
+  "short_name": "SAU",
+  "phone_code": "966",
+  "currency": "SAR",
+  "currency_name": "Saudi riyal",
+  "currency_symbol": "﷼",
+  "states": [
+    {
+      "id": 2853,
+      "name": "'Asir",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 102804,
+          "name": "Abha"
+        },
+        {
+          "id": 102827,
+          "name": "Al Majāridah"
+        },
+        {
+          "id": 148594,
+          "name": "Al Qahab"
+        },
+        {
+          "id": 102861,
+          "name": "Khamis Mushait"
+        },
+        {
+          "id": 148596,
+          "name": "Ma`riyah"
+        },
+        {
+          "id": 148597,
+          "name": "Mifa"
+        },
+        {
+          "id": 148598,
+          "name": "Munayzir"
+        },
+        {
+          "id": 102882,
+          "name": "Tabālah"
+        }
+      ]
+    },
+    {
+      "id": 2859,
+      "name": "Al Bahah",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 102815,
+          "name": "Al Bahah"
+        },
+        {
+          "id": 102829,
+          "name": "Al Mindak"
+        },
+        {
+          "id": 148708,
+          "name": "Hajrah"
+        }
+      ]
+    },
+    {
+      "id": 2857,
+      "name": "Al Jawf",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 148588,
+          "name": "Al Isawiyah"
+        },
+        {
+          "id": 148589,
+          "name": "Al-Haditha"
+        },
+        {
+          "id": 148590,
+          "name": "Halat Ammar"
+        },
+        {
+          "id": 102872,
+          "name": "Qurayyat"
+        },
+        {
+          "id": 102877,
+          "name": "Sakakah"
+        },
+        {
+          "id": 102896,
+          "name": "Şuwayr"
+        },
+        {
+          "id": 148591,
+          "name": "Tabarjal"
+        },
+        {
+          "id": 102898,
+          "name": "Ţubarjal"
+        }
+      ]
+    },
+    {
+      "id": 2851,
+      "name": "Al Madinah",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 148866,
+          "name": "`Ajmiyah"
+        },
+        {
+          "id": 148867,
+          "name": "`Alya'"
+        },
+        {
+          "id": 148868,
+          "name": "`Ushash"
+        },
+        {
+          "id": 148869,
+          "name": "`Ushayrah"
+        },
+        {
+          "id": 148804,
+          "name": "Abū Shayţānah"
+        },
+        {
+          "id": 148803,
+          "name": "Abyar 'Ali"
+        },
+        {
+          "id": 148805,
+          "name": "Ad Dulu`"
+        },
+        {
+          "id": 148823,
+          "name": "Al `Awali"
+        },
+        {
+          "id": 148824,
+          "name": "Al `Uqul"
+        },
+        {
+          "id": 148806,
+          "name": "Al Akhal"
+        },
+        {
+          "id": 148807,
+          "name": "Al Bardiyah"
+        },
+        {
+          "id": 148808,
+          "name": "Al Biqa'"
+        },
+        {
+          "id": 148809,
+          "name": "Al Bustan"
+        },
+        {
+          "id": 148810,
+          "name": "Al Faqirah"
+        },
+        {
+          "id": 148811,
+          "name": "Al Furaysh"
+        },
+        {
+          "id": 148813,
+          "name": "Al Jabriyah"
+        },
+        {
+          "id": 148814,
+          "name": "Al Jissah"
+        },
+        {
+          "id": 148815,
+          "name": "Al Kharma'"
+        },
+        {
+          "id": 148817,
+          "name": "Al Malbanah"
+        },
+        {
+          "id": 148818,
+          "name": "Al Mufrihat"
+        },
+        {
+          "id": 148819,
+          "name": "Al Multasa"
+        },
+        {
+          "id": 148820,
+          "name": "Al Musayjid"
+        },
+        {
+          "id": 148822,
+          "name": "Al Wuday"
+        },
+        {
+          "id": 148825,
+          "name": "Al-Jafr"
+        },
+        {
+          "id": 102839,
+          "name": "Al-Ula"
+        },
+        {
+          "id": 148827,
+          "name": "As Sadayir"
+        },
+        {
+          "id": 148828,
+          "name": "As Safra'"
+        },
+        {
+          "id": 148829,
+          "name": "As Sumariyah"
+        },
+        {
+          "id": 148830,
+          "name": "As Suwayriqiyah"
+        },
+        {
+          "id": 148831,
+          "name": "Ash Shufayyah"
+        },
+        {
+          "id": 148832,
+          "name": "Asira"
+        },
+        {
+          "id": 148833,
+          "name": "Baq`a'"
+        },
+        {
+          "id": 148834,
+          "name": "Bartiyah"
+        },
+        {
+          "id": 148835,
+          "name": "Bi'r al Mashi"
+        },
+        {
+          "id": 148836,
+          "name": "Birkah"
+        },
+        {
+          "id": 148839,
+          "name": "Far`"
+        },
+        {
+          "id": 148840,
+          "name": "Fiji"
+        },
+        {
+          "id": 148841,
+          "name": "Harthiyah"
+        },
+        {
+          "id": 148843,
+          "name": "Haylat Radi al Baham"
+        },
+        {
+          "id": 148844,
+          "name": "Husayniyah"
+        },
+        {
+          "id": 148845,
+          "name": "Jadidah"
+        },
+        {
+          "id": 148846,
+          "name": "Khayf Fadil"
+        },
+        {
+          "id": 148847,
+          "name": "Madsus"
+        },
+        {
+          "id": 148848,
+          "name": "Mahattat al Hafah"
+        },
+        {
+          "id": 148849,
+          "name": "Maqrah"
+        },
+        {
+          "id": 148850,
+          "name": "Maqshush"
+        },
+        {
+          "id": 148851,
+          "name": "Masahili"
+        },
+        {
+          "id": 148853,
+          "name": "Mawarah"
+        },
+        {
+          "id": 102865,
+          "name": "Medina"
+        },
+        {
+          "id": 148854,
+          "name": "Milhah"
+        },
+        {
+          "id": 148855,
+          "name": "Nujayl"
+        },
+        {
+          "id": 148856,
+          "name": "Qaba'"
+        },
+        {
+          "id": 148858,
+          "name": "Rayyis"
+        },
+        {
+          "id": 148859,
+          "name": "Sha`tha'"
+        },
+        {
+          "id": 148860,
+          "name": "Sidi Hamzah"
+        },
+        {
+          "id": 148861,
+          "name": "Suq Suwayq"
+        },
+        {
+          "id": 148862,
+          "name": "Suqubiya"
+        },
+        {
+          "id": 148863,
+          "name": "Suwadah"
+        },
+        {
+          "id": 148865,
+          "name": "Wasitah"
+        },
+        {
+          "id": 102892,
+          "name": "Yanbu"
+        }
+      ]
+    },
+    {
+      "id": 2861,
+      "name": "Al-Qassim",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 102810,
+          "name": "Adh Dhibiyah"
+        },
+        {
+          "id": 102817,
+          "name": "Al Bukayrīyah"
+        },
+        {
+          "id": 102818,
+          "name": "Al Fuwayliq"
+        },
+        {
+          "id": 102830,
+          "name": "Al Mithnab"
+        },
+        {
+          "id": 148575,
+          "name": "Al Thybiyah"
+        },
+        {
+          "id": 102841,
+          "name": "Ar Rass"
+        },
+        {
+          "id": 148577,
+          "name": "Buraidah"
+        },
+        {
+          "id": 102850,
+          "name": "Buraydah"
+        },
+        {
+          "id": 148578,
+          "name": "Dukhnah"
+        },
+        {
+          "id": 148580,
+          "name": "Qiba"
+        },
+        {
+          "id": 102883,
+          "name": "Tanūmah"
+        },
+        {
+          "id": 102891,
+          "name": "Wed Alnkil"
+        }
+      ]
+    },
+    {
+      "id": 2856,
+      "name": "Eastern Province",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 102805,
+          "name": "Abqaiq"
+        },
+        {
+          "id": 102814,
+          "name": "Al Awjām"
+        },
+        {
+          "id": 102816,
+          "name": "Al Baţţālīyah"
+        },
+        {
+          "id": 102820,
+          "name": "Al Hufūf"
+        },
+        {
+          "id": 102821,
+          "name": "Al Jafr"
+        },
+        {
+          "id": 102823,
+          "name": "Al Jubayl"
+        },
+        {
+          "id": 102825,
+          "name": "Al Khafjī"
+        },
+        {
+          "id": 102828,
+          "name": "Al Markaz"
+        },
+        {
+          "id": 102831,
+          "name": "Al Mubarraz"
+        },
+        {
+          "id": 102832,
+          "name": "Al Munayzilah"
+        },
+        {
+          "id": 102834,
+          "name": "Al Muţayrifī"
+        },
+        {
+          "id": 102837,
+          "name": "Al Qārah"
+        },
+        {
+          "id": 102835,
+          "name": "Al Qaţīf"
+        },
+        {
+          "id": 102836,
+          "name": "Al Qurayn"
+        },
+        {
+          "id": 148560,
+          "name": "Al Ubaylah"
+        },
+        {
+          "id": 148561,
+          "name": "Al-Awamiyah"
+        },
+        {
+          "id": 148562,
+          "name": "Al-Awjam"
+        },
+        {
+          "id": 148563,
+          "name": "Al-Mubarraz"
+        },
+        {
+          "id": 102843,
+          "name": "As Saffānīyah"
+        },
+        {
+          "id": 102848,
+          "name": "Aţ Ţaraf"
+        },
+        {
+          "id": 102846,
+          "name": "At Tūbī"
+        },
+        {
+          "id": 102851,
+          "name": "Dammam"
+        },
+        {
+          "id": 102852,
+          "name": "Dhahran"
+        },
+        {
+          "id": 148564,
+          "name": "Ha'il "
+        },
+        {
+          "id": 102857,
+          "name": "Hafar Al-Batin"
+        },
+        {
+          "id": 148565,
+          "name": "Haradh"
+        },
+        {
+          "id": 102860,
+          "name": "Julayjilah"
+        },
+        {
+          "id": 102862,
+          "name": "Khobar"
+        },
+        {
+          "id": 102868,
+          "name": "Mulayjah"
+        },
+        {
+          "id": 148568,
+          "name": "Nariyah"
+        },
+        {
+          "id": 102870,
+          "name": "Qaisumah"
+        },
+        {
+          "id": 102873,
+          "name": "Raḩīmah"
+        },
+        {
+          "id": 102895,
+          "name": "Şafwá"
+        },
+        {
+          "id": 148571,
+          "name": "Sayhāt"
+        },
+        {
+          "id": 102888,
+          "name": "Tārūt"
+        },
+        {
+          "id": 148573,
+          "name": "Udhailiyah"
+        },
+        {
+          "id": 102890,
+          "name": "Umm as Sāhik"
+        },
+        {
+          "id": 148574,
+          "name": "Uqair"
+        }
+      ]
+    },
+    {
+      "id": 2855,
+      "name": "Ha'il",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 148582,
+          "name": "Jubbah"
+        },
+        {
+          "id": 148583,
+          "name": "Mawqaq"
+        },
+        {
+          "id": 148584,
+          "name": "Qufar"
+        },
+        {
+          "id": 148585,
+          "name": "Simira"
+        }
+      ]
+    },
+    {
+      "id": 2858,
+      "name": "Jizan",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 102806,
+          "name": "Abū ‘Arīsh"
+        },
+        {
+          "id": 148745,
+          "name": "Abu Radif"
+        },
+        {
+          "id": 102807,
+          "name": "Ad Darb"
+        },
+        {
+          "id": 148746,
+          "name": "Ad Dur`iyah"
+        },
+        {
+          "id": 148747,
+          "name": "Adh Dhagharir"
+        },
+        {
+          "id": 148775,
+          "name": "Al `Ulayin"
+        },
+        {
+          "id": 148776,
+          "name": "Al `Usaylah"
+        },
+        {
+          "id": 148748,
+          "name": "Al Badawi"
+        },
+        {
+          "id": 148749,
+          "name": "Al Hadrur"
+        },
+        {
+          "id": 148750,
+          "name": "Al Hanashah"
+        },
+        {
+          "id": 148751,
+          "name": "Al Harani"
+        },
+        {
+          "id": 148752,
+          "name": "Al Hasamah"
+        },
+        {
+          "id": 148753,
+          "name": "Al Hijfar"
+        },
+        {
+          "id": 148754,
+          "name": "Al Jadi"
+        },
+        {
+          "id": 102822,
+          "name": "Al Jarādīyah"
+        },
+        {
+          "id": 148755,
+          "name": "Al Jawah"
+        },
+        {
+          "id": 148756,
+          "name": "Al Jirbah"
+        },
+        {
+          "id": 148757,
+          "name": "Al Karbus"
+        },
+        {
+          "id": 148758,
+          "name": "Al Kawahilah"
+        },
+        {
+          "id": 148759,
+          "name": "Al Khadra' Jizan"
+        },
+        {
+          "id": 148760,
+          "name": "Al Kharabah Jizan"
+        },
+        {
+          "id": 148761,
+          "name": "Al Kharadilah"
+        },
+        {
+          "id": 148762,
+          "name": "Al Khashabiyah"
+        },
+        {
+          "id": 148763,
+          "name": "Al Khubah"
+        },
+        {
+          "id": 148764,
+          "name": "Al Kirs"
+        },
+        {
+          "id": 148765,
+          "name": "Al Luqiyah"
+        },
+        {
+          "id": 148766,
+          "name": "Al Ma`ayin"
+        },
+        {
+          "id": 148767,
+          "name": "Al Madaya"
+        },
+        {
+          "id": 148768,
+          "name": "Al Mali"
+        },
+        {
+          "id": 148769,
+          "name": "Al Mayasam"
+        },
+        {
+          "id": 148770,
+          "name": "Al Qa'im"
+        },
+        {
+          "id": 148771,
+          "name": "Al Quful"
+        },
+        {
+          "id": 148772,
+          "name": "Al Qurayb"
+        },
+        {
+          "id": 148773,
+          "name": "Al Quwah"
+        },
+        {
+          "id": 148774,
+          "name": "Al Wasili"
+        },
+        {
+          "id": 148777,
+          "name": "An Najamiyah"
+        },
+        {
+          "id": 148778,
+          "name": "Ar Rukubah"
+        },
+        {
+          "id": 148779,
+          "name": "Ash Shuqayq"
+        },
+        {
+          "id": 148780,
+          "name": "Bakhshat Yamani"
+        },
+        {
+          "id": 102854,
+          "name": "Farasān"
+        },
+        {
+          "id": 148781,
+          "name": "Ghawiyah"
+        },
+        {
+          "id": 148782,
+          "name": "Hamayyah"
+        },
+        {
+          "id": 148783,
+          "name": "Hamdah"
+        },
+        {
+          "id": 102859,
+          "name": "Jizan"
+        },
+        {
+          "id": 148784,
+          "name": "Juha Saudi Arabia"
+        },
+        {
+          "id": 148785,
+          "name": "Ka`lul"
+        },
+        {
+          "id": 148786,
+          "name": "Khabath Sa`id"
+        },
+        {
+          "id": 148787,
+          "name": "Khalfah"
+        },
+        {
+          "id": 148788,
+          "name": "Khatib Saudi Arabia"
+        },
+        {
+          "id": 148789,
+          "name": "Khumsiyah"
+        },
+        {
+          "id": 148790,
+          "name": "Khushaym"
+        },
+        {
+          "id": 148791,
+          "name": "Mahatah"
+        },
+        {
+          "id": 148792,
+          "name": "Malgocta"
+        },
+        {
+          "id": 102866,
+          "name": "Mislīyah"
+        },
+        {
+          "id": 102867,
+          "name": "Mizhirah"
+        },
+        {
+          "id": 148793,
+          "name": "Mukambal"
+        },
+        {
+          "id": 148794,
+          "name": "Mundaraq"
+        },
+        {
+          "id": 148795,
+          "name": "Muwassam"
+        },
+        {
+          "id": 148796,
+          "name": "Qitabir"
+        },
+        {
+          "id": 148797,
+          "name": "Quwayda'"
+        },
+        {
+          "id": 148798,
+          "name": "Rahwan"
+        },
+        {
+          "id": 148799,
+          "name": "Rawkhah"
+        },
+        {
+          "id": 102894,
+          "name": "Şabyā"
+        },
+        {
+          "id": 148800,
+          "name": "Sadiliyah"
+        },
+        {
+          "id": 148801,
+          "name": "Salamah"
+        },
+        {
+          "id": 102897,
+          "name": "Şāmitah"
+        }
+      ]
+    },
+    {
+      "id": 2850,
+      "name": "Makkah",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 148874,
+          "name": "Abu `Urwah"
+        },
+        {
+          "id": 148871,
+          "name": "Abu Hisani"
+        },
+        {
+          "id": 148872,
+          "name": "Abu Qirfah"
+        },
+        {
+          "id": 148873,
+          "name": "Abu Shu`ayb"
+        },
+        {
+          "id": 148875,
+          "name": "Ad Dabbah"
+        },
+        {
+          "id": 148876,
+          "name": "Ad Dawh"
+        },
+        {
+          "id": 148877,
+          "name": "Ad Dur"
+        },
+        {
+          "id": 148935,
+          "name": "Al Ābār"
+        },
+        {
+          "id": 148878,
+          "name": "Al Adl"
+        },
+        {
+          "id": 148879,
+          "name": "Al Ashraf"
+        },
+        {
+          "id": 148880,
+          "name": "Al Balad"
+        },
+        {
+          "id": 148881,
+          "name": "Al Barabir"
+        },
+        {
+          "id": 148882,
+          "name": "Al Bi'ar"
+        },
+        {
+          "id": 148883,
+          "name": "Al Birk"
+        },
+        {
+          "id": 148884,
+          "name": "Al Buraykah"
+        },
+        {
+          "id": 148885,
+          "name": "Al Fawwarah"
+        },
+        {
+          "id": 148886,
+          "name": "Al Faydah"
+        },
+        {
+          "id": 148887,
+          "name": "Al Fazz"
+        },
+        {
+          "id": 148888,
+          "name": "Al Gharith"
+        },
+        {
+          "id": 148889,
+          "name": "Al Ghassalah"
+        },
+        {
+          "id": 148890,
+          "name": "Al Ghulah"
+        },
+        {
+          "id": 102819,
+          "name": "Al Hadā"
+        },
+        {
+          "id": 148891,
+          "name": "Al Halaqah"
+        },
+        {
+          "id": 148892,
+          "name": "Al Hamimah"
+        },
+        {
+          "id": 148893,
+          "name": "Al Harra' Makkah"
+        },
+        {
+          "id": 148894,
+          "name": "Al Hawiyah"
+        },
+        {
+          "id": 148895,
+          "name": "Al Iskan"
+        },
+        {
+          "id": 148896,
+          "name": "Al Jadidah"
+        },
+        {
+          "id": 148897,
+          "name": "Al Jami`ah"
+        },
+        {
+          "id": 148898,
+          "name": "Al Jid`"
+        },
+        {
+          "id": 148899,
+          "name": "Al Ju`ranah"
+        },
+        {
+          "id": 102824,
+          "name": "Al Jumūm"
+        },
+        {
+          "id": 148900,
+          "name": "Al Khadra' Makkah"
+        },
+        {
+          "id": 148901,
+          "name": "Al Khalas"
+        },
+        {
+          "id": 148902,
+          "name": "Al Khamrah"
+        },
+        {
+          "id": 148903,
+          "name": "Al Khaydar"
+        },
+        {
+          "id": 148904,
+          "name": "Al Khayf"
+        },
+        {
+          "id": 148905,
+          "name": "Al Khulasah"
+        },
+        {
+          "id": 148906,
+          "name": "Al Kidwah"
+        },
+        {
+          "id": 148907,
+          "name": "Al Kura`"
+        },
+        {
+          "id": 148908,
+          "name": "Al Ma`rash"
+        },
+        {
+          "id": 148909,
+          "name": "Al Madiq Makkah"
+        },
+        {
+          "id": 148910,
+          "name": "Al Maghal"
+        },
+        {
+          "id": 148911,
+          "name": "Al Mahjar"
+        },
+        {
+          "id": 148913,
+          "name": "Al Maqrah"
+        },
+        {
+          "id": 148914,
+          "name": "Al Masarrah"
+        },
+        {
+          "id": 148915,
+          "name": "Al Masfalah"
+        },
+        {
+          "id": 148916,
+          "name": "Al Mashayikh"
+        },
+        {
+          "id": 148917,
+          "name": "Al Mathnah"
+        },
+        {
+          "id": 148918,
+          "name": "Al Mubarak"
+        },
+        {
+          "id": 148919,
+          "name": "Al Mudawwarah"
+        },
+        {
+          "id": 148920,
+          "name": "Al Mulayha'"
+        },
+        {
+          "id": 148921,
+          "name": "Al Mundassah"
+        },
+        {
+          "id": 148922,
+          "name": "Al Muqayti`"
+        },
+        {
+          "id": 148923,
+          "name": "Al Muqr"
+        },
+        {
+          "id": 102833,
+          "name": "Al Muwayh"
+        },
+        {
+          "id": 148924,
+          "name": "Al Qadimah"
+        },
+        {
+          "id": 148926,
+          "name": "Al Qararah"
+        },
+        {
+          "id": 148927,
+          "name": "Al Qaryat"
+        },
+        {
+          "id": 148928,
+          "name": "Al Qawba`iyah"
+        },
+        {
+          "id": 148929,
+          "name": "Al Qirshan"
+        },
+        {
+          "id": 148930,
+          "name": "Al Qu`tubah"
+        },
+        {
+          "id": 148931,
+          "name": "Al Qufayf"
+        },
+        {
+          "id": 148932,
+          "name": "Al Qushashiyah"
+        },
+        {
+          "id": 148933,
+          "name": "Al Ukhaydir"
+        },
+        {
+          "id": 148934,
+          "name": "Al Waht"
+        },
+        {
+          "id": 148936,
+          "name": "Ar Rabwah as Sufla"
+        },
+        {
+          "id": 148937,
+          "name": "Ar Rafah"
+        },
+        {
+          "id": 148938,
+          "name": "Ar Rawdah ash Shamaliyah"
+        },
+        {
+          "id": 148939,
+          "name": "Ar Rudaymah"
+        },
+        {
+          "id": 148940,
+          "name": "Arya`"
+        },
+        {
+          "id": 148941,
+          "name": "As Sadr"
+        },
+        {
+          "id": 148942,
+          "name": "As Samd ash Shamali"
+        },
+        {
+          "id": 148943,
+          "name": "As Sayl al Kabir"
+        },
+        {
+          "id": 148944,
+          "name": "As Sayl as Saghir"
+        },
+        {
+          "id": 148945,
+          "name": "As Sifyani"
+        },
+        {
+          "id": 148946,
+          "name": "As Sudayrah Makkah"
+        },
+        {
+          "id": 148947,
+          "name": "As Suwadah"
+        },
+        {
+          "id": 102845,
+          "name": "Ash Shafā"
+        },
+        {
+          "id": 148948,
+          "name": "Ash Shajwah"
+        },
+        {
+          "id": 148949,
+          "name": "Ash Shamiyah"
+        },
+        {
+          "id": 148950,
+          "name": "Ash Shara'i`"
+        },
+        {
+          "id": 148951,
+          "name": "Ash Shaybi"
+        },
+        {
+          "id": 148952,
+          "name": "Ash Shi`b"
+        },
+        {
+          "id": 148953,
+          "name": "Ash Shishah"
+        },
+        {
+          "id": 148954,
+          "name": "Ash Shumaysi"
+        },
+        {
+          "id": 148955,
+          "name": "Ash Shuwaybit"
+        },
+        {
+          "id": 148956,
+          "name": "At Tan`im"
+        },
+        {
+          "id": 148957,
+          "name": "At Tarfa'"
+        },
+        {
+          "id": 148958,
+          "name": "At Turqi"
+        },
+        {
+          "id": 148959,
+          "name": "Az Zaymah"
+        },
+        {
+          "id": 148960,
+          "name": "Az Zilal"
+        },
+        {
+          "id": 148961,
+          "name": "Az Zughbah"
+        },
+        {
+          "id": 148962,
+          "name": "Az Zurra`"
+        },
+        {
+          "id": 148963,
+          "name": "Az Zuwayb"
+        },
+        {
+          "id": 148964,
+          "name": "Bahrat al Qadimah"
+        },
+        {
+          "id": 148965,
+          "name": "Bahwil"
+        },
+        {
+          "id": 148966,
+          "name": "Baranah"
+        },
+        {
+          "id": 148967,
+          "name": "Barzah"
+        },
+        {
+          "id": 148968,
+          "name": "Bashm"
+        },
+        {
+          "id": 148969,
+          "name": "Buraykah"
+        },
+        {
+          "id": 148970,
+          "name": "Burayman"
+        },
+        {
+          "id": 148971,
+          "name": "CITY GHRAN"
+        },
+        {
+          "id": 148972,
+          "name": "Dabyah"
+        },
+        {
+          "id": 148973,
+          "name": "Dahaban"
+        },
+        {
+          "id": 148974,
+          "name": "Dughaybjah"
+        },
+        {
+          "id": 148975,
+          "name": "Fayd"
+        },
+        {
+          "id": 102855,
+          "name": "Ghran"
+        },
+        {
+          "id": 148976,
+          "name": "Hadda'"
+        },
+        {
+          "id": 148977,
+          "name": "Haddat ash Sham"
+        },
+        {
+          "id": 148978,
+          "name": "Hadhah"
+        },
+        {
+          "id": 148979,
+          "name": "Hajur"
+        },
+        {
+          "id": 148980,
+          "name": "Halamah"
+        },
+        {
+          "id": 148981,
+          "name": "Husnah"
+        },
+        {
+          "id": 148982,
+          "name": "Jarwal"
+        },
+        {
+          "id": 102858,
+          "name": "Jeddah"
+        },
+        {
+          "id": 148983,
+          "name": "Julayyil"
+        },
+        {
+          "id": 148985,
+          "name": "Khumrah"
+        },
+        {
+          "id": 148986,
+          "name": "Kulakh"
+        },
+        {
+          "id": 148988,
+          "name": "Madrakah"
+        },
+        {
+          "id": 148989,
+          "name": "Mafruq"
+        },
+        {
+          "id": 148990,
+          "name": "Malakan"
+        },
+        {
+          "id": 148991,
+          "name": "Mashajji"
+        },
+        {
+          "id": 148992,
+          "name": "Masihat Mahd al Hayl"
+        },
+        {
+          "id": 148993,
+          "name": "Maskar"
+        },
+        {
+          "id": 148994,
+          "name": "Matiyah"
+        },
+        {
+          "id": 102864,
+          "name": "Mecca"
+        },
+        {
+          "id": 148996,
+          "name": "Mina"
+        },
+        {
+          "id": 148998,
+          "name": "Murshidiyah"
+        },
+        {
+          "id": 148999,
+          "name": "Mushrif"
+        },
+        {
+          "id": 149000,
+          "name": "Nughayshiyah"
+        },
+        {
+          "id": 149001,
+          "name": "Nuzlat al Faqin"
+        },
+        {
+          "id": 149002,
+          "name": "Qiya"
+        },
+        {
+          "id": 149003,
+          "name": "Quwayzah"
+        },
+        {
+          "id": 102875,
+          "name": "Rābigh"
+        },
+        {
+          "id": 149004,
+          "name": "Rabwah Ghran"
+        },
+        {
+          "id": 149005,
+          "name": "Raqiyah"
+        },
+        {
+          "id": 149006,
+          "name": "Sabuhah"
+        },
+        {
+          "id": 149007,
+          "name": "Shi`b `amir"
+        },
+        {
+          "id": 149008,
+          "name": "Shira`ayn"
+        },
+        {
+          "id": 149009,
+          "name": "Sulaym"
+        },
+        {
+          "id": 149010,
+          "name": "Sumaymah"
+        },
+        {
+          "id": 149011,
+          "name": "Suways"
+        },
+        {
+          "id": 102884,
+          "name": "Ta'if"
+        },
+        {
+          "id": 149013,
+          "name": "Tharwah"
+        },
+        {
+          "id": 149014,
+          "name": "Thuwal"
+        },
+        {
+          "id": 102886,
+          "name": "Turabah"
+        },
+        {
+          "id": 149015,
+          "name": "Usfan"
+        },
+        {
+          "id": 149016,
+          "name": "Wadi al Jalil"
+        }
+      ]
+    },
+    {
+      "id": 2860,
+      "name": "Najran",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 102869,
+          "name": "Najrān"
+        }
+      ]
+    },
+    {
+      "id": 2854,
+      "name": "Northern Borders",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 102842,
+          "name": "Arar"
+        },
+        {
+          "id": 148586,
+          "name": "Nisab"
+        },
+        {
+          "id": 102887,
+          "name": "Turaif"
+        },
+        {
+          "id": 148587,
+          "name": "Umm Radamah"
+        }
+      ]
+    },
+    {
+      "id": 2849,
+      "name": "Riyadh",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 102808,
+          "name": "Ad Dawādimī"
+        },
+        {
+          "id": 102809,
+          "name": "Ad Dilam"
+        },
+        {
+          "id": 102811,
+          "name": "Afif"
+        },
+        {
+          "id": 102812,
+          "name": "Ain AlBaraha"
+        },
+        {
+          "id": 102813,
+          "name": "Al Arţāwīyah"
+        },
+        {
+          "id": 149017,
+          "name": "Al Bir"
+        },
+        {
+          "id": 149018,
+          "name": "Al Hair"
+        },
+        {
+          "id": 149019,
+          "name": "Al Jurayfah"
+        },
+        {
+          "id": 102826,
+          "name": "Al Kharj"
+        },
+        {
+          "id": 149020,
+          "name": "Ar Rayn"
+        },
+        {
+          "id": 149021,
+          "name": "As Salamiyah"
+        },
+        {
+          "id": 102844,
+          "name": "As Sulayyil"
+        },
+        {
+          "id": 102847,
+          "name": "Az Zulfī"
+        },
+        {
+          "id": 149022,
+          "name": "Dawadmi"
+        },
+        {
+          "id": 149023,
+          "name": "Diriyah"
+        },
+        {
+          "id": 149024,
+          "name": "Harmah"
+        },
+        {
+          "id": 149025,
+          "name": "Jalajil"
+        },
+        {
+          "id": 149026,
+          "name": "Layla"
+        },
+        {
+          "id": 149027,
+          "name": "Manfuha"
+        },
+        {
+          "id": 102863,
+          "name": "Marāt"
+        },
+        {
+          "id": 149028,
+          "name": "Najan"
+        },
+        {
+          "id": 102874,
+          "name": "Riyadh"
+        },
+        {
+          "id": 102880,
+          "name": "Sājir"
+        },
+        {
+          "id": 102893,
+          "name": "shokhaibٍ"
+        },
+        {
+          "id": 102885,
+          "name": "Tumayr"
+        }
+      ]
+    },
+    {
+      "id": 2852,
+      "name": "Tabuk",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 102838,
+          "name": "Al Wajh"
+        },
+        {
+          "id": 102853,
+          "name": "Duba"
+        },
+        {
+          "id": 102881,
+          "name": "Tabuk"
+        },
+        {
+          "id": 102889,
+          "name": "Umm Lajj"
+        }
+      ]
+    }
+  ]
+}

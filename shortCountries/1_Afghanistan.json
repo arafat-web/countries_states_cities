@@ -1,0 +1,610 @@
+{
+  "id": 1,
+  "name": "Afghanistan",
+  "short_name": "AFG",
+  "phone_code": "93",
+  "currency": "AFN",
+  "currency_name": "Afghan afghani",
+  "currency_symbol": "؋",
+  "states": [
+    {
+      "id": 3901,
+      "name": "Badakhshan",
+      "state_code": "BDS",
+      "cities": [
+        {
+          "id": 52,
+          "name": "Ashkāsham"
+        },
+        {
+          "id": 68,
+          "name": "Fayzabad"
+        },
+        {
+          "id": 78,
+          "name": "Jurm"
+        },
+        {
+          "id": 84,
+          "name": "Khandūd"
+        },
+        {
+          "id": 115,
+          "name": "Rāghistān"
+        },
+        {
+          "id": 131,
+          "name": "Wākhān"
+        }
+      ]
+    },
+    {
+      "id": 3871,
+      "name": "Badghis",
+      "state_code": "BDG",
+      "cities": [
+        {
+          "id": 72,
+          "name": "Ghormach"
+        },
+        {
+          "id": 108,
+          "name": "Qala i Naw"
+        }
+      ]
+    },
+    {
+      "id": 3875,
+      "name": "Baghlan",
+      "state_code": "BGL",
+      "cities": [
+        {
+          "id": 54,
+          "name": "Baghlān"
+        },
+        {
+          "id": 140,
+          "name": "Ḩukūmatī Dahanah-ye Ghōrī"
+        },
+        {
+          "id": 101,
+          "name": "Nahrīn"
+        },
+        {
+          "id": 105,
+          "name": "Pul-e Khumrī"
+        }
+      ]
+    },
+    {
+      "id": 3884,
+      "name": "Balkh",
+      "state_code": "BAL",
+      "cities": [
+        {
+          "id": 55,
+          "name": "Balkh"
+        },
+        {
+          "id": 65,
+          "name": "Dowlatābād"
+        },
+        {
+          "id": 85,
+          "name": "Khulm"
+        },
+        {
+          "id": 91,
+          "name": "Lab-Sar"
+        },
+        {
+          "id": 97,
+          "name": "Mazār-e Sharīf"
+        },
+        {
+          "id": 112,
+          "name": "Qarchī Gak"
+        }
+      ]
+    },
+    {
+      "id": 3872,
+      "name": "Bamyan",
+      "state_code": "BAM",
+      "cities": [
+        {
+          "id": 57,
+          "name": "Bāmyān"
+        },
+        {
+          "id": 104,
+          "name": "Panjāb"
+        }
+      ]
+    },
+    {
+      "id": 3892,
+      "name": "Daykundi",
+      "state_code": "DAY",
+      "cities": [
+        {
+          "id": 102,
+          "name": "Nīlī"
+        }
+      ]
+    },
+    {
+      "id": 3899,
+      "name": "Farah",
+      "state_code": "FRA",
+      "cities": [
+        {
+          "id": 66,
+          "name": "Farah"
+        }
+      ]
+    },
+    {
+      "id": 3889,
+      "name": "Faryab",
+      "state_code": "FYB",
+      "cities": [
+        {
+          "id": 50,
+          "name": "Andkhoy"
+        },
+        {
+          "id": 96,
+          "name": "Maymana"
+        }
+      ]
+    },
+    {
+      "id": 3870,
+      "name": "Ghazni",
+      "state_code": "GHA",
+      "cities": [
+        {
+          "id": 71,
+          "name": "Ghazni"
+        }
+      ]
+    },
+    {
+      "id": 3888,
+      "name": "Ghōr",
+      "state_code": "GHO",
+      "cities": [
+        {
+          "id": 67,
+          "name": "Fayrōz Kōh"
+        },
+        {
+          "id": 121,
+          "name": "Shahrak"
+        }
+      ]
+    },
+    {
+      "id": 3873,
+      "name": "Helmand",
+      "state_code": "HEL",
+      "cities": [
+        {
+          "id": 141,
+          "name": "‘Alāqahdārī Dīshū"
+        },
+        {
+          "id": 70,
+          "name": "Gereshk"
+        },
+        {
+          "id": 93,
+          "name": "Lashkar Gāh"
+        },
+        {
+          "id": 95,
+          "name": "Markaz-e Ḩukūmat-e Darwēshān"
+        },
+        {
+          "id": 118,
+          "name": "Sangīn"
+        }
+      ]
+    },
+    {
+      "id": 3887,
+      "name": "Herat",
+      "state_code": "HER",
+      "cities": [
+        {
+          "id": 60,
+          "name": "Chahār Burj"
+        },
+        {
+          "id": 73,
+          "name": "Ghōriyān"
+        },
+        {
+          "id": 74,
+          "name": "Herāt"
+        },
+        {
+          "id": 80,
+          "name": "Kafir Qala"
+        },
+        {
+          "id": 82,
+          "name": "Karukh"
+        },
+        {
+          "id": 88,
+          "name": "Kuhsān"
+        },
+        {
+          "id": 90,
+          "name": "Kushk"
+        },
+        {
+          "id": 111,
+          "name": "Qarah Bāgh"
+        },
+        {
+          "id": 123,
+          "name": "Shīnḏanḏ"
+        },
+        {
+          "id": 129,
+          "name": "Tīr Pul"
+        },
+        {
+          "id": 135,
+          "name": "Zindah Jān"
+        }
+      ]
+    },
+    {
+      "id": 3886,
+      "name": "Jowzjan",
+      "state_code": "JOW",
+      "cities": [
+        {
+          "id": 136,
+          "name": "Āqchah"
+        },
+        {
+          "id": 63,
+          "name": "Darzāb"
+        },
+        {
+          "id": 113,
+          "name": "Qarqīn"
+        },
+        {
+          "id": 122,
+          "name": "Shibirghān"
+        }
+      ]
+    },
+    {
+      "id": 3902,
+      "name": "Kabul",
+      "state_code": "KAB",
+      "cities": [
+        {
+          "id": 79,
+          "name": "Kabul"
+        },
+        {
+          "id": 99,
+          "name": "Mīr Bachah Kōṯ"
+        },
+        {
+          "id": 103,
+          "name": "Paghmān"
+        }
+      ]
+    },
+    {
+      "id": 3890,
+      "name": "Kandahar",
+      "state_code": "KAN",
+      "cities": [
+        {
+          "id": 81,
+          "name": "Kandahār"
+        }
+      ]
+    },
+    {
+      "id": 3879,
+      "name": "Kapisa",
+      "state_code": "KAP",
+      "cities": [
+        {
+          "id": 124,
+          "name": "Sidqābād"
+        }
+      ]
+    },
+    {
+      "id": 3878,
+      "name": "Khost",
+      "state_code": "KHO",
+      "cities": [
+        {
+          "id": 87,
+          "name": "Khōst"
+        }
+      ]
+    },
+    {
+      "id": 3876,
+      "name": "Kunar",
+      "state_code": "KNR",
+      "cities": [
+        {
+          "id": 51,
+          "name": "Asadabad"
+        },
+        {
+          "id": 138,
+          "name": "Āsmār"
+        }
+      ]
+    },
+    {
+      "id": 3900,
+      "name": "Kunduz Province",
+      "state_code": "KDZ",
+      "cities": [
+        {
+          "id": 64,
+          "name": "Dasht-e Archī"
+        },
+        {
+          "id": 75,
+          "name": "Imām Şāḩib"
+        },
+        {
+          "id": 83,
+          "name": "Khanabad"
+        },
+        {
+          "id": 89,
+          "name": "Kunduz"
+        },
+        {
+          "id": 114,
+          "name": "Qarāwul"
+        }
+      ]
+    },
+    {
+      "id": 3891,
+      "name": "Laghman",
+      "state_code": "LAG",
+      "cities": [
+        {
+          "id": 98,
+          "name": "Mehtar Lām"
+        }
+      ]
+    },
+    {
+      "id": 3897,
+      "name": "Logar",
+      "state_code": "LOG",
+      "cities": [
+        {
+          "id": 56,
+          "name": "Baraki Barak"
+        },
+        {
+          "id": 139,
+          "name": "Ḩukūmatī Azrah"
+        },
+        {
+          "id": 106,
+          "name": "Pul-e ‘Alam"
+        }
+      ]
+    },
+    {
+      "id": 3882,
+      "name": "Nangarhar",
+      "state_code": "NAN",
+      "cities": [
+        {
+          "id": 58,
+          "name": "Bāsawul"
+        },
+        {
+          "id": 77,
+          "name": "Jalālābād"
+        },
+        {
+          "id": 94,
+          "name": "Markaz-e Woluswalī-ye Āchīn"
+        }
+      ]
+    },
+    {
+      "id": 3896,
+      "name": "Nimruz",
+      "state_code": "NIM",
+      "cities": [
+        {
+          "id": 86,
+          "name": "Khāsh"
+        },
+        {
+          "id": 100,
+          "name": "Mīrābād"
+        },
+        {
+          "id": 116,
+          "name": "Rūdbār"
+        },
+        {
+          "id": 132,
+          "name": "Zaranj"
+        }
+      ]
+    },
+    {
+      "id": 3880,
+      "name": "Nuristan",
+      "state_code": "NUR",
+      "cities": [
+        {
+          "id": 107,
+          "name": "Pārūn"
+        }
+      ]
+    },
+    {
+      "id": 3894,
+      "name": "Paktia",
+      "state_code": "PIA",
+      "cities": [
+        {
+          "id": 69,
+          "name": "Gardez"
+        }
+      ]
+    },
+    {
+      "id": 3877,
+      "name": "Paktika",
+      "state_code": "PKA",
+      "cities": [
+        {
+          "id": 120,
+          "name": "Saṟōbī"
+        },
+        {
+          "id": 134,
+          "name": "Zaṟah Sharan"
+        },
+        {
+          "id": 133,
+          "name": "Zarghūn Shahr"
+        }
+      ]
+    },
+    {
+      "id": 3881,
+      "name": "Panjshir",
+      "state_code": "PAN",
+      "cities": [
+        {
+          "id": 59,
+          "name": "Bāzārak"
+        }
+      ]
+    },
+    {
+      "id": 3895,
+      "name": "Parwan",
+      "state_code": "PAR",
+      "cities": [
+        {
+          "id": 61,
+          "name": "Charikar"
+        },
+        {
+          "id": 76,
+          "name": "Jabal os Saraj"
+        }
+      ]
+    },
+    {
+      "id": 3883,
+      "name": "Samangan",
+      "state_code": "SAM",
+      "cities": [
+        {
+          "id": 53,
+          "name": "Aībak"
+        }
+      ]
+    },
+    {
+      "id": 3885,
+      "name": "Sar-e Pol",
+      "state_code": "SAR",
+      "cities": [
+        {
+          "id": 62,
+          "name": "Chīras"
+        },
+        {
+          "id": 92,
+          "name": "Larkird"
+        },
+        {
+          "id": 110,
+          "name": "Qal‘ah-ye Shahr"
+        },
+        {
+          "id": 117,
+          "name": "Sang-e Chārak"
+        },
+        {
+          "id": 119,
+          "name": "Sar-e Pul"
+        },
+        {
+          "id": 125,
+          "name": "Tagāw-Bāy"
+        },
+        {
+          "id": 128,
+          "name": "Tukzār"
+        }
+      ]
+    },
+    {
+      "id": 3893,
+      "name": "Takhar",
+      "state_code": "TAK",
+      "cities": [
+        {
+          "id": 137,
+          "name": "Ārt Khwājah"
+        },
+        {
+          "id": 126,
+          "name": "Taloqan"
+        }
+      ]
+    },
+    {
+      "id": 3898,
+      "name": "Urozgan",
+      "state_code": "URU",
+      "cities": [
+        {
+          "id": 127,
+          "name": "Tarinkot"
+        },
+        {
+          "id": 130,
+          "name": "Uruzgān"
+        }
+      ]
+    },
+    {
+      "id": 3874,
+      "name": "Zabul",
+      "state_code": "ZAB",
+      "cities": [
+        {
+          "id": 109,
+          "name": "Qalāt"
+        }
+      ]
+    }
+  ]
+}

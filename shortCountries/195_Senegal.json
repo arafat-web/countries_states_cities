@@ -1,0 +1,401 @@
+{
+  "id": 195,
+  "name": "Senegal",
+  "short_name": "SEN",
+  "phone_code": "221",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "states": [
+    {
+      "id": 473,
+      "name": "Dakar",
+      "state_code": "DK",
+      "cities": [
+        {
+          "id": 104704,
+          "name": "Dakar"
+        },
+        {
+          "id": 104705,
+          "name": "Dakar Department"
+        },
+        {
+          "id": 104716,
+          "name": "Guédiawaye Department"
+        },
+        {
+          "id": 104737,
+          "name": "Mermoz Boabab"
+        },
+        {
+          "id": 104744,
+          "name": "N’diareme limamoulaye"
+        },
+        {
+          "id": 104748,
+          "name": "Pikine"
+        },
+        {
+          "id": 104749,
+          "name": "Pikine Department"
+        },
+        {
+          "id": 104756,
+          "name": "Rufisque Department"
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Diourbel Region",
+      "state_code": "DB",
+      "cities": [
+        {
+          "id": 104734,
+          "name": "Mbacké"
+        },
+        {
+          "id": 104735,
+          "name": "Mbaké"
+        },
+        {
+          "id": 104769,
+          "name": "Tiébo"
+        },
+        {
+          "id": 104770,
+          "name": "Touba"
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Fatick",
+      "state_code": "FK",
+      "cities": [
+        {
+          "id": 104708,
+          "name": "Diofior"
+        },
+        {
+          "id": 104710,
+          "name": "Fatick Department"
+        },
+        {
+          "id": 104711,
+          "name": "Foundiougne"
+        },
+        {
+          "id": 104715,
+          "name": "Guinguinéo"
+        },
+        {
+          "id": 104747,
+          "name": "Passi"
+        },
+        {
+          "id": 104751,
+          "name": "Pourham"
+        },
+        {
+          "id": 104759,
+          "name": "Sokone"
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Kaffrine",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 104719,
+          "name": "Kaffrine"
+        },
+        {
+          "id": 104726,
+          "name": "Koungheul"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Kaolack",
+      "state_code": "KL",
+      "cities": [
+        {
+          "id": 104712,
+          "name": "Gandiaye"
+        },
+        {
+          "id": 104721,
+          "name": "Kaolack"
+        },
+        {
+          "id": 104741,
+          "name": "Ndofane"
+        },
+        {
+          "id": 104743,
+          "name": "Nioro du Rip"
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Kédougou",
+      "state_code": "KE",
+      "cities": [
+        {
+          "id": 104709,
+          "name": "Département de Salémata"
+        },
+        {
+          "id": 104727,
+          "name": "Kédougou"
+        },
+        {
+          "id": 104728,
+          "name": "Kédougou Department"
+        },
+        {
+          "id": 104758,
+          "name": "Saraya"
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Kolda",
+      "state_code": "KD",
+      "cities": [
+        {
+          "id": 104724,
+          "name": "Kolda"
+        },
+        {
+          "id": 104725,
+          "name": "Kolda Department"
+        },
+        {
+          "id": 104731,
+          "name": "Marsassoum"
+        },
+        {
+          "id": 104771,
+          "name": "Vélingara"
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Louga",
+      "state_code": "LG",
+      "cities": [
+        {
+          "id": 104706,
+          "name": "Dara"
+        },
+        {
+          "id": 104717,
+          "name": "Guéoul"
+        },
+        {
+          "id": 104729,
+          "name": "Linguere Department"
+        },
+        {
+          "id": 104730,
+          "name": "Louga"
+        },
+        {
+          "id": 104739,
+          "name": "Ndibène Dahra"
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Matam",
+      "state_code": "MT",
+      "cities": [
+        {
+          "id": 104707,
+          "name": "Diawara"
+        },
+        {
+          "id": 104720,
+          "name": "Kanel"
+        },
+        {
+          "id": 104732,
+          "name": "Matam"
+        },
+        {
+          "id": 104733,
+          "name": "Matam Department"
+        },
+        {
+          "id": 104745,
+          "name": "Ouro Sogui"
+        },
+        {
+          "id": 104753,
+          "name": "Ranérou"
+        },
+        {
+          "id": 104761,
+          "name": "Sémé"
+        },
+        {
+          "id": 104772,
+          "name": "Waoundé"
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Saint-Louis",
+      "state_code": "SL",
+      "cities": [
+        {
+          "id": 104713,
+          "name": "Goléré"
+        },
+        {
+          "id": 104740,
+          "name": "Ndioum"
+        },
+        {
+          "id": 104750,
+          "name": "Polel Diaoubé"
+        },
+        {
+          "id": 104754,
+          "name": "Richard-Toll"
+        },
+        {
+          "id": 104755,
+          "name": "Rosso"
+        },
+        {
+          "id": 104757,
+          "name": "Saint-Louis"
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Sédhiou",
+      "state_code": "SE",
+      "cities": [
+        {
+          "id": 104714,
+          "name": "Goudomp Department"
+        },
+        {
+          "id": 104760,
+          "name": "Sédhiou"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Tambacounda Region",
+      "state_code": "TC",
+      "cities": [
+        {
+          "id": 104762,
+          "name": "Tambacounda"
+        },
+        {
+          "id": 104763,
+          "name": "Tambacounda Department"
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Thiès Region",
+      "state_code": "TH",
+      "cities": [
+        {
+          "id": 104718,
+          "name": "Joal-Fadiout"
+        },
+        {
+          "id": 104722,
+          "name": "Kayar"
+        },
+        {
+          "id": 104723,
+          "name": "Khombole"
+        },
+        {
+          "id": 104736,
+          "name": "Mbour"
+        },
+        {
+          "id": 104738,
+          "name": "Mékhé"
+        },
+        {
+          "id": 104742,
+          "name": "Nguékhokh"
+        },
+        {
+          "id": 104752,
+          "name": "Pout"
+        },
+        {
+          "id": 104764,
+          "name": "Thiès"
+        },
+        {
+          "id": 104765,
+          "name": "Thiès Nones"
+        },
+        {
+          "id": 104766,
+          "name": "Tiadiaye"
+        },
+        {
+          "id": 104768,
+          "name": "Tivaouane"
+        },
+        {
+          "id": 104773,
+          "name": "Warang"
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Ziguinchor",
+      "state_code": "ZG",
+      "cities": [
+        {
+          "id": 104702,
+          "name": "Adéane"
+        },
+        {
+          "id": 104703,
+          "name": "Bignona"
+        },
+        {
+          "id": 104746,
+          "name": "Oussouye"
+        },
+        {
+          "id": 104767,
+          "name": "Tionk Essil"
+        },
+        {
+          "id": 104774,
+          "name": "Ziguinchor"
+        }
+      ]
+    }
+  ]
+}

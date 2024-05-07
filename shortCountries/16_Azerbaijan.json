@@ -1,0 +1,1240 @@
+{
+  "id": 16,
+  "name": "Azerbaijan",
+  "short_name": "AZE",
+  "phone_code": "994",
+  "currency": "AZN",
+  "currency_name": "Azerbaijani manat",
+  "currency_symbol": "m",
+  "states": [
+    {
+      "id": 540,
+      "name": "Absheron District",
+      "state_code": "ABS",
+      "cities": [
+        {
+          "id": 8069,
+          "name": "Ceyranbatan"
+        },
+        {
+          "id": 8073,
+          "name": "Digah"
+        },
+        {
+          "id": 8085,
+          "name": "Gyuzdek"
+        },
+        {
+          "id": 8099,
+          "name": "Khirdalan"
+        },
+        {
+          "id": 8148,
+          "name": "Qobu"
+        },
+        {
+          "id": 8169,
+          "name": "Saray"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Agdam District",
+      "state_code": "AGM",
+      "cities": [
+        {
+          "id": 8049,
+          "name": "Ağdam"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Agdash District",
+      "state_code": "AGS",
+      "cities": [
+        {
+          "id": 8050,
+          "name": "Ağdaş"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Aghjabadi District",
+      "state_code": "AGC",
+      "cities": [
+        {
+          "id": 8037,
+          "name": "Agdzhabedy"
+        },
+        {
+          "id": 8048,
+          "name": "Avşar"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Agstafa District",
+      "state_code": "AGA",
+      "cities": [
+        {
+          "id": 8038,
+          "name": "Aghstafa"
+        },
+        {
+          "id": 8163,
+          "name": "Saloğlu"
+        },
+        {
+          "id": 8188,
+          "name": "Vurğun"
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "name": "Agsu District",
+      "state_code": "AGU",
+      "cities": [
+        {
+          "id": 8039,
+          "name": "Aghsu"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Astara District",
+      "state_code": "AST",
+      "cities": [
+        {
+          "id": 8047,
+          "name": "Astara"
+        },
+        {
+          "id": 8103,
+          "name": "Kizhaba"
+        }
+      ]
+    },
+    {
+      "id": 575,
+      "name": "Babek District",
+      "state_code": "BAB",
+      "cities": []
+    },
+    {
+      "id": 552,
+      "name": "Baku",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 8042,
+          "name": "Amirdzhan"
+        },
+        {
+          "id": 8051,
+          "name": "Badamdar"
+        },
+        {
+          "id": 8053,
+          "name": "Bakıxanov"
+        },
+        {
+          "id": 8052,
+          "name": "Baku"
+        },
+        {
+          "id": 8054,
+          "name": "Balakhani"
+        },
+        {
+          "id": 8060,
+          "name": "Bilajari"
+        },
+        {
+          "id": 8061,
+          "name": "Bilajer"
+        },
+        {
+          "id": 8062,
+          "name": "Binagadi"
+        },
+        {
+          "id": 8063,
+          "name": "Biny Selo"
+        },
+        {
+          "id": 8066,
+          "name": "Buzovna"
+        },
+        {
+          "id": 8093,
+          "name": "Hövsan"
+        },
+        {
+          "id": 8100,
+          "name": "Khodzhi-Gasan"
+        },
+        {
+          "id": 8104,
+          "name": "Korgöz"
+        },
+        {
+          "id": 8111,
+          "name": "Lökbatan"
+        },
+        {
+          "id": 8113,
+          "name": "Mardakan"
+        },
+        {
+          "id": 8116,
+          "name": "Maştağa"
+        },
+        {
+          "id": 8121,
+          "name": "Nardaran"
+        },
+        {
+          "id": 8123,
+          "name": "Nizami Rayonu"
+        },
+        {
+          "id": 8131,
+          "name": "Pirallahı"
+        },
+        {
+          "id": 8134,
+          "name": "Puta"
+        },
+        {
+          "id": 8136,
+          "name": "Qala"
+        },
+        {
+          "id": 8142,
+          "name": "Qaraçuxur"
+        },
+        {
+          "id": 8149,
+          "name": "Qobustan"
+        },
+        {
+          "id": 8159,
+          "name": "Ramana"
+        },
+        {
+          "id": 8162,
+          "name": "Sabunçu"
+        },
+        {
+          "id": 8168,
+          "name": "Sanqaçal"
+        },
+        {
+          "id": 8184,
+          "name": "Türkan"
+        },
+        {
+          "id": 8197,
+          "name": "Yeni Suraxanı"
+        },
+        {
+          "id": 8201,
+          "name": "Zabrat"
+        },
+        {
+          "id": 8205,
+          "name": "Zyrya"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Balakan District",
+      "state_code": "BAL",
+      "cities": [
+        {
+          "id": 8058,
+          "name": "Belokany"
+        },
+        {
+          "id": 8135,
+          "name": "Qabaqçöl"
+        }
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Barda District",
+      "state_code": "BAR",
+      "cities": [
+        {
+          "id": 8055,
+          "name": "Barda"
+        },
+        {
+          "id": 8167,
+          "name": "Samuxlu"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "name": "Beylagan District",
+      "state_code": "BEY",
+      "cities": [
+        {
+          "id": 8059,
+          "name": "Beylagan"
+        },
+        {
+          "id": 8064,
+          "name": "Birinci Aşıqlı"
+        },
+        {
+          "id": 8078,
+          "name": "Dünyamalılar"
+        },
+        {
+          "id": 8128,
+          "name": "Orjonikidze"
+        },
+        {
+          "id": 8200,
+          "name": "Yuxarı Aran"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Bilasuvar District",
+      "state_code": "BIL",
+      "cities": [
+        {
+          "id": 8133,
+          "name": "Pushkino"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "name": "Dashkasan District",
+      "state_code": "DAS",
+      "cities": [
+        {
+          "id": 8187,
+          "name": "Verkhniy Dashkesan"
+        },
+        {
+          "id": 8199,
+          "name": "Yukhary-Dashkesan"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "name": "Fizuli District",
+      "state_code": "FUZ",
+      "cities": [
+        {
+          "id": 8080,
+          "name": "Fizuli"
+        },
+        {
+          "id": 8092,
+          "name": "Horadiz"
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "name": "Ganja",
+      "state_code": "GA",
+      "cities": [
+        {
+          "id": 8081,
+          "name": "Ganja"
+        }
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Gədəbəy",
+      "state_code": "GAD",
+      "cities": [
+        {
+          "id": 8044,
+          "name": "Arıqdam"
+        },
+        {
+          "id": 8045,
+          "name": "Arıqıran"
+        },
+        {
+          "id": 8067,
+          "name": "Böyük Qaramurad"
+        },
+        {
+          "id": 8105,
+          "name": "Kyadabek"
+        },
+        {
+          "id": 8124,
+          "name": "Novosaratovka"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "name": "Gobustan District",
+      "state_code": "QOB",
+      "cities": [
+        {
+          "id": 8150,
+          "name": "Qobustan"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "name": "Goranboy District",
+      "state_code": "GOR",
+      "cities": [
+        {
+          "id": 8084,
+          "name": "Goranboy"
+        },
+        {
+          "id": 8158,
+          "name": "Qızılhacılı"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "name": "Goychay",
+      "state_code": "GOY",
+      "cities": [
+        {
+          "id": 8082,
+          "name": "Geoktschai"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "name": "Goygol District",
+      "state_code": "GYG",
+      "cities": [
+        {
+          "id": 8196,
+          "name": "Yelenendorf"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "name": "Hajigabul District",
+      "state_code": "HAC",
+      "cities": [
+        {
+          "id": 8088,
+          "name": "Hacıqabul"
+        },
+        {
+          "id": 8119,
+          "name": "Mughan"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Imishli District",
+      "state_code": "IMI",
+      "cities": [
+        {
+          "id": 8094,
+          "name": "Imishli"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Ismailli District",
+      "state_code": "ISM",
+      "cities": [
+        {
+          "id": 8056,
+          "name": "Basqal"
+        },
+        {
+          "id": 8210,
+          "name": "İsmayıllı"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Jabrayil District",
+      "state_code": "CAB",
+      "cities": [
+        {
+          "id": 8096,
+          "name": "Jebrail"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "name": "Jalilabad District",
+      "state_code": "CAL",
+      "cities": [
+        {
+          "id": 8095,
+          "name": "Jalilabad"
+        },
+        {
+          "id": 8132,
+          "name": "Prishibinskoye"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "name": "Julfa District",
+      "state_code": "CUL",
+      "cities": []
+    },
+    {
+      "id": 525,
+      "name": "Kalbajar District",
+      "state_code": "KAL",
+      "cities": [
+        {
+          "id": 8098,
+          "name": "Kerbakhiar"
+        },
+        {
+          "id": 8186,
+          "name": "Vank"
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "name": "Kangarli District",
+      "state_code": "KAN",
+      "cities": []
+    },
+    {
+      "id": 590,
+      "name": "Khachmaz District",
+      "state_code": "XAC",
+      "cities": [
+        {
+          "id": 8189,
+          "name": "Xaçmaz"
+        },
+        {
+          "id": 8191,
+          "name": "Xudat"
+        }
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Khizi District",
+      "state_code": "XIZ",
+      "cities": [
+        {
+          "id": 8041,
+          "name": "Altıağac"
+        },
+        {
+          "id": 8101,
+          "name": "Khyzy"
+        },
+        {
+          "id": 8102,
+          "name": "Kilyazi"
+        },
+        {
+          "id": 8213,
+          "name": "Şuraabad"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "name": "Khojali District",
+      "state_code": "XCI",
+      "cities": [
+        {
+          "id": 8046,
+          "name": "Askyaran"
+        },
+        {
+          "id": 8190,
+          "name": "Xocalı"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Kurdamir District",
+      "state_code": "KUR",
+      "cities": [
+        {
+          "id": 8106,
+          "name": "Kyurdarmir"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "name": "Lachin District",
+      "state_code": "LAC",
+      "cities": [
+        {
+          "id": 8109,
+          "name": "Laçın"
+        }
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Lankaran",
+      "state_code": "LAN",
+      "cities": []
+    },
+    {
+      "id": 558,
+      "name": "Lankaran District",
+      "state_code": "LA",
+      "cities": [
+        {
+          "id": 8090,
+          "name": "Haftoni"
+        },
+        {
+          "id": 8108,
+          "name": "Lankaran"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "name": "Lerik District",
+      "state_code": "LER",
+      "cities": [
+        {
+          "id": 8110,
+          "name": "Lerik"
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Martuni",
+      "state_code": "XVD",
+      "cities": [
+        {
+          "id": 8089,
+          "name": "Hadrut"
+        },
+        {
+          "id": 8125,
+          "name": "Novyy Karanlug"
+        },
+        {
+          "id": 8155,
+          "name": "Qırmızı Bazar"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "name": "Masally District",
+      "state_code": "MAS",
+      "cities": [
+        {
+          "id": 8065,
+          "name": "Boradigah"
+        },
+        {
+          "id": 8115,
+          "name": "Masally"
+        }
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Mingachevir",
+      "state_code": "MI",
+      "cities": [
+        {
+          "id": 8118,
+          "name": "Mingelchaur"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Nakhchivan Autonomous Republic",
+      "state_code": "NX",
+      "cities": [
+        {
+          "id": 8068,
+          "name": "Cahri"
+        },
+        {
+          "id": 8206,
+          "name": "Çalxanqala"
+        },
+        {
+          "id": 8071,
+          "name": "Culfa"
+        },
+        {
+          "id": 8072,
+          "name": "Deste"
+        },
+        {
+          "id": 8091,
+          "name": "Heydarabad"
+        },
+        {
+          "id": 8097,
+          "name": "Julfa Rayon"
+        },
+        {
+          "id": 8120,
+          "name": "Nakhchivan"
+        },
+        {
+          "id": 8129,
+          "name": "Oğlanqala"
+        },
+        {
+          "id": 8126,
+          "name": "Ordubad"
+        },
+        {
+          "id": 8127,
+          "name": "Ordubad Rayon"
+        },
+        {
+          "id": 8157,
+          "name": "Qıvraq"
+        },
+        {
+          "id": 8211,
+          "name": "Şahbuz"
+        },
+        {
+          "id": 8170,
+          "name": "Sedarak"
+        },
+        {
+          "id": 8172,
+          "name": "Shahbuz Rayon"
+        },
+        {
+          "id": 8175,
+          "name": "Sharur City"
+        },
+        {
+          "id": 8179,
+          "name": "Sumbatan-diza"
+        },
+        {
+          "id": 8181,
+          "name": "Tazakend"
+        },
+        {
+          "id": 8195,
+          "name": "Yaycı"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Neftchala District",
+      "state_code": "NEF",
+      "cities": [
+        {
+          "id": 8122,
+          "name": "Neftçala"
+        },
+        {
+          "id": 8171,
+          "name": "Severo-Vostotchnyi Bank"
+        },
+        {
+          "id": 8178,
+          "name": "Sovetabad"
+        },
+        {
+          "id": 8192,
+          "name": "Xıllı"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Oghuz District",
+      "state_code": "OGU",
+      "cities": [
+        {
+          "id": 8130,
+          "name": "Oğuz"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Ordubad District",
+      "state_code": "ORD",
+      "cities": []
+    },
+    {
+      "id": 542,
+      "name": "Qabala District",
+      "state_code": "QAB",
+      "cities": [
+        {
+          "id": 8154,
+          "name": "Qutqashen"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "name": "Qakh District",
+      "state_code": "QAX",
+      "cities": [
+        {
+          "id": 8208,
+          "name": "Çinarlı"
+        },
+        {
+          "id": 8144,
+          "name": "Qax"
+        },
+        {
+          "id": 8145,
+          "name": "Qax İngiloy"
+        },
+        {
+          "id": 8146,
+          "name": "Qaxbaş"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Qazakh District",
+      "state_code": "QAZ",
+      "cities": [
+        {
+          "id": 8147,
+          "name": "Qazax"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "name": "Quba District",
+      "state_code": "QBA",
+      "cities": [
+        {
+          "id": 8087,
+          "name": "Hacıhüseynli"
+        },
+        {
+          "id": 8151,
+          "name": "Quba"
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Qubadli District",
+      "state_code": "QBI",
+      "cities": [
+        {
+          "id": 8152,
+          "name": "Qubadlı"
+        }
+      ]
+    },
+    {
+      "id": 588,
+      "name": "Qusar District",
+      "state_code": "QUS",
+      "cities": [
+        {
+          "id": 8153,
+          "name": "Qusar"
+        },
+        {
+          "id": 8165,
+          "name": "Samur"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Saatly District",
+      "state_code": "SAT",
+      "cities": [
+        {
+          "id": 8214,
+          "name": "Əhmədbəyli"
+        },
+        {
+          "id": 8160,
+          "name": "Saatlı"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "name": "Sabirabad District",
+      "state_code": "SAB",
+      "cities": [
+        {
+          "id": 8161,
+          "name": "Sabirabad"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "name": "Sadarak District",
+      "state_code": "SAD",
+      "cities": []
+    },
+    {
+      "id": 545,
+      "name": "Salyan District",
+      "state_code": "SAL",
+      "cities": [
+        {
+          "id": 8141,
+          "name": "Qaraçala"
+        },
+        {
+          "id": 8164,
+          "name": "Salyan"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Samukh District",
+      "state_code": "SMX",
+      "cities": [
+        {
+          "id": 8140,
+          "name": "Qarayeri"
+        },
+        {
+          "id": 8156,
+          "name": "Qırmızı Samux"
+        },
+        {
+          "id": 8166,
+          "name": "Samux"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "name": "Shabran District",
+      "state_code": "SBN",
+      "cities": [
+        {
+          "id": 8074,
+          "name": "Divichibazar"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "name": "Shahbuz District",
+      "state_code": "SAH",
+      "cities": []
+    },
+    {
+      "id": 518,
+      "name": "Shaki",
+      "state_code": "SA",
+      "cities": [
+        {
+          "id": 8176,
+          "name": "Sheki"
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "name": "Shaki District",
+      "state_code": "SAK",
+      "cities": [
+        {
+          "id": 8057,
+          "name": "Baş Göynük"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Shamakhi District",
+      "state_code": "SMI",
+      "cities": [
+        {
+          "id": 8173,
+          "name": "Shamakhi"
+        }
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Shamkir District",
+      "state_code": "SKR",
+      "cities": [
+        {
+          "id": 8075,
+          "name": "Dolyar"
+        },
+        {
+          "id": 8077,
+          "name": "Dzagam"
+        },
+        {
+          "id": 8143,
+          "name": "Qasım İsmayılov"
+        },
+        {
+          "id": 8174,
+          "name": "Shamkhor"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Sharur District",
+      "state_code": "SAR",
+      "cities": []
+    },
+    {
+      "id": 520,
+      "name": "Shirvan",
+      "state_code": "SR",
+      "cities": [
+        {
+          "id": 8212,
+          "name": "Şirvan"
+        }
+      ]
+    },
+    {
+      "id": 592,
+      "name": "Shusha District",
+      "state_code": "SUS",
+      "cities": [
+        {
+          "id": 8177,
+          "name": "Shushi"
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Siazan District",
+      "state_code": "SIY",
+      "cities": [
+        {
+          "id": 8083,
+          "name": "Gilgilçay"
+        },
+        {
+          "id": 8107,
+          "name": "Kyzyl-Burun"
+        }
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Sumqayit",
+      "state_code": "SM",
+      "cities": [
+        {
+          "id": 8070,
+          "name": "Corat"
+        },
+        {
+          "id": 8086,
+          "name": "Hacı Zeynalabdin"
+        },
+        {
+          "id": 8180,
+          "name": "Sumqayıt"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Tartar District",
+      "state_code": "TAR",
+      "cities": [
+        {
+          "id": 8114,
+          "name": "Martakert"
+        },
+        {
+          "id": 8182,
+          "name": "Terter"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Tovuz District",
+      "state_code": "TOV",
+      "cities": [
+        {
+          "id": 8207,
+          "name": "Çatax"
+        },
+        {
+          "id": 8209,
+          "name": "Çobansığnaq"
+        },
+        {
+          "id": 8076,
+          "name": "Dondar Quşçu"
+        },
+        {
+          "id": 8139,
+          "name": "Qaraxanlı"
+        },
+        {
+          "id": 8183,
+          "name": "Tovuz"
+        },
+        {
+          "id": 8193,
+          "name": "Yanıqlı"
+        }
+      ]
+    },
+    {
+      "id": 539,
+      "name": "Ujar District",
+      "state_code": "UCA",
+      "cities": [
+        {
+          "id": 8185,
+          "name": "Ujar"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Yardymli District",
+      "state_code": "YAR",
+      "cities": [
+        {
+          "id": 8194,
+          "name": "Yardımlı"
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Yevlakh",
+      "state_code": "YE",
+      "cities": [
+        {
+          "id": 8198,
+          "name": "Yevlakh"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "name": "Yevlakh District",
+      "state_code": "YEV",
+      "cities": [
+        {
+          "id": 8043,
+          "name": "Aran"
+        },
+        {
+          "id": 8138,
+          "name": "Qaramanlı"
+        }
+      ]
+    },
+    {
+      "id": 581,
+      "name": "Zangilan District",
+      "state_code": "ZAN",
+      "cities": [
+        {
+          "id": 8117,
+          "name": "Mincivan"
+        },
+        {
+          "id": 8202,
+          "name": "Zangilan"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "name": "Zaqatala District",
+      "state_code": "ZAQ",
+      "cities": [
+        {
+          "id": 8040,
+          "name": "Aliabad"
+        },
+        {
+          "id": 8079,
+          "name": "Faldarlı"
+        },
+        {
+          "id": 8112,
+          "name": "Mamrux"
+        },
+        {
+          "id": 8137,
+          "name": "Qandax"
+        },
+        {
+          "id": 8203,
+          "name": "Zaqatala"
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Zardab District",
+      "state_code": "ZAR",
+      "cities": [
+        {
+          "id": 8204,
+          "name": "Zardob"
+        }
+      ]
+    }
+  ]
+}

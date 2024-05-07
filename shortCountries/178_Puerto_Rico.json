@@ -1,0 +1,929 @@
+{
+  "id": 178,
+  "name": "Puerto Rico",
+  "short_name": "PRI",
+  "phone_code": "+1-787 and 1-939",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 5134,
+      "name": "Adjuntas",
+      "state_code": "001",
+      "cities": [
+        {
+          "id": 153549,
+          "name": "Adjuntas"
+        }
+      ]
+    },
+    {
+      "id": 5135,
+      "name": "Aguada",
+      "state_code": "003",
+      "cities": [
+        {
+          "id": 153550,
+          "name": "Aguada"
+        }
+      ]
+    },
+    {
+      "id": 5136,
+      "name": "Aguadilla",
+      "state_code": "005",
+      "cities": [
+        {
+          "id": 153551,
+          "name": "Aguadilla"
+        }
+      ]
+    },
+    {
+      "id": 5137,
+      "name": "Aguas Buenas",
+      "state_code": "007",
+      "cities": [
+        {
+          "id": 153552,
+          "name": "Aguas Buenas"
+        }
+      ]
+    },
+    {
+      "id": 5138,
+      "name": "Aibonito",
+      "state_code": "009",
+      "cities": [
+        {
+          "id": 153553,
+          "name": "Aibonito"
+        }
+      ]
+    },
+    {
+      "id": 5139,
+      "name": "Añasco",
+      "state_code": "011",
+      "cities": [
+        {
+          "id": 153554,
+          "name": "Añasco"
+        }
+      ]
+    },
+    {
+      "id": 5140,
+      "name": "Arecibo",
+      "state_code": "013",
+      "cities": [
+        {
+          "id": 153555,
+          "name": "Arecibo"
+        }
+      ]
+    },
+    {
+      "id": 5081,
+      "name": "Arecibo",
+      "state_code": "AR",
+      "cities": []
+    },
+    {
+      "id": 5141,
+      "name": "Arroyo",
+      "state_code": "015",
+      "cities": [
+        {
+          "id": 153556,
+          "name": "Arroyo"
+        }
+      ]
+    },
+    {
+      "id": 5142,
+      "name": "Barceloneta",
+      "state_code": "017",
+      "cities": [
+        {
+          "id": 153557,
+          "name": "Barceloneta"
+        }
+      ]
+    },
+    {
+      "id": 5143,
+      "name": "Barranquitas",
+      "state_code": "019",
+      "cities": [
+        {
+          "id": 153558,
+          "name": "Barranquitas"
+        }
+      ]
+    },
+    {
+      "id": 5144,
+      "name": "Bayamón",
+      "state_code": "021",
+      "cities": [
+        {
+          "id": 153559,
+          "name": "Bayamón"
+        }
+      ]
+    },
+    {
+      "id": 5076,
+      "name": "Bayamon",
+      "state_code": "BY",
+      "cities": []
+    },
+    {
+      "id": 5145,
+      "name": "Cabo Rojo",
+      "state_code": "023",
+      "cities": [
+        {
+          "id": 153560,
+          "name": "Cabo Rojo"
+        }
+      ]
+    },
+    {
+      "id": 5146,
+      "name": "Caguas",
+      "state_code": "025",
+      "cities": [
+        {
+          "id": 153561,
+          "name": "Caguas"
+        }
+      ]
+    },
+    {
+      "id": 5079,
+      "name": "Caguas",
+      "state_code": "CG",
+      "cities": []
+    },
+    {
+      "id": 5147,
+      "name": "Camuy",
+      "state_code": "027",
+      "cities": [
+        {
+          "id": 153562,
+          "name": "Camuy"
+        }
+      ]
+    },
+    {
+      "id": 5148,
+      "name": "Canóvanas",
+      "state_code": "029",
+      "cities": [
+        {
+          "id": 153563,
+          "name": "Canóvanas"
+        }
+      ]
+    },
+    {
+      "id": 5149,
+      "name": "Carolina",
+      "state_code": "031",
+      "cities": [
+        {
+          "id": 153564,
+          "name": "Carolina"
+        }
+      ]
+    },
+    {
+      "id": 5077,
+      "name": "Carolina",
+      "state_code": "CL",
+      "cities": []
+    },
+    {
+      "id": 5150,
+      "name": "Cataño",
+      "state_code": "033",
+      "cities": [
+        {
+          "id": 153565,
+          "name": "Cataño"
+        }
+      ]
+    },
+    {
+      "id": 5151,
+      "name": "Cayey",
+      "state_code": "035",
+      "cities": [
+        {
+          "id": 153566,
+          "name": "Cayey"
+        }
+      ]
+    },
+    {
+      "id": 5152,
+      "name": "Ceiba",
+      "state_code": "037",
+      "cities": [
+        {
+          "id": 153567,
+          "name": "Ceiba"
+        }
+      ]
+    },
+    {
+      "id": 5153,
+      "name": "Ciales",
+      "state_code": "039",
+      "cities": [
+        {
+          "id": 153568,
+          "name": "Ciales"
+        }
+      ]
+    },
+    {
+      "id": 5154,
+      "name": "Cidra",
+      "state_code": "041",
+      "cities": [
+        {
+          "id": 153569,
+          "name": "Cidra"
+        }
+      ]
+    },
+    {
+      "id": 5155,
+      "name": "Coamo",
+      "state_code": "043",
+      "cities": [
+        {
+          "id": 153570,
+          "name": "Coamo"
+        }
+      ]
+    },
+    {
+      "id": 5156,
+      "name": "Comerío",
+      "state_code": "045",
+      "cities": [
+        {
+          "id": 153571,
+          "name": "Comerío"
+        }
+      ]
+    },
+    {
+      "id": 5157,
+      "name": "Corozal",
+      "state_code": "047",
+      "cities": [
+        {
+          "id": 153572,
+          "name": "Corozal"
+        }
+      ]
+    },
+    {
+      "id": 5158,
+      "name": "Culebra",
+      "state_code": "049",
+      "cities": [
+        {
+          "id": 153573,
+          "name": "Culebra"
+        }
+      ]
+    },
+    {
+      "id": 5159,
+      "name": "Dorado",
+      "state_code": "051",
+      "cities": [
+        {
+          "id": 153574,
+          "name": "Dorado"
+        }
+      ]
+    },
+    {
+      "id": 5160,
+      "name": "Fajardo",
+      "state_code": "053",
+      "cities": [
+        {
+          "id": 153575,
+          "name": "Fajardo"
+        }
+      ]
+    },
+    {
+      "id": 5161,
+      "name": "Florida",
+      "state_code": "054",
+      "cities": [
+        {
+          "id": 153576,
+          "name": "Florida"
+        }
+      ]
+    },
+    {
+      "id": 5162,
+      "name": "Guánica",
+      "state_code": "055",
+      "cities": [
+        {
+          "id": 153577,
+          "name": "Guánica"
+        }
+      ]
+    },
+    {
+      "id": 5163,
+      "name": "Guayama",
+      "state_code": "057",
+      "cities": [
+        {
+          "id": 153578,
+          "name": "Guayama"
+        }
+      ]
+    },
+    {
+      "id": 5164,
+      "name": "Guayanilla",
+      "state_code": "059",
+      "cities": [
+        {
+          "id": 153579,
+          "name": "Guayanilla"
+        }
+      ]
+    },
+    {
+      "id": 5165,
+      "name": "Guaynabo",
+      "state_code": "061",
+      "cities": [
+        {
+          "id": 153580,
+          "name": "Guaynabo"
+        }
+      ]
+    },
+    {
+      "id": 5080,
+      "name": "Guaynabo",
+      "state_code": "GN",
+      "cities": []
+    },
+    {
+      "id": 5166,
+      "name": "Gurabo",
+      "state_code": "063",
+      "cities": [
+        {
+          "id": 153581,
+          "name": "Gurabo"
+        }
+      ]
+    },
+    {
+      "id": 5167,
+      "name": "Hatillo",
+      "state_code": "065",
+      "cities": [
+        {
+          "id": 153582,
+          "name": "Hatillo"
+        }
+      ]
+    },
+    {
+      "id": 5168,
+      "name": "Hormigueros",
+      "state_code": "067",
+      "cities": [
+        {
+          "id": 153583,
+          "name": "Hormigueros"
+        }
+      ]
+    },
+    {
+      "id": 5169,
+      "name": "Humacao",
+      "state_code": "069",
+      "cities": [
+        {
+          "id": 153584,
+          "name": "Humacao"
+        }
+      ]
+    },
+    {
+      "id": 5170,
+      "name": "Isabela",
+      "state_code": "071",
+      "cities": [
+        {
+          "id": 153585,
+          "name": "Isabela"
+        }
+      ]
+    },
+    {
+      "id": 5171,
+      "name": "Jayuya",
+      "state_code": "073",
+      "cities": [
+        {
+          "id": 153586,
+          "name": "Jayuya"
+        }
+      ]
+    },
+    {
+      "id": 5172,
+      "name": "Juana Díaz",
+      "state_code": "075",
+      "cities": [
+        {
+          "id": 153587,
+          "name": "Juana Díaz"
+        }
+      ]
+    },
+    {
+      "id": 5173,
+      "name": "Juncos",
+      "state_code": "077",
+      "cities": [
+        {
+          "id": 153588,
+          "name": "Juncos"
+        }
+      ]
+    },
+    {
+      "id": 5174,
+      "name": "Lajas",
+      "state_code": "079",
+      "cities": [
+        {
+          "id": 153589,
+          "name": "Lajas"
+        }
+      ]
+    },
+    {
+      "id": 5175,
+      "name": "Lares",
+      "state_code": "081",
+      "cities": [
+        {
+          "id": 153590,
+          "name": "Lares"
+        }
+      ]
+    },
+    {
+      "id": 5176,
+      "name": "Las Marías",
+      "state_code": "083",
+      "cities": [
+        {
+          "id": 153591,
+          "name": "Las Marías"
+        }
+      ]
+    },
+    {
+      "id": 5177,
+      "name": "Las Piedras",
+      "state_code": "085",
+      "cities": [
+        {
+          "id": 153592,
+          "name": "Las Piedras"
+        }
+      ]
+    },
+    {
+      "id": 5178,
+      "name": "Loíza",
+      "state_code": "087",
+      "cities": [
+        {
+          "id": 153593,
+          "name": "Loíza"
+        }
+      ]
+    },
+    {
+      "id": 5179,
+      "name": "Luquillo",
+      "state_code": "089",
+      "cities": [
+        {
+          "id": 153594,
+          "name": "Luquillo"
+        }
+      ]
+    },
+    {
+      "id": 5180,
+      "name": "Manatí",
+      "state_code": "091",
+      "cities": [
+        {
+          "id": 153595,
+          "name": "Manatí"
+        }
+      ]
+    },
+    {
+      "id": 5181,
+      "name": "Maricao",
+      "state_code": "093",
+      "cities": [
+        {
+          "id": 153596,
+          "name": "Maricao"
+        }
+      ]
+    },
+    {
+      "id": 5182,
+      "name": "Maunabo",
+      "state_code": "095",
+      "cities": [
+        {
+          "id": 153597,
+          "name": "Maunabo"
+        }
+      ]
+    },
+    {
+      "id": 5183,
+      "name": "Mayagüez",
+      "state_code": "097",
+      "cities": [
+        {
+          "id": 153598,
+          "name": "Mayagüez"
+        }
+      ]
+    },
+    {
+      "id": 5083,
+      "name": "Mayagüez",
+      "state_code": "MG",
+      "cities": []
+    },
+    {
+      "id": 5184,
+      "name": "Moca",
+      "state_code": "099",
+      "cities": [
+        {
+          "id": 153599,
+          "name": "Moca"
+        }
+      ]
+    },
+    {
+      "id": 5185,
+      "name": "Morovis",
+      "state_code": "101",
+      "cities": [
+        {
+          "id": 153600,
+          "name": "Morovis"
+        }
+      ]
+    },
+    {
+      "id": 5186,
+      "name": "Naguabo",
+      "state_code": "103",
+      "cities": [
+        {
+          "id": 153601,
+          "name": "Naguabo"
+        }
+      ]
+    },
+    {
+      "id": 5187,
+      "name": "Naranjito",
+      "state_code": "105",
+      "cities": [
+        {
+          "id": 153602,
+          "name": "Naranjito"
+        }
+      ]
+    },
+    {
+      "id": 5188,
+      "name": "Orocovis",
+      "state_code": "107",
+      "cities": [
+        {
+          "id": 153603,
+          "name": "Orocovis"
+        }
+      ]
+    },
+    {
+      "id": 5189,
+      "name": "Patillas",
+      "state_code": "109",
+      "cities": [
+        {
+          "id": 153604,
+          "name": "Patillas"
+        }
+      ]
+    },
+    {
+      "id": 5190,
+      "name": "Peñuelas",
+      "state_code": "111",
+      "cities": [
+        {
+          "id": 153605,
+          "name": "Peñuelas"
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "name": "Ponce",
+      "state_code": "113",
+      "cities": [
+        {
+          "id": 153606,
+          "name": "Ponce"
+        }
+      ]
+    },
+    {
+      "id": 5078,
+      "name": "Ponce",
+      "state_code": "PO",
+      "cities": []
+    },
+    {
+      "id": 5192,
+      "name": "Quebradillas",
+      "state_code": "115",
+      "cities": [
+        {
+          "id": 153607,
+          "name": "Quebradillas"
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "name": "Rincón",
+      "state_code": "117",
+      "cities": [
+        {
+          "id": 153608,
+          "name": "Rincón"
+        }
+      ]
+    },
+    {
+      "id": 5194,
+      "name": "Río Grande",
+      "state_code": "119",
+      "cities": [
+        {
+          "id": 153609,
+          "name": "Río Grande"
+        }
+      ]
+    },
+    {
+      "id": 5195,
+      "name": "Sabana Grande",
+      "state_code": "121",
+      "cities": [
+        {
+          "id": 153610,
+          "name": "Sabana Grande"
+        }
+      ]
+    },
+    {
+      "id": 5196,
+      "name": "Salinas",
+      "state_code": "123",
+      "cities": [
+        {
+          "id": 153611,
+          "name": "Salinas"
+        }
+      ]
+    },
+    {
+      "id": 5197,
+      "name": "San Germán",
+      "state_code": "125",
+      "cities": [
+        {
+          "id": 153612,
+          "name": "San Germán"
+        }
+      ]
+    },
+    {
+      "id": 5198,
+      "name": "San Juan",
+      "state_code": "127",
+      "cities": [
+        {
+          "id": 153613,
+          "name": "San Juan"
+        }
+      ]
+    },
+    {
+      "id": 5075,
+      "name": "San Juan",
+      "state_code": "SJ",
+      "cities": []
+    },
+    {
+      "id": 5199,
+      "name": "San Lorenzo",
+      "state_code": "129",
+      "cities": [
+        {
+          "id": 153614,
+          "name": "San Lorenzo"
+        }
+      ]
+    },
+    {
+      "id": 5200,
+      "name": "San Sebastián",
+      "state_code": "131",
+      "cities": [
+        {
+          "id": 153615,
+          "name": "San Sebastián"
+        }
+      ]
+    },
+    {
+      "id": 5201,
+      "name": "Santa Isabel",
+      "state_code": "133",
+      "cities": [
+        {
+          "id": 153616,
+          "name": "Santa Isabel"
+        }
+      ]
+    },
+    {
+      "id": 5202,
+      "name": "Toa Alta",
+      "state_code": "135",
+      "cities": [
+        {
+          "id": 153617,
+          "name": "Toa Alta"
+        }
+      ]
+    },
+    {
+      "id": 5203,
+      "name": "Toa Baja",
+      "state_code": "137",
+      "cities": [
+        {
+          "id": 153618,
+          "name": "Toa Baja"
+        }
+      ]
+    },
+    {
+      "id": 5082,
+      "name": "Toa Baja",
+      "state_code": "TB",
+      "cities": []
+    },
+    {
+      "id": 5204,
+      "name": "Trujillo Alto",
+      "state_code": "139",
+      "cities": [
+        {
+          "id": 153619,
+          "name": "Trujillo Alto"
+        }
+      ]
+    },
+    {
+      "id": 5084,
+      "name": "Trujillo Alto",
+      "state_code": "TA",
+      "cities": []
+    },
+    {
+      "id": 5205,
+      "name": "Utuado",
+      "state_code": "141",
+      "cities": [
+        {
+          "id": 153620,
+          "name": "Utuado"
+        }
+      ]
+    },
+    {
+      "id": 5206,
+      "name": "Vega Alta",
+      "state_code": "143",
+      "cities": [
+        {
+          "id": 153621,
+          "name": "Vega Alta"
+        }
+      ]
+    },
+    {
+      "id": 5207,
+      "name": "Vega Baja",
+      "state_code": "145",
+      "cities": [
+        {
+          "id": 153622,
+          "name": "Vega Baja"
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "name": "Vieques",
+      "state_code": "147",
+      "cities": [
+        {
+          "id": 153623,
+          "name": "Vieques"
+        }
+      ]
+    },
+    {
+      "id": 5209,
+      "name": "Villalba",
+      "state_code": "149",
+      "cities": [
+        {
+          "id": 153624,
+          "name": "Villalba"
+        }
+      ]
+    },
+    {
+      "id": 5210,
+      "name": "Yabucoa",
+      "state_code": "151",
+      "cities": [
+        {
+          "id": 153625,
+          "name": "Yabucoa"
+        }
+      ]
+    },
+    {
+      "id": 5211,
+      "name": "Yauco",
+      "state_code": "153",
+      "cities": [
+        {
+          "id": 153626,
+          "name": "Yauco"
+        }
+      ]
+    }
+  ]
+}

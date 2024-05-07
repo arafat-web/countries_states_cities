@@ -1,0 +1,300 @@
+{
+  "id": 147,
+  "name": "Montenegro",
+  "short_name": "MNE",
+  "phone_code": "382",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 23,
+      "name": "Andrijevica Municipality",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 67343,
+          "name": "Andrijevica"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bar Municipality",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 67344,
+          "name": "Bar"
+        },
+        {
+          "id": 67369,
+          "name": "Stari Bar"
+        },
+        {
+          "id": 67375,
+          "name": "Šušanj"
+        },
+        {
+          "id": 67370,
+          "name": "Sutomore"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Berane Municipality",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 67345,
+          "name": "Berane"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Bijelo Polje Municipality",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 67346,
+          "name": "Bijelo Polje"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Budva Municipality",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 67347,
+          "name": "Budva"
+        },
+        {
+          "id": 67360,
+          "name": "Petrovac na Moru"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Danilovgrad Municipality",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 67349,
+          "name": "Danilovgrad"
+        },
+        {
+          "id": 67368,
+          "name": "Spuž"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Gusinje Municipality",
+      "state_code": "22",
+      "cities": [
+        {
+          "id": 67353,
+          "name": "Gusinje"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Kolašin Municipality",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 67354,
+          "name": "Kolašin"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Kotor Municipality",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 67350,
+          "name": "Dobrota"
+        },
+        {
+          "id": 67355,
+          "name": "Kotor"
+        },
+        {
+          "id": 67365,
+          "name": "Prčanj"
+        },
+        {
+          "id": 67366,
+          "name": "Risan"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mojkovac Municipality",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 67358,
+          "name": "Mojkovac"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Nikšić Municipality",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 67359,
+          "name": "Nikšić"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Old Royal Capital Cetinje",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 67348,
+          "name": "Cetinje"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Petnjica Municipality",
+      "state_code": "23",
+      "cities": []
+    },
+    {
+      "id": 19,
+      "name": "Plav Municipality",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 67361,
+          "name": "Plav"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pljevlja Municipality",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 67362,
+          "name": "Pljevlja"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Plužine Municipality",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 67363,
+          "name": "Plužine"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Podgorica Municipality",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 67351,
+          "name": "Golubovci"
+        },
+        {
+          "id": 67352,
+          "name": "Goričani"
+        },
+        {
+          "id": 67356,
+          "name": "Mataguži"
+        },
+        {
+          "id": 67357,
+          "name": "Mojanovići"
+        },
+        {
+          "id": 67364,
+          "name": "Podgorica"
+        },
+        {
+          "id": 67372,
+          "name": "Tuzi"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Rožaje Municipality",
+      "state_code": "17",
+      "cities": [
+        {
+          "id": 67367,
+          "name": "Rožaje"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Šavnik Municipality",
+      "state_code": "18",
+      "cities": [
+        {
+          "id": 67374,
+          "name": "Šavnik"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Tivat Municipality",
+      "state_code": "19",
+      "cities": [
+        {
+          "id": 67371,
+          "name": "Tivat"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Ulcinj Municipality",
+      "state_code": "20",
+      "cities": [
+        {
+          "id": 67373,
+          "name": "Ulcinj"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Žabljak Municipality",
+      "state_code": "21",
+      "cities": [
+        {
+          "id": 67376,
+          "name": "Žabljak"
+        }
+      ]
+    }
+  ]
+}

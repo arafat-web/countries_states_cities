@@ -1,0 +1,72 @@
+{
+  "id": 157,
+  "name": "New Caledonia",
+  "short_name": "NCL",
+  "phone_code": "687",
+  "currency": "XPF",
+  "currency_name": "CFP franc",
+  "currency_symbol": "₣",
+  "states": [
+    {
+      "id": 5227,
+      "name": "Loyalty Islands Province",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 153638,
+          "name": "Lifou"
+        },
+        {
+          "id": 153639,
+          "name": "Maré"
+        }
+      ]
+    },
+    {
+      "id": 5226,
+      "name": "North Province",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 153637,
+          "name": "Houaïlou"
+        },
+        {
+          "id": 153635,
+          "name": "Koné"
+        },
+        {
+          "id": 153636,
+          "name": "Poindimié"
+        }
+      ]
+    },
+    {
+      "id": 5225,
+      "name": "South Province",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 153634,
+          "name": "Bourail"
+        },
+        {
+          "id": 153632,
+          "name": "Dumbéa"
+        },
+        {
+          "id": 153631,
+          "name": "Le Mont-Dore"
+        },
+        {
+          "id": 153630,
+          "name": "Nouméa"
+        },
+        {
+          "id": 153633,
+          "name": "Païta"
+        }
+      ]
+    }
+  ]
+}

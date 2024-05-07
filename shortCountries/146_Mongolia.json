@@ -1,0 +1,309 @@
+{
+  "id": 146,
+  "name": "Mongolia",
+  "short_name": "MNG",
+  "phone_code": "976",
+  "currency": "MNT",
+  "currency_name": "Mongolian tögrög",
+  "currency_symbol": "₮",
+  "states": [
+    {
+      "id": 1973,
+      "name": "Arkhangai Province",
+      "state_code": "073",
+      "cities": [
+        {
+          "id": 67734,
+          "name": "Tsetserleg"
+        }
+      ]
+    },
+    {
+      "id": 1969,
+      "name": "Bayan-Ölgii Province",
+      "state_code": "071",
+      "cities": [
+        {
+          "id": 67706,
+          "name": "Altay"
+        },
+        {
+          "id": 67740,
+          "name": "Ölgii"
+        },
+        {
+          "id": 67733,
+          "name": "Tsengel"
+        }
+      ]
+    },
+    {
+      "id": 1976,
+      "name": "Bayankhongor Province",
+      "state_code": "069",
+      "cities": [
+        {
+          "id": 67709,
+          "name": "Bayanhongor"
+        }
+      ]
+    },
+    {
+      "id": 1961,
+      "name": "Bulgan Province",
+      "state_code": "067",
+      "cities": [
+        {
+          "id": 67710,
+          "name": "Bulgan"
+        }
+      ]
+    },
+    {
+      "id": 1962,
+      "name": "Darkhan-Uul Province",
+      "state_code": "037",
+      "cities": [
+        {
+          "id": 67714,
+          "name": "Darhan"
+        }
+      ]
+    },
+    {
+      "id": 1963,
+      "name": "Dornod Province",
+      "state_code": "061",
+      "cities": [
+        {
+          "id": 67711,
+          "name": "Choibalsan"
+        },
+        {
+          "id": 67718,
+          "name": "Ereencav"
+        }
+      ]
+    },
+    {
+      "id": 1981,
+      "name": "Dornogovi Province",
+      "state_code": "063",
+      "cities": []
+    },
+    {
+      "id": 1970,
+      "name": "Dundgovi Province",
+      "state_code": "059",
+      "cities": [
+        {
+          "id": 67725,
+          "name": "Mandalgovi"
+        }
+      ]
+    },
+    {
+      "id": 1972,
+      "name": "Govi-Altai Province",
+      "state_code": "065",
+      "cities": [
+        {
+          "id": 67705,
+          "name": "Altai"
+        }
+      ]
+    },
+    {
+      "id": 1978,
+      "name": "Govisümber Province",
+      "state_code": "064",
+      "cities": [
+        {
+          "id": 67712,
+          "name": "Choyr"
+        }
+      ]
+    },
+    {
+      "id": 1974,
+      "name": "Khentii Province",
+      "state_code": "039",
+      "cities": [
+        {
+          "id": 67739,
+          "name": "Undurkhaan"
+        }
+      ]
+    },
+    {
+      "id": 1964,
+      "name": "Khovd Province",
+      "state_code": "043",
+      "cities": [
+        {
+          "id": 67724,
+          "name": "Khovd"
+        },
+        {
+          "id": 67728,
+          "name": "Möst"
+        },
+        {
+          "id": 67741,
+          "name": "Üyönch"
+        }
+      ]
+    },
+    {
+      "id": 1975,
+      "name": "Khövsgöl Province",
+      "state_code": "041",
+      "cities": [
+        {
+          "id": 67719,
+          "name": "Hanh"
+        },
+        {
+          "id": 67726,
+          "name": "Murun-kuren"
+        },
+        {
+          "id": 67732,
+          "name": "Tsengel"
+        },
+        {
+          "id": 67735,
+          "name": "Turt"
+        }
+      ]
+    },
+    {
+      "id": 1967,
+      "name": "Ömnögovi Province",
+      "state_code": "053",
+      "cities": [
+        {
+          "id": 67713,
+          "name": "Dalandzadgad"
+        },
+        {
+          "id": 67720,
+          "name": "Hanhongor"
+        },
+        {
+          "id": 67730,
+          "name": "Nomgon Sum"
+        }
+      ]
+    },
+    {
+      "id": 1966,
+      "name": "Orkhon Province",
+      "state_code": "035",
+      "cities": [
+        {
+          "id": 67717,
+          "name": "Erdenet"
+        }
+      ]
+    },
+    {
+      "id": 1965,
+      "name": "Övörkhangai Province",
+      "state_code": "055",
+      "cities": [
+        {
+          "id": 67707,
+          "name": "Arvayheer"
+        },
+        {
+          "id": 67721,
+          "name": "Harhorin"
+        },
+        {
+          "id": 67722,
+          "name": "Hovd"
+        },
+        {
+          "id": 67723,
+          "name": "Kharkhorin"
+        },
+        {
+          "id": 67729,
+          "name": "Nariynteel"
+        }
+      ]
+    },
+    {
+      "id": 1980,
+      "name": "Selenge Province",
+      "state_code": "049",
+      "cities": [
+        {
+          "id": 67716,
+          "name": "Dzüünharaa"
+        },
+        {
+          "id": 67731,
+          "name": "Sühbaatar"
+        }
+      ]
+    },
+    {
+      "id": 1977,
+      "name": "Sükhbaatar Province",
+      "state_code": "051",
+      "cities": [
+        {
+          "id": 67708,
+          "name": "Baruun-Urt"
+        }
+      ]
+    },
+    {
+      "id": 1968,
+      "name": "Töv Province",
+      "state_code": "047",
+      "cities": [
+        {
+          "id": 67715,
+          "name": "Dzuunmod"
+        },
+        {
+          "id": 67727,
+          "name": "Möngönmorĭt"
+        },
+        {
+          "id": 67737,
+          "name": "Ulaanhudag"
+        },
+        {
+          "id": 67742,
+          "name": "Зуунмод"
+        }
+      ]
+    },
+    {
+      "id": 1971,
+      "name": "Uvs Province",
+      "state_code": "046",
+      "cities": [
+        {
+          "id": 67736,
+          "name": "Ulaangom"
+        }
+      ]
+    },
+    {
+      "id": 1979,
+      "name": "Zavkhan Province",
+      "state_code": "057",
+      "cities": [
+        {
+          "id": 67738,
+          "name": "Uliastay"
+        }
+      ]
+    }
+  ]
+}

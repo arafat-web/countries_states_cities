@@ -1,0 +1,242 @@
+{
+  "id": 98,
+  "name": "Hong Kong S.A.R.",
+  "short_name": "HKG",
+  "phone_code": "852",
+  "currency": "HKD",
+  "currency_name": "Hong Kong dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 4889,
+      "name": "Central and Western",
+      "state_code": "HCW",
+      "cities": [
+        {
+          "id": 153484,
+          "name": "Admiralty"
+        },
+        {
+          "id": 153483,
+          "name": "Central"
+        }
+      ]
+    },
+    {
+      "id": 4891,
+      "name": "Eastern",
+      "state_code": "HEA",
+      "cities": []
+    },
+    {
+      "id": 4888,
+      "name": "Islands",
+      "state_code": "NIS",
+      "cities": [
+        {
+          "id": 153508,
+          "name": "Tai O"
+        }
+      ]
+    },
+    {
+      "id": 4895,
+      "name": "Kowloon City",
+      "state_code": "KKC",
+      "cities": [
+        {
+          "id": 153500,
+          "name": "Kowloon Tong"
+        }
+      ]
+    },
+    {
+      "id": 4898,
+      "name": "Kwai Tsing",
+      "state_code": "NKT",
+      "cities": []
+    },
+    {
+      "id": 4897,
+      "name": "Kwun Tong",
+      "state_code": "KKT",
+      "cities": [
+        {
+          "id": 153505,
+          "name": "Kwun Tong"
+        },
+        {
+          "id": 153504,
+          "name": "Lam Tin"
+        }
+      ]
+    },
+    {
+      "id": 4900,
+      "name": "North",
+      "state_code": "NNO",
+      "cities": [
+        {
+          "id": 153497,
+          "name": "Sheung Shui"
+        }
+      ]
+    },
+    {
+      "id": 4887,
+      "name": "Sai Kung",
+      "state_code": "NSK",
+      "cities": [
+        {
+          "id": 153493,
+          "name": "Sai Kung"
+        },
+        {
+          "id": 153498,
+          "name": "Tseung Kwan O"
+        }
+      ]
+    },
+    {
+      "id": 4901,
+      "name": "Sha Tin",
+      "state_code": "NST",
+      "cities": [
+        {
+          "id": 153494,
+          "name": "Ma On Shan"
+        },
+        {
+          "id": 153489,
+          "name": "Sha Tin"
+        },
+        {
+          "id": 153499,
+          "name": "Sha Tin Wai"
+        }
+      ]
+    },
+    {
+      "id": 4894,
+      "name": "Sham Shui Po",
+      "state_code": "KSS",
+      "cities": [
+        {
+          "id": 153501,
+          "name": "Cheung Sha Wan"
+        },
+        {
+          "id": 153502,
+          "name": "Lai Chi Kok"
+        }
+      ]
+    },
+    {
+      "id": 4892,
+      "name": "Southern",
+      "state_code": "HSO",
+      "cities": [
+        {
+          "id": 153506,
+          "name": "Aberdeen"
+        },
+        {
+          "id": 153496,
+          "name": "Stanley"
+        },
+        {
+          "id": 153507,
+          "name": "Stanley Peninsula"
+        }
+      ]
+    },
+    {
+      "id": 4885,
+      "name": "Tai Po",
+      "state_code": "NTP",
+      "cities": [
+        {
+          "id": 153509,
+          "name": "Tai Mei Tuk"
+        },
+        {
+          "id": 153495,
+          "name": "Tai Po"
+        }
+      ]
+    },
+    {
+      "id": 4884,
+      "name": "Tsuen Wan",
+      "state_code": "NTW",
+      "cities": [
+        {
+          "id": 153490,
+          "name": "Tsuen Wan"
+        },
+        {
+          "id": 153491,
+          "name": "Tuen Mun\t"
+        }
+      ]
+    },
+    {
+      "id": 4899,
+      "name": "Tuen Mun",
+      "state_code": "NTM",
+      "cities": []
+    },
+    {
+      "id": 4890,
+      "name": "Wan Chai",
+      "state_code": "HWC",
+      "cities": [
+        {
+          "id": 153486,
+          "name": "Causeway Bay"
+        },
+        {
+          "id": 153485,
+          "name": "Wan Chai"
+        }
+      ]
+    },
+    {
+      "id": 4896,
+      "name": "Wong Tai Sin",
+      "state_code": "KWT",
+      "cities": [
+        {
+          "id": 153503,
+          "name": "Wong Tai Sin"
+        }
+      ]
+    },
+    {
+      "id": 4893,
+      "name": "Yau Tsim Mong",
+      "state_code": "KYT",
+      "cities": [
+        {
+          "id": 153488,
+          "name": "Mong Kok"
+        },
+        {
+          "id": 153487,
+          "name": "Tsim Sha Tsui"
+        }
+      ]
+    },
+    {
+      "id": 4883,
+      "name": "Yuen Long",
+      "state_code": "NYL",
+      "cities": [
+        {
+          "id": 153492,
+          "name": "Yuen Long"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "id": 104,
+  "name": "Iraq",
+  "short_name": "IRQ",
+  "phone_code": "964",
+  "currency": "IQD",
+  "currency_name": "Iraqi dinar",
+  "currency_symbol": "د.ع",
+  "states": [
+    {
+      "id": 3964,
+      "name": "Al Anbar",
+      "state_code": "AN",
+      "cities": [
+        {
+          "id": 134552,
+          "name": "‘Anah"
+        },
+        {
+          "id": 134553,
+          "name": "‘Anat al Qadīmah"
+        },
+        {
+          "id": 134478,
+          "name": "Al Fallūjah"
+        },
+        {
+          "id": 134495,
+          "name": "Ar Ruţbah"
+        },
+        {
+          "id": 134548,
+          "name": "Ḩadīthah"
+        },
+        {
+          "id": 134514,
+          "name": "Hīt"
+        },
+        {
+          "id": 134515,
+          "name": "Hīt District"
+        },
+        {
+          "id": 134533,
+          "name": "Ramadi"
+        },
+        {
+          "id": 134535,
+          "name": "Rāwah"
+        }
+      ]
+    },
+    {
+      "id": 3958,
+      "name": "Al Muthanna",
+      "state_code": "MU",
+      "cities": [
+        {
+          "id": 134494,
+          "name": "Ar Rumaythah"
+        },
+        {
+          "id": 134497,
+          "name": "As Samawah"
+        }
+      ]
+    },
+    {
+      "id": 3956,
+      "name": "Al-Qādisiyyah",
+      "state_code": "QA",
+      "cities": [
+        {
+          "id": 134550,
+          "name": "‘Afak"
+        },
+        {
+          "id": 134476,
+          "name": "Ad Dīwānīyah"
+        },
+        {
+          "id": 134501,
+          "name": "Ash Shāmīyah"
+        },
+        {
+          "id": 134530,
+          "name": "Nāḩiyat ash Shināfīyah"
+        },
+        {
+          "id": 134526,
+          "name": "Nahiyat Ghammas"
+        }
+      ]
+    },
+    {
+      "id": 3955,
+      "name": "Babylon",
+      "state_code": "BB",
+      "cities": [
+        {
+          "id": 134488,
+          "name": "Al Ḩillah"
+        },
+        {
+          "id": 134486,
+          "name": "Al Musayyib"
+        },
+        {
+          "id": 134516,
+          "name": "Imam Qasim"
+        },
+        {
+          "id": 134531,
+          "name": "Nāḩīyat Saddat al Hindīyah"
+        }
+      ]
+    },
+    {
+      "id": 3959,
+      "name": "Baghdad",
+      "state_code": "BG",
+      "cities": [
+        {
+          "id": 134473,
+          "name": "Abu Ghraib District"
+        },
+        {
+          "id": 134474,
+          "name": "Abū Ghurayb"
+        },
+        {
+          "id": 153202,
+          "name": "Adamiyah"
+        },
+        {
+          "id": 153203,
+          "name": "Al Adel"
+        },
+        {
+          "id": 153204,
+          "name": "Al Baladiyat"
+        },
+        {
+          "id": 153205,
+          "name": "Al Jamaa"
+        },
+        {
+          "id": 153206,
+          "name": "Al Saadoon Park"
+        },
+        {
+          "id": 153207,
+          "name": "Al Salhiah"
+        },
+        {
+          "id": 153208,
+          "name": "Al Za'franiya"
+        },
+        {
+          "id": 153209,
+          "name": "Al-Ubaidi"
+        },
+        {
+          "id": 153210,
+          "name": "Al-Wahda"
+        },
+        {
+          "id": 153211,
+          "name": "Ameria"
+        },
+        {
+          "id": 153212,
+          "name": "Amil District"
+        },
+        {
+          "id": 153213,
+          "name": "Amin"
+        },
+        {
+          "id": 153214,
+          "name": "Arasat AlHindiya"
+        },
+        {
+          "id": 153215,
+          "name": "At Taifiya"
+        },
+        {
+          "id": 153216,
+          "name": "Bab Al Moatham"
+        },
+        {
+          "id": 153217,
+          "name": "Bab Al Sharqi"
+        },
+        {
+          "id": 134504,
+          "name": "Baghdad"
+        },
+        {
+          "id": 153218,
+          "name": "Baghdad Al Jadeeda"
+        },
+        {
+          "id": 153219,
+          "name": "Baijai"
+        },
+        {
+          "id": 153220,
+          "name": "Bataween"
+        },
+        {
+          "id": 153221,
+          "name": "Bayaa"
+        },
+        {
+          "id": 153222,
+          "name": "Binouk"
+        },
+        {
+          "id": 153223,
+          "name": "Bo'aitha"
+        },
+        {
+          "id": 153224,
+          "name": "Camp Sarah"
+        },
+        {
+          "id": 153225,
+          "name": "Daoudi"
+        },
+        {
+          "id": 153226,
+          "name": "Dora"
+        },
+        {
+          "id": 153227,
+          "name": "Ghadeer"
+        },
+        {
+          "id": 153228,
+          "name": "Ghazaliya"
+        },
+        {
+          "id": 153229,
+          "name": "Gherai'at"
+        },
+        {
+          "id": 153230,
+          "name": "Green Zone"
+        },
+        {
+          "id": 153231,
+          "name": "Habibiya"
+        },
+        {
+          "id": 153232,
+          "name": "Harthiya"
+        },
+        {
+          "id": 153233,
+          "name": "Hurriya"
+        },
+        {
+          "id": 153234,
+          "name": "Iskan"
+        },
+        {
+          "id": 153235,
+          "name": "Jadriyah"
+        },
+        {
+          "id": 153236,
+          "name": "Jamila"
+        },
+        {
+          "id": 153237,
+          "name": "Jihad"
+        },
+        {
+          "id": 153238,
+          "name": "Kadhimiya"
+        },
+        {
+          "id": 153239,
+          "name": "Kamaliyah"
+        },
+        {
+          "id": 153240,
+          "name": "Karada"
+        },
+        {
+          "id": 153241,
+          "name": "Khadra"
+        },
+        {
+          "id": 153242,
+          "name": "Mansour"
+        },
+        {
+          "id": 153243,
+          "name": "Mashtal"
+        },
+        {
+          "id": 153244,
+          "name": "Mustansiriya"
+        },
+        {
+          "id": 153245,
+          "name": "Qadisiyah"
+        },
+        {
+          "id": 153246,
+          "name": "Sadr City"
+        },
+        {
+          "id": 153247,
+          "name": "Saidiya"
+        },
+        {
+          "id": 153248,
+          "name": "Sha'ab"
+        },
+        {
+          "id": 153249,
+          "name": "Sheik Maaruf"
+        },
+        {
+          "id": 153250,
+          "name": "Shorjah"
+        },
+        {
+          "id": 153251,
+          "name": "Suleikh"
+        },
+        {
+          "id": 153252,
+          "name": "Ur District"
+        },
+        {
+          "id": 153253,
+          "name": "Wazireya"
+        },
+        {
+          "id": 153254,
+          "name": "Yarmouk"
+        },
+        {
+          "id": 153255,
+          "name": "Ziyouna"
+        }
+      ]
+    },
+    {
+      "id": 3960,
+      "name": "Basra",
+      "state_code": "BA",
+      "cities": [
+        {
+          "id": 134477,
+          "name": "Al Başrah al Qadīmah"
+        },
+        {
+          "id": 134479,
+          "name": "Al Fāw"
+        },
+        {
+          "id": 134481,
+          "name": "Al Hārithah"
+        },
+        {
+          "id": 134502,
+          "name": "Az Zubayr"
+        },
+        {
+          "id": 134508,
+          "name": "Basrah"
+        },
+        {
+          "id": 134546,
+          "name": "Umm Qaşr"
+        }
+      ]
+    },
+    {
+      "id": 3954,
+      "name": "Dhi Qar",
+      "state_code": "DQ",
+      "cities": [
+        {
+          "id": 134500,
+          "name": "Ash Shaţrah"
+        },
+        {
+          "id": 134529,
+          "name": "Nāḩiyat al Fuhūd"
+        },
+        {
+          "id": 134528,
+          "name": "Nasiriyah"
+        }
+      ]
+    },
+    {
+      "id": 3965,
+      "name": "Diyala",
+      "state_code": "DI",
+      "cities": [
+        {
+          "id": 134484,
+          "name": "Al Miqdādīyah"
+        },
+        {
+          "id": 134506,
+          "name": "Baladrūz"
+        },
+        {
+          "id": 134507,
+          "name": "Baqubah"
+        },
+        {
+          "id": 134519,
+          "name": "Khāliş"
+        },
+        {
+          "id": 134520,
+          "name": "Kifrī"
+        },
+        {
+          "id": 134524,
+          "name": "Mandalī"
+        },
+        {
+          "id": 134532,
+          "name": "Qaḑā’ Kifrī"
+        }
+      ]
+    },
+    {
+      "id": 3967,
+      "name": "Dohuk",
+      "state_code": "DA",
+      "cities": [
+        {
+          "id": 134489,
+          "name": "Al ‘Amādīyah"
+        },
+        {
+          "id": 134509,
+          "name": "Batifa"
+        },
+        {
+          "id": 134512,
+          "name": "Dihok"
+        },
+        {
+          "id": 134541,
+          "name": "Sīnah"
+        },
+        {
+          "id": 134547,
+          "name": "Zaxo"
+        }
+      ]
+    },
+    {
+      "id": 3968,
+      "name": "Erbil",
+      "state_code": "AR",
+      "cities": [
+        {
+          "id": 134496,
+          "name": "Arbil"
+        },
+        {
+          "id": 134513,
+          "name": "Erbil"
+        },
+        {
+          "id": 134522,
+          "name": "Koysinceq"
+        },
+        {
+          "id": 134534,
+          "name": "Ruwāndiz"
+        },
+        {
+          "id": 134536,
+          "name": "Shaqlāwah"
+        },
+        {
+          "id": 134539,
+          "name": "Soran"
+        }
+      ]
+    },
+    {
+      "id": 3957,
+      "name": "Karbala",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 134480,
+          "name": "Al Hindīyah"
+        },
+        {
+          "id": 134518,
+          "name": "Karbala"
+        }
+      ]
+    },
+    {
+      "id": 3971,
+      "name": "Kirkuk",
+      "state_code": "KI",
+      "cities": [
+        {
+          "id": 134521,
+          "name": "Kirkuk"
+        }
+      ]
+    },
+    {
+      "id": 3966,
+      "name": "Maysan",
+      "state_code": "MA",
+      "cities": [
+        {
+          "id": 134551,
+          "name": "‘Alī al Gharbī"
+        },
+        {
+          "id": 134490,
+          "name": "Al ‘Amārah"
+        },
+        {
+          "id": 134493,
+          "name": "Al-Mejar Al-Kabi District"
+        }
+      ]
+    },
+    {
+      "id": 3962,
+      "name": "Najaf",
+      "state_code": "NA",
+      "cities": [
+        {
+          "id": 134485,
+          "name": "Al Mishkhāb"
+        },
+        {
+          "id": 134523,
+          "name": "Kufa"
+        },
+        {
+          "id": 134527,
+          "name": "Najaf"
+        }
+      ]
+    },
+    {
+      "id": 3963,
+      "name": "Nineveh",
+      "state_code": "NI",
+      "cities": [
+        {
+          "id": 134554,
+          "name": "‘Aqrah"
+        },
+        {
+          "id": 134483,
+          "name": "Al Mawşil al Jadīdah"
+        },
+        {
+          "id": 134492,
+          "name": "Al-Hamdaniya"
+        },
+        {
+          "id": 134499,
+          "name": "Ash Shaykhān"
+        },
+        {
+          "id": 134525,
+          "name": "Mosul"
+        },
+        {
+          "id": 134537,
+          "name": "Sinjar"
+        },
+        {
+          "id": 134542,
+          "name": "Tall ‘Afar"
+        },
+        {
+          "id": 134543,
+          "name": "Tallkayf"
+        }
+      ]
+    },
+    {
+      "id": 3961,
+      "name": "Saladin",
+      "state_code": "SD",
+      "cities": [
+        {
+          "id": 134475,
+          "name": "Ad Dujayl"
+        },
+        {
+          "id": 134505,
+          "name": "Balad"
+        },
+        {
+          "id": 134510,
+          "name": "Bayjī"
+        },
+        {
+          "id": 134540,
+          "name": "Sāmarrā’"
+        },
+        {
+          "id": 134544,
+          "name": "Tikrīt"
+        },
+        {
+          "id": 134545,
+          "name": "Tozkhurmato"
+        }
+      ]
+    },
+    {
+      "id": 3969,
+      "name": "Sulaymaniyah",
+      "state_code": "SU",
+      "cities": [
+        {
+          "id": 134498,
+          "name": "As Sulaymānīyah"
+        },
+        {
+          "id": 134511,
+          "name": "Baynjiwayn"
+        },
+        {
+          "id": 134549,
+          "name": "Ḩalabjah"
+        },
+        {
+          "id": 134517,
+          "name": "Jamjamāl"
+        }
+      ]
+    },
+    {
+      "id": 3970,
+      "name": "Wasit",
+      "state_code": "WA",
+      "cities": [
+        {
+          "id": 134491,
+          "name": "Al ‘Azīzīyah"
+        },
+        {
+          "id": 134487,
+          "name": "Al Ḩayy"
+        },
+        {
+          "id": 134482,
+          "name": "Al Kūt"
+        },
+        {
+          "id": 134503,
+          "name": "Aş Şuwayrah"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": 57,
+  "name": "Cyprus",
+  "short_name": "CYP",
+  "phone_code": "357",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 749,
+      "name": "Famagusta District (Mağusa)",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 22011,
+          "name": "Acherítou"
+        },
+        {
+          "id": 22102,
+          "name": "Áchna"
+        },
+        {
+          "id": 22014,
+          "name": "Ammochostos Municipality"
+        },
+        {
+          "id": 22020,
+          "name": "Avgórou"
+        },
+        {
+          "id": 22021,
+          "name": "Ayia Napa"
+        },
+        {
+          "id": 22023,
+          "name": "Derýneia"
+        },
+        {
+          "id": 22029,
+          "name": "Famagusta"
+        },
+        {
+          "id": 22030,
+          "name": "Frénaros"
+        },
+        {
+          "id": 22052,
+          "name": "Lefkónoiko"
+        },
+        {
+          "id": 22054,
+          "name": "Leonárisso"
+        },
+        {
+          "id": 22056,
+          "name": "Liopétri"
+        },
+        {
+          "id": 22072,
+          "name": "Paralímni"
+        },
+        {
+          "id": 22078,
+          "name": "Protaras"
+        },
+        {
+          "id": 22090,
+          "name": "Rizokárpaso"
+        },
+        {
+          "id": 22095,
+          "name": "Tríkomo"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "name": "Kyrenia District (Keryneia)",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 22045,
+          "name": "Kyrenia"
+        },
+        {
+          "id": 22046,
+          "name": "Kyrenia Municipality"
+        },
+        {
+          "id": 22059,
+          "name": "Lápithos"
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "name": "Larnaca District (Larnaka)",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 22015,
+          "name": "Aradíppou"
+        },
+        {
+          "id": 22019,
+          "name": "Athíenou"
+        },
+        {
+          "id": 22024,
+          "name": "Dhromolaxia"
+        },
+        {
+          "id": 22049,
+          "name": "Kíti"
+        },
+        {
+          "id": 22039,
+          "name": "Kofínou"
+        },
+        {
+          "id": 22042,
+          "name": "Kolossi"
+        },
+        {
+          "id": 22050,
+          "name": "Kórnos"
+        },
+        {
+          "id": 22051,
+          "name": "Larnaca"
+        },
+        {
+          "id": 22057,
+          "name": "Livádia"
+        },
+        {
+          "id": 22062,
+          "name": "Meneou"
+        },
+        {
+          "id": 22064,
+          "name": "Mosfilotí"
+        },
+        {
+          "id": 22087,
+          "name": "Pérgamos"
+        },
+        {
+          "id": 22076,
+          "name": "Perivólia"
+        },
+        {
+          "id": 22079,
+          "name": "Psevdás"
+        },
+        {
+          "id": 22089,
+          "name": "Pýla"
+        },
+        {
+          "id": 22093,
+          "name": "Tersefánou"
+        },
+        {
+          "id": 22094,
+          "name": "Troúlloi"
+        },
+        {
+          "id": 22099,
+          "name": "Voróklini"
+        },
+        {
+          "id": 22100,
+          "name": "Xylofágou"
+        },
+        {
+          "id": 22101,
+          "name": "Xylotymbou"
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "name": "Limassol District (Leymasun)",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 22103,
+          "name": "Ágios Tomás"
+        },
+        {
+          "id": 22104,
+          "name": "Ágios Týchon"
+        },
+        {
+          "id": 22028,
+          "name": "Erími"
+        },
+        {
+          "id": 22031,
+          "name": "Germasógeia"
+        },
+        {
+          "id": 22044,
+          "name": "Kyperoúnta"
+        },
+        {
+          "id": 22053,
+          "name": "Lemesós"
+        },
+        {
+          "id": 22055,
+          "name": "Limassol"
+        },
+        {
+          "id": 22065,
+          "name": "Mouttagiáka"
+        },
+        {
+          "id": 22082,
+          "name": "Páchna"
+        },
+        {
+          "id": 22084,
+          "name": "Páno Polemídia"
+        },
+        {
+          "id": 22073,
+          "name": "Parekklisha"
+        },
+        {
+          "id": 22074,
+          "name": "Peléndri"
+        },
+        {
+          "id": 22077,
+          "name": "Pissoúri"
+        },
+        {
+          "id": 22081,
+          "name": "Pyrgos"
+        },
+        {
+          "id": 22091,
+          "name": "Sotíra"
+        },
+        {
+          "id": 22092,
+          "name": "Soúni-Zanakiá"
+        },
+        {
+          "id": 22105,
+          "name": "Ýpsonas"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "name": "Nicosia District (Lefkoşa)",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 22012,
+          "name": "Akáki"
+        },
+        {
+          "id": 22013,
+          "name": "Alámpra"
+        },
+        {
+          "id": 22016,
+          "name": "Aredioú"
+        },
+        {
+          "id": 22018,
+          "name": "Astromerítis"
+        },
+        {
+          "id": 22025,
+          "name": "Dáli"
+        },
+        {
+          "id": 22027,
+          "name": "Ergátes"
+        },
+        {
+          "id": 22035,
+          "name": "Géri"
+        },
+        {
+          "id": 22036,
+          "name": "Kakopetriá"
+        },
+        {
+          "id": 22047,
+          "name": "Káto Defterá"
+        },
+        {
+          "id": 22048,
+          "name": "Káto Pýrgos"
+        },
+        {
+          "id": 22038,
+          "name": "Klírou"
+        },
+        {
+          "id": 22040,
+          "name": "Kokkinotrimithiá"
+        },
+        {
+          "id": 22060,
+          "name": "Léfka"
+        },
+        {
+          "id": 22061,
+          "name": "Lýmpia"
+        },
+        {
+          "id": 22058,
+          "name": "Lythrodóntas"
+        },
+        {
+          "id": 22066,
+          "name": "Mámmari"
+        },
+        {
+          "id": 22067,
+          "name": "Méniko"
+        },
+        {
+          "id": 22068,
+          "name": "Mórfou"
+        },
+        {
+          "id": 22069,
+          "name": "Nicosia"
+        },
+        {
+          "id": 22070,
+          "name": "Nicosia Municipality"
+        },
+        {
+          "id": 22083,
+          "name": "Páno Defterá"
+        },
+        {
+          "id": 22086,
+          "name": "Péra"
+        },
+        {
+          "id": 22075,
+          "name": "Peristeróna"
+        },
+        {
+          "id": 22080,
+          "name": "Psimolofou"
+        },
+        {
+          "id": 22097,
+          "name": "Tséri"
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "name": "Paphos District (Pafos)",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 22017,
+          "name": "Argáka"
+        },
+        {
+          "id": 22022,
+          "name": "Chlórakas"
+        },
+        {
+          "id": 22026,
+          "name": "Emba"
+        },
+        {
+          "id": 22032,
+          "name": "Geroskipou"
+        },
+        {
+          "id": 22033,
+          "name": "Geroskípou (quarter)"
+        },
+        {
+          "id": 22034,
+          "name": "Geroskípou Municipality"
+        },
+        {
+          "id": 22037,
+          "name": "Kissonerga"
+        },
+        {
+          "id": 22041,
+          "name": "Koloni"
+        },
+        {
+          "id": 22043,
+          "name": "Konia"
+        },
+        {
+          "id": 22063,
+          "name": "Mesógi"
+        },
+        {
+          "id": 22071,
+          "name": "Paphos"
+        },
+        {
+          "id": 22085,
+          "name": "Pégeia"
+        },
+        {
+          "id": 22088,
+          "name": "Pólis"
+        },
+        {
+          "id": 22098,
+          "name": "Tála"
+        },
+        {
+          "id": 22096,
+          "name": "Tsáda"
+        }
+      ]
+    }
+  ]
+}

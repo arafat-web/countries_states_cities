@@ -1,0 +1,165 @@
+{
+  "id": 191,
+  "name": "Samoa",
+  "short_name": "WSM",
+  "phone_code": "685",
+  "currency": "WST",
+  "currency_name": "Samoan tālā",
+  "currency_symbol": "SAT",
+  "states": [
+    {
+      "id": 4763,
+      "name": "A'ana",
+      "state_code": "AA",
+      "cities": [
+        {
+          "id": 130647,
+          "name": "Fasito‘outa"
+        },
+        {
+          "id": 130649,
+          "name": "Leulumoega"
+        },
+        {
+          "id": 130655,
+          "name": "Nofoali‘i"
+        },
+        {
+          "id": 130658,
+          "name": "Satapuala"
+        }
+      ]
+    },
+    {
+      "id": 4761,
+      "name": "Aiga-i-le-Tai",
+      "state_code": "AL",
+      "cities": [
+        {
+          "id": 130654,
+          "name": "Mulifanua"
+        }
+      ]
+    },
+    {
+      "id": 4765,
+      "name": "Atua",
+      "state_code": "AT",
+      "cities": [
+        {
+          "id": 130646,
+          "name": "Falefa"
+        },
+        {
+          "id": 130650,
+          "name": "Lotofagā"
+        },
+        {
+          "id": 130651,
+          "name": "Lufilufi"
+        },
+        {
+          "id": 130659,
+          "name": "Solosolo"
+        }
+      ]
+    },
+    {
+      "id": 4764,
+      "name": "Fa'asaleleaga",
+      "state_code": "FA",
+      "cities": []
+    },
+    {
+      "id": 4769,
+      "name": "Gaga'emauga",
+      "state_code": "GE",
+      "cities": []
+    },
+    {
+      "id": 4771,
+      "name": "Gaga'ifomauga",
+      "state_code": "GI",
+      "cities": [
+        {
+          "id": 130653,
+          "name": "Matavai"
+        },
+        {
+          "id": 130656,
+          "name": "Safotu"
+        }
+      ]
+    },
+    {
+      "id": 4767,
+      "name": "Palauli",
+      "state_code": "PA",
+      "cities": [
+        {
+          "id": 130648,
+          "name": "Gataivai"
+        },
+        {
+          "id": 130661,
+          "name": "Vailoa"
+        }
+      ]
+    },
+    {
+      "id": 4762,
+      "name": "Satupa'itea",
+      "state_code": "SA",
+      "cities": []
+    },
+    {
+      "id": 4770,
+      "name": "Tuamasaga",
+      "state_code": "TU",
+      "cities": [
+        {
+          "id": 130643,
+          "name": "Afega"
+        },
+        {
+          "id": 130644,
+          "name": "Apia"
+        },
+        {
+          "id": 130652,
+          "name": "Malie"
+        },
+        {
+          "id": 130660,
+          "name": "Vailima"
+        },
+        {
+          "id": 130662,
+          "name": "Vaiusu"
+        }
+      ]
+    },
+    {
+      "id": 4768,
+      "name": "Va'a-o-Fonoti",
+      "state_code": "VF",
+      "cities": [
+        {
+          "id": 130657,
+          "name": "Samamea"
+        }
+      ]
+    },
+    {
+      "id": 4766,
+      "name": "Vaisigano",
+      "state_code": "VS",
+      "cities": [
+        {
+          "id": 130645,
+          "name": "Asau"
+        }
+      ]
+    }
+  ]
+}

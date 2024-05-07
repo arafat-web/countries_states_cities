@@ -1,0 +1,112 @@
+{
+  "id": 242,
+  "name": "Virgin Islands (US)",
+  "short_name": "VIR",
+  "phone_code": "+1-340",
+  "currency": "USD",
+  "currency_name": "United States dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 5074,
+      "name": "Saint Croix",
+      "state_code": "SC",
+      "cities": [
+        {
+          "id": 149573,
+          "name": "Christiansted"
+        },
+        {
+          "id": 149574,
+          "name": "East End"
+        },
+        {
+          "id": 149575,
+          "name": "Frederiksted"
+        },
+        {
+          "id": 149572,
+          "name": "Good Hope"
+        },
+        {
+          "id": 149576,
+          "name": "Northcentral"
+        },
+        {
+          "id": 149577,
+          "name": "Northwest"
+        },
+        {
+          "id": 149578,
+          "name": "Sion Farm"
+        },
+        {
+          "id": 149579,
+          "name": "Southcentral"
+        },
+        {
+          "id": 149580,
+          "name": "Southwest"
+        }
+      ]
+    },
+    {
+      "id": 5073,
+      "name": "Saint John",
+      "state_code": "SJ",
+      "cities": [
+        {
+          "id": 149568,
+          "name": "Central"
+        },
+        {
+          "id": 149569,
+          "name": "Coral Bay"
+        },
+        {
+          "id": 149570,
+          "name": "Cruz Bay"
+        },
+        {
+          "id": 149571,
+          "name": "East End"
+        }
+      ]
+    },
+    {
+      "id": 5072,
+      "name": "Saint Thomas",
+      "state_code": "ST",
+      "cities": [
+        {
+          "id": 149561,
+          "name": "Charlotte Amalie"
+        },
+        {
+          "id": 149562,
+          "name": "East End"
+        },
+        {
+          "id": 149563,
+          "name": "Northside"
+        },
+        {
+          "id": 149564,
+          "name": "Southside"
+        },
+        {
+          "id": 149565,
+          "name": "Tutu"
+        },
+        {
+          "id": 149566,
+          "name": "Water Island"
+        },
+        {
+          "id": 149567,
+          "name": "West End"
+        }
+      ]
+    }
+  ]
+}

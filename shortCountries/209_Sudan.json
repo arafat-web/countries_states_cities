@@ -1,0 +1,421 @@
+{
+  "id": 209,
+  "name": "Sudan",
+  "short_name": "SDN",
+  "phone_code": "249",
+  "currency": "SDG",
+  "currency_name": "Sudanese pound",
+  "currency_symbol": ".س.ج",
+  "states": [
+    {
+      "id": 885,
+      "name": "Al Jazirah",
+      "state_code": "GZ",
+      "cities": [
+        {
+          "id": 102921,
+          "name": "Al Hasaheisa"
+        },
+        {
+          "id": 102922,
+          "name": "Al Hilāliyya"
+        },
+        {
+          "id": 102924,
+          "name": "Al Kiremit al ‘Arakiyyīn"
+        },
+        {
+          "id": 102926,
+          "name": "Al Manāqil"
+        },
+        {
+          "id": 102927,
+          "name": "Al Masallamiyya"
+        },
+        {
+          "id": 102980,
+          "name": "Wad Medani"
+        },
+        {
+          "id": 102981,
+          "name": "Wad Rāwah"
+        }
+      ]
+    },
+    {
+      "id": 886,
+      "name": "Al Qadarif",
+      "state_code": "GD",
+      "cities": [
+        {
+          "id": 102931,
+          "name": "Al Ḩawātah"
+        },
+        {
+          "id": 102929,
+          "name": "Al Qadarif"
+        },
+        {
+          "id": 102942,
+          "name": "Doka"
+        }
+      ]
+    },
+    {
+      "id": 887,
+      "name": "Blue Nile",
+      "state_code": "NB",
+      "cities": [
+        {
+          "id": 102919,
+          "name": "Ad-Damazin"
+        },
+        {
+          "id": 102934,
+          "name": "Ar Ruseris"
+        },
+        {
+          "id": 102961,
+          "name": "Kurmuk"
+        }
+      ]
+    },
+    {
+      "id": 896,
+      "name": "Central Darfur",
+      "state_code": "DC",
+      "cities": [
+        {
+          "id": 102984,
+          "name": "Zalingei"
+        }
+      ]
+    },
+    {
+      "id": 892,
+      "name": "East Darfur",
+      "state_code": "DE",
+      "cities": [
+        {
+          "id": 102946,
+          "name": "El Daein"
+        }
+      ]
+    },
+    {
+      "id": 884,
+      "name": "Kassala",
+      "state_code": "KA",
+      "cities": [
+        {
+          "id": 102936,
+          "name": "Aroma"
+        },
+        {
+          "id": 102956,
+          "name": "Kassala"
+        },
+        {
+          "id": 102983,
+          "name": "Wagar"
+        }
+      ]
+    },
+    {
+      "id": 881,
+      "name": "Khartoum",
+      "state_code": "KH",
+      "cities": [
+        {
+          "id": 102957,
+          "name": "Khartoum"
+        },
+        {
+          "id": 102967,
+          "name": "Omdurman"
+        }
+      ]
+    },
+    {
+      "id": 890,
+      "name": "North Darfur",
+      "state_code": "DN",
+      "cities": [
+        {
+          "id": 102947,
+          "name": "El Fasher"
+        },
+        {
+          "id": 102962,
+          "name": "Kutum"
+        },
+        {
+          "id": 102978,
+          "name": "Umm Kaddadah"
+        }
+      ]
+    },
+    {
+      "id": 893,
+      "name": "North Kordofan",
+      "state_code": "KN",
+      "cities": [
+        {
+          "id": 102933,
+          "name": "Ar Rahad"
+        },
+        {
+          "id": 102940,
+          "name": "Bārah"
+        },
+        {
+          "id": 102949,
+          "name": "El Obeid"
+        },
+        {
+          "id": 102979,
+          "name": "Umm Ruwaba"
+        }
+      ]
+    },
+    {
+      "id": 895,
+      "name": "Northern",
+      "state_code": "NO",
+      "cities": [
+        {
+          "id": 102916,
+          "name": "Ad Dabbah"
+        },
+        {
+          "id": 102935,
+          "name": "Argo"
+        },
+        {
+          "id": 102943,
+          "name": "Dongola"
+        },
+        {
+          "id": 102955,
+          "name": "Karmah an Nuzul"
+        },
+        {
+          "id": 102960,
+          "name": "Kuraymah"
+        },
+        {
+          "id": 102965,
+          "name": "Merowe"
+        }
+      ]
+    },
+    {
+      "id": 880,
+      "name": "Red Sea",
+      "state_code": "RS",
+      "cities": [
+        {
+          "id": 102950,
+          "name": "Gebeit"
+        },
+        {
+          "id": 102968,
+          "name": "Port Sudan"
+        },
+        {
+          "id": 102970,
+          "name": "Sawākin"
+        },
+        {
+          "id": 102976,
+          "name": "Tokār"
+        }
+      ]
+    },
+    {
+      "id": 891,
+      "name": "River Nile",
+      "state_code": "NR",
+      "cities": [
+        {
+          "id": 102938,
+          "name": "Atbara"
+        },
+        {
+          "id": 102939,
+          "name": "Berber"
+        },
+        {
+          "id": 102944,
+          "name": "Ed Damer"
+        },
+        {
+          "id": 102945,
+          "name": "El Bauga"
+        },
+        {
+          "id": 102948,
+          "name": "El Matama"
+        },
+        {
+          "id": 102971,
+          "name": "Shendi"
+        }
+      ]
+    },
+    {
+      "id": 882,
+      "name": "Sennar",
+      "state_code": "SI",
+      "cities": [
+        {
+          "id": 102917,
+          "name": "Ad Dindar"
+        },
+        {
+          "id": 102937,
+          "name": "As Sūkī"
+        },
+        {
+          "id": 102953,
+          "name": "Jalqani"
+        },
+        {
+          "id": 102958,
+          "name": "Kināna"
+        },
+        {
+          "id": 102963,
+          "name": "Maiurno"
+        },
+        {
+          "id": 102972,
+          "name": "Singa"
+        },
+        {
+          "id": 102973,
+          "name": "Sinnar"
+        }
+      ]
+    },
+    {
+      "id": 894,
+      "name": "South Darfur",
+      "state_code": "DS",
+      "cities": [
+        {
+          "id": 102952,
+          "name": "Gereida"
+        },
+        {
+          "id": 102966,
+          "name": "Nyala"
+        }
+      ]
+    },
+    {
+      "id": 883,
+      "name": "South Kordofan",
+      "state_code": "KS",
+      "cities": [
+        {
+          "id": 102914,
+          "name": "Abu Jibeha"
+        },
+        {
+          "id": 102920,
+          "name": "Al Fūlah"
+        },
+        {
+          "id": 102941,
+          "name": "Dilling"
+        },
+        {
+          "id": 102954,
+          "name": "Kadugli"
+        },
+        {
+          "id": 102974,
+          "name": "Talodi"
+        }
+      ]
+    },
+    {
+      "id": 888,
+      "name": "West Darfur",
+      "state_code": "DW",
+      "cities": [
+        {
+          "id": 102951,
+          "name": "Geneina"
+        }
+      ]
+    },
+    {
+      "id": 889,
+      "name": "West Kordofan",
+      "state_code": "GK",
+      "cities": [
+        {
+          "id": 102915,
+          "name": "Abū Zabad"
+        },
+        {
+          "id": 102925,
+          "name": "Al Lagowa"
+        },
+        {
+          "id": 102928,
+          "name": "Al Mijlad"
+        },
+        {
+          "id": 102932,
+          "name": "An Nuhūd"
+        }
+      ]
+    },
+    {
+      "id": 879,
+      "name": "White Nile",
+      "state_code": "NW",
+      "cities": [
+        {
+          "id": 102918,
+          "name": "Ad Douiem"
+        },
+        {
+          "id": 102923,
+          "name": "Al Kawa"
+        },
+        {
+          "id": 102930,
+          "name": "Al Qiţena"
+        },
+        {
+          "id": 102959,
+          "name": "Kosti"
+        },
+        {
+          "id": 102964,
+          "name": "Marabba"
+        },
+        {
+          "id": 102969,
+          "name": "Rabak"
+        },
+        {
+          "id": 102975,
+          "name": "Tandaltī"
+        },
+        {
+          "id": 102977,
+          "name": "Um Jar Al Gharbiyya"
+        },
+        {
+          "id": 102982,
+          "name": "Wad az Zāki"
+        }
+      ]
+    }
+  ]
+}

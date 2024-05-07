@@ -1,0 +1,408 @@
+{
+  "id": 115,
+  "name": "North Korea",
+  "short_name": "PRK",
+  "phone_code": "850",
+  "currency": "KPW",
+  "currency_name": "North Korean Won",
+  "currency_symbol": "₩",
+  "states": [
+    {
+      "id": 3998,
+      "name": "Chagang Province",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 65186,
+          "name": "Changgang-gun"
+        },
+        {
+          "id": 65188,
+          "name": "Chasŏng"
+        },
+        {
+          "id": 65208,
+          "name": "Kanggye"
+        },
+        {
+          "id": 65221,
+          "name": "Manp’o"
+        }
+      ]
+    },
+    {
+      "id": 3999,
+      "name": "Kangwon Province",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 65181,
+          "name": "Anbyŏn-ŭp"
+        },
+        {
+          "id": 65198,
+          "name": "Hoeyang"
+        },
+        {
+          "id": 65214,
+          "name": "Kosan"
+        },
+        {
+          "id": 65250,
+          "name": "T’ongch’ŏn-ŭp"
+        },
+        {
+          "id": 65252,
+          "name": "Wŏnsan"
+        }
+      ]
+    },
+    {
+      "id": 3995,
+      "name": "North Hamgyong Province",
+      "state_code": "09",
+      "cities": [
+        {
+          "id": 65183,
+          "name": "Aoji"
+        },
+        {
+          "id": 65189,
+          "name": "Chongjin"
+        },
+        {
+          "id": 65195,
+          "name": "Hau-ri"
+        },
+        {
+          "id": 65196,
+          "name": "Hoemul-li"
+        },
+        {
+          "id": 65197,
+          "name": "Hoeryŏng"
+        },
+        {
+          "id": 65210,
+          "name": "Kilju"
+        },
+        {
+          "id": 65211,
+          "name": "Kimch’aek-si"
+        },
+        {
+          "id": 65213,
+          "name": "Komusan Il-tong"
+        },
+        {
+          "id": 65219,
+          "name": "Kyŏngsŏng"
+        },
+        {
+          "id": 65220,
+          "name": "Kyŏngwŏn"
+        },
+        {
+          "id": 65222,
+          "name": "Musan-ŭp"
+        },
+        {
+          "id": 65224,
+          "name": "Namyang-dong"
+        },
+        {
+          "id": 65225,
+          "name": "Nanam"
+        },
+        {
+          "id": 65227,
+          "name": "Onsŏng"
+        },
+        {
+          "id": 65230,
+          "name": "Puryŏng"
+        },
+        {
+          "id": 65247,
+          "name": "Sŭngam-nodongjagu"
+        }
+      ]
+    },
+    {
+      "id": 4004,
+      "name": "North Hwanghae Province",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 65180,
+          "name": "Anak"
+        },
+        {
+          "id": 65203,
+          "name": "Hŭkkyo-ri"
+        },
+        {
+          "id": 65200,
+          "name": "Hwangju-ŭp"
+        },
+        {
+          "id": 65212,
+          "name": "Koksan"
+        },
+        {
+          "id": 65237,
+          "name": "Sariwŏn"
+        },
+        {
+          "id": 65240,
+          "name": "Sinmak"
+        },
+        {
+          "id": 65243,
+          "name": "Songnim"
+        }
+      ]
+    },
+    {
+      "id": 4002,
+      "name": "North Pyongan Province",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 65191,
+          "name": "Chŏngju"
+        },
+        {
+          "id": 65192,
+          "name": "Chŏngju-gun"
+        },
+        {
+          "id": 65216,
+          "name": "Kujang-ŭp"
+        },
+        {
+          "id": 65217,
+          "name": "Kusŏng"
+        },
+        {
+          "id": 65218,
+          "name": "Kwaksan"
+        },
+        {
+          "id": 65228,
+          "name": "Panghyŏn-dong"
+        },
+        {
+          "id": 65229,
+          "name": "Pukchil-lodongjagu"
+        },
+        {
+          "id": 65234,
+          "name": "Sakchu-ŭp"
+        },
+        {
+          "id": 65242,
+          "name": "Sinŭiju"
+        },
+        {
+          "id": 65259,
+          "name": "Ŭiju"
+        },
+        {
+          "id": 65255,
+          "name": "Yŏmju-ŭp"
+        },
+        {
+          "id": 65257,
+          "name": "Yŏngbyŏn"
+        }
+      ]
+    },
+    {
+      "id": 4005,
+      "name": "Pyongyang",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 65190,
+          "name": "Chunghwa"
+        },
+        {
+          "id": 65207,
+          "name": "Kangdong-ŭp"
+        },
+        {
+          "id": 65231,
+          "name": "Pyongyang"
+        },
+        {
+          "id": 65244,
+          "name": "Sunan"
+        },
+        {
+          "id": 65248,
+          "name": "Sŭngho 1-tong"
+        }
+      ]
+    },
+    {
+      "id": 4001,
+      "name": "Rason",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 65246,
+          "name": "Sŏnbong"
+        },
+        {
+          "id": 65251,
+          "name": "Ungsang-nodongjagu"
+        }
+      ]
+    },
+    {
+      "id": 3996,
+      "name": "Ryanggang Province",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 65201,
+          "name": "Hyesan"
+        },
+        {
+          "id": 65202,
+          "name": "Hyesan-dong"
+        },
+        {
+          "id": 65209,
+          "name": "Kapsan-ŭp"
+        },
+        {
+          "id": 65249,
+          "name": "Sŭngjibaegam"
+        }
+      ]
+    },
+    {
+      "id": 4000,
+      "name": "South Hamgyong Province",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 65194,
+          "name": "Hamhŭng"
+        },
+        {
+          "id": 65199,
+          "name": "Hongwŏn"
+        },
+        {
+          "id": 65204,
+          "name": "Hŭngnam"
+        },
+        {
+          "id": 65205,
+          "name": "Iwŏn-ŭp"
+        },
+        {
+          "id": 65215,
+          "name": "Kowŏn-ŭp"
+        },
+        {
+          "id": 65235,
+          "name": "Samho-rodongjagu"
+        },
+        {
+          "id": 65241,
+          "name": "Sinsang-ni"
+        },
+        {
+          "id": 65258,
+          "name": "Yŏnggwang-ŭp"
+        },
+        {
+          "id": 65254,
+          "name": "Yuktae-dong"
+        }
+      ]
+    },
+    {
+      "id": 4003,
+      "name": "South Hwanghae Province",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 65184,
+          "name": "Ayang-ni"
+        },
+        {
+          "id": 65185,
+          "name": "Chaeryŏng-ŭp"
+        },
+        {
+          "id": 65187,
+          "name": "Changyŏn"
+        },
+        {
+          "id": 65193,
+          "name": "Haeju"
+        },
+        {
+          "id": 65206,
+          "name": "Kaesŏng"
+        },
+        {
+          "id": 65226,
+          "name": "Ongjin"
+        },
+        {
+          "id": 65232,
+          "name": "Pyŏksŏng-ŭp"
+        },
+        {
+          "id": 65256,
+          "name": "Yŏnan-ŭp"
+        }
+      ]
+    },
+    {
+      "id": 3997,
+      "name": "South Pyongan Province",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 65182,
+          "name": "Anju"
+        },
+        {
+          "id": 65223,
+          "name": "Namp’o"
+        },
+        {
+          "id": 65233,
+          "name": "P’yŏngsŏng"
+        },
+        {
+          "id": 65236,
+          "name": "Sangsŏng-ni"
+        },
+        {
+          "id": 65238,
+          "name": "Sil-li"
+        },
+        {
+          "id": 65239,
+          "name": "Sinanju"
+        },
+        {
+          "id": 65245,
+          "name": "Sunch’ŏn"
+        },
+        {
+          "id": 65253,
+          "name": "Yonggang-ŭp"
+        }
+      ]
+    }
+  ]
+}

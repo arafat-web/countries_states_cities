@@ -1,0 +1,607 @@
+{
+  "id": 83,
+  "name": "Ghana",
+  "short_name": "GHA",
+  "phone_code": "233",
+  "currency": "GHS",
+  "currency_name": "Ghanaian cedi",
+  "currency_symbol": "GH₵",
+  "states": [
+    {
+      "id": 53,
+      "name": "Ahafo",
+      "state_code": "AF",
+      "cities": [
+        {
+          "id": 149070,
+          "name": "Asunafo North"
+        },
+        {
+          "id": 149071,
+          "name": "Asunafo South"
+        },
+        {
+          "id": 149072,
+          "name": "Asutifi North"
+        },
+        {
+          "id": 149073,
+          "name": "Asutifi South"
+        },
+        {
+          "id": 149069,
+          "name": "Tano North"
+        },
+        {
+          "id": 149068,
+          "name": "Tano South"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Ashanti",
+      "state_code": "AH",
+      "cities": [
+        {
+          "id": 52151,
+          "name": "Agogo"
+        },
+        {
+          "id": 52164,
+          "name": "Bekwai"
+        },
+        {
+          "id": 52172,
+          "name": "Ejura"
+        },
+        {
+          "id": 52185,
+          "name": "Konongo"
+        },
+        {
+          "id": 52188,
+          "name": "Kumasi"
+        },
+        {
+          "id": 52189,
+          "name": "Mampong"
+        },
+        {
+          "id": 52196,
+          "name": "Obuase"
+        },
+        {
+          "id": 52206,
+          "name": "Tafo"
+        }
+      ]
+    },
+    {
+      "id": 4959,
+      "name": "Bono",
+      "state_code": "BO",
+      "cities": [
+        {
+          "id": 149086,
+          "name": "Banda"
+        },
+        {
+          "id": 149087,
+          "name": "Berekum East"
+        },
+        {
+          "id": 149088,
+          "name": "Berekum West"
+        },
+        {
+          "id": 149089,
+          "name": "Dormaa Central"
+        },
+        {
+          "id": 149090,
+          "name": "Dormaa East"
+        },
+        {
+          "id": 149091,
+          "name": "Dormaa West"
+        },
+        {
+          "id": 149092,
+          "name": "Jaman North"
+        },
+        {
+          "id": 149093,
+          "name": "Jaman South"
+        },
+        {
+          "id": 149094,
+          "name": "Sunyani"
+        },
+        {
+          "id": 149095,
+          "name": "Sunyani West"
+        },
+        {
+          "id": 149096,
+          "name": "Tain"
+        },
+        {
+          "id": 149097,
+          "name": "Wenchi"
+        }
+      ]
+    },
+    {
+      "id": 4958,
+      "name": "Bono East",
+      "state_code": "BE",
+      "cities": [
+        {
+          "id": 149076,
+          "name": "Atebubu-Amantin"
+        },
+        {
+          "id": 149077,
+          "name": "Kintampo North"
+        },
+        {
+          "id": 149078,
+          "name": "Kintampo South"
+        },
+        {
+          "id": 149079,
+          "name": "Nkoranza North"
+        },
+        {
+          "id": 149080,
+          "name": "Nkoranza South"
+        },
+        {
+          "id": 149082,
+          "name": "Pru East"
+        },
+        {
+          "id": 149081,
+          "name": "Pru West"
+        },
+        {
+          "id": 149083,
+          "name": "Sene East"
+        },
+        {
+          "id": 149084,
+          "name": "Sene West"
+        },
+        {
+          "id": 149074,
+          "name": "Techiman"
+        },
+        {
+          "id": 149075,
+          "name": "Techiman North"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Central",
+      "state_code": "CP",
+      "cities": [
+        {
+          "id": 52157,
+          "name": "Apam"
+        },
+        {
+          "id": 52168,
+          "name": "Cape Coast"
+        },
+        {
+          "id": 52171,
+          "name": "Dunkwa"
+        },
+        {
+          "id": 52173,
+          "name": "Elmina"
+        },
+        {
+          "id": 52174,
+          "name": "Foso"
+        },
+        {
+          "id": 52179,
+          "name": "Kasoa"
+        },
+        {
+          "id": 52192,
+          "name": "Mumford"
+        },
+        {
+          "id": 52199,
+          "name": "Saltpond"
+        },
+        {
+          "id": 52205,
+          "name": "Swedru"
+        },
+        {
+          "id": 52215,
+          "name": "Winneba"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Eastern",
+      "state_code": "EP",
+      "cities": [
+        {
+          "id": 52148,
+          "name": "Aburi"
+        },
+        {
+          "id": 52152,
+          "name": "Akim Oda"
+        },
+        {
+          "id": 52153,
+          "name": "Akim Swedru"
+        },
+        {
+          "id": 52154,
+          "name": "Akropong"
+        },
+        {
+          "id": 52155,
+          "name": "Akwatia"
+        },
+        {
+          "id": 52158,
+          "name": "Asamankese"
+        },
+        {
+          "id": 52163,
+          "name": "Begoro"
+        },
+        {
+          "id": 52182,
+          "name": "Kibi"
+        },
+        {
+          "id": 52184,
+          "name": "Koforidua"
+        },
+        {
+          "id": 52191,
+          "name": "Mpraeso"
+        },
+        {
+          "id": 52194,
+          "name": "Nsawam"
+        },
+        {
+          "id": 52203,
+          "name": "Suhum"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Greater Accra",
+      "state_code": "AA",
+      "cities": [
+        {
+          "id": 52149,
+          "name": "Accra"
+        },
+        {
+          "id": 52159,
+          "name": "Atsiaman"
+        },
+        {
+          "id": 52169,
+          "name": "Dome"
+        },
+        {
+          "id": 52175,
+          "name": "Gbawe"
+        },
+        {
+          "id": 52190,
+          "name": "Medina Estates"
+        },
+        {
+          "id": 52195,
+          "name": "Nungua"
+        },
+        {
+          "id": 52211,
+          "name": "Tema"
+        },
+        {
+          "id": 52212,
+          "name": "Teshi Old Town"
+        }
+      ]
+    },
+    {
+      "id": 4960,
+      "name": "North East",
+      "state_code": "NE",
+      "cities": [
+        {
+          "id": 149098,
+          "name": "Bunkpurugu-Nyakpanduri"
+        },
+        {
+          "id": 149099,
+          "name": "Chereponi"
+        },
+        {
+          "id": 149100,
+          "name": "East Mamprusi"
+        },
+        {
+          "id": 149101,
+          "name": "Mamprugu-Moagduri"
+        },
+        {
+          "id": 149102,
+          "name": "West Mamprusi"
+        },
+        {
+          "id": 149103,
+          "name": "Yunyoo-Nasuan"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Northern",
+      "state_code": "NP",
+      "cities": [
+        {
+          "id": 52186,
+          "name": "Kpandae"
+        },
+        {
+          "id": 52198,
+          "name": "Salaga"
+        },
+        {
+          "id": 52200,
+          "name": "Savelugu"
+        },
+        {
+          "id": 52208,
+          "name": "Tamale"
+        },
+        {
+          "id": 52216,
+          "name": "Yendi"
+        }
+      ]
+    },
+    {
+      "id": 4961,
+      "name": "Oti",
+      "state_code": "OT",
+      "cities": [
+        {
+          "id": 149104,
+          "name": "Biakoye"
+        },
+        {
+          "id": 149105,
+          "name": "Jasikan"
+        },
+        {
+          "id": 149106,
+          "name": "Kadjebi"
+        },
+        {
+          "id": 149107,
+          "name": "Krachi East"
+        },
+        {
+          "id": 149108,
+          "name": "Krachi Nchumuru"
+        },
+        {
+          "id": 149109,
+          "name": "Krachi West"
+        },
+        {
+          "id": 149110,
+          "name": "Nkwanta North"
+        },
+        {
+          "id": 149111,
+          "name": "Nkwanta South"
+        }
+      ]
+    },
+    {
+      "id": 4962,
+      "name": "Savannah",
+      "state_code": "SV",
+      "cities": [
+        {
+          "id": 149112,
+          "name": "Bole"
+        },
+        {
+          "id": 149113,
+          "name": "Central Gonja"
+        },
+        {
+          "id": 149115,
+          "name": "East Gonja"
+        },
+        {
+          "id": 149116,
+          "name": "North East Gonja"
+        },
+        {
+          "id": 149114,
+          "name": "North Gonja"
+        },
+        {
+          "id": 149117,
+          "name": "Sawla-Tuna-Kalba"
+        },
+        {
+          "id": 149118,
+          "name": "West Gonja"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Upper East",
+      "state_code": "UE",
+      "cities": [
+        {
+          "id": 52161,
+          "name": "Bawku"
+        },
+        {
+          "id": 52167,
+          "name": "Bolgatanga"
+        },
+        {
+          "id": 52193,
+          "name": "Navrongo"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Upper West",
+      "state_code": "UW",
+      "cities": [
+        {
+          "id": 52213,
+          "name": "Wa"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Volta",
+      "state_code": "TV",
+      "cities": [
+        {
+          "id": 52150,
+          "name": "Aflao"
+        },
+        {
+          "id": 52156,
+          "name": "Anloga"
+        },
+        {
+          "id": 52176,
+          "name": "Ho"
+        },
+        {
+          "id": 52177,
+          "name": "Hohoe"
+        },
+        {
+          "id": 52180,
+          "name": "Keta"
+        },
+        {
+          "id": 52181,
+          "name": "Kete Krachi"
+        },
+        {
+          "id": 52187,
+          "name": "Kpandu"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Western",
+      "state_code": "WP",
+      "cities": [
+        {
+          "id": 52147,
+          "name": "Aboso"
+        },
+        {
+          "id": 52160,
+          "name": "Axim"
+        },
+        {
+          "id": 52166,
+          "name": "Bibiani"
+        },
+        {
+          "id": 52197,
+          "name": "Prestea"
+        },
+        {
+          "id": 52201,
+          "name": "Sekondi-Takoradi"
+        },
+        {
+          "id": 52202,
+          "name": "Shama Junction"
+        },
+        {
+          "id": 52207,
+          "name": "Takoradi"
+        },
+        {
+          "id": 52209,
+          "name": "Tarkwa"
+        }
+      ]
+    },
+    {
+      "id": 4963,
+      "name": "Western North",
+      "state_code": "WN",
+      "cities": [
+        {
+          "id": 149119,
+          "name": "Aowin"
+        },
+        {
+          "id": 149120,
+          "name": "Bia East"
+        },
+        {
+          "id": 149121,
+          "name": "Bia West"
+        },
+        {
+          "id": 149122,
+          "name": "Bibiani-Anhwiaso-Bekwai"
+        },
+        {
+          "id": 149123,
+          "name": "Bodi"
+        },
+        {
+          "id": 149124,
+          "name": "Juaboso"
+        },
+        {
+          "id": 149125,
+          "name": "Sefwi-Akontombra"
+        },
+        {
+          "id": 149126,
+          "name": "Sefwi-Wiawso"
+        },
+        {
+          "id": 149127,
+          "name": "Suaman"
+        }
+      ]
+    }
+  ]
+}

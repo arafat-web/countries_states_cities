@@ -1,0 +1,577 @@
+{
+  "id": 95,
+  "name": "Haiti",
+  "short_name": "HTI",
+  "phone_code": "509",
+  "currency": "HTG",
+  "currency_name": "Haitian gourde",
+  "currency_symbol": "G",
+  "states": [
+    {
+      "id": 4123,
+      "name": "Artibonite",
+      "state_code": "AR",
+      "cities": [
+        {
+          "id": 55046,
+          "name": "Anse Rouge"
+        },
+        {
+          "id": 55064,
+          "name": "Arrondissement de Saint-Marc"
+        },
+        {
+          "id": 55094,
+          "name": "Désarmes"
+        },
+        {
+          "id": 55091,
+          "name": "Dessalines"
+        },
+        {
+          "id": 55095,
+          "name": "Ennery"
+        },
+        {
+          "id": 55102,
+          "name": "Gonaïves"
+        },
+        {
+          "id": 55104,
+          "name": "Grande Saline"
+        },
+        {
+          "id": 55107,
+          "name": "Gros Morne"
+        },
+        {
+          "id": 55126,
+          "name": "Marmelade"
+        },
+        {
+          "id": 55155,
+          "name": "Saint-Marc"
+        },
+        {
+          "id": 55166,
+          "name": "Verrettes"
+        }
+      ]
+    },
+    {
+      "id": 4125,
+      "name": "Centre",
+      "state_code": "CE",
+      "cities": [
+        {
+          "id": 55054,
+          "name": "Arrondissement de Cerca La Source"
+        },
+        {
+          "id": 55082,
+          "name": "Cerca la Source"
+        },
+        {
+          "id": 55108,
+          "name": "Hinche"
+        },
+        {
+          "id": 55117,
+          "name": "Lascahobas"
+        },
+        {
+          "id": 55127,
+          "name": "Mayisad"
+        },
+        {
+          "id": 55130,
+          "name": "Mirebalais"
+        },
+        {
+          "id": 55158,
+          "name": "Thomassique"
+        },
+        {
+          "id": 55160,
+          "name": "Thomonde"
+        }
+      ]
+    },
+    {
+      "id": 4119,
+      "name": "Grand'Anse",
+      "state_code": "GA",
+      "cities": [
+        {
+          "id": 55049,
+          "name": "Anse-à-Veau"
+        },
+        {
+          "id": 55083,
+          "name": "Chambellan"
+        },
+        {
+          "id": 55086,
+          "name": "Corail"
+        },
+        {
+          "id": 55089,
+          "name": "Dame-Marie"
+        },
+        {
+          "id": 55111,
+          "name": "Jeremi"
+        },
+        {
+          "id": 55112,
+          "name": "Jérémie"
+        },
+        {
+          "id": 55119,
+          "name": "Les Abricots"
+        },
+        {
+          "id": 55122,
+          "name": "Les Irois"
+        },
+        {
+          "id": 55132,
+          "name": "Moron"
+        },
+        {
+          "id": 55139,
+          "name": "Petite Rivière de Nippes"
+        }
+      ]
+    },
+    {
+      "id": 4118,
+      "name": "Nippes",
+      "state_code": "NI",
+      "cities": [
+        {
+          "id": 55045,
+          "name": "Ansavo"
+        },
+        {
+          "id": 55072,
+          "name": "Baradères"
+        },
+        {
+          "id": 55129,
+          "name": "Miragoâne"
+        },
+        {
+          "id": 55137,
+          "name": "Petit Trou de Nippes"
+        }
+      ]
+    },
+    {
+      "id": 4117,
+      "name": "Nord",
+      "state_code": "ND",
+      "cities": [
+        {
+          "id": 55044,
+          "name": "Acul du Nord"
+        },
+        {
+          "id": 55065,
+          "name": "Arrondissement de la Grande Rivière du Nord"
+        },
+        {
+          "id": 55059,
+          "name": "Arrondissement de Plaisance"
+        },
+        {
+          "id": 55067,
+          "name": "Arrondissement du Borgne"
+        },
+        {
+          "id": 55070,
+          "name": "Bahon"
+        },
+        {
+          "id": 55075,
+          "name": "Borgne"
+        },
+        {
+          "id": 55092,
+          "name": "Dondon"
+        },
+        {
+          "id": 55103,
+          "name": "Grande Rivière du Nord"
+        },
+        {
+          "id": 55118,
+          "name": "Lenbe"
+        },
+        {
+          "id": 55123,
+          "name": "Limonade"
+        },
+        {
+          "id": 55128,
+          "name": "Milot"
+        },
+        {
+          "id": 55134,
+          "name": "Okap"
+        },
+        {
+          "id": 55141,
+          "name": "Pignon"
+        },
+        {
+          "id": 55142,
+          "name": "Pilate"
+        },
+        {
+          "id": 55143,
+          "name": "Plaine du Nord"
+        },
+        {
+          "id": 55144,
+          "name": "Plaisance"
+        },
+        {
+          "id": 55145,
+          "name": "Port-Margot"
+        },
+        {
+          "id": 55150,
+          "name": "Quartier Morin"
+        },
+        {
+          "id": 55151,
+          "name": "Ranquitte"
+        },
+        {
+          "id": 55156,
+          "name": "Saint-Raphaël"
+        }
+      ]
+    },
+    {
+      "id": 4121,
+      "name": "Nord-Est",
+      "state_code": "NE",
+      "cities": [
+        {
+          "id": 55056,
+          "name": "Arrondissement de Fort Liberté"
+        },
+        {
+          "id": 55069,
+          "name": "Arrondissement du Trou du Nord"
+        },
+        {
+          "id": 55077,
+          "name": "Caracol"
+        },
+        {
+          "id": 55078,
+          "name": "Carice"
+        },
+        {
+          "id": 55093,
+          "name": "Dérac"
+        },
+        {
+          "id": 55096,
+          "name": "Ferrier"
+        },
+        {
+          "id": 55101,
+          "name": "Fort Liberté"
+        },
+        {
+          "id": 55131,
+          "name": "Montòrganize"
+        },
+        {
+          "id": 55135,
+          "name": "Ouanaminthe"
+        },
+        {
+          "id": 55136,
+          "name": "Perches"
+        },
+        {
+          "id": 55140,
+          "name": "Phaëton"
+        },
+        {
+          "id": 55165,
+          "name": "Trou du Nord"
+        },
+        {
+          "id": 55167,
+          "name": "Wanament"
+        }
+      ]
+    },
+    {
+      "id": 4126,
+      "name": "Nord-Ouest",
+      "state_code": "NO",
+      "cities": [
+        {
+          "id": 55051,
+          "name": "Arcahaie"
+        },
+        {
+          "id": 55062,
+          "name": "Arrondissement de Port-de-Paix"
+        },
+        {
+          "id": 55063,
+          "name": "Arrondissement de Saint-Louis du Nord"
+        },
+        {
+          "id": 55068,
+          "name": "Arrondissement du Môle Saint-Nicolas"
+        },
+        {
+          "id": 55071,
+          "name": "Baie de Henne"
+        },
+        {
+          "id": 55074,
+          "name": "Bombardopolis"
+        },
+        {
+          "id": 55097,
+          "name": "Fond Bassin Bleu"
+        },
+        {
+          "id": 55110,
+          "name": "Jean-Rabel"
+        },
+        {
+          "id": 55133,
+          "name": "Môle Saint-Nicolas"
+        },
+        {
+          "id": 55138,
+          "name": "Petite Anse"
+        },
+        {
+          "id": 55147,
+          "name": "Port-de-Paix"
+        },
+        {
+          "id": 55153,
+          "name": "Saint-Louis du Nord"
+        },
+        {
+          "id": 55161,
+          "name": "Ti Port-de-Paix"
+        }
+      ]
+    },
+    {
+      "id": 4120,
+      "name": "Ouest",
+      "state_code": "OU",
+      "cities": [
+        {
+          "id": 55047,
+          "name": "Anse à Galets"
+        },
+        {
+          "id": 55052,
+          "name": "Arcahaie"
+        },
+        {
+          "id": 55055,
+          "name": "Arrondissement de Croix des Bouquets"
+        },
+        {
+          "id": 55058,
+          "name": "Arrondissement de Léogâne"
+        },
+        {
+          "id": 55061,
+          "name": "Arrondissement de Port-au-Prince"
+        },
+        {
+          "id": 55076,
+          "name": "Cabaret"
+        },
+        {
+          "id": 55079,
+          "name": "Carrefour"
+        },
+        {
+          "id": 55087,
+          "name": "Cornillon"
+        },
+        {
+          "id": 55088,
+          "name": "Croix-des-Bouquets"
+        },
+        {
+          "id": 55090,
+          "name": "Delmas 73"
+        },
+        {
+          "id": 55098,
+          "name": "Fond Parisien"
+        },
+        {
+          "id": 55100,
+          "name": "Fonds Verrettes"
+        },
+        {
+          "id": 55105,
+          "name": "Grangwav"
+        },
+        {
+          "id": 55106,
+          "name": "Gressier"
+        },
+        {
+          "id": 55113,
+          "name": "Kenscoff"
+        },
+        {
+          "id": 55116,
+          "name": "Lagonav"
+        },
+        {
+          "id": 55124,
+          "name": "Léogâne"
+        },
+        {
+          "id": 55149,
+          "name": "Pétionville"
+        },
+        {
+          "id": 55146,
+          "name": "Port-au-Prince"
+        },
+        {
+          "id": 55159,
+          "name": "Thomazeau"
+        },
+        {
+          "id": 55163,
+          "name": "Tigwav"
+        }
+      ]
+    },
+    {
+      "id": 4122,
+      "name": "Sud",
+      "state_code": "SD",
+      "cities": [
+        {
+          "id": 55050,
+          "name": "Aquin"
+        },
+        {
+          "id": 55060,
+          "name": "Arrondissement de Port-Salut"
+        },
+        {
+          "id": 55066,
+          "name": "Arrondissement des Cayes"
+        },
+        {
+          "id": 55080,
+          "name": "Cavaillon"
+        },
+        {
+          "id": 55084,
+          "name": "Chantal"
+        },
+        {
+          "id": 55085,
+          "name": "Chardonnière"
+        },
+        {
+          "id": 55099,
+          "name": "Fond des Blancs"
+        },
+        {
+          "id": 55115,
+          "name": "Koto"
+        },
+        {
+          "id": 55120,
+          "name": "Les Anglais"
+        },
+        {
+          "id": 55121,
+          "name": "Les Cayes"
+        },
+        {
+          "id": 55148,
+          "name": "Port-à-Piment"
+        },
+        {
+          "id": 55152,
+          "name": "Roche-à-Bateau"
+        },
+        {
+          "id": 55154,
+          "name": "Saint-Louis du Sud"
+        },
+        {
+          "id": 55162,
+          "name": "Tiburon"
+        },
+        {
+          "id": 55164,
+          "name": "Torbeck"
+        }
+      ]
+    },
+    {
+      "id": 4124,
+      "name": "Sud-Est",
+      "state_code": "SE",
+      "cities": [
+        {
+          "id": 55048,
+          "name": "Anse-à-Pitre"
+        },
+        {
+          "id": 55053,
+          "name": "Arrondissement de Bainet"
+        },
+        {
+          "id": 55057,
+          "name": "Arrondissement de Jacmel"
+        },
+        {
+          "id": 55073,
+          "name": "Belle-Anse"
+        },
+        {
+          "id": 55081,
+          "name": "Cayes-Jacmel"
+        },
+        {
+          "id": 55109,
+          "name": "Jacmel"
+        },
+        {
+          "id": 55114,
+          "name": "Kotdefè"
+        },
+        {
+          "id": 55125,
+          "name": "Marigot"
+        },
+        {
+          "id": 55157,
+          "name": "Thiotte"
+        }
+      ]
+    }
+  ]
+}

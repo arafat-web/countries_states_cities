@@ -1,0 +1,239 @@
+{
+  "id": 24,
+  "name": "Benin",
+  "short_name": "BEN",
+  "phone_code": "229",
+  "currency": "XOF",
+  "currency_name": "West African CFA franc",
+  "currency_symbol": "CFA",
+  "states": [
+    {
+      "id": 3077,
+      "name": "Alibori Department",
+      "state_code": "AL",
+      "cities": [
+        {
+          "id": 9782,
+          "name": "Banikoara"
+        },
+        {
+          "id": 9800,
+          "name": "Kandi"
+        },
+        {
+          "id": 9803,
+          "name": "Malanville"
+        }
+      ]
+    },
+    {
+      "id": 3076,
+      "name": "Atakora Department",
+      "state_code": "AK",
+      "cities": [
+        {
+          "id": 9797,
+          "name": "Guilmaro"
+        },
+        {
+          "id": 9804,
+          "name": "Natitingou"
+        },
+        {
+          "id": 9813,
+          "name": "Tanguieta"
+        }
+      ]
+    },
+    {
+      "id": 3079,
+      "name": "Atlantique Department",
+      "state_code": "AQ",
+      "cities": [
+        {
+          "id": 9780,
+          "name": "Abomey-Calavi"
+        },
+        {
+          "id": 9781,
+          "name": "Allada"
+        },
+        {
+          "id": 9799,
+          "name": "Hévié"
+        },
+        {
+          "id": 9798,
+          "name": "Hinvi"
+        },
+        {
+          "id": 9806,
+          "name": "Ouidah"
+        }
+      ]
+    },
+    {
+      "id": 3078,
+      "name": "Borgou Department",
+      "state_code": "BO",
+      "cities": [
+        {
+          "id": 9784,
+          "name": "Bembèrèkè"
+        },
+        {
+          "id": 9786,
+          "name": "Bétérou"
+        },
+        {
+          "id": 9805,
+          "name": "Nikki"
+        },
+        {
+          "id": 9807,
+          "name": "Parakou"
+        },
+        {
+          "id": 9815,
+          "name": "Tchaourou"
+        }
+      ]
+    },
+    {
+      "id": 3070,
+      "name": "Collines Department",
+      "state_code": "CO",
+      "cities": [
+        {
+          "id": 9790,
+          "name": "Comé"
+        },
+        {
+          "id": 9793,
+          "name": "Dassa-Zoumé"
+        },
+        {
+          "id": 9811,
+          "name": "Savalou"
+        },
+        {
+          "id": 9812,
+          "name": "Savé"
+        }
+      ]
+    },
+    {
+      "id": 3072,
+      "name": "Donga Department",
+      "state_code": "DO",
+      "cities": [
+        {
+          "id": 9783,
+          "name": "Bassila"
+        },
+        {
+          "id": 9789,
+          "name": "Commune of Djougou"
+        },
+        {
+          "id": 9795,
+          "name": "Djougou"
+        }
+      ]
+    },
+    {
+      "id": 3071,
+      "name": "Kouffo Department",
+      "state_code": "KO",
+      "cities": [
+        {
+          "id": 9794,
+          "name": "Djakotomey"
+        },
+        {
+          "id": 9796,
+          "name": "Dogbo"
+        }
+      ]
+    },
+    {
+      "id": 3081,
+      "name": "Littoral Department",
+      "state_code": "LI",
+      "cities": [
+        {
+          "id": 9791,
+          "name": "Cotonou"
+        }
+      ]
+    },
+    {
+      "id": 3075,
+      "name": "Mono Department",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 9788,
+          "name": "Commune of Athieme"
+        },
+        {
+          "id": 9802,
+          "name": "Lokossa"
+        }
+      ]
+    },
+    {
+      "id": 3080,
+      "name": "Ouémé Department",
+      "state_code": "OU",
+      "cities": [
+        {
+          "id": 9809,
+          "name": "Porto-Novo"
+        }
+      ]
+    },
+    {
+      "id": 3074,
+      "name": "Plateau Department",
+      "state_code": "PL",
+      "cities": [
+        {
+          "id": 9801,
+          "name": "Kétou"
+        },
+        {
+          "id": 9808,
+          "name": "Pobé"
+        },
+        {
+          "id": 9810,
+          "name": "Sakété"
+        }
+      ]
+    },
+    {
+      "id": 3073,
+      "name": "Zou Department",
+      "state_code": "ZO",
+      "cities": [
+        {
+          "id": 9779,
+          "name": "Abomey"
+        },
+        {
+          "id": 9785,
+          "name": "Bohicon"
+        },
+        {
+          "id": 9787,
+          "name": "Commune of Agbangnizoun"
+        },
+        {
+          "id": 9792,
+          "name": "Cové"
+        }
+      ]
+    }
+  ]
+}

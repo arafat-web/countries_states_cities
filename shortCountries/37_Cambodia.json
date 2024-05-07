@@ -1,0 +1,602 @@
+{
+  "id": 37,
+  "name": "Cambodia",
+  "short_name": "KHM",
+  "phone_code": "855",
+  "currency": "KHR",
+  "currency_name": "Cambodian riel",
+  "currency_symbol": "KHR",
+  "states": [
+    {
+      "id": 3984,
+      "name": "Banteay Meanchey",
+      "state_code": "1",
+      "cities": [
+        {
+          "id": 64967,
+          "name": "Mongkol Borei"
+        },
+        {
+          "id": 64969,
+          "name": "Paoy Paet"
+        },
+        {
+          "id": 64981,
+          "name": "Sisophon"
+        },
+        {
+          "id": 65009,
+          "name": "Srŏk Malai"
+        },
+        {
+          "id": 65022,
+          "name": "Srŏk Svay Chék"
+        }
+      ]
+    },
+    {
+      "id": 3976,
+      "name": "Battambang",
+      "state_code": "2",
+      "cities": [
+        {
+          "id": 64940,
+          "name": "Battambang"
+        },
+        {
+          "id": 65028,
+          "name": "Srŏk Âk Phnŭm"
+        },
+        {
+          "id": 64988,
+          "name": "Srŏk Banăn"
+        },
+        {
+          "id": 64995,
+          "name": "Srŏk Bâvĭl"
+        },
+        {
+          "id": 65017,
+          "name": "Srŏk Rotanak Mondol"
+        }
+      ]
+    },
+    {
+      "id": 3991,
+      "name": "Kampong Cham",
+      "state_code": "3",
+      "cities": [
+        {
+          "id": 64941,
+          "name": "Cheung Prey"
+        },
+        {
+          "id": 64944,
+          "name": "Kampong Cham"
+        },
+        {
+          "id": 64990,
+          "name": "Srŏk Bathéay"
+        }
+      ]
+    },
+    {
+      "id": 3979,
+      "name": "Kampong Chhnang",
+      "state_code": "4",
+      "cities": [
+        {
+          "id": 64939,
+          "name": "Baribour"
+        },
+        {
+          "id": 64945,
+          "name": "Kampong Chhnang"
+        },
+        {
+          "id": 64974,
+          "name": "Rolea B'ier"
+        },
+        {
+          "id": 64997,
+          "name": "Srŏk Chol Kiri"
+        },
+        {
+          "id": 65019,
+          "name": "Srŏk Sameakki Mean Chey"
+        }
+      ]
+    },
+    {
+      "id": 3988,
+      "name": "Kampong Speu",
+      "state_code": "5",
+      "cities": [
+        {
+          "id": 64946,
+          "name": "Kampong Speu"
+        },
+        {
+          "id": 64962,
+          "name": "Krŏng Chbar Mon"
+        },
+        {
+          "id": 64989,
+          "name": "Srŏk Basedth"
+        },
+        {
+          "id": 65008,
+          "name": "Srŏk Kông Pĭsei"
+        },
+        {
+          "id": 65032,
+          "name": "Srŏk Ŏdŏngk"
+        }
+      ]
+    },
+    {
+      "id": 5070,
+      "name": "Kampong Thom",
+      "state_code": "6",
+      "cities": []
+    },
+    {
+      "id": 3981,
+      "name": "Kampot",
+      "state_code": "7",
+      "cities": [
+        {
+          "id": 64935,
+          "name": "Angkor Chey"
+        },
+        {
+          "id": 64938,
+          "name": "Banteay Meas"
+        },
+        {
+          "id": 64942,
+          "name": "Chhouk District"
+        },
+        {
+          "id": 64943,
+          "name": "Kampong Bay"
+        },
+        {
+          "id": 64947,
+          "name": "Kampong Tranch"
+        },
+        {
+          "id": 64948,
+          "name": "Kampot"
+        },
+        {
+          "id": 64998,
+          "name": "Srŏk Chŭm Kiri"
+        },
+        {
+          "id": 65001,
+          "name": "Srŏk Dângtóng"
+        },
+        {
+          "id": 64986,
+          "name": "Srok Tuek Chhou"
+        }
+      ]
+    },
+    {
+      "id": 3983,
+      "name": "Kandal",
+      "state_code": "8",
+      "cities": [
+        {
+          "id": 64965,
+          "name": "Krŏng Ta Khmau"
+        },
+        {
+          "id": 65003,
+          "name": "Srŏk Khsăch Kândal"
+        },
+        {
+          "id": 65037,
+          "name": "Ta Khmau"
+        }
+      ]
+    },
+    {
+      "id": 3978,
+      "name": "Kep",
+      "state_code": "23",
+      "cities": [
+        {
+          "id": 64961,
+          "name": "Krong Kep"
+        },
+        {
+          "id": 65000,
+          "name": "Srŏk Dâmnăk Châng’aeur"
+        }
+      ]
+    },
+    {
+      "id": 3982,
+      "name": "Koh Kong",
+      "state_code": "9",
+      "cities": [
+        {
+          "id": 64957,
+          "name": "Koh Kong"
+        },
+        {
+          "id": 64982,
+          "name": "Smach Mean Chey"
+        },
+        {
+          "id": 64984,
+          "name": "Srae Ambel"
+        },
+        {
+          "id": 64991,
+          "name": "Srŏk Batum Sakôr"
+        },
+        {
+          "id": 65011,
+          "name": "Srŏk Môndôl Seima"
+        }
+      ]
+    },
+    {
+      "id": 3986,
+      "name": "Kratie",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 64958,
+          "name": "Kracheh"
+        },
+        {
+          "id": 64960,
+          "name": "Kratié"
+        },
+        {
+          "id": 64983,
+          "name": "Snuol"
+        }
+      ]
+    },
+    {
+      "id": 3985,
+      "name": "Mondulkiri",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 64964,
+          "name": "Krŏng Sênmônoŭrôm"
+        },
+        {
+          "id": 64978,
+          "name": "Sen Monorom"
+        },
+        {
+          "id": 65002,
+          "name": "Srŏk Kaev Seima"
+        },
+        {
+          "id": 65014,
+          "name": "Srŏk Pech Chreada"
+        }
+      ]
+    },
+    {
+      "id": 3987,
+      "name": "Oddar Meanchey",
+      "state_code": "22",
+      "cities": [
+        {
+          "id": 64976,
+          "name": "Samraong"
+        },
+        {
+          "id": 64994,
+          "name": "Srŏk Bântéay Âmpĭl"
+        },
+        {
+          "id": 65023,
+          "name": "Srŏk Sâmraông"
+        },
+        {
+          "id": 65026,
+          "name": "Srŏk Trâpeăng Prasat"
+        }
+      ]
+    },
+    {
+      "id": 3980,
+      "name": "Pailin",
+      "state_code": "24",
+      "cities": [
+        {
+          "id": 64956,
+          "name": "Khan Sala Krau"
+        },
+        {
+          "id": 64968,
+          "name": "Pailin"
+        }
+      ]
+    },
+    {
+      "id": 3994,
+      "name": "Phnom Penh",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 64949,
+          "name": "Khan 7 Makara"
+        },
+        {
+          "id": 64950,
+          "name": "Khan Châmkar Mon"
+        },
+        {
+          "id": 64952,
+          "name": "Khan Dângkaô"
+        },
+        {
+          "id": 64951,
+          "name": "Khan Duŏn Pénh"
+        },
+        {
+          "id": 64953,
+          "name": "Khan Méan Chey"
+        },
+        {
+          "id": 64954,
+          "name": "Khan Russey Keo"
+        },
+        {
+          "id": 64955,
+          "name": "Khan Saen Sokh"
+        },
+        {
+          "id": 64970,
+          "name": "Phnom Penh"
+        }
+      ]
+    },
+    {
+      "id": 3973,
+      "name": "Preah Vihear",
+      "state_code": "13",
+      "cities": [
+        {
+          "id": 64977,
+          "name": "Sangkom Thmei"
+        },
+        {
+          "id": 64999,
+          "name": "Srŏk Ch’êh Sên"
+        },
+        {
+          "id": 64996,
+          "name": "Srŏk Chhêb"
+        },
+        {
+          "id": 65005,
+          "name": "Srŏk Kulén"
+        },
+        {
+          "id": 65018,
+          "name": "Srŏk Rôviĕng"
+        },
+        {
+          "id": 65025,
+          "name": "Srŏk Tbêng Méanchey"
+        },
+        {
+          "id": 65039,
+          "name": "Tbeng Meanchey"
+        }
+      ]
+    },
+    {
+      "id": 3974,
+      "name": "Prey Veng",
+      "state_code": "14",
+      "cities": [
+        {
+          "id": 64972,
+          "name": "Prey Veng"
+        },
+        {
+          "id": 65006,
+          "name": "Srŏk Kâmpóng Léav"
+        },
+        {
+          "id": 65010,
+          "name": "Srŏk Mésang"
+        },
+        {
+          "id": 65016,
+          "name": "Srŏk Preăh Sdéch"
+        }
+      ]
+    },
+    {
+      "id": 3977,
+      "name": "Pursat",
+      "state_code": "15",
+      "cities": [
+        {
+          "id": 64936,
+          "name": "Bakan"
+        },
+        {
+          "id": 64959,
+          "name": "Krakor"
+        },
+        {
+          "id": 64973,
+          "name": "Pursat"
+        },
+        {
+          "id": 64975,
+          "name": "Sampov Meas"
+        },
+        {
+          "id": 65007,
+          "name": "Srŏk Kândiĕng"
+        },
+        {
+          "id": 65027,
+          "name": "Srŏk Véal Vêng"
+        }
+      ]
+    },
+    {
+      "id": 3990,
+      "name": "Ratanakiri",
+      "state_code": "16",
+      "cities": [
+        {
+          "id": 64937,
+          "name": "Banlung"
+        },
+        {
+          "id": 64966,
+          "name": "Lumphat"
+        },
+        {
+          "id": 65029,
+          "name": "Srŏk Ândong Méas"
+        },
+        {
+          "id": 64993,
+          "name": "Srŏk Bâ Kêv"
+        },
+        {
+          "id": 64987,
+          "name": "Srŏk Ban Lŭng"
+        },
+        {
+          "id": 65004,
+          "name": "Srŏk Koun Mom"
+        },
+        {
+          "id": 65012,
+          "name": "Srŏk Ou Chum"
+        },
+        {
+          "id": 65013,
+          "name": "Srŏk Ou Ya Dav"
+        },
+        {
+          "id": 65024,
+          "name": "Srŏk Ta Vêng"
+        }
+      ]
+    },
+    {
+      "id": 3992,
+      "name": "Siem Reap",
+      "state_code": "17",
+      "cities": [
+        {
+          "id": 64979,
+          "name": "Siem Reap"
+        },
+        {
+          "id": 65031,
+          "name": "Srŏk Ângkôr Thum"
+        },
+        {
+          "id": 65015,
+          "name": "Srŏk Prasat Bakong"
+        },
+        {
+          "id": 65035,
+          "name": "Svay Leu"
+        },
+        {
+          "id": 65040,
+          "name": "Varin"
+        }
+      ]
+    },
+    {
+      "id": 3989,
+      "name": "Sihanoukville",
+      "state_code": "18",
+      "cities": [
+        {
+          "id": 64980,
+          "name": "Sihanoukville"
+        },
+        {
+          "id": 64985,
+          "name": "Srok Stueng Hav"
+        }
+      ]
+    },
+    {
+      "id": 3993,
+      "name": "Stung Treng",
+      "state_code": "19",
+      "cities": [
+        {
+          "id": 65020,
+          "name": "Srŏk Srêsén"
+        },
+        {
+          "id": 65033,
+          "name": "Stueng Traeng"
+        },
+        {
+          "id": 65034,
+          "name": "Stung Treng"
+        }
+      ]
+    },
+    {
+      "id": 3972,
+      "name": "Svay Rieng",
+      "state_code": "20",
+      "cities": [
+        {
+          "id": 65021,
+          "name": "Srŏk Svay Chrŭm"
+        },
+        {
+          "id": 65036,
+          "name": "Svay Rieng"
+        }
+      ]
+    },
+    {
+      "id": 3975,
+      "name": "Takeo",
+      "state_code": "21",
+      "cities": [
+        {
+          "id": 64963,
+          "name": "Krŏng Doun Kaev"
+        },
+        {
+          "id": 64971,
+          "name": "Phumĭ Véal Srê"
+        },
+        {
+          "id": 65030,
+          "name": "Srŏk Ângkôr Borei"
+        },
+        {
+          "id": 64992,
+          "name": "Srŏk Borei Cholsar"
+        },
+        {
+          "id": 65038,
+          "name": "Takeo"
+        }
+      ]
+    }
+  ]
+}

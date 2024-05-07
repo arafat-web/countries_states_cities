@@ -1,0 +1,188 @@
+{
+  "id": 123,
+  "name": "Liberia",
+  "short_name": "LBR",
+  "phone_code": "231",
+  "currency": "LRD",
+  "currency_name": "Liberian dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3041,
+      "name": "Bomi County",
+      "state_code": "BM",
+      "cities": [
+        {
+          "id": 66561,
+          "name": "Tubmanburg"
+        }
+      ]
+    },
+    {
+      "id": 3034,
+      "name": "Bong County",
+      "state_code": "BG",
+      "cities": [
+        {
+          "id": 66553,
+          "name": "Gbarnga"
+        }
+      ]
+    },
+    {
+      "id": 3044,
+      "name": "Gbarpolu County",
+      "state_code": "GP",
+      "cities": [
+        {
+          "id": 66548,
+          "name": "Bopolu"
+        }
+      ]
+    },
+    {
+      "id": 3040,
+      "name": "Grand Bassa County",
+      "state_code": "GB",
+      "cities": [
+        {
+          "id": 66549,
+          "name": "Buchanan"
+        }
+      ]
+    },
+    {
+      "id": 3036,
+      "name": "Grand Cape Mount County",
+      "state_code": "CM",
+      "cities": [
+        {
+          "id": 66559,
+          "name": "Robertsport"
+        }
+      ]
+    },
+    {
+      "id": 3039,
+      "name": "Grand Gedeh County",
+      "state_code": "GG",
+      "cities": [
+        {
+          "id": 66563,
+          "name": "Zwedru"
+        }
+      ]
+    },
+    {
+      "id": 3045,
+      "name": "Grand Kru County",
+      "state_code": "GK",
+      "cities": [
+        {
+          "id": 66546,
+          "name": "Barclayville"
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "name": "Lofa County",
+      "state_code": "LO",
+      "cities": [
+        {
+          "id": 66562,
+          "name": "Voinjama"
+        }
+      ]
+    },
+    {
+      "id": 3043,
+      "name": "Margibi County",
+      "state_code": "MG",
+      "cities": [
+        {
+          "id": 66556,
+          "name": "Kakata"
+        }
+      ]
+    },
+    {
+      "id": 3042,
+      "name": "Maryland County",
+      "state_code": "MY",
+      "cities": [
+        {
+          "id": 66555,
+          "name": "Harper"
+        }
+      ]
+    },
+    {
+      "id": 3032,
+      "name": "Montserrado County",
+      "state_code": "MO",
+      "cities": [
+        {
+          "id": 66547,
+          "name": "Bensonville"
+        },
+        {
+          "id": 66557,
+          "name": "Monrovia"
+        }
+      ]
+    },
+    {
+      "id": 3046,
+      "name": "Nimba",
+      "state_code": "NI",
+      "cities": [
+        {
+          "id": 66552,
+          "name": "Ganta"
+        },
+        {
+          "id": 66558,
+          "name": "New Yekepa"
+        },
+        {
+          "id": 66560,
+          "name": "Sanniquellie"
+        }
+      ]
+    },
+    {
+      "id": 3033,
+      "name": "River Cess County",
+      "state_code": "RI",
+      "cities": [
+        {
+          "id": 66550,
+          "name": "Cestos City"
+        }
+      ]
+    },
+    {
+      "id": 3038,
+      "name": "River Gee County",
+      "state_code": "RG",
+      "cities": [
+        {
+          "id": 66551,
+          "name": "Fish Town"
+        }
+      ]
+    },
+    {
+      "id": 3035,
+      "name": "Sinoe County",
+      "state_code": "SI",
+      "cities": [
+        {
+          "id": 66554,
+          "name": "Greenville"
+        }
+      ]
+    }
+  ]
+}

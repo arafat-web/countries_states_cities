@@ -1,0 +1,2017 @@
+{
+  "id": 186,
+  "name": "Saint Lucia",
+  "short_name": "LCA",
+  "phone_code": "+1-758",
+  "currency": "XCD",
+  "currency_name": "Eastern Caribbean dollar",
+  "currency_symbol": "$",
+  "states": [
+    {
+      "id": 3757,
+      "name": "Anse la Raye Quarter",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 65965,
+          "name": "Anse La Raye"
+        },
+        {
+          "id": 65969,
+          "name": "Au Tabor"
+        },
+        {
+          "id": 65970,
+          "name": "Au Tabor Hill"
+        },
+        {
+          "id": 66019,
+          "name": "Bois D'Inde"
+        },
+        {
+          "id": 66037,
+          "name": "Caico/Millet"
+        },
+        {
+          "id": 66040,
+          "name": "Canaries"
+        },
+        {
+          "id": 66064,
+          "name": "Champen Estate"
+        },
+        {
+          "id": 66112,
+          "name": "Derriere Lagoon"
+        },
+        {
+          "id": 66128,
+          "name": "Durandeau"
+        },
+        {
+          "id": 66132,
+          "name": "Enbar Pwin"
+        },
+        {
+          "id": 66198,
+          "name": "Jacmel"
+        },
+        {
+          "id": 66200,
+          "name": "Jean Baptiste"
+        },
+        {
+          "id": 66231,
+          "name": "La Trielle"
+        },
+        {
+          "id": 66260,
+          "name": "Massacre"
+        },
+        {
+          "id": 66266,
+          "name": "Millet"
+        },
+        {
+          "id": 66294,
+          "name": "Morne Ciseaux"
+        },
+        {
+          "id": 66296,
+          "name": "Morne D'Or"
+        },
+        {
+          "id": 66365,
+          "name": "Roseau Valley"
+        },
+        {
+          "id": 66381,
+          "name": "St Lawrence"
+        },
+        {
+          "id": 66382,
+          "name": "St Lawrence Estate"
+        },
+        {
+          "id": 66392,
+          "name": "Tete Chemin"
+        },
+        {
+          "id": 66416,
+          "name": "Vanard"
+        },
+        {
+          "id": 66417,
+          "name": "Venus"
+        },
+        {
+          "id": 66427,
+          "name": "Village"
+        },
+        {
+          "id": 66429,
+          "name": "Village/Petite Bourgh"
+        }
+      ]
+    },
+    {
+      "id": 3761,
+      "name": "Canaries",
+      "state_code": "12",
+      "cities": [
+        {
+          "id": 65962,
+          "name": "Anse Cochon"
+        },
+        {
+          "id": 65963,
+          "name": "Anse Galet"
+        },
+        {
+          "id": 65966,
+          "name": "Anse La Verdue"
+        },
+        {
+          "id": 66006,
+          "name": "Belvedere"
+        },
+        {
+          "id": 66063,
+          "name": "Chalon"
+        },
+        {
+          "id": 66359,
+          "name": "Riverside Road"
+        },
+        {
+          "id": 66397,
+          "name": "Theodrine"
+        },
+        {
+          "id": 66428,
+          "name": "Village"
+        }
+      ]
+    },
+    {
+      "id": 3758,
+      "name": "Castries Quarter",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 65956,
+          "name": "Active Hill"
+        },
+        {
+          "id": 65957,
+          "name": "Agard Lands/Morne Dudon"
+        },
+        {
+          "id": 65958,
+          "name": "Almondale"
+        },
+        {
+          "id": 65972,
+          "name": "Aurendel Hill"
+        },
+        {
+          "id": 65973,
+          "name": "Babonneau Proper"
+        },
+        {
+          "id": 65974,
+          "name": "Bagatelle"
+        },
+        {
+          "id": 65975,
+          "name": "Balata"
+        },
+        {
+          "id": 65979,
+          "name": "Banannes Bay"
+        },
+        {
+          "id": 65983,
+          "name": "Barnard Hill"
+        },
+        {
+          "id": 65985,
+          "name": "Barre Denis"
+        },
+        {
+          "id": 65986,
+          "name": "Barre Duchaussee"
+        },
+        {
+          "id": 65987,
+          "name": "Barre St.Joseph"
+        },
+        {
+          "id": 65996,
+          "name": "Belair"
+        },
+        {
+          "id": 65998,
+          "name": "Bella Rosa"
+        },
+        {
+          "id": 66008,
+          "name": "Bexon"
+        },
+        {
+          "id": 66009,
+          "name": "Bisee"
+        },
+        {
+          "id": 66010,
+          "name": "Bishop'S Gap"
+        },
+        {
+          "id": 66011,
+          "name": "Bissee"
+        },
+        {
+          "id": 66013,
+          "name": "Black Mallet"
+        },
+        {
+          "id": 66015,
+          "name": "Bocage"
+        },
+        {
+          "id": 66018,
+          "name": "Bois Catchet"
+        },
+        {
+          "id": 66025,
+          "name": "Bois Patat"
+        },
+        {
+          "id": 66033,
+          "name": "Cabiche/Babonneau"
+        },
+        {
+          "id": 66035,
+          "name": "Cacoa/Babonneau"
+        },
+        {
+          "id": 66038,
+          "name": "Calvary"
+        },
+        {
+          "id": 66052,
+          "name": "Capital Hill"
+        },
+        {
+          "id": 66053,
+          "name": "Carellie"
+        },
+        {
+          "id": 66056,
+          "name": "Castries"
+        },
+        {
+          "id": 66060,
+          "name": "Cedars"
+        },
+        {
+          "id": 66065,
+          "name": "Chase Gardens"
+        },
+        {
+          "id": 66066,
+          "name": "Chassin/Babonneau"
+        },
+        {
+          "id": 66070,
+          "name": "Choppin Ridge/Sarot"
+        },
+        {
+          "id": 66072,
+          "name": "Ciceron"
+        },
+        {
+          "id": 66073,
+          "name": "City"
+        },
+        {
+          "id": 66074,
+          "name": "City Gate/La Clery"
+        },
+        {
+          "id": 66078,
+          "name": "Conway/Waterfront"
+        },
+        {
+          "id": 66080,
+          "name": "Coolie Town"
+        },
+        {
+          "id": 66085,
+          "name": "Coubaril"
+        },
+        {
+          "id": 66087,
+          "name": "Crownlands/Marc"
+        },
+        {
+          "id": 66088,
+          "name": "Cul De Sac"
+        },
+        {
+          "id": 66091,
+          "name": "Darling Road"
+        },
+        {
+          "id": 66095,
+          "name": "Deglos"
+        },
+        {
+          "id": 66106,
+          "name": "Derierre Fort/Old Victoria Road"
+        },
+        {
+          "id": 66124,
+          "name": "Dubrassay"
+        },
+        {
+          "id": 66131,
+          "name": "En Pois Doux/Babonneau"
+        },
+        {
+          "id": 66133,
+          "name": "Entrepot"
+        },
+        {
+          "id": 66139,
+          "name": "Faux A Chaud"
+        },
+        {
+          "id": 66140,
+          "name": "Ferrand"
+        },
+        {
+          "id": 66141,
+          "name": "Floissac/Marc"
+        },
+        {
+          "id": 66142,
+          "name": "Fond Assau/Babonneau"
+        },
+        {
+          "id": 66146,
+          "name": "Fond Canie"
+        },
+        {
+          "id": 66154,
+          "name": "Forestiere"
+        },
+        {
+          "id": 66160,
+          "name": "George Charles Boulevard"
+        },
+        {
+          "id": 66162,
+          "name": "Girard"
+        },
+        {
+          "id": 66164,
+          "name": "Goergeville"
+        },
+        {
+          "id": 66166,
+          "name": "Goodlands"
+        },
+        {
+          "id": 66182,
+          "name": "Grass Street"
+        },
+        {
+          "id": 66183,
+          "name": "Green Gold"
+        },
+        {
+          "id": 66187,
+          "name": "Guesneau"
+        },
+        {
+          "id": 66190,
+          "name": "Hill 20/Babonneau"
+        },
+        {
+          "id": 66191,
+          "name": "Hillcrest Gardens"
+        },
+        {
+          "id": 66194,
+          "name": "Hospital Road"
+        },
+        {
+          "id": 66195,
+          "name": "Independence City"
+        },
+        {
+          "id": 66201,
+          "name": "John Compton Highway"
+        },
+        {
+          "id": 66204,
+          "name": "L'Anse Road"
+        },
+        {
+          "id": 66207,
+          "name": "La Carierre"
+        },
+        {
+          "id": 66209,
+          "name": "La Clery"
+        },
+        {
+          "id": 66212,
+          "name": "La Croix Maingot"
+        },
+        {
+          "id": 66218,
+          "name": "La Pansee"
+        },
+        {
+          "id": 66229,
+          "name": "La Toc"
+        },
+        {
+          "id": 66232,
+          "name": "Labayee"
+        },
+        {
+          "id": 66235,
+          "name": "Lastic Hill"
+        },
+        {
+          "id": 66238,
+          "name": "Leslie Land"
+        },
+        {
+          "id": 66250,
+          "name": "Marc"
+        },
+        {
+          "id": 66251,
+          "name": "Marchand"
+        },
+        {
+          "id": 66252,
+          "name": "Marigot"
+        },
+        {
+          "id": 66262,
+          "name": "Maynard Hill"
+        },
+        {
+          "id": 66263,
+          "name": "Miami/Bexon"
+        },
+        {
+          "id": 66288,
+          "name": "Monkey Town Ciceron"
+        },
+        {
+          "id": 66291,
+          "name": "Morne Assau/Babonneau"
+        },
+        {
+          "id": 66297,
+          "name": "Morne Dudon"
+        },
+        {
+          "id": 66304,
+          "name": "Morne Road"
+        },
+        {
+          "id": 66305,
+          "name": "Morne Rouge/Marc"
+        },
+        {
+          "id": 66311,
+          "name": "Mount Pleasant"
+        },
+        {
+          "id": 66316,
+          "name": "New Village"
+        },
+        {
+          "id": 66318,
+          "name": "Odsan"
+        },
+        {
+          "id": 66325,
+          "name": "Parker'S Hill"
+        },
+        {
+          "id": 66327,
+          "name": "Patterson'S Gap"
+        },
+        {
+          "id": 66328,
+          "name": "Pavee"
+        },
+        {
+          "id": 66329,
+          "name": "Peart'S Gap"
+        },
+        {
+          "id": 66330,
+          "name": "Perou"
+        },
+        {
+          "id": 66338,
+          "name": "Pointe Seraphine"
+        },
+        {
+          "id": 66342,
+          "name": "Quarte Chemins"
+        },
+        {
+          "id": 66346,
+          "name": "Ravine Chabot"
+        },
+        {
+          "id": 66348,
+          "name": "Ravine Poisson"
+        },
+        {
+          "id": 66349,
+          "name": "Ravine Touterelle"
+        },
+        {
+          "id": 66353,
+          "name": "Resinard/Babonneau"
+        },
+        {
+          "id": 66361,
+          "name": "Rock Hall"
+        },
+        {
+          "id": 66364,
+          "name": "Rose Hill"
+        },
+        {
+          "id": 66369,
+          "name": "San Soucis"
+        },
+        {
+          "id": 66370,
+          "name": "Sand De Feu"
+        },
+        {
+          "id": 66372,
+          "name": "Sarot"
+        },
+        {
+          "id": 66387,
+          "name": "Summersdale"
+        },
+        {
+          "id": 66388,
+          "name": "Sunbilt"
+        },
+        {
+          "id": 66389,
+          "name": "Sunny Acres"
+        },
+        {
+          "id": 66390,
+          "name": "Talvern"
+        },
+        {
+          "id": 66391,
+          "name": "Tapion"
+        },
+        {
+          "id": 66396,
+          "name": "The Morne"
+        },
+        {
+          "id": 66399,
+          "name": "Ti Colon"
+        },
+        {
+          "id": 66402,
+          "name": "Ti Rocher"
+        },
+        {
+          "id": 66407,
+          "name": "Trois Piton"
+        },
+        {
+          "id": 66408,
+          "name": "Trou Cochan/Marc"
+        },
+        {
+          "id": 66409,
+          "name": "Trou Florent/Marc"
+        },
+        {
+          "id": 66410,
+          "name": "Trou Rouge"
+        },
+        {
+          "id": 66419,
+          "name": "Vide Bouteille"
+        },
+        {
+          "id": 66423,
+          "name": "Vigie"
+        },
+        {
+          "id": 66432,
+          "name": "Waterworks"
+        },
+        {
+          "id": 66434,
+          "name": "Wilton'S Yard/Grave Yard"
+        },
+        {
+          "id": 66435,
+          "name": "Yorke Hill"
+        }
+      ]
+    },
+    {
+      "id": 3760,
+      "name": "Choiseul Quarter",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 66000,
+          "name": "Belle Vue"
+        },
+        {
+          "id": 66023,
+          "name": "Bois Dinde"
+        },
+        {
+          "id": 66036,
+          "name": "Caffiere"
+        },
+        {
+          "id": 66061,
+          "name": "Cedars/Chu Tigre"
+        },
+        {
+          "id": 66069,
+          "name": "Choiseul"
+        },
+        {
+          "id": 66071,
+          "name": "Christian Hill"
+        },
+        {
+          "id": 66090,
+          "name": "Dacretin"
+        },
+        {
+          "id": 66094,
+          "name": "Debreuil"
+        },
+        {
+          "id": 66097,
+          "name": "Delcer"
+        },
+        {
+          "id": 66113,
+          "name": "Derriere Morne"
+        },
+        {
+          "id": 66125,
+          "name": "Dugard"
+        },
+        {
+          "id": 66127,
+          "name": "Dupre"
+        },
+        {
+          "id": 66136,
+          "name": "Esperance"
+        },
+        {
+          "id": 66155,
+          "name": "Franciou"
+        },
+        {
+          "id": 66197,
+          "name": "Industry"
+        },
+        {
+          "id": 66213,
+          "name": "La Fargue"
+        },
+        {
+          "id": 66223,
+          "name": "La Pointe"
+        },
+        {
+          "id": 66234,
+          "name": "Lamaze"
+        },
+        {
+          "id": 66236,
+          "name": "Le Riche"
+        },
+        {
+          "id": 66246,
+          "name": "Mailly Motete"
+        },
+        {
+          "id": 66259,
+          "name": "Martin"
+        },
+        {
+          "id": 66286,
+          "name": "Mongouge"
+        },
+        {
+          "id": 66289,
+          "name": "Monzie"
+        },
+        {
+          "id": 66299,
+          "name": "Morne Jacques"
+        },
+        {
+          "id": 66306,
+          "name": "Morne Sion"
+        },
+        {
+          "id": 66309,
+          "name": "Motete"
+        },
+        {
+          "id": 66314,
+          "name": "New Field/Fiette"
+        },
+        {
+          "id": 66340,
+          "name": "Ponyon"
+        },
+        {
+          "id": 66345,
+          "name": "Raveneau"
+        },
+        {
+          "id": 66354,
+          "name": "Reunion"
+        },
+        {
+          "id": 66358,
+          "name": "River Doree"
+        },
+        {
+          "id": 66360,
+          "name": "Roblot"
+        },
+        {
+          "id": 66374,
+          "name": "Sauzay"
+        },
+        {
+          "id": 66376,
+          "name": "Savannesgeorge/Constitution"
+        },
+        {
+          "id": 66418,
+          "name": "Victoria"
+        },
+        {
+          "id": 66424,
+          "name": "Village"
+        }
+      ]
+    },
+    {
+      "id": 3767,
+      "name": "Dauphin Quarter",
+      "state_code": "04",
+      "cities": []
+    },
+    {
+      "id": 3756,
+      "name": "Dennery Quarter",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 65960,
+          "name": "Anse Canot"
+        },
+        {
+          "id": 65967,
+          "name": "Athens"
+        },
+        {
+          "id": 65968,
+          "name": "Au Leon"
+        },
+        {
+          "id": 65982,
+          "name": "Bara Bara"
+        },
+        {
+          "id": 65988,
+          "name": "Bazile"
+        },
+        {
+          "id": 66005,
+          "name": "Belmont"
+        },
+        {
+          "id": 66024,
+          "name": "Bois Joli"
+        },
+        {
+          "id": 66029,
+          "name": "Bordelais"
+        },
+        {
+          "id": 66030,
+          "name": "Bosquet D'Or"
+        },
+        {
+          "id": 66096,
+          "name": "Delaide"
+        },
+        {
+          "id": 66099,
+          "name": "Dennery"
+        },
+        {
+          "id": 66100,
+          "name": "Dennery By Pass"
+        },
+        {
+          "id": 66101,
+          "name": "Dennery By Pass/Green Mountain"
+        },
+        {
+          "id": 66102,
+          "name": "Dennery By Pass/Rocky Lane"
+        },
+        {
+          "id": 66103,
+          "name": "Dennery By Pass/White Rock Gardens"
+        },
+        {
+          "id": 66104,
+          "name": "Dennery Village"
+        },
+        {
+          "id": 66108,
+          "name": "Derniere Riviere"
+        },
+        {
+          "id": 66109,
+          "name": "Derniere Riviere/Fond Maricient"
+        },
+        {
+          "id": 66110,
+          "name": "Derniere Riviere/Mardi Gras/Morne Caca Cochon"
+        },
+        {
+          "id": 66111,
+          "name": "Derniere Riviere/Morne Panache"
+        },
+        {
+          "id": 66117,
+          "name": "Despinoze"
+        },
+        {
+          "id": 66123,
+          "name": "Dubonnaire"
+        },
+        {
+          "id": 66156,
+          "name": "Gadette"
+        },
+        {
+          "id": 66170,
+          "name": "Grande Ravine"
+        },
+        {
+          "id": 66171,
+          "name": "Grande Riviere"
+        },
+        {
+          "id": 66173,
+          "name": "Grande Riviere/Des Branch"
+        },
+        {
+          "id": 66174,
+          "name": "Grande Riviere/En Leur Morne/Discompere"
+        },
+        {
+          "id": 66175,
+          "name": "Grande Riviere/Funier"
+        },
+        {
+          "id": 66177,
+          "name": "Grande Riviere/Morne Caca Cochon"
+        },
+        {
+          "id": 66208,
+          "name": "La Caye"
+        },
+        {
+          "id": 66220,
+          "name": "La Pelle"
+        },
+        {
+          "id": 66224,
+          "name": "La Pointe"
+        },
+        {
+          "id": 66226,
+          "name": "La Ressource"
+        },
+        {
+          "id": 66242,
+          "name": "Lumiere"
+        },
+        {
+          "id": 66303,
+          "name": "Morne Panache"
+        },
+        {
+          "id": 66355,
+          "name": "Riche Fond"
+        },
+        {
+          "id": 66356,
+          "name": "Riche Fond/La Belle Vie"
+        },
+        {
+          "id": 66357,
+          "name": "Riche Fond/New Village"
+        },
+        {
+          "id": 66384,
+          "name": "St. Joseph Estate"
+        },
+        {
+          "id": 66395,
+          "name": "Thamazo"
+        }
+      ]
+    },
+    {
+      "id": 3766,
+      "name": "Gros Islet Quarter",
+      "state_code": "06",
+      "cities": [
+        {
+          "id": 65993,
+          "name": "Beausejour"
+        },
+        {
+          "id": 65994,
+          "name": "Beausejour/Fostin'S Development"
+        },
+        {
+          "id": 65995,
+          "name": "Beausejour/Ndc"
+        },
+        {
+          "id": 65997,
+          "name": "Bella Rosa"
+        },
+        {
+          "id": 66001,
+          "name": "Belle Vue"
+        },
+        {
+          "id": 66003,
+          "name": "Belle Vue Estate"
+        },
+        {
+          "id": 66016,
+          "name": "Boguis"
+        },
+        {
+          "id": 66017,
+          "name": "Boguis/Desa Blond"
+        },
+        {
+          "id": 66021,
+          "name": "Bois D'Orange"
+        },
+        {
+          "id": 66022,
+          "name": "Bois D'Ornange/Trouya"
+        },
+        {
+          "id": 66027,
+          "name": "Bonneterre"
+        },
+        {
+          "id": 66028,
+          "name": "Bonneterre Gardens"
+        },
+        {
+          "id": 66043,
+          "name": "Cap Estate"
+        },
+        {
+          "id": 66044,
+          "name": "Cap Estate/Becune Point"
+        },
+        {
+          "id": 66045,
+          "name": "Cap Estate/Caribbean Park"
+        },
+        {
+          "id": 66046,
+          "name": "Cap Estate/Golf Park"
+        },
+        {
+          "id": 66047,
+          "name": "Cap Estate/Lower Saline Point"
+        },
+        {
+          "id": 66048,
+          "name": "Cap Estate/Mon Du Cap"
+        },
+        {
+          "id": 66049,
+          "name": "Cap Estate/Ranch Site"
+        },
+        {
+          "id": 66050,
+          "name": "Cap Estate/Saddlec Back"
+        },
+        {
+          "id": 66051,
+          "name": "Cap Estate/Upper Saline Point"
+        },
+        {
+          "id": 66055,
+          "name": "Cas En Bas"
+        },
+        {
+          "id": 66058,
+          "name": "Caye Manje'"
+        },
+        {
+          "id": 66082,
+          "name": "Corinth"
+        },
+        {
+          "id": 66083,
+          "name": "Corinth Estate"
+        },
+        {
+          "id": 66084,
+          "name": "Corinth/La Bel Lair"
+        },
+        {
+          "id": 66092,
+          "name": "Dauphin"
+        },
+        {
+          "id": 66114,
+          "name": "Des Barras"
+        },
+        {
+          "id": 66115,
+          "name": "Des Barras/Cacolie"
+        },
+        {
+          "id": 66118,
+          "name": "Desrameaux"
+        },
+        {
+          "id": 66157,
+          "name": "Garrand"
+        },
+        {
+          "id": 66169,
+          "name": "Grand Riviere"
+        },
+        {
+          "id": 66172,
+          "name": "Grande Riviere/Assou Canal"
+        },
+        {
+          "id": 66176,
+          "name": "Grande Riviere/Ingle Woods"
+        },
+        {
+          "id": 66178,
+          "name": "Grande Riviere/Morne Serpent"
+        },
+        {
+          "id": 66179,
+          "name": "Grande Riviere/Norbert"
+        },
+        {
+          "id": 66180,
+          "name": "Grande Riviere/Piat"
+        },
+        {
+          "id": 66181,
+          "name": "Grande Riviere/White Rock"
+        },
+        {
+          "id": 66184,
+          "name": "Gros Islet"
+        },
+        {
+          "id": 66185,
+          "name": "Gros Islet Town"
+        },
+        {
+          "id": 66186,
+          "name": "Gros Islet/Edge Water"
+        },
+        {
+          "id": 66206,
+          "name": "L'Hermitage"
+        },
+        {
+          "id": 66211,
+          "name": "La Croix Chabourgh"
+        },
+        {
+          "id": 66214,
+          "name": "La Guerre"
+        },
+        {
+          "id": 66215,
+          "name": "La Guerre/Chicken Back Street"
+        },
+        {
+          "id": 66253,
+          "name": "Marisule"
+        },
+        {
+          "id": 66254,
+          "name": "Marisule/Bon Air"
+        },
+        {
+          "id": 66255,
+          "name": "Marisule/East Winds"
+        },
+        {
+          "id": 66256,
+          "name": "Marisule/La Brellotte"
+        },
+        {
+          "id": 66257,
+          "name": "Marisule/Top Of The World"
+        },
+        {
+          "id": 66258,
+          "name": "Marquis Estate"
+        },
+        {
+          "id": 66261,
+          "name": "Massade"
+        },
+        {
+          "id": 66269,
+          "name": "Monchy"
+        },
+        {
+          "id": 66270,
+          "name": "Monchy/Careffe"
+        },
+        {
+          "id": 66271,
+          "name": "Monchy/Cletus Village"
+        },
+        {
+          "id": 66272,
+          "name": "Monchy/La Borne"
+        },
+        {
+          "id": 66273,
+          "name": "Monchy/La Borne/Sans Souci"
+        },
+        {
+          "id": 66274,
+          "name": "Monchy/La Retraite"
+        },
+        {
+          "id": 66275,
+          "name": "Monchy/Lafeuillee"
+        },
+        {
+          "id": 66276,
+          "name": "Monchy/Lawi Fwen"
+        },
+        {
+          "id": 66277,
+          "name": "Monchy/Malgretoute"
+        },
+        {
+          "id": 66278,
+          "name": "Monchy/Moulin A Vent"
+        },
+        {
+          "id": 66279,
+          "name": "Monchy/Ravine Macock"
+        },
+        {
+          "id": 66280,
+          "name": "Monchy/Riviere Mitan"
+        },
+        {
+          "id": 66281,
+          "name": "Monchy/Ti Dauphin"
+        },
+        {
+          "id": 66282,
+          "name": "Monchy/Vieux Sucreic"
+        },
+        {
+          "id": 66283,
+          "name": "Monchy/Vieux Sucreic/Bois D'Inde"
+        },
+        {
+          "id": 66284,
+          "name": "Monchy/Vieux Sucreic/Careffe"
+        },
+        {
+          "id": 66285,
+          "name": "Mongiraud"
+        },
+        {
+          "id": 66287,
+          "name": "Monier"
+        },
+        {
+          "id": 66295,
+          "name": "Morne Citon"
+        },
+        {
+          "id": 66320,
+          "name": "Paix Bouche"
+        },
+        {
+          "id": 66333,
+          "name": "Pigeon Island"
+        },
+        {
+          "id": 66336,
+          "name": "Plateau"
+        },
+        {
+          "id": 66350,
+          "name": "Reduit"
+        },
+        {
+          "id": 66351,
+          "name": "Reduit Orchard"
+        },
+        {
+          "id": 66352,
+          "name": "Reduit Park"
+        },
+        {
+          "id": 66362,
+          "name": "Rodney Bay"
+        },
+        {
+          "id": 66363,
+          "name": "Rodney Heights"
+        },
+        {
+          "id": 66412,
+          "name": "Union"
+        },
+        {
+          "id": 66413,
+          "name": "Union Terrace"
+        },
+        {
+          "id": 66415,
+          "name": "Union/Ti Morne"
+        }
+      ]
+    },
+    {
+      "id": 3759,
+      "name": "Laborie Quarter",
+      "state_code": "07",
+      "cities": [
+        {
+          "id": 65959,
+          "name": "Annus"
+        },
+        {
+          "id": 65976,
+          "name": "Balca"
+        },
+        {
+          "id": 65977,
+          "name": "Balca/En Leur Ba"
+        },
+        {
+          "id": 65978,
+          "name": "Balembouche"
+        },
+        {
+          "id": 65980,
+          "name": "Banse"
+        },
+        {
+          "id": 65981,
+          "name": "Banse La Grace"
+        },
+        {
+          "id": 66026,
+          "name": "Bongalo"
+        },
+        {
+          "id": 66089,
+          "name": "Daban"
+        },
+        {
+          "id": 66143,
+          "name": "Fond Berange"
+        },
+        {
+          "id": 66158,
+          "name": "Gayabois"
+        },
+        {
+          "id": 66159,
+          "name": "Gentil"
+        },
+        {
+          "id": 66161,
+          "name": "Getrine"
+        },
+        {
+          "id": 66163,
+          "name": "Giraud"
+        },
+        {
+          "id": 66188,
+          "name": "H'Erelle"
+        },
+        {
+          "id": 66203,
+          "name": "Kennedy Highway/Laborie Bypass"
+        },
+        {
+          "id": 66216,
+          "name": "La Haut"
+        },
+        {
+          "id": 66221,
+          "name": "La Perle"
+        },
+        {
+          "id": 66233,
+          "name": "Laborie"
+        },
+        {
+          "id": 66241,
+          "name": "Londonderry"
+        },
+        {
+          "id": 66243,
+          "name": "Macdomel"
+        },
+        {
+          "id": 66298,
+          "name": "Morne Gomier"
+        },
+        {
+          "id": 66302,
+          "name": "Morne Le Blanc"
+        },
+        {
+          "id": 66319,
+          "name": "Olibo"
+        },
+        {
+          "id": 66324,
+          "name": "Parc Estate"
+        },
+        {
+          "id": 66331,
+          "name": "Piaye"
+        },
+        {
+          "id": 66368,
+          "name": "Saltibus"
+        },
+        {
+          "id": 66371,
+          "name": "Saphire"
+        },
+        {
+          "id": 66393,
+          "name": "Tete Morne"
+        },
+        {
+          "id": 66426,
+          "name": "Village"
+        },
+        {
+          "id": 66431,
+          "name": "Warwick/Daban"
+        }
+      ]
+    },
+    {
+      "id": 3762,
+      "name": "Micoud Quarter",
+      "state_code": "08",
+      "cities": [
+        {
+          "id": 65964,
+          "name": "Anse Ger"
+        },
+        {
+          "id": 65991,
+          "name": "Beauchamp"
+        },
+        {
+          "id": 66014,
+          "name": "Blanchard"
+        },
+        {
+          "id": 66041,
+          "name": "Canelles"
+        },
+        {
+          "id": 66059,
+          "name": "Cazuca"
+        },
+        {
+          "id": 66068,
+          "name": "Chique/Blanchard"
+        },
+        {
+          "id": 66079,
+          "name": "Coolie Town"
+        },
+        {
+          "id": 66098,
+          "name": "Delomel"
+        },
+        {
+          "id": 66116,
+          "name": "Des Blanchard"
+        },
+        {
+          "id": 66119,
+          "name": "Desruisseaux"
+        },
+        {
+          "id": 66126,
+          "name": "Dugard"
+        },
+        {
+          "id": 66134,
+          "name": "Escap"
+        },
+        {
+          "id": 66148,
+          "name": "Fond D'Lor/Dugard"
+        },
+        {
+          "id": 66150,
+          "name": "Fond Estate"
+        },
+        {
+          "id": 66153,
+          "name": "Fond/Desruisseaux"
+        },
+        {
+          "id": 66165,
+          "name": "Gomier"
+        },
+        {
+          "id": 66167,
+          "name": "Gouette"
+        },
+        {
+          "id": 66192,
+          "name": "Honeymoon Beach"
+        },
+        {
+          "id": 66205,
+          "name": "L'Eau Mineau"
+        },
+        {
+          "id": 66210,
+          "name": "La Courville"
+        },
+        {
+          "id": 66222,
+          "name": "La Pointe"
+        },
+        {
+          "id": 66228,
+          "name": "La Tille"
+        },
+        {
+          "id": 66239,
+          "name": "Lezy"
+        },
+        {
+          "id": 66240,
+          "name": "Lombard"
+        },
+        {
+          "id": 66245,
+          "name": "Mahaut"
+        },
+        {
+          "id": 66247,
+          "name": "Malgretoute"
+        },
+        {
+          "id": 66249,
+          "name": "Mamiku"
+        },
+        {
+          "id": 66264,
+          "name": "Micoud"
+        },
+        {
+          "id": 66268,
+          "name": "Mon Repos"
+        },
+        {
+          "id": 66290,
+          "name": "Moreau"
+        },
+        {
+          "id": 66308,
+          "name": "Morne Vient"
+        },
+        {
+          "id": 66312,
+          "name": "Myette Gardens"
+        },
+        {
+          "id": 66315,
+          "name": "New Village"
+        },
+        {
+          "id": 66321,
+          "name": "Paix Bouche"
+        },
+        {
+          "id": 66323,
+          "name": "Palmiste Estate"
+        },
+        {
+          "id": 66326,
+          "name": "Patience"
+        },
+        {
+          "id": 66334,
+          "name": "Planard"
+        },
+        {
+          "id": 66341,
+          "name": "Praslin"
+        },
+        {
+          "id": 66344,
+          "name": "Rameau"
+        },
+        {
+          "id": 66367,
+          "name": "Saint Marie Road"
+        },
+        {
+          "id": 66373,
+          "name": "Saut"
+        },
+        {
+          "id": 66375,
+          "name": "Savannes"
+        },
+        {
+          "id": 66379,
+          "name": "St Helen Estate"
+        },
+        {
+          "id": 66401,
+          "name": "Ti Riviere"
+        },
+        {
+          "id": 66403,
+          "name": "Ti Rocher"
+        },
+        {
+          "id": 66411,
+          "name": "Troumassee"
+        },
+        {
+          "id": 66425,
+          "name": "Village"
+        },
+        {
+          "id": 66430,
+          "name": "Volet"
+        }
+      ]
+    },
+    {
+      "id": 3765,
+      "name": "Praslin Quarter",
+      "state_code": "09",
+      "cities": []
+    },
+    {
+      "id": 3764,
+      "name": "Soufrière Quarter",
+      "state_code": "10",
+      "cities": [
+        {
+          "id": 65961,
+          "name": "Anse Chastanet"
+        },
+        {
+          "id": 65984,
+          "name": "Barons Drive/Coin De L'Anse"
+        },
+        {
+          "id": 65990,
+          "name": "Beasejour/Myers Bridge"
+        },
+        {
+          "id": 65999,
+          "name": "Belle Plaine"
+        },
+        {
+          "id": 66004,
+          "name": "Bellefond"
+        },
+        {
+          "id": 66007,
+          "name": "Belvedere"
+        },
+        {
+          "id": 66020,
+          "name": "Bois D'Inde"
+        },
+        {
+          "id": 66031,
+          "name": "Bouton"
+        },
+        {
+          "id": 66039,
+          "name": "Calvary/Calvaire"
+        },
+        {
+          "id": 66062,
+          "name": "Cenac"
+        },
+        {
+          "id": 66067,
+          "name": "Chateau Belair"
+        },
+        {
+          "id": 66076,
+          "name": "Colombette"
+        },
+        {
+          "id": 66077,
+          "name": "Compar"
+        },
+        {
+          "id": 66086,
+          "name": "Cresslands"
+        },
+        {
+          "id": 66120,
+          "name": "Deville"
+        },
+        {
+          "id": 66121,
+          "name": "Diamond/Diamond Estate"
+        },
+        {
+          "id": 66137,
+          "name": "Esperance"
+        },
+        {
+          "id": 66138,
+          "name": "Etangs"
+        },
+        {
+          "id": 66144,
+          "name": "Fond Bernier"
+        },
+        {
+          "id": 66145,
+          "name": "Fond Cacoa"
+        },
+        {
+          "id": 66149,
+          "name": "Fond Doux"
+        },
+        {
+          "id": 66151,
+          "name": "Fond Gens Libre"
+        },
+        {
+          "id": 66199,
+          "name": "Jalousie"
+        },
+        {
+          "id": 66217,
+          "name": "La Haut"
+        },
+        {
+          "id": 66219,
+          "name": "La Pearle"
+        },
+        {
+          "id": 66237,
+          "name": "Lenny Hill"
+        },
+        {
+          "id": 66248,
+          "name": "Malgretoute"
+        },
+        {
+          "id": 66265,
+          "name": "Migny"
+        },
+        {
+          "id": 66267,
+          "name": "Mocha"
+        },
+        {
+          "id": 66292,
+          "name": "Morne Bonin"
+        },
+        {
+          "id": 66300,
+          "name": "Morne La Croix"
+        },
+        {
+          "id": 66301,
+          "name": "Morne Lastic/Desruisseaux"
+        },
+        {
+          "id": 66313,
+          "name": "New Development"
+        },
+        {
+          "id": 66322,
+          "name": "Palmiste"
+        },
+        {
+          "id": 66335,
+          "name": "Plat Pays"
+        },
+        {
+          "id": 66343,
+          "name": "Rabot"
+        },
+        {
+          "id": 66347,
+          "name": "Ravine Claire"
+        },
+        {
+          "id": 66366,
+          "name": "Ruby Estate"
+        },
+        {
+          "id": 66378,
+          "name": "Soufrière"
+        },
+        {
+          "id": 66377,
+          "name": "Soufriere Estate"
+        },
+        {
+          "id": 66383,
+          "name": "St Phillip"
+        },
+        {
+          "id": 66385,
+          "name": "Stonefield"
+        },
+        {
+          "id": 66386,
+          "name": "Sulphur Springs"
+        },
+        {
+          "id": 66398,
+          "name": "Ti Boug"
+        },
+        {
+          "id": 66400,
+          "name": "Ti Delcer"
+        },
+        {
+          "id": 66404,
+          "name": "Toraille"
+        },
+        {
+          "id": 66405,
+          "name": "Town"
+        },
+        {
+          "id": 66414,
+          "name": "Union Vale"
+        },
+        {
+          "id": 66436,
+          "name": "Zenon"
+        }
+      ]
+    },
+    {
+      "id": 3763,
+      "name": "Vieux Fort Quarter",
+      "state_code": "11",
+      "cities": [
+        {
+          "id": 65971,
+          "name": "Augier"
+        },
+        {
+          "id": 65989,
+          "name": "Beane Field"
+        },
+        {
+          "id": 65992,
+          "name": "Beausejour"
+        },
+        {
+          "id": 66002,
+          "name": "Belle Vue"
+        },
+        {
+          "id": 66012,
+          "name": "Black Bay"
+        },
+        {
+          "id": 66032,
+          "name": "Bruceville/Shanty Town"
+        },
+        {
+          "id": 66034,
+          "name": "Cacoa"
+        },
+        {
+          "id": 66042,
+          "name": "Cantonement"
+        },
+        {
+          "id": 66054,
+          "name": "Carierre"
+        },
+        {
+          "id": 66057,
+          "name": "Catin"
+        },
+        {
+          "id": 66075,
+          "name": "Cocoa Dan"
+        },
+        {
+          "id": 66081,
+          "name": "Coolie Town"
+        },
+        {
+          "id": 66093,
+          "name": "De Mailly"
+        },
+        {
+          "id": 66105,
+          "name": "Derierre Bois"
+        },
+        {
+          "id": 66107,
+          "name": "Derierre Morne"
+        },
+        {
+          "id": 66122,
+          "name": "Docamel/La Resource"
+        },
+        {
+          "id": 66129,
+          "name": "Eau Piquant/St Urbain"
+        },
+        {
+          "id": 66130,
+          "name": "En Bamboo"
+        },
+        {
+          "id": 66135,
+          "name": "Esperance"
+        },
+        {
+          "id": 66147,
+          "name": "Fond Capeche"
+        },
+        {
+          "id": 66152,
+          "name": "Fond Sabot"
+        },
+        {
+          "id": 66168,
+          "name": "Grace"
+        },
+        {
+          "id": 66189,
+          "name": "Hewanorra Orchard"
+        },
+        {
+          "id": 66193,
+          "name": "Hope Estate"
+        },
+        {
+          "id": 66196,
+          "name": "Industrial Estate"
+        },
+        {
+          "id": 66202,
+          "name": "Joyeux"
+        },
+        {
+          "id": 66225,
+          "name": "La Resource"
+        },
+        {
+          "id": 66227,
+          "name": "La Retraite"
+        },
+        {
+          "id": 66230,
+          "name": "La Tourney/Cedar Heights"
+        },
+        {
+          "id": 66244,
+          "name": "Maganier"
+        },
+        {
+          "id": 66293,
+          "name": "Morne Cayenne"
+        },
+        {
+          "id": 66307,
+          "name": "Morne Vert"
+        },
+        {
+          "id": 66310,
+          "name": "Moule A Chique"
+        },
+        {
+          "id": 66317,
+          "name": "Obrier"
+        },
+        {
+          "id": 66332,
+          "name": "Pierrot"
+        },
+        {
+          "id": 66337,
+          "name": "Plut"
+        },
+        {
+          "id": 66339,
+          "name": "Pomme"
+        },
+        {
+          "id": 66380,
+          "name": "St Jude'S Highway"
+        },
+        {
+          "id": 66394,
+          "name": "Tete Morne/Morne Andrew"
+        },
+        {
+          "id": 66406,
+          "name": "Town"
+        },
+        {
+          "id": 66420,
+          "name": "Vieux Fort"
+        },
+        {
+          "id": 66421,
+          "name": "Vieux Fort/Laborie Highway"
+        },
+        {
+          "id": 66422,
+          "name": "Vige'"
+        },
+        {
+          "id": 66433,
+          "name": "Westall Group/The Mangue"
+        }
+      ]
+    }
+  ]
+}

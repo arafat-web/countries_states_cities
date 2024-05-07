@@ -1,0 +1,94 @@
+{
+  "id": 183,
+  "name": "Rwanda",
+  "short_name": "RWA",
+  "phone_code": "250",
+  "currency": "RWF",
+  "currency_name": "Rwandan franc",
+  "currency_symbol": "FRw",
+  "states": [
+    {
+      "id": 261,
+      "name": "Eastern Province",
+      "state_code": "02",
+      "cities": [
+        {
+          "id": 102798,
+          "name": "Kibungo"
+        },
+        {
+          "id": 102803,
+          "name": "Rwamagana"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Kigali district",
+      "state_code": "01",
+      "cities": [
+        {
+          "id": 102800,
+          "name": "Kigali"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Northern Province",
+      "state_code": "03",
+      "cities": [
+        {
+          "id": 102793,
+          "name": "Byumba"
+        },
+        {
+          "id": 102801,
+          "name": "Musanze"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Southern Province",
+      "state_code": "05",
+      "cities": [
+        {
+          "id": 102792,
+          "name": "Butare"
+        },
+        {
+          "id": 102795,
+          "name": "Eglise Catholique Centrale GIKO"
+        },
+        {
+          "id": 102797,
+          "name": "Gitarama"
+        },
+        {
+          "id": 102802,
+          "name": "Nzega"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Western Province",
+      "state_code": "04",
+      "cities": [
+        {
+          "id": 102794,
+          "name": "Cyangugu"
+        },
+        {
+          "id": 102796,
+          "name": "Gisenyi"
+        },
+        {
+          "id": 102799,
+          "name": "Kibuye"
+        }
+      ]
+    }
+  ]
+}

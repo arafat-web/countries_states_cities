@@ -1,0 +1,2292 @@
+{
+  "id": 22,
+  "name": "Belgium",
+  "short_name": "BEL",
+  "phone_code": "32",
+  "currency": "EUR",
+  "currency_name": "Euro",
+  "currency_symbol": "€",
+  "states": [
+    {
+      "id": 1381,
+      "name": "Antwerp",
+      "state_code": "VAN",
+      "cities": []
+    },
+    {
+      "id": 1376,
+      "name": "Brussels-Capital Region",
+      "state_code": "BRU",
+      "cities": [
+        {
+          "id": 8693,
+          "name": "Brussels"
+        }
+      ]
+    },
+    {
+      "id": 1377,
+      "name": "East Flanders",
+      "state_code": "VOV",
+      "cities": []
+    },
+    {
+      "id": 1373,
+      "name": "Flanders",
+      "state_code": "VLG",
+      "cities": [
+        {
+          "id": 8608,
+          "name": "Aalst"
+        },
+        {
+          "id": 8609,
+          "name": "Aalter"
+        },
+        {
+          "id": 8610,
+          "name": "Aarschot"
+        },
+        {
+          "id": 8611,
+          "name": "Aartselaar"
+        },
+        {
+          "id": 8613,
+          "name": "Alken"
+        },
+        {
+          "id": 8614,
+          "name": "Alveringem"
+        },
+        {
+          "id": 8623,
+          "name": "Antwerpen"
+        },
+        {
+          "id": 8624,
+          "name": "Anzegem"
+        },
+        {
+          "id": 8625,
+          "name": "Ardooie"
+        },
+        {
+          "id": 8626,
+          "name": "Arendonk"
+        },
+        {
+          "id": 8628,
+          "name": "As"
+        },
+        {
+          "id": 8629,
+          "name": "Asse"
+        },
+        {
+          "id": 8630,
+          "name": "Assenede"
+        },
+        {
+          "id": 8636,
+          "name": "Avelgem"
+        },
+        {
+          "id": 8639,
+          "name": "Baarle-Hertog"
+        },
+        {
+          "id": 8641,
+          "name": "Balen"
+        },
+        {
+          "id": 8648,
+          "name": "Beernem"
+        },
+        {
+          "id": 8649,
+          "name": "Beerse"
+        },
+        {
+          "id": 8650,
+          "name": "Beersel"
+        },
+        {
+          "id": 8651,
+          "name": "Begijnendijk"
+        },
+        {
+          "id": 8652,
+          "name": "Bekkevoort"
+        },
+        {
+          "id": 8654,
+          "name": "Beringen"
+        },
+        {
+          "id": 8655,
+          "name": "Berlaar"
+        },
+        {
+          "id": 8656,
+          "name": "Berlare"
+        },
+        {
+          "id": 8659,
+          "name": "Bertem"
+        },
+        {
+          "id": 8662,
+          "name": "Bever"
+        },
+        {
+          "id": 8663,
+          "name": "Beveren"
+        },
+        {
+          "id": 8665,
+          "name": "Bierbeek"
+        },
+        {
+          "id": 8666,
+          "name": "Bilzen"
+        },
+        {
+          "id": 8669,
+          "name": "Blankenberge"
+        },
+        {
+          "id": 8671,
+          "name": "Bocholt"
+        },
+        {
+          "id": 8672,
+          "name": "Boechout"
+        },
+        {
+          "id": 8673,
+          "name": "Bonheiden"
+        },
+        {
+          "id": 8674,
+          "name": "Boom"
+        },
+        {
+          "id": 8675,
+          "name": "Boortmeerbeek"
+        },
+        {
+          "id": 8676,
+          "name": "Borgloon"
+        },
+        {
+          "id": 8677,
+          "name": "Bornem"
+        },
+        {
+          "id": 8678,
+          "name": "Borsbeek"
+        },
+        {
+          "id": 8681,
+          "name": "Boutersem"
+        },
+        {
+          "id": 8686,
+          "name": "Brasschaat"
+        },
+        {
+          "id": 8687,
+          "name": "Brecht"
+        },
+        {
+          "id": 8688,
+          "name": "Bredene"
+        },
+        {
+          "id": 8689,
+          "name": "Bree"
+        },
+        {
+          "id": 8691,
+          "name": "Brugge"
+        },
+        {
+          "id": 8694,
+          "name": "Buggenhout"
+        },
+        {
+          "id": 8718,
+          "name": "Damme"
+        },
+        {
+          "id": 8720,
+          "name": "De Haan"
+        },
+        {
+          "id": 8721,
+          "name": "De Panne"
+        },
+        {
+          "id": 8722,
+          "name": "De Pinte"
+        },
+        {
+          "id": 8723,
+          "name": "Deerlijk"
+        },
+        {
+          "id": 8724,
+          "name": "Deinze"
+        },
+        {
+          "id": 8725,
+          "name": "Denderleeuw"
+        },
+        {
+          "id": 8726,
+          "name": "Dendermonde"
+        },
+        {
+          "id": 8727,
+          "name": "Dentergem"
+        },
+        {
+          "id": 8728,
+          "name": "Dessel"
+        },
+        {
+          "id": 8729,
+          "name": "Destelbergen"
+        },
+        {
+          "id": 8730,
+          "name": "Deurne"
+        },
+        {
+          "id": 8731,
+          "name": "Diegem"
+        },
+        {
+          "id": 8732,
+          "name": "Diepenbeek"
+        },
+        {
+          "id": 8733,
+          "name": "Diest"
+        },
+        {
+          "id": 8734,
+          "name": "Diksmuide"
+        },
+        {
+          "id": 8735,
+          "name": "Dilbeek"
+        },
+        {
+          "id": 8741,
+          "name": "Drogenbos"
+        },
+        {
+          "id": 8742,
+          "name": "Duffel"
+        },
+        {
+          "id": 8744,
+          "name": "Edegem"
+        },
+        {
+          "id": 8745,
+          "name": "Eeklo"
+        },
+        {
+          "id": 8751,
+          "name": "Essen"
+        },
+        {
+          "id": 8755,
+          "name": "Evergem"
+        },
+        {
+          "id": 8773,
+          "name": "Galmaarden"
+        },
+        {
+          "id": 8774,
+          "name": "Gavere"
+        },
+        {
+          "id": 8776,
+          "name": "Geel"
+        },
+        {
+          "id": 8778,
+          "name": "Geetbets"
+        },
+        {
+          "id": 8781,
+          "name": "Genk"
+        },
+        {
+          "id": 8782,
+          "name": "Gent"
+        },
+        {
+          "id": 8783,
+          "name": "Geraardsbergen"
+        },
+        {
+          "id": 8786,
+          "name": "Gingelom"
+        },
+        {
+          "id": 8787,
+          "name": "Gistel"
+        },
+        {
+          "id": 8788,
+          "name": "Glabbeek"
+        },
+        {
+          "id": 8789,
+          "name": "Gooik"
+        },
+        {
+          "id": 8792,
+          "name": "Grimbergen"
+        },
+        {
+          "id": 8793,
+          "name": "Grobbendonk"
+        },
+        {
+          "id": 8794,
+          "name": "Haacht"
+        },
+        {
+          "id": 8795,
+          "name": "Haaltert"
+        },
+        {
+          "id": 8797,
+          "name": "Halen"
+        },
+        {
+          "id": 8798,
+          "name": "Halle"
+        },
+        {
+          "id": 8799,
+          "name": "Hamme"
+        },
+        {
+          "id": 8803,
+          "name": "Harelbeke"
+        },
+        {
+          "id": 8804,
+          "name": "Hasselt"
+        },
+        {
+          "id": 8807,
+          "name": "Heers"
+        },
+        {
+          "id": 8808,
+          "name": "Heist-op-den-Berg"
+        },
+        {
+          "id": 8809,
+          "name": "Helchteren"
+        },
+        {
+          "id": 8810,
+          "name": "Hemiksem"
+        },
+        {
+          "id": 8813,
+          "name": "Herent"
+        },
+        {
+          "id": 8814,
+          "name": "Herentals"
+        },
+        {
+          "id": 8815,
+          "name": "Herenthout"
+        },
+        {
+          "id": 8816,
+          "name": "Herk-de-Stad"
+        },
+        {
+          "id": 8817,
+          "name": "Herne"
+        },
+        {
+          "id": 8818,
+          "name": "Herselt"
+        },
+        {
+          "id": 8821,
+          "name": "Herzele"
+        },
+        {
+          "id": 8822,
+          "name": "Heusden"
+        },
+        {
+          "id": 8823,
+          "name": "Hoboken"
+        },
+        {
+          "id": 8824,
+          "name": "Hoegaarden"
+        },
+        {
+          "id": 8825,
+          "name": "Hoeilaart"
+        },
+        {
+          "id": 8826,
+          "name": "Hoeselt"
+        },
+        {
+          "id": 8827,
+          "name": "Holsbeek"
+        },
+        {
+          "id": 8828,
+          "name": "Hooglede"
+        },
+        {
+          "id": 8829,
+          "name": "Hoogstraten"
+        },
+        {
+          "id": 8832,
+          "name": "Houthalen"
+        },
+        {
+          "id": 8833,
+          "name": "Houthulst"
+        },
+        {
+          "id": 8835,
+          "name": "Hove"
+        },
+        {
+          "id": 8836,
+          "name": "Huldenberg"
+        },
+        {
+          "id": 8837,
+          "name": "Hulshout"
+        },
+        {
+          "id": 8840,
+          "name": "Ichtegem"
+        },
+        {
+          "id": 8841,
+          "name": "Ieper"
+        },
+        {
+          "id": 8843,
+          "name": "Ingelmunster"
+        },
+        {
+          "id": 8845,
+          "name": "Izegem"
+        },
+        {
+          "id": 8846,
+          "name": "Jabbeke"
+        },
+        {
+          "id": 8851,
+          "name": "Kalmthout"
+        },
+        {
+          "id": 8852,
+          "name": "Kampenhout"
+        },
+        {
+          "id": 8853,
+          "name": "Kapelle-op-den-Bos"
+        },
+        {
+          "id": 8854,
+          "name": "Kapellen"
+        },
+        {
+          "id": 8855,
+          "name": "Kaprijke"
+        },
+        {
+          "id": 8856,
+          "name": "Kasterlee"
+        },
+        {
+          "id": 8857,
+          "name": "Keerbergen"
+        },
+        {
+          "id": 8858,
+          "name": "Kinrooi"
+        },
+        {
+          "id": 8859,
+          "name": "Knesselare"
+        },
+        {
+          "id": 8860,
+          "name": "Knokke-Heist"
+        },
+        {
+          "id": 8861,
+          "name": "Koekelare"
+        },
+        {
+          "id": 8862,
+          "name": "Koksijde"
+        },
+        {
+          "id": 8863,
+          "name": "Kontich"
+        },
+        {
+          "id": 8864,
+          "name": "Kortemark"
+        },
+        {
+          "id": 8865,
+          "name": "Kortenaken"
+        },
+        {
+          "id": 8866,
+          "name": "Kortenberg"
+        },
+        {
+          "id": 8867,
+          "name": "Kortessem"
+        },
+        {
+          "id": 8868,
+          "name": "Kortrijk"
+        },
+        {
+          "id": 8869,
+          "name": "Kraainem"
+        },
+        {
+          "id": 8870,
+          "name": "Kruibeke"
+        },
+        {
+          "id": 8871,
+          "name": "Kruishoutem"
+        },
+        {
+          "id": 8872,
+          "name": "Kuurne"
+        },
+        {
+          "id": 8878,
+          "name": "Laarne"
+        },
+        {
+          "id": 8879,
+          "name": "Lanaken"
+        },
+        {
+          "id": 8880,
+          "name": "Landen"
+        },
+        {
+          "id": 8881,
+          "name": "Lebbeke"
+        },
+        {
+          "id": 8882,
+          "name": "Lede"
+        },
+        {
+          "id": 8883,
+          "name": "Ledeberg"
+        },
+        {
+          "id": 8884,
+          "name": "Ledegem"
+        },
+        {
+          "id": 8885,
+          "name": "Lendelede"
+        },
+        {
+          "id": 8887,
+          "name": "Leopoldsburg"
+        },
+        {
+          "id": 8889,
+          "name": "Leuven"
+        },
+        {
+          "id": 8891,
+          "name": "Lichtervelde"
+        },
+        {
+          "id": 8892,
+          "name": "Liedekerke"
+        },
+        {
+          "id": 8893,
+          "name": "Lier"
+        },
+        {
+          "id": 8895,
+          "name": "Lille"
+        },
+        {
+          "id": 8898,
+          "name": "Linkebeek"
+        },
+        {
+          "id": 8899,
+          "name": "Lint"
+        },
+        {
+          "id": 8902,
+          "name": "Lochristi"
+        },
+        {
+          "id": 8903,
+          "name": "Lokeren"
+        },
+        {
+          "id": 8904,
+          "name": "Lommel"
+        },
+        {
+          "id": 8905,
+          "name": "Londerzeel"
+        },
+        {
+          "id": 8908,
+          "name": "Lovendegem"
+        },
+        {
+          "id": 8909,
+          "name": "Lubbeek"
+        },
+        {
+          "id": 8910,
+          "name": "Lummen"
+        },
+        {
+          "id": 8912,
+          "name": "Maaseik"
+        },
+        {
+          "id": 8913,
+          "name": "Maasmechelen"
+        },
+        {
+          "id": 8914,
+          "name": "Machelen"
+        },
+        {
+          "id": 8915,
+          "name": "Maldegem"
+        },
+        {
+          "id": 8922,
+          "name": "Mechelen"
+        },
+        {
+          "id": 8923,
+          "name": "Meerhout"
+        },
+        {
+          "id": 8924,
+          "name": "Meise"
+        },
+        {
+          "id": 8926,
+          "name": "Melle"
+        },
+        {
+          "id": 8927,
+          "name": "Menen"
+        },
+        {
+          "id": 8929,
+          "name": "Merchtem"
+        },
+        {
+          "id": 8930,
+          "name": "Merelbeke"
+        },
+        {
+          "id": 8931,
+          "name": "Merksplas"
+        },
+        {
+          "id": 8934,
+          "name": "Meulebeke"
+        },
+        {
+          "id": 8935,
+          "name": "Middelkerke"
+        },
+        {
+          "id": 8937,
+          "name": "Moerbeke"
+        },
+        {
+          "id": 8938,
+          "name": "Mol"
+        },
+        {
+          "id": 8943,
+          "name": "Moorslede"
+        },
+        {
+          "id": 8945,
+          "name": "Mortsel"
+        },
+        {
+          "id": 8951,
+          "name": "Nazareth"
+        },
+        {
+          "id": 8952,
+          "name": "Neerpelt"
+        },
+        {
+          "id": 8954,
+          "name": "Nevele"
+        },
+        {
+          "id": 8955,
+          "name": "Niel"
+        },
+        {
+          "id": 8956,
+          "name": "Nieuwerkerken"
+        },
+        {
+          "id": 8957,
+          "name": "Nieuwpoort"
+        },
+        {
+          "id": 8958,
+          "name": "Nijlen"
+        },
+        {
+          "id": 8959,
+          "name": "Ninove"
+        },
+        {
+          "id": 8963,
+          "name": "Olen"
+        },
+        {
+          "id": 8966,
+          "name": "Oostduinkerke"
+        },
+        {
+          "id": 8967,
+          "name": "Oosterzele"
+        },
+        {
+          "id": 8968,
+          "name": "Oostkamp"
+        },
+        {
+          "id": 8969,
+          "name": "Oostmalle"
+        },
+        {
+          "id": 8970,
+          "name": "Oostrozebeke"
+        },
+        {
+          "id": 8971,
+          "name": "Opglabbeek"
+        },
+        {
+          "id": 8972,
+          "name": "Opwijk"
+        },
+        {
+          "id": 8974,
+          "name": "Ostend"
+        },
+        {
+          "id": 8976,
+          "name": "Oud-Heverlee"
+        },
+        {
+          "id": 8977,
+          "name": "Oud-Turnhout"
+        },
+        {
+          "id": 8978,
+          "name": "Oudenaarde"
+        },
+        {
+          "id": 8979,
+          "name": "Oudenburg"
+        },
+        {
+          "id": 8982,
+          "name": "Overijse"
+        },
+        {
+          "id": 8983,
+          "name": "Overpelt"
+        },
+        {
+          "id": 8986,
+          "name": "Peer"
+        },
+        {
+          "id": 8987,
+          "name": "Pepingen"
+        },
+        {
+          "id": 8989,
+          "name": "Perre"
+        },
+        {
+          "id": 8992,
+          "name": "Pittem"
+        },
+        {
+          "id": 8995,
+          "name": "Poperinge"
+        },
+        {
+          "id": 9002,
+          "name": "Provincie Antwerpen"
+        },
+        {
+          "id": 9003,
+          "name": "Provincie Limburg"
+        },
+        {
+          "id": 9004,
+          "name": "Provincie Oost-Vlaanderen"
+        },
+        {
+          "id": 9005,
+          "name": "Provincie Vlaams-Brabant"
+        },
+        {
+          "id": 9006,
+          "name": "Provincie West-Vlaanderen"
+        },
+        {
+          "id": 9007,
+          "name": "Putte"
+        },
+        {
+          "id": 9008,
+          "name": "Puurs"
+        },
+        {
+          "id": 9015,
+          "name": "Ranst"
+        },
+        {
+          "id": 9016,
+          "name": "Ravels"
+        },
+        {
+          "id": 9020,
+          "name": "Retie"
+        },
+        {
+          "id": 9021,
+          "name": "Riemst"
+        },
+        {
+          "id": 9022,
+          "name": "Rijkevorsel"
+        },
+        {
+          "id": 9025,
+          "name": "Roeselare"
+        },
+        {
+          "id": 9027,
+          "name": "Ronse"
+        },
+        {
+          "id": 9028,
+          "name": "Rotselaar"
+        },
+        {
+          "id": 9030,
+          "name": "Ruiselede"
+        },
+        {
+          "id": 9032,
+          "name": "Rumst"
+        },
+        {
+          "id": 9039,
+          "name": "Schelle"
+        },
+        {
+          "id": 9040,
+          "name": "Schilde"
+        },
+        {
+          "id": 9041,
+          "name": "Schoten"
+        },
+        {
+          "id": 9045,
+          "name": "Sint-Amands"
+        },
+        {
+          "id": 9046,
+          "name": "Sint-Genesius-Rode"
+        },
+        {
+          "id": 9047,
+          "name": "Sint-Gillis-Waas"
+        },
+        {
+          "id": 9048,
+          "name": "Sint-Joris"
+        },
+        {
+          "id": 9049,
+          "name": "Sint-Katelijne-Waver"
+        },
+        {
+          "id": 9050,
+          "name": "Sint-Kruis"
+        },
+        {
+          "id": 9051,
+          "name": "Sint-Laureins"
+        },
+        {
+          "id": 9052,
+          "name": "Sint-Lievens-Houtem"
+        },
+        {
+          "id": 9053,
+          "name": "Sint-Maria-Lierde"
+        },
+        {
+          "id": 9054,
+          "name": "Sint-Martens-Latem"
+        },
+        {
+          "id": 9055,
+          "name": "Sint-Martens-Lennik"
+        },
+        {
+          "id": 9056,
+          "name": "Sint-Niklaas"
+        },
+        {
+          "id": 9057,
+          "name": "Sint-Pieters-Leeuw"
+        },
+        {
+          "id": 9058,
+          "name": "Sint-Pieters-Voeren"
+        },
+        {
+          "id": 9059,
+          "name": "Sint-Truiden"
+        },
+        {
+          "id": 9066,
+          "name": "Stabroek"
+        },
+        {
+          "id": 9067,
+          "name": "Staden"
+        },
+        {
+          "id": 9069,
+          "name": "Steenokkerzeel"
+        },
+        {
+          "id": 9070,
+          "name": "Stekene"
+        },
+        {
+          "id": 9073,
+          "name": "Temse"
+        },
+        {
+          "id": 9075,
+          "name": "Terkoest"
+        },
+        {
+          "id": 9076,
+          "name": "Ternat"
+        },
+        {
+          "id": 9077,
+          "name": "Tervuren"
+        },
+        {
+          "id": 9078,
+          "name": "Tessenderlo"
+        },
+        {
+          "id": 9081,
+          "name": "Tielt"
+        },
+        {
+          "id": 9082,
+          "name": "Tienen"
+        },
+        {
+          "id": 9085,
+          "name": "Tongeren"
+        },
+        {
+          "id": 9086,
+          "name": "Torhout"
+        },
+        {
+          "id": 9088,
+          "name": "Tremelo"
+        },
+        {
+          "id": 9092,
+          "name": "Turnhout"
+        },
+        {
+          "id": 9096,
+          "name": "Veurne"
+        },
+        {
+          "id": 9100,
+          "name": "Vilvoorde"
+        },
+        {
+          "id": 9103,
+          "name": "Vorselaar"
+        },
+        {
+          "id": 9104,
+          "name": "Vosselaar"
+        },
+        {
+          "id": 9105,
+          "name": "Waarschoot"
+        },
+        {
+          "id": 9106,
+          "name": "Waasmunster"
+        },
+        {
+          "id": 9107,
+          "name": "Wachtebeke"
+        },
+        {
+          "id": 9112,
+          "name": "Waregem"
+        },
+        {
+          "id": 9118,
+          "name": "Wellen"
+        },
+        {
+          "id": 9120,
+          "name": "Wemmel"
+        },
+        {
+          "id": 9121,
+          "name": "Wenduine"
+        },
+        {
+          "id": 9122,
+          "name": "Wervik"
+        },
+        {
+          "id": 9123,
+          "name": "Westerlo"
+        },
+        {
+          "id": 9124,
+          "name": "Wetteren"
+        },
+        {
+          "id": 9125,
+          "name": "Wevelgem"
+        },
+        {
+          "id": 9126,
+          "name": "Wezembeek-Oppem"
+        },
+        {
+          "id": 9127,
+          "name": "Wichelen"
+        },
+        {
+          "id": 9128,
+          "name": "Wielsbeke"
+        },
+        {
+          "id": 9129,
+          "name": "Wijnegem"
+        },
+        {
+          "id": 9130,
+          "name": "Willebroek"
+        },
+        {
+          "id": 9131,
+          "name": "Wingene"
+        },
+        {
+          "id": 9132,
+          "name": "Wommelgem"
+        },
+        {
+          "id": 9133,
+          "name": "Wuustwezel"
+        },
+        {
+          "id": 9135,
+          "name": "Zandhoven"
+        },
+        {
+          "id": 9136,
+          "name": "Zaventem"
+        },
+        {
+          "id": 9137,
+          "name": "Zedelgem"
+        },
+        {
+          "id": 9138,
+          "name": "Zeebrugge"
+        },
+        {
+          "id": 9139,
+          "name": "Zele"
+        },
+        {
+          "id": 9140,
+          "name": "Zelzate"
+        },
+        {
+          "id": 9141,
+          "name": "Zemst"
+        },
+        {
+          "id": 9142,
+          "name": "Zingem"
+        },
+        {
+          "id": 9143,
+          "name": "Zoersel"
+        },
+        {
+          "id": 9144,
+          "name": "Zomergem"
+        },
+        {
+          "id": 9145,
+          "name": "Zonhoven"
+        },
+        {
+          "id": 9146,
+          "name": "Zonnebeke"
+        },
+        {
+          "id": 9147,
+          "name": "Zottegem"
+        },
+        {
+          "id": 9148,
+          "name": "Zoutleeuw"
+        },
+        {
+          "id": 9149,
+          "name": "Zuienkerke"
+        },
+        {
+          "id": 9150,
+          "name": "Zulte"
+        },
+        {
+          "id": 9151,
+          "name": "Zutendaal"
+        },
+        {
+          "id": 9152,
+          "name": "Zwevegem"
+        },
+        {
+          "id": 9153,
+          "name": "Zwijndrecht"
+        }
+      ]
+    },
+    {
+      "id": 1374,
+      "name": "Flemish Brabant",
+      "state_code": "VBR",
+      "cities": []
+    },
+    {
+      "id": 1375,
+      "name": "Hainaut",
+      "state_code": "WHT",
+      "cities": []
+    },
+    {
+      "id": 1384,
+      "name": "Liège",
+      "state_code": "WLG",
+      "cities": []
+    },
+    {
+      "id": 1372,
+      "name": "Limburg",
+      "state_code": "VLI",
+      "cities": []
+    },
+    {
+      "id": 1379,
+      "name": "Luxembourg",
+      "state_code": "WLX",
+      "cities": []
+    },
+    {
+      "id": 1378,
+      "name": "Namur",
+      "state_code": "WNA",
+      "cities": []
+    },
+    {
+      "id": 1380,
+      "name": "Wallonia",
+      "state_code": "WAL",
+      "cities": [
+        {
+          "id": 8612,
+          "name": "Aiseau"
+        },
+        {
+          "id": 8615,
+          "name": "Amay"
+        },
+        {
+          "id": 8616,
+          "name": "Amblève"
+        },
+        {
+          "id": 8617,
+          "name": "Andenne"
+        },
+        {
+          "id": 8618,
+          "name": "Anderlues"
+        },
+        {
+          "id": 8619,
+          "name": "Anhée"
+        },
+        {
+          "id": 8620,
+          "name": "Ans"
+        },
+        {
+          "id": 8621,
+          "name": "Anthisnes"
+        },
+        {
+          "id": 8622,
+          "name": "Antoing"
+        },
+        {
+          "id": 8627,
+          "name": "Arlon"
+        },
+        {
+          "id": 8631,
+          "name": "Assesse"
+        },
+        {
+          "id": 8632,
+          "name": "Ath"
+        },
+        {
+          "id": 8633,
+          "name": "Attert"
+        },
+        {
+          "id": 8634,
+          "name": "Aubange"
+        },
+        {
+          "id": 8635,
+          "name": "Aubel"
+        },
+        {
+          "id": 8637,
+          "name": "Awans"
+        },
+        {
+          "id": 8638,
+          "name": "Aywaille"
+        },
+        {
+          "id": 8640,
+          "name": "Baelen"
+        },
+        {
+          "id": 8642,
+          "name": "Basse Lasne"
+        },
+        {
+          "id": 8643,
+          "name": "Bassenge"
+        },
+        {
+          "id": 8644,
+          "name": "Bastogne"
+        },
+        {
+          "id": 8645,
+          "name": "Beaumont"
+        },
+        {
+          "id": 8646,
+          "name": "Beauraing"
+        },
+        {
+          "id": 8647,
+          "name": "Beauvechain"
+        },
+        {
+          "id": 8653,
+          "name": "Beloeil"
+        },
+        {
+          "id": 8657,
+          "name": "Berloz"
+        },
+        {
+          "id": 8658,
+          "name": "Bernissart"
+        },
+        {
+          "id": 8660,
+          "name": "Bertogne"
+        },
+        {
+          "id": 8661,
+          "name": "Bertrix"
+        },
+        {
+          "id": 8664,
+          "name": "Beyne-Heusay"
+        },
+        {
+          "id": 8668,
+          "name": "Bièvre"
+        },
+        {
+          "id": 8667,
+          "name": "Binche"
+        },
+        {
+          "id": 8670,
+          "name": "Blégny"
+        },
+        {
+          "id": 8679,
+          "name": "Bouillon"
+        },
+        {
+          "id": 8680,
+          "name": "Boussu"
+        },
+        {
+          "id": 8682,
+          "name": "Braine-l'Alleud"
+        },
+        {
+          "id": 8683,
+          "name": "Braine-le-Château"
+        },
+        {
+          "id": 8684,
+          "name": "Braine-le-Comte"
+        },
+        {
+          "id": 8685,
+          "name": "Braives"
+        },
+        {
+          "id": 8690,
+          "name": "Brugelette"
+        },
+        {
+          "id": 8692,
+          "name": "Brunehault"
+        },
+        {
+          "id": 8695,
+          "name": "Bullange"
+        },
+        {
+          "id": 8696,
+          "name": "Burdinne"
+        },
+        {
+          "id": 8697,
+          "name": "Butgenbach"
+        },
+        {
+          "id": 8698,
+          "name": "Celles"
+        },
+        {
+          "id": 8699,
+          "name": "Cerfontaine"
+        },
+        {
+          "id": 8700,
+          "name": "Chapelle-lez-Herlaimont"
+        },
+        {
+          "id": 8701,
+          "name": "Charleroi"
+        },
+        {
+          "id": 8702,
+          "name": "Chastre-Villeroux-Blanmont"
+        },
+        {
+          "id": 8708,
+          "name": "Châtelet"
+        },
+        {
+          "id": 8703,
+          "name": "Chaudfontaine"
+        },
+        {
+          "id": 8704,
+          "name": "Chaumont-Gistoux"
+        },
+        {
+          "id": 8707,
+          "name": "Chièvres"
+        },
+        {
+          "id": 8705,
+          "name": "Chimay"
+        },
+        {
+          "id": 8706,
+          "name": "Chiny"
+        },
+        {
+          "id": 8709,
+          "name": "Ciney"
+        },
+        {
+          "id": 8710,
+          "name": "Clavier"
+        },
+        {
+          "id": 8711,
+          "name": "Colfontaine"
+        },
+        {
+          "id": 8712,
+          "name": "Comblain-au-Pont"
+        },
+        {
+          "id": 8713,
+          "name": "Courcelles"
+        },
+        {
+          "id": 8714,
+          "name": "Court-Saint-Étienne"
+        },
+        {
+          "id": 8715,
+          "name": "Couvin"
+        },
+        {
+          "id": 8716,
+          "name": "Crisnée"
+        },
+        {
+          "id": 8717,
+          "name": "Dalhem"
+        },
+        {
+          "id": 8719,
+          "name": "Daverdisse"
+        },
+        {
+          "id": 8736,
+          "name": "Dinant"
+        },
+        {
+          "id": 8737,
+          "name": "Dison"
+        },
+        {
+          "id": 8738,
+          "name": "Doische"
+        },
+        {
+          "id": 8739,
+          "name": "Donceel"
+        },
+        {
+          "id": 8740,
+          "name": "Dour"
+        },
+        {
+          "id": 8743,
+          "name": "Durbuy"
+        },
+        {
+          "id": 9154,
+          "name": "Écaussinnes-d’Enghien"
+        },
+        {
+          "id": 9155,
+          "name": "Éghezée"
+        },
+        {
+          "id": 8746,
+          "name": "Ellezelles"
+        },
+        {
+          "id": 8747,
+          "name": "Enghien"
+        },
+        {
+          "id": 8748,
+          "name": "Engis"
+        },
+        {
+          "id": 9156,
+          "name": "Érezée"
+        },
+        {
+          "id": 8749,
+          "name": "Erquelinnes"
+        },
+        {
+          "id": 8750,
+          "name": "Esneux"
+        },
+        {
+          "id": 8752,
+          "name": "Estaimpuis"
+        },
+        {
+          "id": 8753,
+          "name": "Estinnes-au-Val"
+        },
+        {
+          "id": 9157,
+          "name": "Étalle"
+        },
+        {
+          "id": 8754,
+          "name": "Eupen"
+        },
+        {
+          "id": 8756,
+          "name": "Faimes"
+        },
+        {
+          "id": 8757,
+          "name": "Farciennes"
+        },
+        {
+          "id": 8758,
+          "name": "Fauvillers"
+        },
+        {
+          "id": 8759,
+          "name": "Ferrières"
+        },
+        {
+          "id": 8760,
+          "name": "Fexhe-le-Haut-Clocher"
+        },
+        {
+          "id": 8766,
+          "name": "Flémalle-Haute"
+        },
+        {
+          "id": 8767,
+          "name": "Fléron"
+        },
+        {
+          "id": 8761,
+          "name": "Fleurus"
+        },
+        {
+          "id": 8762,
+          "name": "Flobecq"
+        },
+        {
+          "id": 8763,
+          "name": "Floreffe"
+        },
+        {
+          "id": 8764,
+          "name": "Florennes"
+        },
+        {
+          "id": 8765,
+          "name": "Florenville"
+        },
+        {
+          "id": 8768,
+          "name": "Forville"
+        },
+        {
+          "id": 8769,
+          "name": "Fosses-la-Ville"
+        },
+        {
+          "id": 8770,
+          "name": "Frameries"
+        },
+        {
+          "id": 8771,
+          "name": "Frasnes-lez-Buissenal"
+        },
+        {
+          "id": 8772,
+          "name": "Froidchapelle"
+        },
+        {
+          "id": 8775,
+          "name": "Gedinne"
+        },
+        {
+          "id": 8777,
+          "name": "Geer"
+        },
+        {
+          "id": 8779,
+          "name": "Gembloux"
+        },
+        {
+          "id": 8780,
+          "name": "Genappe"
+        },
+        {
+          "id": 8784,
+          "name": "Gerpinnes"
+        },
+        {
+          "id": 8785,
+          "name": "Gesves"
+        },
+        {
+          "id": 8790,
+          "name": "Gouvy"
+        },
+        {
+          "id": 8791,
+          "name": "Grez-Doiceau"
+        },
+        {
+          "id": 8796,
+          "name": "Habay-la-Vieille"
+        },
+        {
+          "id": 8800,
+          "name": "Hamoir"
+        },
+        {
+          "id": 8801,
+          "name": "Hamois"
+        },
+        {
+          "id": 8802,
+          "name": "Hannut"
+        },
+        {
+          "id": 8805,
+          "name": "Hastière-Lavaux"
+        },
+        {
+          "id": 8806,
+          "name": "Havelange"
+        },
+        {
+          "id": 8811,
+          "name": "Hensies"
+        },
+        {
+          "id": 8812,
+          "name": "Herbeumont"
+        },
+        {
+          "id": 8839,
+          "name": "Héron"
+        },
+        {
+          "id": 8819,
+          "name": "Herstal"
+        },
+        {
+          "id": 8820,
+          "name": "Herve"
+        },
+        {
+          "id": 8830,
+          "name": "Hotton"
+        },
+        {
+          "id": 8831,
+          "name": "Houffalize"
+        },
+        {
+          "id": 8834,
+          "name": "Houyet"
+        },
+        {
+          "id": 8838,
+          "name": "Huy"
+        },
+        {
+          "id": 8842,
+          "name": "Incourt"
+        },
+        {
+          "id": 8844,
+          "name": "Ittre"
+        },
+        {
+          "id": 8847,
+          "name": "Jalhay"
+        },
+        {
+          "id": 8848,
+          "name": "Jodoigne"
+        },
+        {
+          "id": 8849,
+          "name": "Juprelle"
+        },
+        {
+          "id": 8850,
+          "name": "Jurbise"
+        },
+        {
+          "id": 8873,
+          "name": "La Bruyère"
+        },
+        {
+          "id": 8874,
+          "name": "La Calamine"
+        },
+        {
+          "id": 8875,
+          "name": "La Hulpe"
+        },
+        {
+          "id": 8876,
+          "name": "La Louvière"
+        },
+        {
+          "id": 8877,
+          "name": "La Roche-en-Ardenne"
+        },
+        {
+          "id": 8911,
+          "name": "Léglise"
+        },
+        {
+          "id": 8886,
+          "name": "Lens"
+        },
+        {
+          "id": 8888,
+          "name": "Lessines"
+        },
+        {
+          "id": 8890,
+          "name": "Libin"
+        },
+        {
+          "id": 8900,
+          "name": "Liège"
+        },
+        {
+          "id": 8894,
+          "name": "Lierneux"
+        },
+        {
+          "id": 8896,
+          "name": "Limbourg"
+        },
+        {
+          "id": 8897,
+          "name": "Lincent"
+        },
+        {
+          "id": 8901,
+          "name": "Lobbes"
+        },
+        {
+          "id": 8906,
+          "name": "Lontzen"
+        },
+        {
+          "id": 8907,
+          "name": "Louvain-la-Neuve"
+        },
+        {
+          "id": 8916,
+          "name": "Malmédy"
+        },
+        {
+          "id": 8917,
+          "name": "Manage"
+        },
+        {
+          "id": 8918,
+          "name": "Manhay"
+        },
+        {
+          "id": 8919,
+          "name": "Marche-en-Famenne"
+        },
+        {
+          "id": 8920,
+          "name": "Marchin"
+        },
+        {
+          "id": 8921,
+          "name": "Martelange"
+        },
+        {
+          "id": 8925,
+          "name": "Meix-devant-Virton"
+        },
+        {
+          "id": 8928,
+          "name": "Merbes-le-Château"
+        },
+        {
+          "id": 8932,
+          "name": "Messancy"
+        },
+        {
+          "id": 8933,
+          "name": "Mettet"
+        },
+        {
+          "id": 8936,
+          "name": "Modave"
+        },
+        {
+          "id": 8939,
+          "name": "Momignies"
+        },
+        {
+          "id": 8940,
+          "name": "Mons"
+        },
+        {
+          "id": 8941,
+          "name": "Mons-lez-Liège"
+        },
+        {
+          "id": 8942,
+          "name": "Mont-Saint-Guibert"
+        },
+        {
+          "id": 8944,
+          "name": "Morlanwelz-Mariemont"
+        },
+        {
+          "id": 8946,
+          "name": "Mouscron"
+        },
+        {
+          "id": 8947,
+          "name": "Musson"
+        },
+        {
+          "id": 8948,
+          "name": "Namur"
+        },
+        {
+          "id": 8949,
+          "name": "Nandrin"
+        },
+        {
+          "id": 8950,
+          "name": "Nassogne"
+        },
+        {
+          "id": 8953,
+          "name": "Neufchâteau"
+        },
+        {
+          "id": 8960,
+          "name": "Nivelles"
+        },
+        {
+          "id": 8961,
+          "name": "Noville-les-Bois"
+        },
+        {
+          "id": 8962,
+          "name": "Ohey"
+        },
+        {
+          "id": 8964,
+          "name": "Olne"
+        },
+        {
+          "id": 8965,
+          "name": "Onhaye"
+        },
+        {
+          "id": 8973,
+          "name": "Oreye"
+        },
+        {
+          "id": 8975,
+          "name": "Ottignies"
+        },
+        {
+          "id": 8980,
+          "name": "Ouffet"
+        },
+        {
+          "id": 8981,
+          "name": "Oupeye"
+        },
+        {
+          "id": 8984,
+          "name": "Paliseul"
+        },
+        {
+          "id": 8985,
+          "name": "Pecq"
+        },
+        {
+          "id": 8988,
+          "name": "Pepinster"
+        },
+        {
+          "id": 9009,
+          "name": "Péruwelz"
+        },
+        {
+          "id": 8990,
+          "name": "Perwez"
+        },
+        {
+          "id": 8991,
+          "name": "Philippeville"
+        },
+        {
+          "id": 8993,
+          "name": "Plombières"
+        },
+        {
+          "id": 8994,
+          "name": "Pont-à-Celles"
+        },
+        {
+          "id": 8996,
+          "name": "Profondeville"
+        },
+        {
+          "id": 8997,
+          "name": "Province de Liège"
+        },
+        {
+          "id": 8998,
+          "name": "Province de Namur"
+        },
+        {
+          "id": 8999,
+          "name": "Province du Brabant Wallon"
+        },
+        {
+          "id": 9000,
+          "name": "Province du Hainaut"
+        },
+        {
+          "id": 9001,
+          "name": "Province du Luxembourg"
+        },
+        {
+          "id": 9010,
+          "name": "Quaregnon"
+        },
+        {
+          "id": 9012,
+          "name": "Quévy-le-Petit"
+        },
+        {
+          "id": 9011,
+          "name": "Quiévrain"
+        },
+        {
+          "id": 9013,
+          "name": "Raeren"
+        },
+        {
+          "id": 9014,
+          "name": "Ramillies"
+        },
+        {
+          "id": 9017,
+          "name": "Rebecq-Rognon"
+        },
+        {
+          "id": 9018,
+          "name": "Remicourt"
+        },
+        {
+          "id": 9019,
+          "name": "Rendeux"
+        },
+        {
+          "id": 9023,
+          "name": "Rixensart"
+        },
+        {
+          "id": 9024,
+          "name": "Rochefort"
+        },
+        {
+          "id": 9026,
+          "name": "Roeulx"
+        },
+        {
+          "id": 9029,
+          "name": "Rouvroy"
+        },
+        {
+          "id": 9031,
+          "name": "Rumes"
+        },
+        {
+          "id": 9033,
+          "name": "Saint-Ghislain"
+        },
+        {
+          "id": 9034,
+          "name": "Saint-Hubert"
+        },
+        {
+          "id": 9035,
+          "name": "Saint-Léger"
+        },
+        {
+          "id": 9036,
+          "name": "Saint-Nicolas"
+        },
+        {
+          "id": 9037,
+          "name": "Saint-Vith"
+        },
+        {
+          "id": 9038,
+          "name": "Sainte-Ode"
+        },
+        {
+          "id": 9042,
+          "name": "Seneffe"
+        },
+        {
+          "id": 9043,
+          "name": "Seraing"
+        },
+        {
+          "id": 9044,
+          "name": "Silly"
+        },
+        {
+          "id": 9060,
+          "name": "Soignies"
+        },
+        {
+          "id": 9061,
+          "name": "Sombreffe"
+        },
+        {
+          "id": 9062,
+          "name": "Somme-Leuze"
+        },
+        {
+          "id": 9063,
+          "name": "Soumagne"
+        },
+        {
+          "id": 9064,
+          "name": "Spa"
+        },
+        {
+          "id": 9065,
+          "name": "Sprimont"
+        },
+        {
+          "id": 9068,
+          "name": "Stavelot"
+        },
+        {
+          "id": 9071,
+          "name": "Stoumont"
+        },
+        {
+          "id": 9072,
+          "name": "Tellin"
+        },
+        {
+          "id": 9074,
+          "name": "Tenneville"
+        },
+        {
+          "id": 9079,
+          "name": "Theux"
+        },
+        {
+          "id": 9080,
+          "name": "Thuin"
+        },
+        {
+          "id": 9083,
+          "name": "Tinlot"
+        },
+        {
+          "id": 9084,
+          "name": "Tintigny"
+        },
+        {
+          "id": 9087,
+          "name": "Tournai"
+        },
+        {
+          "id": 9089,
+          "name": "Trois-Ponts"
+        },
+        {
+          "id": 9090,
+          "name": "Trooz"
+        },
+        {
+          "id": 9091,
+          "name": "Tubize"
+        },
+        {
+          "id": 9093,
+          "name": "Vaux-sur-Sûre"
+        },
+        {
+          "id": 9094,
+          "name": "Verlaine"
+        },
+        {
+          "id": 9095,
+          "name": "Verviers"
+        },
+        {
+          "id": 9097,
+          "name": "Vielsalm"
+        },
+        {
+          "id": 9098,
+          "name": "Villers-la-Ville"
+        },
+        {
+          "id": 9099,
+          "name": "Villers-le-Bouillet"
+        },
+        {
+          "id": 9101,
+          "name": "Virton"
+        },
+        {
+          "id": 9102,
+          "name": "Visé"
+        },
+        {
+          "id": 9108,
+          "name": "Waimes"
+        },
+        {
+          "id": 9109,
+          "name": "Walcourt"
+        },
+        {
+          "id": 9110,
+          "name": "Walhain-Saint-Paul"
+        },
+        {
+          "id": 9111,
+          "name": "Wanze"
+        },
+        {
+          "id": 9113,
+          "name": "Waremme"
+        },
+        {
+          "id": 9114,
+          "name": "Wasseiges"
+        },
+        {
+          "id": 9115,
+          "name": "Waterloo"
+        },
+        {
+          "id": 9116,
+          "name": "Wavre"
+        },
+        {
+          "id": 9117,
+          "name": "Welkenraedt"
+        },
+        {
+          "id": 9119,
+          "name": "Wellin"
+        },
+        {
+          "id": 9134,
+          "name": "Yvoir"
+        }
+      ]
+    },
+    {
+      "id": 1382,
+      "name": "Walloon Brabant",
+      "state_code": "WBR",
+      "cities": []
+    },
+    {
+      "id": 1383,
+      "name": "West Flanders",
+      "state_code": "VWV",
+      "cities": []
+    }
+  ]
+}
